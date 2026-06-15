@@ -1,5 +1,31 @@
 {
   "cache_time": 7200,
+  "lives": {
+    "央卫频道": {
+      "name": "央卫频道",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-yangwei.m3u"
+    },
+    "地方频道": {
+      "name": "地方频道",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-local.m3u"
+    },
+    "体育频道": {
+      "name": "体育频道",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-sports.m3u"
+    },
+    "其他频道": {
+      "name": "其他频道",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-other.m3u"
+    },
+    "港台频道": {
+      "name": "港台频道",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-hmt.m3u"
+    },
+    "国际频道": {
+      "name": "国际频道",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world.m3u"
+    }
+  },
   "api_site": {
     "api.yikanapi.com": {
       "name": "易看",
