@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Amasia (720p)" group-title="Undefined", Amasia (720p)
-https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Brit Asia TV (1080p)" tvg-id="BritAsiaTV.uk@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Undefined", Brit Asia TV (1080p)
-https://hls.autopo.st/hls/britasiatv/index.m3u8
-#EXTINF:-1 tvg-name="Prime Asia TV (1080p)" tvg-id="PrimeAsiaTV.ca@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png" group-title="Undefined", Prime Asia TV (1080p)
-http://primeasia.selfip.net/Samsung/index.m3u8
-#EXTINF:-1 tvg-name="Star Asia (720p)" tvg-id="StarAsia.pk@SD" tvg-logo="https://i.imgur.com/9coLhX8.png" group-title="Undefined", Star Asia (720p)
-http://103.250.28.74:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-name="The Q India (576p)" tvg-id="TheQIndia.us@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" group-title="Undefined", The Q India (576p)
-https://mumt05.tangotv.in/THEQ/index.m3u8
-#EXTINF:-1 tvg-name="TV Asia (1080p)" tvg-id="TVAsia.us@SD" tvg-logo="https://i.imgur.com/a0BRhvr.png" group-title="Undefined", TV Asia (1080p)
-https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
-#EXTINF:-1 tvg-name="TVE Internacional Asia-Oceania (576p) [Geo-blocked]" tvg-id="TVEInternacionalAsiaOceania.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined", TVE Internacional Asia-Oceania (576p) [Geo-blocked]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
-#EXTINF:-1 tvg-name="TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]" tvg-id="TVEInternacionalAsiaOceania.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined", TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
-#EXTINF:-1 tvg-name="TVE Internacional Europe-Asia HD (1080p)" tvg-id="TVEInternacionalEurope.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined", TVE Internacional Europe-Asia HD (1080p)
-https://siarlive.psce.pw/channel5
-#EXTINF:-1 tvg-name="Vietnam Today (1080p)" tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="Undefined", Vietnam Today (1080p)
-https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-#EXTINF:-1 tvg-name="Большая Азия (720p)" tvg-id="BigAsia.ru@SD" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Undefined", Большая Азия (720p)
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Afn" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other" tvg-country="Singapore" tvg-language="English", [BD]AFN *tv
 https://stream1.freetv.fun/86cd6b90616fa32bb7c47cf99e9565459f49333c2a27c52b6673558ccf8c8baf.ctv
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic" tvg-country="Singapore" tvg-language="English", [BD]channel 5
@@ -53,74 +31,6 @@ https://stream1.freetv.fun/0acb37e76729f66c824480aea51b416bc5cca1e77f175120adf42
 https://stream1.freetv.fun/f68ad2bad48c4a0493d4cef84f2ccd83f82002110d02ed5ad8df4db95ba13056.m3u8
 #EXTINF:-1 tvg-name="TV9" tvg-id="902" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226173232917579_23.png" group-title="Generic" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [HD]tv9
 https://stream1.freetv.fun/e2aa33ca1b79ded0272a76edec67402ffaec0a2a1dc04f04baed6012d3502ce2.m3u8
-#EXTINF:-1 tvg-name="INDIATODAY" group-title="YouTube「P」", INDIA TODAY
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-name="BBS 불교 방송" group-title="•韩国", BBS 불교 방송
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-name="CTS 基督教기독교TV" group-title="•韩国", CTS 基督教기독교TV
-https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-#EXTINF:-1 tvg-name="EBS 키즈" group-title="•韩国", EBS 키즈
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 tvg-name="KCTV 광주" group-title="•韩国", KCTV 광주
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 tvg-name="日本テレビ" group-title="•日本", 日本テレビ
-https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-name="釣りビジョン" group-title="•日本", 釣りビジョン
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="東映チャンネル" group-title="•日本", 東映チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="歌謡ポップスチャンネル" group-title="•日本", 歌謡ポップスチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="日本映画専門チャンネル" group-title="•日本", 日本映画専門チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="チャンネル銀河" group-title="•日本", チャンネル銀河
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="チャンネルNECO" group-title="•日本", チャンネルNECO
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="テレビ朝日" group-title="•日本", テレビ朝日
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="テレビ東京" group-title="•日本", テレビ東京
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ファミリー劇場" group-title="•日本", ファミリー劇場
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="フジテレビ" group-title="•日本", フジテレビ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ホームドラマチャンネル" group-title="•日本", ホームドラマチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ムービープラス" group-title="•日本", ムービープラス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="日本テレビ" group-title="•日本", 日本テレビ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="日テレジータス" group-title="•日本", 日テレジータス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="時代劇専門チャンネル" group-title="•日本", 時代劇専門チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="囲碁?将棋チャンネル" group-title="•日本", 囲碁?将棋チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BSアニマックス" group-title="•日本", BSアニマックス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="BSテレ東" group-title="•日本", BSテレ東
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="WOWOWシネマ" group-title="•日本", WOWOWシネマ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="WOWOWプライム" group-title="•日本", WOWOWプライム
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="WOWOWライブ" group-title="•日本", WOWOWライブ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="キッズステーション" group-title="•日本", キッズステーション
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ゴルフネットワーク" group-title="•日本", ゴルフネットワーク
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="スーパー!ドラマTV" group-title="•日本", スーパー!ドラマTV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="スカイA" group-title="•日本", スカイA
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="スターチャンネル1" group-title="•日本", スターチャンネル1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="スターチャンネル2" group-title="•日本", スターチャンネル2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="スターチャンネル3" group-title="•日本", スターチャンネル3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="NTD TV Asia-Pacific" tvg-id="NTDTVAsiaPacific.us@SD" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="General", NTD TV Asia-Pacific
 https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-name="日本|テレビ朝日 Asahi TV" tvg-id="日本|テレビ朝日 Asahi TV" tvg-logo="https://epg.112114.xyz/logo/日本|テレビ朝日ASAHITV.png" group-title="Smart☠️源", 日本|テレビ朝日 Asahi TV
@@ -131,10 +41,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
 #EXTINF:-1 tvg-name="日本|BSフジ BS Fuji" tvg-id="日本|BSフジ BS Fuji" tvg-logo="https://epg.112114.xyz/logo/日本|BSフジBSFUJI.png" group-title="Smart☠️源", 日本|BSフジ BS Fuji
 https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
-#EXTINF:-1 tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/MBC Chuncheon (춘천 MBC) (480p) [Not 24/7].png" group-title="🇰🇷韩国直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Yeosu (여수 MBC)[Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/MBC Yeosu (여수 MBC)[Not 24/7].png" group-title="🇰🇷韩国直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", MBC Yeosu (여수 MBC)[Not 24/7]
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="日本-筆下ろし自宅訪問" group-title="国际-亚洲", 日本-筆下ろし自宅訪問
 https://vip2.slbfsl.com/20230307/VcfX2e6h/index.m3u8
 #EXTINF:-1 tvg-name="日本-れている内にだんだん気になる存在になって最後は自分から仕返し中出し" group-title="国际-亚洲", 日本-れている内にだんだん気になる存在になって最後は自分から仕返し中出し
@@ -147,20 +53,10 @@ http://live.adultiptv.net/asian.m3u8
 http://live.redtraffic.xyz/asian.m3u8
 #EXTINF:-1 tvg-name="Little Asians HD" group-title="国际-亚洲", Little Asians HD
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6230/index.m3u8
-#EXTINF:-1 tvg-name="YMDD-461 【独家】奇迹美少女Candy Hina Parks。这位害羞的北欧美女对日本屌情有独钟！她敏感迷人的身材，迎接着纯粹的中出！ - キャンディ・雏・パークス" group-title="WhosTV", YMDD-461 【独家】奇迹美少女Candy Hina Parks。这位害羞的北欧美女对日本屌情有独钟！她敏感迷人的身材，迎接着纯粹的中出！ - キャンディ・雏・パークス
-https://s3.aaaaa.io/77f279c9f8776d06470d9e1f91fc99bd/77f279c9f8776d06470d9e1f91fc99bd.m3u8
-#EXTINF:-1 tvg-name="NGKS-022 日本一スレンダーなオンナノコ - 葉月みお" group-title="WhosTV", NGKS-022 日本一スレンダーなオンナノコ - 葉月みお
-https://s3.aaaaa.io/47c0aeb7b8052462ee40867baf5f9b7a/47c0aeb7b8052462ee40867baf5f9b7a.m3u8
-#EXTINF:-1 tvg-name="1億分の1 美少女 青坂あおい AV DEBUT 日本国民の中で、とてもシャイで、とても素朴で、とてもエッチな、アダルト新人は、彼女だけ。" group-title="WhosTV", 1億分の1 美少女 青坂あおい AV DEBUT 日本国民の中で、とてもシャイで、とても素朴で、とてもエッチな、アダルト新人は、彼女だけ。
-https://s3.aaaaa.io/888e3117898e6d2649e914965e49d6fb/888e3117898e6d2649e914965e49d6fb.m3u8
-#EXTINF:-1 tvg-name="ASIA-120 母女竟然是变性人！一个沉迷于大屌的家庭乱伦的故事… - 西野めぐ" group-title="WhosTV", ASIA-120 母女竟然是变性人！一个沉迷于大屌的家庭乱伦的故事… - 西野めぐ
-https://s3.aaaaa.io/070f6f0f9947152b091c035f67c1da62/070f6f0f9947152b091c035f67c1da62.m3u8
-#EXTINF:-1 tvg-name="NSFS-384 日本强奸22 为强奸她的男人而疯狂的妻子 - 被暴力邻居的暴力所困 - 工藤优里 - 工藤ゆり" group-title="WhosTV", NSFS-384 日本强奸22 为强奸她的男人而疯狂的妻子 - 被暴力邻居的暴力所困 - 工藤优里 - 工藤ゆり
-https://s3.aaaaa.io/31b2a05f63e3c27338c33c11362c2c48/31b2a05f63e3c27338c33c11362c2c48.m3u8
-#EXTINF:-1 tvg-name="START-257 日本礼物 blockttttt martttt mar mass ... - 小湊よつ葉" group-title="WhosTV", START-257 日本礼物 blockttttt martttt mar mass ... - 小湊よつ葉
-https://s3.aaaaa.io/d97155b68e9e386ccc33d4ecf6a8ca76/d97155b68e9e386ccc33d4ecf6a8ca76.m3u8
-#EXTINF:-1 tvg-name="FJIN-098 一窝毒品性爱“我喜欢日本鸡鸡”一个美丽的北欧女人脑子有病，在我家出汗！ Melody Hina Marks - メロディー・雏・マークス" group-title="WhosTV", FJIN-098 一窝毒品性爱“我喜欢日本鸡鸡”一个美丽的北欧女人脑子有病，在我家出汗！ Melody Hina Marks - メロディー・雏・マークス
-https://s3.aaaaa.io/f19f96ec4ae5782e302c0a893bbea278/f19f96ec4ae5782e302c0a893bbea278.m3u8
+#EXTINF:-1 tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/MBC Chuncheon (춘천 MBC) (480p) [Not 24/7].png" group-title="🇰🇷韩国直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC Yeosu (여수 MBC)[Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/MBC Yeosu (여수 MBC)[Not 24/7].png" group-title="🇰🇷韩国直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", MBC Yeosu (여수 MBC)[Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Animax Asia India (1080p) [Geo-blocked]" tvg-id="AnimaxAsia.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" group-title="Animation", Animax Asia India (1080p) [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="KCTV 광주 CH05 (720p) [Not 24/7]" tvg-logo="https://logo.catvod.com/KCTV 광주 CH05 (720p) [Not 24/7].png" group-title="🇰🇷韩国", KCTV 광주 CH05 (720p) [Not 24/7]

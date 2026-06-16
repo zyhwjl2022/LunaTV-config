@@ -1,18 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="宁夏公共" tvg-id="NX01" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/ningxia/Ningxia1.png" group-title="地方频道", 宁夏公共
 https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-#EXTINF:-1 tvg-name="宁夏公共" tvg-id="NX01" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/ningxia/Ningxia1.png" group-title="地方频道", 宁夏公共
-http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
 #EXTINF:-1 tvg-name="宁夏公共" tvg-id="NX01" tvg-logo="https://logo.catvod.com/宁夏公共.png" group-title="地方频道", 宁夏公共
 http://home.kaijuns.cn:4000/rtp/239.121.4.97:8556$宁夏银川电信
 #EXTINF:-1 tvg-name="宁夏经济" tvg-id="宁夏经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏经济.png" group-title="地方频道", 宁夏经济
 https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 #EXTINF:-1 tvg-name="宁夏经济" tvg-id="宁夏经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏经济.png" group-title="地方频道", 宁夏经济
 https://ls.qingting.fm/live/1841/64k.m3u8
-#EXTINF:-1 tvg-name="宁夏经济" tvg-id="宁夏经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏经济.png" group-title="地方频道", 宁夏经济
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
-#EXTINF:-1 tvg-name="宁夏经济" tvg-id="宁夏经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏经济.png" group-title="地方频道", 宁夏经济
-http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
 #EXTINF:-1 tvg-name="宁夏经济" tvg-id="宁夏经济" tvg-logo="https://logo.catvod.com/宁夏经济.png" group-title="地方频道", 宁夏经济
 http://home.kaijuns.cn:4000/rtp/239.121.4.91:8520$宁夏银川电信
 #EXTINF:-1 tvg-name="宁夏文旅" tvg-id="NX04" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/ningxia/Ningxia4.png" group-title="地方频道", 宁夏文旅
@@ -23,78 +17,20 @@ http://home.kaijuns.cn:4000/rtp/239.121.4.93:8532$宁夏银川电信
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-name="宁夏少儿" tvg-id="NX03" tvg-logo="https://logo.catvod.com/宁夏少儿.png" group-title="地方频道", 宁夏少儿
 http://home.kaijuns.cn:4000/rtp/239.121.4.63:8352$宁夏银川电信
-#EXTINF:-1 tvg-name="甘肃经济" tvg-id="甘肃经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃经济.png" group-title="☘️甘肃频道", 甘肃经济
+#EXTINF:-1 tvg-name="甘肃经济" tvg-id="甘肃经济" tvg-logo="https://tb.zbds.top/logo/甘肃经济.png" group-title="地方频道", 甘肃经济
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-#EXTINF:-1 tvg-name="甘肃经济" tvg-id="甘肃经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃经济.png" group-title="☘️甘肃频道", 甘肃经济
+#EXTINF:-1 tvg-name="甘肃经济" tvg-id="甘肃经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃经济.png" group-title="地方频道", 甘肃经济
 https://hls.gstv.com.cn/49048r/10iv1j.m3u8
-#EXTINF:-1 tvg-name="甘肃经济" tvg-id="甘肃经济" tvg-logo="https://logo.catvod.com/甘肃经济.png" group-title="☘️甘肃频道", 甘肃经济
+#EXTINF:-1 tvg-name="甘肃经济" tvg-id="甘肃经济" tvg-logo="https://logo.catvod.com/甘肃经济.png" group-title="地方频道", 甘肃经济
 https://liveout.gstv.com.cn/skt649/w07at3.m3u8
-#EXTINF:-1 tvg-name="甘肃都市" tvg-id="甘肃都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃都市.png" group-title="☘️甘肃频道", 甘肃都市
+#EXTINF:-1 tvg-name="甘肃都市" tvg-id="甘肃都市" tvg-logo="https://tb.zbds.top/logo/甘肃都市.png" group-title="地方频道", 甘肃都市
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-#EXTINF:-1 tvg-name="甘肃都市" tvg-id="甘肃都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃都市.png" group-title="☘️甘肃频道", 甘肃都市
+#EXTINF:-1 tvg-name="甘肃都市" tvg-id="甘肃都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃都市.png" group-title="地方频道", 甘肃都市
 https://hls.gstv.com.cn/49048r/l54391.m3u8
-#EXTINF:-1 tvg-name="甘肃都市" tvg-id="甘肃都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃都市.png" group-title="☘️甘肃频道", 甘肃都市
+#EXTINF:-1 tvg-name="甘肃都市" tvg-id="甘肃都市" tvg-logo="https://tb.zbds.top/logo/甘肃都市.png" group-title="地方频道", 甘肃都市
 http://61.178.227.57:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉峪关综合" tvg-id="嘉峪关综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉峪关综合.png" group-title="☘️甘肃频道", 嘉峪关综合
-http://play.kankanlive.com/live/1720583434627241.m3u8
-#EXTINF:-1 tvg-name="嘉峪关综合" tvg-id="嘉峪关综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉峪关综合.png" group-title="☘️甘肃频道", 嘉峪关综合
-https://play.kankanlive.com/live/1658978094528926.m3u8
-#EXTINF:-1 tvg-name="天祝综合" tvg-id="天祝综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天祝综合.png" group-title="☘️甘肃频道", 天祝综合
-https://play.kankanlive.com/live/1656487214793905.m3u8
-#EXTINF:-1 tvg-name="天祝综合" tvg-id="天祝综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天祝综合.png" group-title="☘️甘肃频道", 天祝综合
-http://39.134.32.102:6610/270000001111/1110000144/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="张掖新闻综合" tvg-id="张掖新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/张掖新闻综合.png" group-title="☘️甘肃频道", 张掖新闻综合
-https://play.kankanlive.com/live/1720583434627241.m3u8
-#EXTINF:-1 tvg-name="张掖新闻综合" tvg-id="张掖新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/张掖新闻综合.png" group-title="☘️甘肃频道", 张掖新闻综合
-http://39.134.32.102:6610/270000001111/1110000025/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="张掖新闻综合" tvg-id="张掖新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/张掖新闻综合.png" group-title="☘️甘肃频道", 张掖新闻综合
-https://play.kankanlive.com/live/1629709727589955.m3u8
-#EXTINF:-1 tvg-name="永昌综合" tvg-id="永昌综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/永昌综合.png" group-title="☘️甘肃频道", 永昌综合
-https://play.kankanlive.com/live/1652755738635915.m3u8
-#EXTINF:-1 tvg-name="永昌综合" tvg-id="永昌综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/永昌综合.png" group-title="☘️甘肃频道", 永昌综合
-http://39.134.32.102:6610/270000001111/1110000178/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="渭源新闻" tvg-id="渭源新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/渭源新闻.png" group-title="☘️甘肃频道", 渭源新闻
-http://play.kankanlive.com/live/1720408280309109.m3u8
-#EXTINF:-1 tvg-name="白银综合" tvg-id="白银综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/白银综合.png" group-title="☘️甘肃频道", 白银综合
-https://play.kankanlive.com/live/1720408089419110.m3u8
-#EXTINF:-1 tvg-name="白银综合" tvg-id="白银综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/白银综合.png" group-title="☘️甘肃频道", 白银综合
-http://play.kankanlive.com/live/1720408089419110.m3u8
-#EXTINF:-1 tvg-name="秦安综合" tvg-id="秦安综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/秦安综合.png" group-title="☘️甘肃频道", 秦安综合
-https://play.kankanlive.com/live/1659926941626981.m3u8
-#EXTINF:-1 tvg-name="秦安综合" tvg-id="秦安综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/秦安综合.png" group-title="☘️甘肃频道", 秦安综合
-http://39.134.32.102:6610/270000001111/1110000189/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="西峰综合" tvg-id="西峰综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西峰综合.png" group-title="☘️甘肃频道", 西峰综合
-https://play.kankanlive.com/live/1683944827526991.m3u8
-#EXTINF:-1 tvg-name="西峰综合" tvg-id="西峰综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西峰综合.png" group-title="☘️甘肃频道", 西峰综合
-http://39.134.32.102:6610/270000001111/1110000160/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="西峰综合" tvg-id="西峰综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西峰综合.png" group-title="☘️甘肃频道", 西峰综合
-http://pili-live-rtmp.luan2.hfmt.net/luan2/xifeng/123456.m3u8
-#EXTINF:-1 tvg-name="哈密二套" tvg-id="哈密二套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密二套.png" group-title="☘️新疆频道", 哈密二套
-https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-#EXTINF:-1 tvg-name="哈密二套" tvg-id="哈密二套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密二套.png" group-title="☘️新疆频道", 哈密二套
-http://stream.hmgbtv.com/hm2/hd/live.m3u8
-#EXTINF:-1 tvg-name="哈密三套" tvg-id="哈密三套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密三套.png" group-title="☘️新疆频道", 哈密三套
-https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
-#EXTINF:-1 tvg-name="哈密三套" tvg-id="哈密三套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密三套.png" group-title="☘️新疆频道", 哈密三套
-http://stream.hmgbtv.com/hm3/hd/live.m3u8
-#EXTINF:-1 tvg-name="伊犁维吾尔" tvg-id="伊犁维吾尔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁维吾尔.png" group-title="☘️新疆频道", 伊犁维吾尔
-http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
-#EXTINF:-1 tvg-name="伊犁维吾尔" tvg-id="伊犁维吾尔" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁维吾尔.png" group-title="☘️新疆频道", 伊犁维吾尔
-http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 tvg-name="伊犁哈萨克" tvg-id="伊犁哈萨克" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁哈萨克.png" group-title="☘️新疆频道", 伊犁哈萨克
-http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
-#EXTINF:-1 tvg-name="伊犁哈萨克" tvg-id="伊犁哈萨克" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁哈萨克.png" group-title="☘️新疆频道", 伊犁哈萨克
-http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 tvg-name="伊犁经济法制" tvg-id="伊犁经济法制" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁经济法制.png" group-title="☘️新疆频道", 伊犁经济法制
-http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-#EXTINF:-1 tvg-name="伊犁经济法制" tvg-id="伊犁经济法制" tvg-logo="https://www.xn--rgv465a.top/tvlogo/伊犁经济法制.png" group-title="☘️新疆频道", 伊犁经济法制
-http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 tvg-name="巴音郭楞州" tvg-id="巴音郭楞州" tvg-logo="https://www.xn--rgv465a.top/tvlogo/巴音郭楞州.png" group-title="☘️新疆频道", 巴音郭楞州
-rtmp://tv.loulannews.cn/channellive/ch1
 #EXTINF:-1 tvg-name="陕西公共" tvg-id="陕西公共" tvg-logo="https://tb.zbds.top/logo/陕西公共.png" group-title="地方频道", 陕西公共
 http://ls.qingting.fm/live/1222.m3u8
-#EXTINF:-1 tvg-name="陕西公共" tvg-id="陕西公共" tvg-logo="https://tb.zbds.top/logo/陕西公共.png" group-title="地方频道", 陕西公共
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻咨询" tvg-id="陕西新闻咨询" tvg-logo="https://tb.zbds.top/logo/陕西新闻咨询.png" group-title="地方频道", 陕西新闻咨询
 http://112.46.105.20:8009/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-id="陕西秦腔" tvg-logo="https://tb.zbds.top/logo/陕西秦腔.png" group-title="地方频道", 陕西秦腔
@@ -111,8 +47,6 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisd
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西都市青春.png" group-title="地方频道", 陕西都市青春
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2025102408005947806826798c44e4b89b7ed86b1ba04f&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52c95103cb01acfba0783bb6dba5f262&ddCalcu=2562e2c2f96550a1b0d36cbbb0318a7c0fab
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春" tvg-logo="https://tb.zbds.top/logo/陕西都市青春.png" group-title="地方频道", 陕西都市青春
-http://livepull.sxiptv.cn/live/shanxi2taohd.m3u8?txSecret=056af01ddaa7bf9ded03eb3a6056c3c9&txTime=66666666
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春" tvg-logo="https://tb.zbds.top/logo/陕西都市青春.png" group-title="地方频道", 陕西都市青春
 http://gxlive.snrtv.com/sx2-SD.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄" tvg-logo="https://tb.zbds.top/logo/陕西银龄.png" group-title="地方频道", 陕西银龄
@@ -132,23 +66,21 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisd
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西新闻资讯.png" group-title="☘️陕西频道", 陕西新闻资讯
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510240800591ee112712ed2473aa0d84b8ea3046959&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5661fd15cfb5726d7c6a1eb652fdb094&ddCalcu=4596e062b16df0fd21556cbfeb15a762c67d
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西新闻资讯.png" group-title="☘️陕西频道", 陕西新闻资讯
-http://livepull.sxiptv.cn/live/shanxi1taohd.m3u8?txSecret=1d0dd5b982a07bd19b396912a20cf491&txTime=66666666
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西新闻资讯.png" group-title="☘️陕西频道", 陕西新闻资讯
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西新闻资讯.png" group-title="☘️陕西频道", 陕西新闻资讯
 http://gxlive.snrtv.com/sx1-SD.m3u8
+#EXTINF:-1 tvg-name="天祝综合" tvg-id="天祝综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天祝综合.png" group-title="☘️甘肃频道", 天祝综合
+https://play.kankanlive.com/live/1656487214793905.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-id="甘肃少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃少儿.png" group-title="☘️甘肃频道", 甘肃少儿
 https://hls.gstv.com.cn/49048r/922k96.m3u8
-#EXTINF:-1 tvg-name="甘肃少儿" tvg-id="甘肃少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃少儿.png" group-title="☘️甘肃频道", 甘肃少儿
+#EXTINF:-1 tvg-name="甘肃少儿" tvg-id="甘肃少儿" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃少儿.png" group-title="☘️甘肃频道", 甘肃少儿
 http://61.178.227.57:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="酒泉综合" tvg-id="酒泉综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/酒泉综合.png" group-title="☘️甘肃频道", 酒泉综合
 https://3ee63cd9178a070a2db29f77915c49d4.livehwc3.cn/play.kankanlive.com/live/1702033926169975.m3u8
-#EXTINF:-1 tvg-name="酒泉综合" tvg-id="酒泉综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/酒泉综合.png" group-title="☘️甘肃频道", 酒泉综合
-http://39.134.32.102:6610/270000001111/1110000001/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="酒泉综合" tvg-id="酒泉综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/酒泉综合.png" group-title="☘️甘肃频道", 酒泉综合
-http://stream.gsjqtv.com/pd1/sd/live.m3u8
-#EXTINF:-1 tvg-name="酒泉综合" tvg-id="酒泉综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/酒泉综合.png" group-title="☘️甘肃频道", 酒泉综合
-https://play.kankanlive.com/live/1702033926169975.m3u8
+#EXTINF:-1 tvg-name="哈密二套" tvg-id="哈密二套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密二套.png" group-title="☘️新疆频道", 哈密二套
+https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+#EXTINF:-1 tvg-name="哈密三套" tvg-id="哈密三套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密三套.png" group-title="☘️新疆频道", 哈密三套
+https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
+#EXTINF:-1 tvg-name="巴音郭楞州" tvg-id="巴音郭楞州" tvg-logo="https://www.xn--rgv465a.top/tvlogo/巴音郭楞州.png" group-title="☘️新疆频道", 巴音郭楞州
+rtmp://tv.loulannews.cn/channellive/ch1
 #EXTINF:-1 tvg-name="西宁生活服务" tvg-id="西宁生活服务" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西宁生活服务.png" group-title="☘️青海频道", 西宁生活服务
 https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-1.m3u8
 #EXTINF:-1 tvg-name="西宁生活服务" tvg-id="西宁生活服务" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西宁生活服务.png" group-title="☘️青海频道", 西宁生活服务
@@ -157,170 +89,30 @@ https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-2.m3u8
 https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-3.m3u8
 #EXTINF:-1 tvg-name="西宁生活服务" tvg-id="西宁生活服务" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西宁生活服务.png" group-title="☘️青海频道", 西宁生活服务
 https://t.freetv.fun/live/xi-zhu-sheng-huo-fu-wu-1.flv
-#EXTINF:-1 tvg-name="西宁生活服务" tvg-id="西宁生活服务" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西宁生活服务.png" group-title="☘️青海频道", 西宁生活服务
-http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 #EXTINF:-1 tvg-name="青海都市" tvg-id="青海都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海都市.png" group-title="☘️青海频道", 青海都市
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/index.m3u8
 #EXTINF:-1 tvg-name="青海都市" tvg-id="青海都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海都市.png" group-title="☘️青海频道", 青海都市
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8
-#EXTINF:-1 tvg-name="青海都市" tvg-id="青海都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海都市.png" group-title="☘️青海频道", 青海都市
-http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Shanxi7.png" group-title="☘️陕西频道", 西部电影
 http://112.46.105.20:8009/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="乐家购物" tvg-logo="https://live.fanmingming.cn/tv/乐家购物.png" group-title="☘️陕西频道", 乐家购物
 http://112.46.105.20:8009/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="长影频道" tvg-id="长影频道" tvg-logo="https://live.fanmingming.cn/tv/长影频道.png" group-title="☘️陕西频道", 长影频道
-http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-name="长影频道" tvg-id="长影频道" tvg-logo="https://logo.catvod.com/长影频道.png" group-title="☘️陕西频道", 长影频道
-http://36.135.118.195:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="长影频道" tvg-id="长影频道" tvg-logo="https://logo.catvod.com/长影频道.png" group-title="☘️陕西频道", 长影频道
-http://36.135.118.195:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$福建联通酒店
-#EXTINF:-1 tvg-name="长影频道" tvg-id="长影频道" tvg-logo="https://logo.catvod.com/长影频道.png" group-title="☘️陕西频道", 长影频道
-http://58.245.255.38:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
 #EXTINF:-1 tvg-name="甘肃公共应急" tvg-id="GS02" tvg-logo="https://upload.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" group-title="地方频道", 甘肃公共应急
 https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-#EXTINF:-1 tvg-name="甘肃公共应急" tvg-id="GS02" tvg-logo="https://upload.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" group-title="地方频道", 甘肃公共应急
-https://hls.gstv.com.cn/49048r/3t5xyc.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
-#EXTINF:-1 tvg-name="甘肃公共应急" tvg-id="GS02" tvg-logo="https://upload.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" group-title="地方频道", 甘肃公共应急
-http://live.todaydunhuang.com:1935/live/live157/500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="甘肃文化影视" tvg-id="GS05" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu3.png" group-title="地方频道", 甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-#EXTINF:-1 tvg-name="甘肃文化影视" tvg-id="GS05" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu3.png" group-title="地方频道", 甘肃文化影视
-https://hls.gstv.com.cn/49048r/w1l6d5.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
-#EXTINF:-1 tvg-name="甘肃移动 (540p) [Not 24/7]" group-title="Undefined", 甘肃移动 (540p) [Not 24/7]
-https://hls.gstv.com.cn/49048r/y72q36.m3u8
-#EXTINF:-1 tvg-name="白银综合频道" group-title="甘肃", 白银综合频道
-http://live.bygd.cn/byzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="甘肃都市频道" group-title="地方-西北", 甘肃都市频道
-https://hls.gstv.com.cn/49048r/l54391.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
-#EXTINF:-1 tvg-name="甘肃经济频道" group-title="地方-西北", 甘肃经济频道
-https://hls.gstv.com.cn/49048r/10iv1j.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
-#EXTINF:-1 tvg-name="甘肃岷县综合" group-title="地方-西北", 甘肃岷县综合
-http://39.134.32.102:6610/270000001111/1110000130/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="甘肃少儿频道" group-title="地方-西北", 甘肃少儿频道
-https://hls.gstv.com.cn/49048r/922k96.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
-#EXTINF:-1 tvg-name="甘肃移动电视" group-title="地方-西北", 甘肃移动电视
-https://hls.gstv.com.cn/49048r/y72q36.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
-#EXTINF:-1 tvg-name="古浪综合频道" group-title="甘肃", 古浪综合频道
-https://play.kankanlive.com/live/1619400940821967.m3u8
-#EXTINF:-1 tvg-name="金昌综合" tvg-id="金昌综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金昌综合.png" group-title="甘肃地区", 金昌综合
-http://39.134.32.102:6610/270000001111/1110000194/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="甘肃天水大樱桃上市了！" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0616105000002568936195qfy1.jpg" group-title="美食", 甘肃天水大樱桃上市了！
+https://live.ottiptv.cc/bilibili/25689361
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-id="陕西西部电影" tvg-logo="http://49.233.180.193:5678/data/icon/陕西西部电影.png" group-title="陕西地区", 陕西西部电影
+http://gxlive.snrtv.com/sx8-SD.m3u8
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-id="陕西西部电影" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西西部电影.png" group-title="陕西地区", 陕西西部电影
+http://36.46.98.59:8025/rtp/239.111.205.41:5140
+#EXTINF:-1 tvg-name="嘉峪关公共" tvg-id="嘉峪关公共" group-title="甘肃地区", 嘉峪关公共
+https://play.kankanlive.com/live/1658978141553927.m3u8
 #EXTINF:-1 tvg-name="金昌综合" tvg-id="金昌综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金昌综合.png" group-title="甘肃地区", 金昌综合
 http://play.kankanlive.com/live/1660096574549900.m3u8
 #EXTINF:-1 tvg-name="金昌综合" tvg-id="金昌综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金昌综合.png" group-title="甘肃地区", 金昌综合
 http://play.kankanlive.com/live/1660096574549900.flv
-#EXTINF:-1 tvg-name="金川综合频道" group-title="甘肃", 金川综合频道
-https://play.kankanlive.com/live/1625041962958919.m3u8
-#EXTINF:-1 tvg-name="礼县综合频道" group-title="甘肃", 礼县综合频道
-https://play.kankanlive.com/live/1621416463200961.m3u8
-#EXTINF:-1 tvg-name="临夏市电视台" group-title="甘肃", 临夏市电视台
-http://39.134.32.102:6610/270000001111/1110000190/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="岷县综合频道" group-title="甘肃", 岷县综合频道
-http://play.kankanlive.com/live/1614311581479927.m3u8
-#EXTINF:-1 tvg-name="平川综合频道" group-title="甘肃", 平川综合频道
-https://play.kankanlive.com/live/1621842376245934.m3u8
-#EXTINF:-1 tvg-name="庆阳公共频道" group-title="甘肃", 庆阳公共频道
-http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="庆阳综合频道" group-title="甘肃", 庆阳综合频道
-http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="通渭综合频道" group-title="甘肃", 通渭综合频道
-https://play.kankanlive.com/live/1629944062210970.m3u8
-#EXTINF:-1 tvg-name="西和综合" tvg-id="西和综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西和综合.png" group-title="甘肃地区", 西和综合
-http://39.134.32.102:6610/270000001111/1110000137/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="西和综合频道" group-title="甘肃", 西和综合频道
-https://play.kankanlive.com/live/1626051451895935.m3u8
-#EXTINF:-1 tvg-name="中国交通甘肃" group-title="地方-西北", 中国交通甘肃
-http://tv.lanjingfm.com/cctbn/gansu.m3u8
-#EXTINF:-1 tvg-name="舟曲新闻综合" group-title="甘肃", 舟曲新闻综合
-http://39.134.32.102:6610/270000001111/1110000169/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="舟曲新闻综合" group-title="甘肃", 舟曲新闻综合
-https://play.kankanlive.com/live/1631185650131909.m3u8
-#EXTINF:-1 tvg-name="西安音乐综艺" group-title="陕西", 西安音乐综艺
-http://stream2.xiancity.cn/xatv6/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安移动电视" group-title="陕西", 西安移动电视
-http://stream2.xiancity.cn/xatv7/sd/live.m3u8
-#EXTINF:-1 tvg-name="安康新闻频道" group-title="陕西", 安康新闻频道
-https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakzhpd.m3u8
-#EXTINF:-1 tvg-name="安康公共频道" group-title="陕西", 安康公共频道
-https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakggpd.m3u8
-#EXTINF:-1 tvg-name="安康教育频道" group-title="陕西", 安康教育频道
-https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakjypd.m3u8
-#EXTINF:-1 tvg-name="宝鸡新闻综合" group-title="陕西", 宝鸡新闻综合
-http://h5.baojinews.com/m3u8/baojitv1.m3u8
-#EXTINF:-1 tvg-name="宝鸡经济资讯" group-title="陕西", 宝鸡经济资讯
-http://h5.baojinews.com/m3u8/baojitv2.m3u8
-#EXTINF:-1 tvg-name="神东一套" group-title="陕西", 神东一套
-http://livesdong.chinamcache.com/sddst/zb01.m3u8?auth_key=1651114357-0-0-474990c3a546f620dc3198f6d6764002
-#EXTINF:-1 tvg-name="吴忠综合" group-title="宁夏", 吴忠综合
-http://live.kanwz.net/zhpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="吴忠公共" group-title="宁夏", 吴忠公共
-http://live.kanwz.net/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="青海经视" group-title="青海", 青海经视
-http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
-#EXTINF:-1 tvg-name="贵南综合" group-title="青海", 贵南综合
-http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
-#EXTINF:-1 tvg-name="化隆综合" group-title="青海", 化隆综合
-http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
-#EXTINF:-1 tvg-name="湟中综合" group-title="青海", 湟中综合
-http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
-#EXTINF:-1 tvg-name="门源综合" group-title="青海", 门源综合
-http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
-#EXTINF:-1 tvg-name="民和综合" group-title="青海", 民和综合
-http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
-#EXTINF:-1 tvg-name="囊谦综合" group-title="青海", 囊谦综合
-http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
-#EXTINF:-1 tvg-name="祁连综合" group-title="青海", 祁连综合
-http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
-#EXTINF:-1 tvg-name="玉树新闻频道" group-title="青海", 玉树新闻频道
-http://stream.ysbtv.net/1/sd/live.m3u8
-#EXTINF:-1 tvg-name="新疆哈语综合" group-title="地方-西北", 新疆哈语综合
-http://202.107.188.219:5002/xj3_hdcq-1.m3u8?token=guoziyun
-#EXTINF:-1 tvg-name="新疆汉语综艺" group-title="地方-西北", 新疆汉语综艺
-http://202.107.188.219:5002/xj4_hdcq-1.m3u8?token=guoziyun
-#EXTINF:-1 tvg-name="新疆汉语经济生活" group-title="地方-西北", 新疆汉语经济生活
-http://202.107.188.219:5002/xj7_hdcq-1.m3u8?token=guoziyun
-#EXTINF:-1 tvg-name="哈密一套" group-title="新疆", 哈密一套
-http://stream.hmgbtv.com/hm1/hd/live.m3u8
-#EXTINF:-1 tvg-name="和田维语综合" group-title="新疆", 和田维语综合
-http://202.107.188.219:5002/hetiankzkt2_hdcq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-name="霍尔果斯综合" group-title="新疆", 霍尔果斯综合
-http://117.190.118.175:9090/stream1/m2e2000.m3u8
-#EXTINF:-1 tvg-name="吉木萨尔综合" group-title="新疆", 吉木萨尔综合
-http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8
-#EXTINF:-1 tvg-name="九师电视台" group-title="新疆", 九师电视台
-https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
-#EXTINF:-1 tvg-name="奎屯汉语综合" group-title="新疆", 奎屯汉语综合
-http://218.84.12.186:8001/hls/main/playlist.m3u8
-#EXTINF:-1 tvg-name="石河子新闻综合" group-title="新疆", 石河子新闻综合
-http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-name="石河子影视文体" group-title="新疆", 石河子影视文体
-http://124.88.144.73:1935/live/jjsh/playlist.m3u8
-#EXTINF:-1 tvg-name="图木舒克综合" group-title="新疆", 图木舒克综合
-http://test5.btzx.com.cn/live/disanshi.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="伊犁汉语综合" group-title="新疆", 伊犁汉语综合
-http://110.153.180.106:55555/out_1/index.m3u8
-#EXTINF:-1 tvg-name="伊宁汉语综合" group-title="新疆", 伊宁汉语综合
-http://222.81.61.37:9898/out_1/index.m3u8
-#EXTINF:-1 tvg-name="伊宁维吾尔语" group-title="新疆", 伊宁维吾尔语
-http://222.81.61.37:9898/out_2/index.m3u8
-#EXTINF:-1 tvg-name="裕民哈语" group-title="新疆", 裕民哈语
-http://117.190.130.4:8081/out_2/index.m3u8
-#EXTINF:-1 tvg-name="裕民汉语" group-title="新疆", 裕民汉语
-http://117.190.130.4:8081/out_1/index.m3u8
-#EXTINF:-1 tvg-name="陕西影视" group-title="LocalTV", 陕西影视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
-#EXTINF:-1 tvg-name="陕西生活" group-title="LocalTV", 陕西生活
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
-#EXTINF:-1 tvg-name="陕西生活" group-title="LocalTV", 陕西生活
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-#EXTINF:-1 tvg-name="陕西西部电影" tvg-id="陕西西部电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西西部电影.png" group-title="LocalTV", 陕西西部电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-#EXTINF:-1 tvg-name="陕西西部电影" tvg-id="陕西西部电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西西部电影.png" group-title="LocalTV", 陕西西部电影
-http://gxlive.snrtv.com/sx8-SD.m3u8
-#EXTINF:-1 tvg-name="甘肃天水大樱桃上市了！" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe0616105000002568936195qfy1.jpg" group-title="美食", 甘肃天水大樱桃上市了！
-https://live.ottiptv.cc/bilibili/25689361
-#EXTINF:-1 tvg-name="嘉峪关公共" tvg-id="嘉峪关公共" group-title="甘肃地区", 嘉峪关公共
-https://play.kankanlive.com/live/1658978141553927.m3u8
 #EXTINF:-1 tvg-name="张掖新闻" tvg-id="张掖新闻" group-title="甘肃地区", 张掖新闻
 http://play.kankanlive.com/live/1675849013180979.m3u8
 #EXTINF:-1 tvg-name="张掖新闻" tvg-id="张掖新闻" group-title="甘肃地区", 张掖新闻
@@ -329,8 +121,6 @@ http://play.kankanlive.com/live/1675849013180979.flv
 https://play.kankanlive.com/live/1675303871634928.m3u8
 #EXTINF:-1 tvg-name="定西综合" tvg-id="定西综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/定西综合.png" group-title="甘肃地区", 定西综合
 http://play.kankanlive.com/live/1675303871634928.flv
-#EXTINF:-1 tvg-name="定西综合" tvg-id="定西综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/定西综合.png" group-title="甘肃地区", 定西综合
-https://play.kankanlive.com/live/1645679947087932.m3u8?zgand
 #EXTINF:-1 tvg-name="定西文旅生活" tvg-id="定西文旅生活" group-title="甘肃地区", 定西文旅生活
 http://play.kankanlive.com/live/1675303983674929.m3u8
 #EXTINF:-1 tvg-name="定西文旅生活" tvg-id="定西文旅生活" group-title="甘肃地区", 定西文旅生活
@@ -379,6 +169,112 @@ http://play.kankanlive.com/live/1661761962676984.m3u8
 http://play.kankanlive.com/live/1661761962676984.flv
 #EXTINF:-1 tvg-name="秦安电视台" tvg-id="秦安电视台" group-title="甘肃地区", 秦安电视台
 https://play.kankanlive.com/live/1680577080200944.m3u8
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="http://49.233.180.193:5678/data/icon/陕西乐家购物.png" group-title="陕西专区", 陕西乐家购物
+http://gxlive.snrtv.com/sx6-SD.m3u8
+#EXTINF:-1 tvg-name="甘肃移动" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 甘肃移动
+http://115.190.124.74/php/gsdf.php?id=甘肃移动&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="武威综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 武威综合
+http://115.190.124.74/php/gsdf.php?id=武威综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="武威凉州" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 武威凉州
+http://115.190.124.74/php/gsdf.php?id=武威凉州&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="敦煌频道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 敦煌频道
+http://115.190.124.74/php/gsdf.php?id=敦煌频道&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="白银文教" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 白银文教
+http://115.190.124.74/php/gsdf.php?id=白银文教&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陇南公共" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 陇南公共
+http://115.190.124.74/php/gsdf.php?id=陇南公共&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陇南综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 陇南综合
+http://115.190.124.74/php/gsdf.php?id=陇南综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="平凉综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 平凉综合
+http://115.190.124.74/php/gsdf.php?id=平凉综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="庆阳综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 庆阳综合
+http://115.190.124.74/php/gsdf.php?id=庆阳综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张掖综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 张掖综合
+http://115.190.124.74/php/gsdf.php?id=张掖综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张掖农旅" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 张掖农旅
+http://115.190.124.74/php/gsdf.php?id=张掖农旅&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="甘州综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 甘州综合
+http://115.190.124.74/php/gsdf.php?id=甘州综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="渭源综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 渭源综合
+http://115.190.124.74/php/gsdf.php?id=渭源综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="兰州兰石" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 兰州兰石
+http://115.190.124.74/php/gsdf.php?id=兰州兰石&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="庄浪综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 庄浪综合
+http://115.190.124.74/php/gsdf.php?id=庄浪综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="西和综合" tvg-id="西和综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 西和综合
+http://115.190.124.74/php/gsdf.php?id=西和综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="成县综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 成县综合
+http://115.190.124.74/php/gsdf.php?id=成县综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="会宁综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 会宁综合
+http://115.190.124.74/php/gsdf.php?id=会宁综合&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="都市频道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 都市频道
+http://115.190.124.74/php/gsdf.php?id=都市频道&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="文化影视" tvg-id="文化影视" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 文化影视
+http://115.190.124.74/php/gsdf.php?id=文化影视&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="文化影视" tvg-id="文化影视" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1 tvg-name="文化影视" tvg-id="文化影视" tvg-logo="https://logo.catvod.com/文化影视.png" group-title="甘肃专区", 文化影视
+https://liveout.gstv.com.cn/skt649/z6znm4.m3u8
+#EXTINF:-1 tvg-name="公共应急" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="甘肃专区", 公共应急
+http://115.190.124.74/php/gsdf.php?id=公共应急&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="维吾尔语新闻综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="新疆专区", 维吾尔语新闻综合
+http://115.190.124.74/php/xjdf.php?id=wyzh&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="哈萨克语新闻综合" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="新疆专区", 哈萨克语新闻综合
+http://115.190.124.74/php/xjdf.php?id=hazh&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="汉语综艺" tvg-logo="http://49.233.180.193:5678/data/icon/汉语综艺.png" group-title="新疆专区", 汉语综艺
+http://115.190.124.74/php/xjdf.php?id=hyzy&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="维吾尔语影视" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="新疆专区", 维吾尔语影视
+http://115.190.124.74/php/xjdf.php?id=wyys&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="汉语经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汉语经济生活.png" group-title="新疆专区", 汉语经济生活
+http://115.190.124.74/php/xjdf.php?id=hyjj&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="哈萨克语综艺" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="新疆专区", 哈萨克语综艺
+http://115.190.124.74/php/xjdf.php?id=hazy&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="维吾尔语经济生活" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="新疆专区", 维吾尔语经济生活
+http://115.190.124.74/php/xjdf.php?id=wyjj&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="汉语信息服务" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汉语信息服务.png" group-title="新疆专区", 汉语信息服务
+http://115.190.124.74/php/xjdf.php?id=hyxx&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陕西西安大唐不夜城" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西西安大唐不夜城
+https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西西安周至水街二号码头" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西西安周至水街二号码头
+https://gcalic.v.myalicdn.com/gc/cntv414-zbzg_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西西安樊川" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西西安樊川
+https://gcalic.v.myalicdn.com/gc/cntv506-zbzg_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西西安蓝田县白鹿原" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西西安蓝田县白鹿原
+https://gcalic.v.myalicdn.com/gc/cntv408-zbzg_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西西安长安三河水库" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西西安长安三河水库
+https://gctxyc.liveplay.myqcloud.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西榆林杨家沟革命旧址" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西榆林杨家沟革命旧址
+https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西榆林神木市大柳塔镇" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西榆林神木市大柳塔镇
+https://mlivewbndcnc.v.wscdns.com/mlivewbnd/mlive_sls02_2/index.m3u8
+#EXTINF:-1 tvg-name="陕西汉中洋县" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西汉中洋县
+https://gcalic.v.myalicdn.com/gc/pygc01_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西汉中巴山玉溶洞" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西汉中巴山玉溶洞
+https://gcalic.v.myalicdn.com/gc/cntv404-zbzg_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西汉中宁强县青木川古镇" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西汉中宁强县青木川古镇
+https://gcalic.v.myalicdn.com/gc/cntv406-zbzg_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西汉中南郑区陈村水库" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西汉中南郑区陈村水库
+https://gcalic.v.myalicdn.com/gc/cntv403-zbzg_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西汉中朱鹮梨园" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西汉中朱鹮梨园
+https://gcalic.v.myalicdn.com/gc/cntv405-zbzg_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西凤堰古梯田" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 陕西凤堰古梯田
+https://gcalic.v.myalicdn.com/gc/cntv407-zbzg_1/index.m3u8
+#EXTINF:-1 tvg-name="宁夏固原将台堡" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 宁夏固原将台堡
+https://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
+#EXTINF:-1 tvg-name="青海玉树卓乃湖" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 青海玉树卓乃湖
+https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 tvg-name="甘肃兰州中山桥" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 甘肃兰州中山桥
+https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 tvg-name="甘肃张掖七彩丹霞景区" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 甘肃张掖七彩丹霞景区
+https://gctxyc.liveplay.myqcloud.com/gc/lsdftyd_1/index.m3u8
+#EXTINF:-1 tvg-name="甘肃嘉峪关" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 甘肃嘉峪关
+https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 tvg-name="新疆天山天池定海神针" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 新疆天山天池定海神针
+https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 tvg-name="新疆巩留县蝶湖景区" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 新疆巩留县蝶湖景区
+https://gcalic.v.myalicdn.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 tvg-name="新疆喀什达瓦昆景区" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="直播中国", 新疆喀什达瓦昆景区
+https://gcalic.v.myalicdn.com/gc/cntv524-zbzg_1/index.m3u8
 #EXTINF:-1 tvg-name="陕西银龄频道" tvg-id="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 陕西银龄频道
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=陕西银龄频道
 #EXTINF:-1 tvg-name="陕西银龄频道" tvg-id="陕西银龄频道" tvg-logo="https://epg.112114.xyz/logo/陕西银龄频道.png" group-title="地方" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 陕西银龄频道
@@ -395,50 +291,6 @@ http://124.223.82.228:89/956909303
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=陕西新闻资讯频道
 #EXTINF:-1 tvg-name="陕西新闻资讯频道" tvg-id="陕西新闻资讯频道" tvg-logo="https://epg.112114.xyz/logo/陕西新闻资讯频道.png" group-title="地方" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 陕西新闻资讯频道
 http://124.223.82.228:89/956909289
-#EXTINF:-1 tvg-name="甘南综合频道" group-title="甘肃", 甘南综合频道
-http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8
-#EXTINF:-1 tvg-name="甘南藏语频道" group-title="甘肃", 甘南藏语频道
-http://pili-live-hls.hfmt.net/gntv/gnzytv.m3u8
-#EXTINF:-1 tvg-name="酒泉综合频道" group-title="甘肃", 酒泉综合频道
-http://live.todaydunhuang.com:1935/live/live159/500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="敦煌综合频道" group-title="甘肃", 敦煌综合频道
-http://live.todaydunhuang.com:1935/live/live100/500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="张掖公共频道" group-title="甘肃", 张掖公共频道
-https://play.kankanlive.com/live/1629710004378956.m3u8
-#EXTINF:-1 tvg-name="定西综合频道" group-title="甘肃", 定西综合频道
-https://play.kankanlive.com/live/1645679947087932.m3u8
-#EXTINF:-1 tvg-name="定西公共频道" group-title="甘肃", 定西公共频道
-https://play.kankanlive.com/live/1645680054929933.m3u8
-#EXTINF:-1 tvg-name="临洮综合频道" group-title="甘肃", 临洮综合频道
-https://play.kankanlive.com/live/1638428318510977.m3u8
-#EXTINF:-1 tvg-name="陇西综合频道" group-title="甘肃", 陇西综合频道
-http://play.kankanlive.com/live/1641010321462941.m3u8
-#EXTINF:-1 tvg-name="临潭综合频道" group-title="甘肃", 临潭综合频道
-http://pili-live-hls.hfmt.net/gntv/lttv.m3u8
-#EXTINF:-1 tvg-name="夏河综合频道" group-title="甘肃", 夏河综合频道
-http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8
-#EXTINF:-1 tvg-name="卓尼综合频道" group-title="甘肃", 卓尼综合频道
-http://pili-live-hls.hfmt.net/gntv/zntv.m3u8
-#EXTINF:-1 tvg-name="临夏市电视台" group-title="甘肃", 临夏市电视台
-http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
-#EXTINF:-1 tvg-name="崆峒综合频道" group-title="甘肃", 崆峒综合频道
-http://125.74.200.110:10080/hls/001/001_live.m3u8
-#EXTINF:-1 tvg-name="秦安综合频道" group-title="甘肃", 秦安综合频道
-http://play.kankanlive.com/live/1620829433464975.m3u8
-#EXTINF:-1 tvg-name="德令哈综合" group-title="青海", 德令哈综合
-http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
-#EXTINF:-1 tvg-name="安康新闻频道" group-title="陕西", 安康新闻频道
-http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
-#EXTINF:-1 tvg-name="安康公共频道" group-title="陕西", 安康公共频道
-http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
-#EXTINF:-1 tvg-name="安康教育频道" group-title="陕西", 安康教育频道
-http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakjypd.m3u8
-#EXTINF:-1 tvg-name="神东一套" group-title="陕西", 神东一套
-http://livesdong.chinamcache.com/sddst/zb01.flv?auth_key=1651114357-0-0-47fab624b80c8467784cb2f2ff5e6d2c
-#EXTINF:-1 tvg-name="和田维语综合" group-title="新疆", 和田维语综合
-http://202.107.188.141:5002/hetiankzkt2_hdcq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-name="石河子影视文体" group-title="新疆", 石河子影视文体
-http://202.107.188.141:5002/shiheziyinshiwenti_hdgq.m3u8?token=guoziyun
 #EXTINF:-1 tvg-name="甘肃都市蓝光" group-title="地方-西北", 甘肃都市蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="甘肃公共蓝光" group-title="地方-西北", 甘肃公共蓝光
@@ -455,52 +307,30 @@ http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
 http://pili-live-hls.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
 #EXTINF:-1 tvg-name="陕西安康综合台" group-title="地方-西北", 陕西安康综合台
 http://pili-live-hls.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
+#EXTINF:-1 tvg-name="陕西西安白鸽台" group-title="地方-西北", 陕西西安白鸽台
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 #EXTINF:-1 tvg-name="陕西西安丝路频道" group-title="地方-西北", 陕西西安丝路频道
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
+#EXTINF:-1 tvg-name="陕西西安丝路台" group-title="地方-西北", 陕西西安丝路台
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 #EXTINF:-1 tvg-name="陕西西安文化影视" group-title="地方-西北", 陕西西安文化影视
 http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
+#EXTINF:-1 tvg-name="陕西西安新闻台" group-title="地方-西北", 陕西西安新闻台
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 tvg-name="陕西西安影视台" group-title="地方-西北", 陕西西安影视台
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 #EXTINF:-1 tvg-name="[BD]新疆" tvg-id="2646" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg" group-title="綜合", [BD]新疆
 https://epg.pm/stream/fe4ace0a2c5d43153b9972ab140b58f335822defa32da393e05501c71b630418.m3u8
 #EXTINF:-1 tvg-name="[BD]宁夏教育" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/12/large/20211012202522186507_40.png" group-title="其它", [BD]宁夏教育
 https://epg.pm/stream/278c4da810365066fde4c047d2e7bb2daf2d325700e73cfaee627fb3702ce526.m3u8
 #EXTINF:-1 tvg-name="[SD]宁夏教育@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/12/large/20211012202522186507_40.png" group-title="其它", [SD]宁夏教育@@1
 https://epg.pm/stream/3436ed66ff49a11316942ab9512d146711a088265623da8497038da45604a02a.m3u8
-#EXTINF:-1 tvg-name="甘肃陇西" group-title="地方-西北", 甘肃陇西
-http://play.kankanlive.com/live/1669881644081970.m3u8
-#EXTINF:-1 tvg-name="礼县综合频道" group-title="甘肃", 礼县综合频道
-https://play.kankanlive.com/live/1652690766596995.m3u8
-#EXTINF:-1 tvg-name="陇西综合频道" group-title="甘肃", 陇西综合频道
-https://play.kankanlive.com/live/1634202733097998.m3u8
-#EXTINF:-1 tvg-name="民和综合" group-title="青海", 民和综合
-http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
-#EXTINF:-1 tvg-name="宁夏宁夏公共" group-title="地方-西北", 宁夏宁夏公共
-http://api2.52tb.xyz/info?id=741&token=20230218htjgzi
-#EXTINF:-1 tvg-name="宁夏宁夏经济" group-title="地方-西北", 宁夏宁夏经济
-http://api2.52tb.xyz/info?id=742&token=20230218htjgzi
-#EXTINF:-1 tvg-name="宁夏宁夏少儿" group-title="地方-西北", 宁夏宁夏少儿
-http://api2.52tb.xyz/info?id=744&token=20230218htjgzi
-#EXTINF:-1 tvg-name="宁夏宁夏文旅" group-title="地方-西北", 宁夏宁夏文旅
-http://api2.52tb.xyz/info?id=743&token=20230218htjgzi
-#EXTINF:-1 tvg-name="青海 门源综合" group-title="地方-西北", 青海 门源综合
-http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
-#EXTINF:-1 tvg-name="陕西西安都市" group-title="地方-西北", 陕西西安都市
-http://api2.52tb.xyz/info?id=622&token=20230218htjgzi
-#EXTINF:-1 tvg-name="陕西西安丝路" group-title="地方-西北", 陕西西安丝路
-http://api2.52tb.xyz/info?id=624&token=20230218htjgzi
-#EXTINF:-1 tvg-name="陕西西安新闻" group-title="地方-西北", 陕西西安新闻
-http://api2.52tb.xyz/info?id=621&token=20230218htjgzi
-#EXTINF:-1 tvg-name="陕西西安影视" group-title="地方-西北", 陕西西安影视
-http://api2.52tb.xyz/info?id=623&token=20230218htjgzi
-#EXTINF:-1 tvg-name="石河子影视文体" group-title="新疆", 石河子影视文体
-http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-#EXTINF:-1 tvg-name="新疆巴音郭楞州" group-title="地方-西北", 新疆巴音郭楞州
-http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
-#EXTINF:-1 tvg-name="舟曲新闻综合" group-title="甘肃", 舟曲新闻综合
-http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8
+#EXTINF:-1 tvg-name="甘肃文化" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃文化.png" group-title="☘️甘肃频道", 甘肃文化
+http://61.178.227.57:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="石河子教育" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/石河子教育.png" group-title="☘️新疆频道", 石河子教育
+rtmp://124.88.144.73:1935/live/jiaoyu
 #EXTINF:-1 tvg-name="甘肃公共" group-title="其他", 甘肃公共
 http://61.178.227.57:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="甘肃文化" group-title="其他", 甘肃文化
-http://61.178.227.57:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="陕西新闻资讯高清" group-title="其他", 陕西新闻资讯高清
 http://219.144.190.2:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="陕西都市青春高清" group-title="其他", 陕西都市青春高清
@@ -511,8 +341,6 @@ http://219.144.190.2:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 http://219.144.190.2:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="陕西西部电影高清" group-title="其他", 陕西西部电影高清
 http://219.144.190.2:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="祁连综合" group-title="青海", 祁连综合
-http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8?zqinghd
 #EXTINF:-1 tvg-name="陕西一套" tvg-logo="https://logo.catvod.com/陕西一套.png" group-title="📡地方频道", 陕西一套
 http://112.46.105.20:8009/hls/18/index.m3u8$陕西移动#http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1 tvg-name="陕西二套" tvg-logo="https://logo.catvod.com/陕西二套.png" group-title="📡地方频道", 陕西二套
@@ -537,11 +365,31 @@ http://219.145.93.74:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=
 http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="宁夏教育" tvg-logo="https://logo.catvod.com/宁夏教育.png" group-title="📡地方频道", 宁夏教育
 http://home.kaijuns.cn:4000/rtp/239.121.4.200:9184$宁夏银川电信
+#EXTINF:-1 tvg-name="新疆伊犁经济法制" tvg-logo="https://logo.catvod.com/新疆伊犁经济法制.png" group-title="📡地方频道", 新疆伊犁经济法制
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1 tvg-name="新疆可克达拉综合" tvg-logo="https://logo.catvod.com/新疆可克达拉综合.png" group-title="📡地方频道", 新疆可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="新疆克拉玛依汉语综合" tvg-logo="https://logo.catvod.com/新疆克拉玛依汉语综合.png" group-title="📡地方频道", 新疆克拉玛依汉语综合
 https://klmyzb.rcsxzx.com/hls/klmy1.m3u8
 #EXTINF:-1 tvg-name="新疆克拉玛依维语综合" tvg-logo="https://logo.catvod.com/新疆克拉玛依维语综合.png" group-title="📡地方频道", 新疆克拉玛依维语综合
 https://klmyzb.rcsxzx.com/hls/klmy2.m3u8
+#EXTINF:-1 tvg-name="新疆克拉玛依影院" tvg-logo="https://logo.catvod.com/新疆克拉玛依影院.png" group-title="📡地方频道", 新疆克拉玛依影院
+https://klmyzb.rcsxzx.com/hls/klmy3.m3u8
+#EXTINF:-1 tvg-name="新疆可克达拉综合" tvg-logo="https://logo.catvod.com/新疆可克达拉综合.png" group-title="📡地方频道", 新疆可克达拉综合
+http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆奎屯汉语综合" tvg-logo="https://logo.catvod.com/新疆奎屯汉语综合.png" group-title="📡地方频道", 新疆奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆巴音郭楞州1" tvg-logo="https://logo.catvod.com/新疆巴音郭楞州1.png" group-title="📡地方频道", 新疆巴音郭楞州1
+http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
 #EXTINF:-1 tvg-name="新疆巴音郭楞州2" tvg-logo="https://logo.catvod.com/新疆巴音郭楞州2.png" group-title="📡地方频道", 新疆巴音郭楞州2
 http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
 #EXTINF:-1 tvg-name="新疆巴音郭楞州4" tvg-logo="https://logo.catvod.com/新疆巴音郭楞州4.png" group-title="📡地方频道", 新疆巴音郭楞州4
 http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆石河子文体" tvg-logo="https://logo.catvod.com/新疆石河子文体.png" group-title="📡地方频道", 新疆石河子文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆石河子教育" tvg-logo="https://logo.catvod.com/新疆石河子教育.png" group-title="📡地方频道", 新疆石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆石河子新闻" tvg-logo="https://logo.catvod.com/新疆石河子新闻.png" group-title="📡地方频道", 新疆石河子新闻
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆石河子经济" tvg-logo="https://logo.catvod.com/新疆石河子经济.png" group-title="📡地方频道", 新疆石河子经济
+http://124.88.144.73:1935/live/dywt/playlist.m3u8

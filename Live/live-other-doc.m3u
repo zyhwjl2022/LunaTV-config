@@ -43,110 +43,36 @@ https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
 http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
-http://home.wwang.pw:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道", 求索纪录
-http://gslbserv.itv.cmvideo.cn/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="RT Documentary" tvg-id="RT06" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道", RT Documentary（英语纪录）
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="RT Doc-Русский" tvg-id="RT07" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道", RT Doc-Русский（俄语纪录）
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-name="智慧教育 (576p)" group-title="Undefined", 智慧教育 (576p)
-http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
-#EXTINF:-1 tvg-name="纪实人文 (1080p)" tvg-id="DocumentaryHumanitiesChannel.cn@SD" tvg-logo="https://i.imgur.com/CEcNWsE.png" group-title="Undefined", 纪实人文 (1080p)
-http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-name="继续教育 (576p)" group-title="Undefined", 继续教育 (576p)
-http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
-#EXTINF:-1 tvg-name="萍鄉教育頻道 (480p)" group-title="Undefined", 萍鄉教育頻道 (480p)
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
-#EXTINF:-1 tvg-name="蕪湖教育頻道 (576p)" group-title="Undefined", 蕪湖教育頻道 (576p)
-http://live1.wuhubtv.com/channel4/sd/live.m3u8
-#EXTINF:-1 tvg-name="党员教育频道" group-title="中文-纪录教育", 党员教育频道
-http://12371alic.v.myalicdn.com/12371/dangyuanwang_1/index.m3u8
-#EXTINF:-1 tvg-name="现代教育" group-title="中文-纪录教育", 现代教育
-http://szlive.grtn.cn/jypd/sd/live.m3u8
-#EXTINF:-1 tvg-name="泸州科技教育频道" group-title="中文-纪录教育", 泸州科技教育频道
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
-#EXTINF:-1 tvg-name="金华教育科技" group-title="中文-纪录教育", 金华教育科技
-http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
-#EXTINF:-1 tvg-name="阜阳教育频道" group-title="中文-纪录教育", 阜阳教育频道
-http://hwapi.yunshicloud.com/8rj7c1/w5do38.m3u8
-#EXTINF:-1 tvg-name="淮北教育" group-title="中文-纪录教育", 淮北教育
-http://live.0561rtv.cn/jypd/hd/live.m3u8
-#EXTINF:-1 tvg-name="益阳教育[720*576]" group-title="中文-纪录教育", 益阳教育[720*576]
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy210130.m3u8
-#EXTINF:-1 tvg-name="益阳教育[720*576]" group-title="中文-纪录教育", 益阳教育[720*576]
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy210130.m3u8?auth_key=1638745972-0-0-585d3c3754f254ccd65f4e4c95bf782e
-#EXTINF:-1 tvg-name="益阳教育[720*576]" group-title="中文-纪录教育", 益阳教育[720*576]
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy210130.m3u8?auth_key=1638746077-0-0-14ea004d8a6209cc187f93dbb1b27403
-#EXTINF:-1 tvg-name="赣州教育频道" group-title="中文-纪录教育", 赣州教育频道
-http://pl1.cloud.dayang.com.cn/live/10062_ojZz8U.m3u8
-#EXTINF:-1 tvg-name="济宁教育频道[1280*720]" group-title="中文-纪录教育", 济宁教育频道[1280*720]
-http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
-#EXTINF:-1 tvg-name="枣庄教育频道[960*540]" group-title="中文-纪录教育", 枣庄教育频道[960*540]
-http://stream.zzgd.tv/2/sd/live.m3u8
-#EXTINF:-1 tvg-name="汝州教育频道" group-title="中文-纪录教育", 汝州教育频道
-https://playstream.teacherasked.cn/live/ebd9629fc3ae5e9f6611e2ee05a31cef/playlist.m3u8
-#EXTINF:-1 tvg-name="巴州教育" group-title="中文-纪录教育", 巴州教育
-http://202.107.188.139:5002/bazhou4_hdgq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-name="石河子教育" group-title="中文-纪录教育", 石河子教育
-http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 探索纪录
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 百变课堂
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288001/index.m3u8?channel-id=bestzb&Contentid=5000000011000288001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 百变课堂
-http://121.230.171.192:8000/rtp/239.49.1.121:6000
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 百变课堂
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="http://n.ysyz.top:99/buyaolian/百变课堂.png" group-title="百事通", 百变课堂
-https://live.metshop.top/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1 tvg-name="China Travel (1080p)" tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Culture;Documentary;Travel", China Travel (1080p)
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Culture;Documentary", Discovering China (1080p)
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-name="Shanghai Education Television Station" tvg-id="ShanghaiEducationTelevisionStation.cn@SD" group-title="Culture;Education", Shanghai Education Television Station
 http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-name="发现之旅 (576p)" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="https://i.imgur.com/2FJfPDx.png" group-title="Documentary", 发现之旅 (576p)
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 tvg-name="滁州科教 (450p)" tvg-id="ChuzhouScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Education;Science", 滁州科教 (450p)
 http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
-#EXTINF:-1 tvg-name="西安教育" group-title="LocalTV", 西安教育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-#EXTINF:-1 tvg-name="NEWTV精品纪录" tvg-id="NEWTV精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="NewTV系列", 精品纪录
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-name="精品纪录" tvg-id="NEWTV精品纪录" tvg-logo="https://live.fanmingming.cn/tv/精品纪录.png" group-title="NewTV系列", 精品纪录
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="「KH」 Persiana Documentary" group-title="•国际", 「KH」 Persiana Documentary
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 tvg-name="newtv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="NewTV", NewTV精品纪录
-http://gslbserv.itv.cmvideo.cn/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="China Travel (1080p)" tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Culture;Documentary;Travel", China Travel (1080p)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Culture;Documentary", Discovering China (1080p)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-name="一年级" group-title="教育", 一年级
-http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="二年级" group-title="教育", 二年级
-http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="三年级" group-title="教育", 三年级
-http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="四年级" group-title="教育", 四年级
-http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="五年级" group-title="教育", 五年级
-http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="六年级" group-title="教育", 六年级
-http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="初一" group-title="教育", 初一
-http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="初二" group-title="教育", 初二
-http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="初三" group-title="教育", 初三
-http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="高一" group-title="教育", 高一
-http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="高二" group-title="教育", 高二
-http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="高三" group-title="教育", 高三
-http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-name="newtv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="NewTV", NewTV精品纪录
-http://39.135.138.58:18890/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文 (1080p)" tvg-id="DocumentaryHumanitiesChannel.cn@SD" tvg-logo="https://i.imgur.com/CEcNWsE.png" group-title="Undefined", 纪实人文 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-name="百变课堂" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="央卫·备用", 百变课堂
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="纪录片之家字幕组" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 纪录片之家字幕组
+http://115.190.124.74/php/douyu.php?id=8834003&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Melo的健身课堂" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", Melo的健身课堂
+http://115.190.124.74/php/douyu.php?id=9306609&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="世界纪录大全" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 世界纪录大全
+http://115.190.124.74/php/douyu.php?id=9406359&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="中国教育-1" group-title="中文-纪录教育", 中国教育-1
+rtsp://10.11.43.21/PLTV/88888912/224/3221226698/426212016.smil
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="C04" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png" group-title="数字", 求索纪录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="萍乡教育频道" group-title="中文-纪录教育", 萍乡教育频道
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
 #EXTINF:-1 tvg-name="长治教育" group-title="中文-纪录教育", 长治教育
 http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
 #EXTINF:-1 tvg-name="[BD]求索纪录@@5" tvg-id="2674" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322211711184602_31.png" group-title="紀實", [BD]求索纪录@@5
@@ -237,42 +163,6 @@ https://epg.pm/stream/2811427c16b242c37f92c17507a59ed87a57fba1d9040c5b4a0b19b754
 https://epg.pm/stream/1eac4c3d6e230e57ba164eaf2f046efe64a42a0d6c403c5946c64ce6146a5937.m3u8
 #EXTINF:-1 tvg-name="[BD]纪录9台" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="紀實", [BD]纪录9台
 https://epg.pm/stream/1487b172e1033d95c9654f6e4a20d14877f44c440762dda6c8f2efa63c6763bf.m3u8
-#EXTINF:-1 tvg-name="中国教育4台" tvg-id="7245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="百视通", 中国教育4套
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="茶频道" tvg-id="6585" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="百视通", 茶频道台
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="纪录|Natgeo_" tvg-id="纪录|Natgeo_" tvg-logo="https://tv-res.pages.dev/logo/纪录|Natgeo_.png" group-title="💓优质个源", 纪录|Natgeo_
-http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|NatGeo_Wild" tvg-id="纪录|NatGeo_Wild" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo_Wild .png" group-title="💓优质个源", 纪录|NatGeo_Wild
-http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Animal_Planet" tvg-id="纪录|Animal_Planet" tvg-logo="https://tv-res.pages.dev/logo/纪录|Animal_Planet.png" group-title="💓优质个源", 纪录|Animal_Planet
-http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Discovery Asia" tvg-id="纪录|Discovery Asia" tvg-logo="https://tv-res.pages.dev/logo/纪录|Discovery Asia.png" group-title="💓优质个源", 纪录|Discovery Asia
-http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|CI" tvg-id="纪录|CI" tvg-logo="https://tv-res.pages.dev/logo/纪录|CI.png" group-title="💓优质个源", 纪录|CI
-http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Asia Travel" tvg-id="纪录|Asia Travel" tvg-logo="https://tv-res.pages.dev/logo/纪录|Asia Travel.png" group-title="💓优质个源", 纪录|Asia Travel
-http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Discovery" tvg-id="纪录|Discovery" tvg-logo="https://tv-res.pages.dev/logo/纪录|Discovery .png" group-title="💓优质个源", 纪录|Discovery
-http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|亚洲TLC" tvg-id="纪录|亚洲TLC" tvg-logo="https://tv-res.pages.dev/logo/纪录|亚洲TLC.png" group-title="💓优质个源", 纪录|亚洲TLC
-http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|NatGeo" tvg-id="纪录|NatGeo" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo .png" group-title="💓优质个源", 纪录|NatGeo
-http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Fashion TV" tvg-id="纪录|Fashion TV" tvg-logo="https://tv-res.pages.dev/logo/纪录|Fashion TV.png" group-title="💓优质个源", 纪录|Fashion TV
-http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|History" tvg-id="纪录|History" tvg-logo="https://tv-res.pages.dev/logo/纪录|History.png" group-title="💓优质个源", 纪录|History
-http://free.cnlive.club/channel/n20a85c83/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|BBC Earth" tvg-id="纪录|BBC Earth" tvg-logo="https://tv-res.pages.dev/logo/纪录|BBC Earth .png" group-title="💓优质个源", 纪录|BBC Earth
-http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|NatGeo Wild" tvg-id="纪录|NatGeo Wild" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo Wild .png" group-title="💓优质个源", 纪录|NatGeo Wild
-http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Animal Planet (Eng)" tvg-id="纪录|Animal Planet (Eng)" tvg-logo="https://tv-res.pages.dev/logo/纪录|Animal Planet (Eng).png" group-title="💓优质个源", 纪录|Animal Planet (Eng)
-http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|TLC" tvg-id="纪录|TLC" tvg-logo="https://tv-res.pages.dev/logo/纪录|TLC.png" group-title="💓优质个源", 纪录|TLC
-http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|HGTV" tvg-id="纪录|HGTV" tvg-logo="https://tv-res.pages.dev/logo/纪录|HGTV.png" group-title="💓优质个源", 纪录|HGTV
-http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="全民星攻略 知識開箱" tvg-id="全民星攻略 知識開箱" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_tv_20250506.png" group-title="全民星攻略 知識開箱", 全民星攻略 知識開箱
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii81
 #EXTINF:-1 tvg-name="ASMR行車紀錄" tvg-id="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="ASMR行車紀錄", ASMR行車紀錄
@@ -289,14 +179,16 @@ https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
 https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-name="纪录频道|Discovery HD" tvg-id="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="Smart☠️源", 纪录频道|Discovery HD
 https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
-#EXTINF:-1 tvg-name="纪录频道|CI" tvg-id="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="GPT-记录", 纪录频道|CI
+#EXTINF:-1 tvg-name="纪录频道|CI" tvg-id="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源", 纪录频道|CI
 https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
 #EXTINF:-1 tvg-name="纪录频道|NatGeo HD" tvg-id="纪录频道|NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO.png" group-title="Smart☠️源", 纪录频道|NatGeo HD
 https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
-#EXTINF:-1 tvg-name="纪录频道|Fashion TV" tvg-id="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="GPT-记录", 纪录频道|Fashion TV
+#EXTINF:-1 tvg-name="纪录频道|Fashion TV" tvg-id="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="Smart☠️源", 纪录频道|Fashion TV
 https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
-#EXTINF:-1 tvg-name="纪录频道|History" tvg-id="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="GPT-记录", 纪录频道|History
+#EXTINF:-1 tvg-name="纪录频道|History" tvg-id="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="Smart☠️源", 纪录频道|History
 https://smart.pendy.dpdns.org/Smart.php?id=History
+#EXTINF:-1 tvg-name="纪录频道|BBC Earth HD" tvg-id="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源", 纪录频道|BBC Earth HD
+https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
 #EXTINF:-1 tvg-name="纪录频道|NatGeo Wild HD" tvg-id="纪录频道|NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png" group-title="Smart☠️源", 纪录频道|NatGeo Wild HD
 https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
 #EXTINF:-1 tvg-name="纪录频道|Animal Planet (Eng)" tvg-id="纪录频道|Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png" group-title="Smart☠️源", 纪录频道|Animal Planet (Eng)
@@ -305,8 +197,28 @@ https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
 https://smart.pendy.dpdns.org/Smart.php?id=Tlc
 #EXTINF:-1 tvg-name="纪录频道|HGTV" tvg-id="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源", 纪录频道|HGTV
 https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+#EXTINF:-1 tvg-name="NewTV精品记录" tvg-id="NewTV精品记录" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV精品记录.png" group-title="💽纪录片直播", NewTV精品记录
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6298506997017621594&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="BesTV纯享4K" tvg-id="BesTV纯享4K" group-title="💽纪录片直播", BesTV纯享4K
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1&$16M
+#EXTINF:-1 tvg-name="BesTV看天下" tvg-id="BesTV看天下" group-title="💽纪录片直播", BesTV看天下
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288007&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="生存记" tvg-id="生存记" group-title="💽纪录片直播", 生存记
+https://tv1288.xyz/1002.php?id=20985861
+#EXTINF:-1 tvg-name="航拍中国专场" tvg-id="航拍中国专场" group-title="💽纪录片直播", 航拍中国专场
+http://81.70.10.196:35455/huya/22414123
+#EXTINF:-1 tvg-name="中国通史" tvg-id="中国通史" tvg-logo="https://epg.112114.xyz/logo/中国通史.png" group-title="💽纪录片直播", 中国通史
+https://tv1288.xyz/1002.php?id=20985822
+#EXTINF:-1 tvg-name="中国通史" tvg-id="中国通史" tvg-logo="https://logo.catvod.com/中国通史.png" group-title="💽纪录片直播", 中国通史
+http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8
+#EXTINF:-1 tvg-name="云游故宫1" tvg-id="云游故宫1" group-title="💽纪录片直播", 云游故宫1
+http://81.70.10.196:35455/huya/19743457
+#EXTINF:-1 tvg-name="云游故宫2" tvg-id="云游故宫2" group-title="💽纪录片直播", 云游故宫2
+http://81.70.10.196:35455/huya/19743452
 #EXTINF:-1 tvg-name="中国教育高清" group-title="其他", 中国教育高清
 http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="乌拖邦WTB066忍无可忍的兄妹教育" group-title="中文-纪录教育", 乌拖邦WTB066忍无可忍的兄妹教育
+https://t21.cdn2020.com/video/m3u8/2023/03/05/28bc0cd1/index.m3u8
 #EXTINF:-1 tvg-name="碎片记" tvg-logo="https://epg.112114.xyz/logo/碎片记.png" group-title="💽纪录片直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 碎片记
 http://live.nctv.top/douyu1.php?id=9412981
 #EXTINF:-1 tvg-name="宇宙视界" tvg-logo="https://epg.112114.xyz/logo/宇宙视界.png" group-title="💽纪录片直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 宇宙视界
@@ -317,10 +229,6 @@ http://live.nctv.top/douyu1.php?id=9456028
 http://live.nctv.top/douyu1.php?id=9369468
 #EXTINF:-1 tvg-name="航拍中国" tvg-logo="https://epg.112114.xyz/logo/航拍中国.png" group-title="💽纪录片直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 航拍中国
 https://live.ottiptv.cc/huya/22414123
-#EXTINF:-1 tvg-name="中国通史" tvg-logo="https://epg.112114.xyz/logo/中国通史.png" group-title="💽纪录片直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 中国通史
-https://live.ottiptv.cc/huya/20985822
-#EXTINF:-1 tvg-name="乌拖邦WTB066忍无可忍的兄妹教育" group-title="中文-纪录教育", 乌拖邦WTB066忍无可忍的兄妹教育
-https://t21.cdn2020.com/video/m3u8/2023/03/05/28bc0cd1/index.m3u8
 #EXTINF:-1 tvg-name="BRTV Science & Education Channel" tvg-id="BRTVScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/q0qvOUe.png" group-title="Education;Science", BRTV Science & Education Channel
 http://49.113.179.174:4022/udp/238.125.3.121:5140
 #EXTINF:-1 tvg-name="Channel Law" tvg-id="ChannelLaw.cn@SD" tvg-logo="https://i.imgur.com/QcO5Gxl.png" group-title="Education", Channel Law
@@ -329,75 +237,3 @@ http://49.113.179.174:4022/udp/238.125.2.201:5140
 http://49.113.179.174:4022/udp/238.125.2.175:5140
 #EXTINF:-1 tvg-name="Shandong Education TV" tvg-id="ShandongEducationTV.cn@SD" tvg-logo="https://i.imgur.com/yb10kF0.png" group-title="Education", Shandong Education TV
 http://49.113.179.174:4022/udp/238.125.0.156:5140
-#EXTINF:-1 tvg-name="金华教育科技" group-title="中文-纪录教育", 金华教育科技
-http://live.plus.jinhua.com.cn/jykj/playlist.m3u8?zzhed
-#EXTINF:-1 tvg-name="熟肉纪录片人妻解剖淫技悟空束缚狂乱Ver." group-title="WhosTV", 熟肉纪录片人妻解剖淫技悟空束缚狂乱Ver.
-https://s3.aaaaa.io/2f5b7018e704139bcc0322372c57b90a/2f5b7018e704139bcc0322372c57b90a.m3u8
-#EXTINF:-1 tvg-name="IPX-836出差目的地突然与处女属下因创纪录的大雨前往共用房间......直到早上的8次湿透的性交被一个被雨淋湿的身体兴奋的下属袭击了七海美咲" group-title="WhosTV", IPX-836出差目的地突然与处女属下因创纪录的大雨前往共用房间......直到早上的8次湿透的性交被一个被雨淋湿的身体兴奋的下属袭击了七海美咲
-https://s3.aaaaa.io/f16b3ad82d82f0abd1dd2b7c85e355b0/f16b3ad82d82f0abd1dd2b7c85e355b0.m3u8
-#EXTINF:-1 tvg-name="SIMM-866[小阿美(18)，皮肤白皙的天真J♪女朋友！在准备入学考试的同时，一段时间以来第一次与爱人沉浸在性爱中！我没有任何计画就生了孩子，以为我活着就好了！ 】《J♪女友与叔叔男友的情欲纪录》3150" group-title="WhosTV", SIMM-866[小阿美(18)，皮肤白皙的天真J♪女朋友！在准备入学考试的同时，一段时间以来第一次与爱人沉浸在性爱中！我没有任何计画就生了孩子，以为我活着就好了！ 】《J♪女友与叔叔男友的情欲纪录》3150
-https://s3.aaaaa.io/ce70ac3bab75a14d29a12028b2fa5cf2/ce70ac3bab75a14d29a12028b2fa5cf2.m3u8
-#EXTINF:-1 tvg-name="最好！ ！三十多岁妻子的首部全裸AV纪录片 藤枝真美子" group-title="WhosTV", 最好！ ！三十多岁妻子的首部全裸AV纪录片 藤枝真美子
-https://s3.aaaaa.io/25dbbf095aa28faf1c79d30905722a1a/25dbbf095aa28faf1c79d30905722a1a.m3u8
-#EXTINF:-1 tvg-name="Ayaka Muto，在无法发声的高潮课堂上被弄湿10次的人妻教师" group-title="WhosTV", Ayaka Muto，在无法发声的高潮课堂上被弄湿10次的人妻教师
-https://s3.aaaaa.io/1752ef3b4f81e8a4b36769e7456858bc/1752ef3b4f81e8a4b36769e7456858bc.m3u8
-#EXTINF:-1 tvg-name="IBW-847z ● 背后不断侵犯学生的魔鬼纪录影像 4小时" group-title="WhosTV", IBW-847z ● 背后不断侵犯学生的魔鬼纪录影像 4小时
-https://s3.aaaaa.io/56b8dee691f55f026f3eae5094ee353d/56b8dee691f55f026f3eae5094ee353d.m3u8
-#EXTINF:-1 tvg-name="一个想要吮吸的超苗条剃光女孩的淫秽教育" group-title="WhosTV", 一个想要吮吸的超苗条剃光女孩的淫秽教育
-https://s3.aaaaa.io/84f1a36f76be749b65b5409812f84f17/84f1a36f76be749b65b5409812f84f17.m3u8
-#EXTINF:-1 tvg-name="HUBLK-050 “哥哥，发生这种事我很抱歉…”在学校被欺负的兄妹发生乱伦关系－疯狂课堂版" group-title="WhosTV", HUBLK-050 “哥哥，发生这种事我很抱歉…”在学校被欺负的兄妹发生乱伦关系－疯狂课堂版
-https://s3.aaaaa.io/9ed3e493856026935dc596bf3fb758fe/9ed3e493856026935dc596bf3fb758fe.m3u8
-#EXTINF:-1 tvg-name="GVH-746 拥有巨乳的姊姊旅行回来的那几天，用她那令人惊叹的身材给我上了一场光鲜亮丽的性教育，帮助我失去了童贞。 -Oneshi○ta剧集- 佐山唯 - 佐山由依" group-title="WhosTV", GVH-746 拥有巨乳的姊姊旅行回来的那几天，用她那令人惊叹的身材给我上了一场光鲜亮丽的性教育，帮助我失去了童贞。 -Oneshi○ta剧集- 佐山唯 - 佐山由依
-https://s3.aaaaa.io/c421a4881c70cd1ff2b3bfc334e69b78/c421a4881c70cd1ff2b3bfc334e69b78.m3u8
-#EXTINF:-1 tvg-name="[出租她的壮阳药森森快乐森森 Kimeseku ！ ！！ ] 艺术美臀和宝石级美白肌肤！ ！！黏糊糊的感觉简直就是全身的杰作！ ??如果完全释放她一号选角美少女的本性，这样撩人的出租带春药…… ！！ / 爱情旅馆纪录片休息2小时 / 春药SP" group-title="WhosTV", [出租她的壮阳药森森快乐森森 Kimeseku ！ ！！ ] 艺术美臀和宝石级美白肌肤！ ！！黏糊糊的感觉简直就是全身的杰作！ ??如果完全释放她一号选角美少女的本性，这样撩人的出租带春药…… ！！ / 爱情旅馆纪录片休息2小时 / 春药SP
-https://s3.aaaaa.io/6afd6e0637a1988e1b66202e7139d18b/6afd6e0637a1988e1b66202e7139d18b.m3u8
-#EXTINF:-1 tvg-name="JUFD-339 我的宠物是巨乳家庭教师～让敏感的乳房哭泣的课堂训练～一树美穗" group-title="WhosTV", JUFD-339 我的宠物是巨乳家庭教师～让敏感的乳房哭泣的课堂训练～一树美穗
-https://s3.aaaaa.io/322ae65fe9a5847b6fbc0b79e960d509/322ae65fe9a5847b6fbc0b79e960d509.m3u8
-#EXTINF:-1 tvg-name="HNTRS-005 巨乳人妻出轨纪录：温柔巨乳丰满人妻是邻家性奴真人版甘晴爱 - 天晴乃爱" group-title="WhosTV", HNTRS-005 巨乳人妻出轨纪录：温柔巨乳丰满人妻是邻家性奴真人版甘晴爱 - 天晴乃爱
-https://s3.aaaaa.io/4cf9cdfbed8a8698da63d39d611de1f8/4cf9cdfbed8a8698da63d39d611de1f8.m3u8
-#EXTINF:-1 tvg-name="IPX-850 出差处的破纪录暴雨 和处男部下突然处于共处一室的情况... 被雨打湿的身体 枫可怜" group-title="WhosTV", IPX-850 出差处的破纪录暴雨 和处男部下突然处于共处一室的情况... 被雨打湿的身体 枫可怜
-https://s3.aaaaa.io/631154914e6e9c8b723af896ed1a554f/631154914e6e9c8b723af896ed1a554f.m3u8
-#EXTINF:-1 tvg-name="妈妈的真实性教育 Ayano Kato" group-title="WhosTV", 妈妈的真实性教育 Ayano Kato
-https://s3.aaaaa.io/815fa0af623e836bbece73cb410b2836/815fa0af623e836bbece73cb410b2836.m3u8
-#EXTINF:-1 tvg-name="GVH-681我坚忍的教育妈妈知道我太饥渴而无法专心学习，所以她继续以女牛仔的姿势惩罚我，没有退出。光公主" group-title="WhosTV", GVH-681我坚忍的教育妈妈知道我太饥渴而无法专心学习，所以她继续以女牛仔的姿势惩罚我，没有退出。光公主
-https://s3.aaaaa.io/d8f6e4a733f52518224a1a4000b87b3c/d8f6e4a733f52518224a1a4000b87b3c.m3u8
-#EXTINF:-1 tvg-name="MIDA-204 女教师目标的丰乳教育实习生被用作乳便器进行性交 暴力绝伦的阳物进行集体轮奸 三木环奈" group-title="WhosTV", MIDA-204 女教师目标的丰乳教育实习生被用作乳便器进行性交 暴力绝伦的阳物进行集体轮奸 三木环奈
-https://s3.aaaaa.io/f0f99c8957d5d07315fbd63b3e36f632/f0f99c8957d5d07315fbd63b3e36f632.m3u8
-#EXTINF:-1 tvg-name="高超！ ！ 40 多岁妻子的第一次脱衣 AV 纪录片小池美智子" group-title="WhosTV", 高超！ ！ 40 多岁妻子的第一次脱衣 AV 纪录片小池美智子
-https://s3.aaaaa.io/544c5ffb40cc166f997a3e813639d791/544c5ffb40cc166f997a3e813639d791.m3u8
-#EXTINF:-1 tvg-name="SSNI-865 黑丝巨乳OL三上悠亚与无与伦比的处男上司每周五晚上的性教育培训加班 三上悠亚" group-title="WhosTV", SSNI-865 黑丝巨乳OL三上悠亚与无与伦比的处男上司每周五晚上的性教育培训加班 三上悠亚
-https://s3.aaaaa.io/9c38a9d6e8566ac30f87c67380124964/9c38a9d6e8566ac30f87c67380124964.m3u8
-#EXTINF:-1 tvg-name="PPPD-475 巨乳妈妈的性教育 水野朝阳" group-title="WhosTV", PPPD-475 巨乳妈妈的性教育 水野朝阳
-https://s3.aaaaa.io/5198881b2dbe6b3d68bc8ab1bc3d9206/5198881b2dbe6b3d68bc8ab1bc3d9206.m3u8
-#EXTINF:-1 tvg-name="MIAA-542 性知识缺乏的离家出走少女用手淫带来的惊喜喷潮！误以为被尿了后反击圣水飞溅 工藤拉拉" group-title="WhosTV", MIAA-542 性知识缺乏的离家出走少女用手淫带来的惊喜喷潮！误以为被尿了后反击圣水飞溅 工藤拉拉
-https://s3.aaaaa.io/5efd1f097c8e48757111cd425a18379a/5efd1f097c8e48757111cd425a18379a.m3u8
-#EXTINF:-1 tvg-name="JUFE-380G罩杯制服美少女色情补偿约会教育新鲜成人性交伊织羽根" group-title="WhosTV", JUFE-380G罩杯制服美少女色情补偿约会教育新鲜成人性交伊织羽根
-https://s3.aaaaa.io/1447269141000ffb60dd9c2a19dc6f6d/1447269141000ffb60dd9c2a19dc6f6d.m3u8
-#EXTINF:-1 tvg-name="HND-092由爸爸ShioriTsukada教授的中出性教育" group-title="WhosTV", HND-092由爸爸ShioriTsukada教授的中出性教育
-https://s3.aaaaa.io/948dec48017757e14966b08fd5593a2b/948dec48017757e14966b08fd5593a2b.m3u8
-#EXTINF:-1 tvg-name="JRZE-259 五十多岁妻纪录片首次拍摄 长泽富美加 - 长泽史华" group-title="WhosTV", JRZE-259 五十多岁妻纪录片首次拍摄 长泽富美加 - 长泽史华
-https://s3.aaaaa.io/febcf695e083464445d590e11e7d4fbf/febcf695e083464445d590e11e7d4fbf.m3u8
-#EXTINF:-1 tvg-name="Echi Echi 美白牛奶 GAL Gangimari SEX！ ！！美乳美肌巨臀最强身材欲火中烧！ ！！这是粉红色的图案！ ！！去讨厌的性交！ ！！正在发出警报！ ！！用挤压活塞攻击我！ ！！ / 爱情酒店 纪录片 休息 2 小时 / 94" group-title="WhosTV", Echi Echi 美白牛奶 GAL Gangimari SEX！ ！！美乳美肌巨臀最强身材欲火中烧！ ！！这是粉红色的图案！ ！！去讨厌的性交！ ！！正在发出警报！ ！！用挤压活塞攻击我！ ！！ / 爱情酒店 纪录片 休息 2 小时 / 94
-https://s3.aaaaa.io/f042f4dba3303f9b732976b7e36bdaa0/f042f4dba3303f9b732976b7e36bdaa0.m3u8
-#EXTINF:-1 tvg-name="JUL-002 成熟美丽的痴女姨母北条麻妃对处男外甥的内射性教育" group-title="WhosTV", JUL-002 成熟美丽的痴女姨母北条麻妃对处男外甥的内射性教育
-https://s3.aaaaa.io/27465bfea8f729e7a40894ec1b9abff7/27465bfea8f729e7a40894ec1b9abff7.m3u8
-#EXTINF:-1 tvg-name="JUTA-178 最好！ ！三十多岁妻子的首部全裸AV纪录片 芦野果步 - 芦野香帆" group-title="WhosTV", JUTA-178 最好！ ！三十多岁妻子的首部全裸AV纪录片 芦野果步 - 芦野香帆
-https://s3.aaaaa.io/021404e532bd0740a76e956b21664663/021404e532bd0740a76e956b21664663.m3u8
-#EXTINF:-1 tvg-name="ZEX-421 女仆教育。 - 堕落贵族琉璃川山茶花 - 凪沙美月 - 渚光希" group-title="WhosTV", ZEX-421 女仆教育。 - 堕落贵族琉璃川山茶花 - 凪沙美月 - 渚光希
-https://s3.aaaaa.io/1929fb064d6e99277001c2155bed9315/1929fb064d6e99277001c2155bed9315.m3u8
-#EXTINF:-1 tvg-name="DLDSS-433 美丽有礼的淫秽私语ASMR女人文教师进行性教育自慰支援补习课小泽奈穂 - 小泽菜穗" group-title="WhosTV", DLDSS-433 美丽有礼的淫秽私语ASMR女人文教师进行性教育自慰支援补习课小泽奈穂 - 小泽菜穗
-https://s3.aaaaa.io/96792956832e27581b06636083c240f2/96792956832e27581b06636083c240f2.m3u8
-#EXTINF:-1 tvg-name="做爱的时候感觉好到泪流满面……哭泣的美丽人妻辰波广奈40岁AV出道纪录片" group-title="WhosTV", 做爱的时候感觉好到泪流满面……哭泣的美丽人妻辰波广奈40岁AV出道纪录片
-https://s3.aaaaa.io/17c6e9cc5ef2b2559357d5bf1fa272ff/17c6e9cc5ef2b2559357d5bf1fa272ff.m3u8
-#EXTINF:-1 tvg-name="GENU-007夫妻强暴：被戴绿帽的情侣中出纪录（GENU-007）" group-title="WhosTV", GENU-007夫妻强暴：被戴绿帽的情侣中出纪录（GENU-007）
-https://s3.aaaaa.io/e49441edf4f05699eaee46cceb9385dc/e49441edf4f05699eaee46cceb9385dc.m3u8
-#EXTINF:-1 tvg-name="STARS-590我是一个积极的女孩，但我没有性知识，我将与我的童年朋友（几乎是处女）进行性行为，他是色情和天真的。光青空" group-title="WhosTV", STARS-590我是一个积极的女孩，但我没有性知识，我将与我的童年朋友（几乎是处女）进行性行为，他是色情和天真的。光青空
-https://s3.aaaaa.io/ae1899b6f93b4e0daa13fe4377582a2a/ae1899b6f93b4e0daa13fe4377582a2a.m3u8
-#EXTINF:-1 tvg-name="IPX-819 出差处的破纪录暴雨 和处男部下只好共处一室... 被雨打湿的身体 性兴奋的部下向我袭来 湿润绝伦性交 相泽南" group-title="WhosTV", IPX-819 出差处的破纪录暴雨 和处男部下只好共处一室... 被雨打湿的身体 性兴奋的部下向我袭来 湿润绝伦性交 相泽南
-https://s3.aaaaa.io/38c7b21e170021e50cd2a74af10ddfea/38c7b21e170021e50cd2a74af10ddfea.m3u8
-#EXTINF:-1 tvg-name="妈妈的真实性教育 Arisa Hanyu" group-title="WhosTV", 妈妈的真实性教育 Arisa Hanyu
-https://s3.aaaaa.io/c9bb189df95ea3c24c1797ecc160cedc/c9bb189df95ea3c24c1797ecc160cedc.m3u8
-#EXTINF:-1 tvg-name="JUX-046公公巨乳少妻教育星野雷梦" group-title="WhosTV", JUX-046公公巨乳少妻教育星野雷梦
-https://s3.aaaaa.io/85eae7a890c5267a367a97098c60cd13/85eae7a890c5267a367a97098c60cd13.m3u8
-#EXTINF:-1 tvg-name="MIAB-473 课堂参观日 性感妈妈 透视乳头 凸起！大胸部摇动！肉臀露底惹人欲望挑逗！根据中出次数提升儿子的成绩，我是有冈美羽" group-title="WhosTV", MIAB-473 课堂参观日 性感妈妈 透视乳头 凸起！大胸部摇动！肉臀露底惹人欲望挑逗！根据中出次数提升儿子的成绩，我是有冈美羽
-https://s3.aaaaa.io/f9bc6bae912172b570b46ed0e668ed82/f9bc6bae912172b570b46ed0e668ed82.m3u8

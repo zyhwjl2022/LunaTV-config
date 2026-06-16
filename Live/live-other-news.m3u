@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="港台频道", 无线新闻
 http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="港台频道", 无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="港台频道", 无线新闻
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="港台频道", 无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -11,42 +13,20 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 https://hls-gateway.vpstv.net/streams/476926.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://live.lizanyang.top/tv/无线新闻.png" group-title="港台频道", 无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港台频道", 无线新闻
-http://43.251.226.89:8080/play/865.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港台频道", 无线新闻
-http://43.251.226.89:8080/play/893.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-id="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港台频道", 无线新闻台
-https://hls-gateway.vpstv.net/streams/708884.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="港台频道", 无线新闻台
-https://rust.946985.filegear-sg.me/proxy/fdb75d33a0535169?token=tgJerryfeng
-#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="港台频道", 无线新闻台
-https://rust.946985.filegear-sg.me/proxy/8b72fad92747dead?token=tgJerryfeng
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港台频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 无线新闻
 http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港台频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 无线新闻
 https://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="http://10.1.0.25:5180/logo/无线新闻.png" group-title="港台频道", 无线新闻
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="http://10.1.0.25:5180/logo/无线新闻.png" group-title="港台频道", 无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="港台频道", 无线新闻
 http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 #EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻台" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="港台频道", 无线新闻
 http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-#EXTINF:-1 tvg-name="NOW新闻" tvg-id="Now新闻" tvg-logo="https://epg.112114.xyz/logo/NOW新闻.png" group-title="港台频道", NOW新闻
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://epg.112114.xyz/logo/NOW新闻.png" group-title="港台频道", NOW新闻
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="NOW新闻" tvg-id="Now新闻" tvg-logo="https://epg.112114.xyz/logo/NOW新闻.png" group-title="港台频道", Now新闻
-p3p://167.114.175.6:55331/653e4f3d0003bdbf0c98ffaf583a6e3a
-#EXTINF:-1 tvg-name="NOW新闻" tvg-id="Now新闻" tvg-logo="https://logo.catvod.com/NOW新闻.png" group-title="港台频道", NOW新闻
-http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://live.fanmingming.cn/tv/呼和浩特新闻综合.png" group-title="内蒙频道", 呼市新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.cn/tv/包头新闻综合.png" group-title="内蒙频道", 包头新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.cn/tv/鄂尔多斯新闻综合.png" group-title="内蒙频道", 鄂尔多斯新闻
-https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://live.fanmingming.cn/tv/巴彦淖尔新闻综合.png" group-title="内蒙频道", 巴彦淖尔新闻
-https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://live.fanmingming.cn/tv/赤峰新闻综合.png" group-title="内蒙频道", 赤峰新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.cn/tv/乌兰察布.png" group-title="内蒙频道", 乌兰察布新闻
-https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 #EXTINF:-1 tvg-name="江津新闻" tvg-id="江津新闻" tvg-logo="https://tb.zbds.top/logo/江津新闻.png" group-title="纪录频道", 江津新闻
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="珲春新闻" tvg-id="珲春新闻" tvg-logo="https://tb.zbds.top/logo/珲春新闻.png" group-title="纪录频道", 珲春新闻
@@ -55,46 +35,6 @@ http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="辉南新闻" tvg-id="辉南新闻" tvg-logo="https://tb.zbds.top/logo/辉南新闻.png" group-title="纪录频道", 辉南新闻
 http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="iNews新闻台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/iNews新闻台.png" group-title="港澳代理", iNews新闻台
-http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
-#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY资讯台.png" group-title="港澳代理", HOY资讯台
-http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
-#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/有线新闻.png" group-title="港澳代理", 有线新闻
-http://iptv.4666888.xyz/iptv2A.php?id=31
-#EXTINF:-1 tvg-name="BBC" tvg-id="BBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际频道", BBC
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-name="BBC" tvg-id="BBC" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际频道", BBC
-https://stream1.freetv.fun/bbc-news-5.m3u8
-#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="国际频道", CBC News
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道", ABC News Live
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 tvg-name="WionNews" tvg-logo="https://live.fanmingming.cn/tv/WionNews.png" group-title="国际频道", WionNews
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="NBC" tvg-id="NBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/NBC1.png" group-title="国际频道", NBC News Now
-https://jmp2.uk/sam-GBBB1500004LG.m3u8
-#EXTINF:-1 tvg-name="Sky News" tvg-id="Sky News" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SkyNews.png" group-title="国际频道", Sky News
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-name="Skynews" tvg-id="Skynews" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SkyNews.png" group-title="国际频道", Skynews
-https://smt.goiptv.us.ci/skynews_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="Skynews" tvg-id="Skynews" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SkyNews.png" group-title="国际频道", Skynews
-https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
-#EXTINF:-1 tvg-name="新闻频道|Skynews" tvg-id="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="国际频道", 新闻频道|Skynews
-https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
-#EXTINF:-1 tvg-name="日本新闻" tvg-id="RT08" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道", 日本全天新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-#EXTINF:-1 tvg-name="RT News" tvg-id="RT01" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道", RT News（英语国际）
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="Newsmax" tvg-id="NewsMax" tvg-logo="https://live.fanmingming.cn/tv/Newsmax.png" group-title="国际频道", Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="Newsmax" tvg-id="NewsMax" tvg-logo="https://live.fanmingming.cn/tv/Newsmax.png" group-title="国际频道", newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 tvg-name="Newsmax" tvg-id="NewsMax" tvg-logo="https://live.fanmingming.cn/tv/Newsmax.png" group-title="国际频道", NewsMax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="CBNNEWS" group-title="国际频道", CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-name="GB News" group-title="国际频道", GB News
-https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-name="Anshun Comprehensive News Channel" tvg-id="AnshunComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/anshun.jpg" group-title="News", Anshun Comprehensive News Channel
 https://hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 tvg-name="Chifeng Comprehensive News Chanel" tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="News", Chifeng Comprehensive News Chanel
@@ -107,548 +47,124 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="Tonghua TV (1080p)" tvg-id="TonghuaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" group-title="News", Tonghua TV (1080p)
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-name="滁州市广播电视台 新闻综合频道 (1080p)" tvg-id="ChuzhouNewsChannel.cn@SD" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="News", 滁州市广播电视台 新闻综合频道 (1080p)
+http://live.cztv.cc:85/live/xwpd.m3u8
 #EXTINF:-1 tvg-name="萍鄉新聞綜合 (576p) [Not 24/7]" tvg-id="PingxiangTVNewsChannel.cn@SD" tvg-logo="https://i.imgur.com/Kc7htop.jpg" group-title="News", 萍鄉新聞綜合 (576p) [Not 24/7]
 http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
 #EXTINF:-1 tvg-name="酒泉新闻综合 (576p)" tvg-id="JiuquanTVNewsComprehensiveChannel.cn@SD" tvg-logo="https://i.imgur.com/mPkG8Gi.png" group-title="News", 酒泉新闻综合 (576p)
 http://117.156.28.119/270000001111/1110000001/index.m3u8
 #EXTINF:-1 tvg-name="长沙新闻 [Geo-blocked]" tvg-id="HunanNewsChannel.cn@SD" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png" group-title="News", 长沙新闻 [Geo-blocked]
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
-#EXTINF:-1 tvg-name="上虞1新闻综合 (720p) [Not 24/7]" group-title="Undefined", 上虞1新闻综合 (720p) [Not 24/7]
-https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-name="乐清新闻 [Geo-blocked]" group-title="Undefined", 乐清新闻 [Geo-blocked]
-http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8
-#EXTINF:-1 tvg-name="亳州新聞頻道 (360p)" group-title="Undefined", 亳州新聞頻道 (360p)
-http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
-#EXTINF:-1 tvg-name="仙桃新聞綜合 (576p)" group-title="Undefined", 仙桃新聞綜合 (576p)
-http://221.233.242.239:280/live/71/playlist.m3u8
-#EXTINF:-1 tvg-name="农安新闻综合 [Geo-blocked]" group-title="Undefined", 农安新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:-1 tvg-name="利川新闻综合 (480p) [Not 24/7]" group-title="Undefined", 利川新闻综合 (480p) [Not 24/7]
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-#EXTINF:-1 tvg-name="南川新闻综合 (360p)" group-title="Undefined", 南川新闻综合 (360p)
-http://221.5.213.4:30000/1111.m3u8
-#EXTINF:-1 tvg-name="南阳新闻 (1080p) [Not 24/7]" group-title="Undefined", 南阳新闻 (1080p) [Not 24/7]
-http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
-#EXTINF:-1 tvg-name="吉州新聞綜合 (1080p)" group-title="Undefined", 吉州新聞綜合 (1080p)
-http://218.204.153.158/10.m3u8
-#EXTINF:-1 tvg-name="吴江新闻综合 (720p) [Not 24/7]" group-title="Undefined", 吴江新闻综合 (720p) [Not 24/7]
-http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
-#EXTINF:-1 tvg-name="四平新闻综合 [Geo-blocked]" group-title="Undefined", 四平新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/sptv/sd/live.m3u8
-#EXTINF:-1 tvg-name="广水新闻综合 [Geo-blocked]" group-title="Undefined", 广水新闻综合 [Geo-blocked]
-http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-#EXTINF:-1 tvg-name="延边新闻综合 [Geo-blocked]" group-title="Undefined", 延边新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 tvg-name="徐州新聞綜合 (1080p)" group-title="Undefined", 徐州新聞綜合 (1080p)
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-name="松原新闻综合 [Geo-blocked]" group-title="Undefined", 松原新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/sytv/sd/live.m3u8
-#EXTINF:-1 tvg-name="江津新闻综合 (480p)" group-title="Undefined", 江津新闻综合 (480p)
-http://222.179.155.21:1935/ch1.m3u8
-#EXTINF:-1 tvg-name="洪雅新闻综合 (1080p)" group-title="Undefined", 洪雅新闻综合 (1080p)
-http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
-#EXTINF:-1 tvg-name="涡阳新闻综合 (360p)" group-title="Undefined", 涡阳新闻综合 (360p)
-http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
-#EXTINF:-1 tvg-name="湘潭新闻综合 (720p)" group-title="Undefined", 湘潭新闻综合 (720p)
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="滁州新闻综合 (450p)" group-title="Undefined", 滁州新闻综合 (450p)
-http://183.167.193.45:1935/live/cztvzh/playlist.m3u8
-#EXTINF:-1 tvg-name="滨州新闻综合 (576p)" group-title="Undefined", 滨州新闻综合 (576p)
-http://stream.bzcm.net/2/sd/live.m3u8
-#EXTINF:-1 tvg-name="滨海新闻 (1080p)" group-title="Undefined", 滨海新闻 (1080p)
-http://60.30.52.41/live/bhtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="漳州新闻综合 (720p) [Not 24/7]" group-title="Undefined", 漳州新闻综合 (720p) [Not 24/7]
-https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1 tvg-name="灵台新闻综合 (1080p)" group-title="Undefined", 灵台新闻综合 (1080p)
-http://117.156.28.119/270000001111/1110000145/index.m3u8
-#EXTINF:-1 tvg-name="白山新闻综合 [Geo-blocked]" group-title="Undefined", 白山新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/baishan1/sd/live.m3u8
-#EXTINF:-1 tvg-name="耀才财经 (288p)" group-title="Undefined", 耀才财经 (288p)
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 tvg-name="芜湖新闻综合 (576p)" group-title="Undefined", 芜湖新闻综合 (576p)
-http://live1.wuhubtv.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-name="蓬安新闻综合 (720p) [Not 24/7]" group-title="Undefined", 蓬安新闻综合 (720p) [Not 24/7]
-http://palive.patv123.com:8091/live/xwpd_800K.m3u8
-#EXTINF:-1 tvg-name="西安新闻 (1080p) [Not 24/7]" group-title="Undefined", 西安新闻 (1080p) [Not 24/7]
-http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 tvg-name="辛集新聞頻道 (480p) [Not 24/7]" group-title="Undefined", 辛集新聞頻道 (480p) [Not 24/7]
-http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name="辽源新闻综合 [Geo-blocked]" group-title="Undefined", 辽源新闻综合 [Geo-blocked]
-https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:-1 tvg-name="通化新闻 [Geo-blocked]" group-title="Undefined", 通化新闻 [Geo-blocked]
-https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:-1 tvg-name="邗江资讯 (576p)" group-title="Undefined", 邗江资讯 (576p)
-http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8
-#EXTINF:-1 tvg-name="靖江新闻綜合 (480p) [Not 24/7]" group-title="Undefined", 靖江新闻綜合 (480p) [Not 24/7]
-http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
-#EXTINF:-1 tvg-name="广德新闻 HD" group-title="中文-新闻资讯", 广德新闻 HD
-http://pili-live-hls.guangde.ahxmgk.com/guangde-live/guangde20200324143845.m3u8
-#EXTINF:-1 tvg-name="韶关新闻综合" group-title="中文-新闻资讯", 韶关新闻综合
-http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
-#EXTINF:-1 tvg-name="惠州新闻综合" group-title="中文-新闻资讯", 惠州新闻综合
-http://dslive.grtn.cn/hzzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="河源新闻综合" group-title="中文-新闻资讯", 河源新闻综合
-http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151
-#EXTINF:-1 tvg-name="长白新闻综合" group-title="中文-新闻资讯", 长白新闻综合
-http://player.juyun.tv/tv/11347146.m3u8
-#EXTINF:-1 tvg-name="安岳新闻综合" group-title="中文-新闻资讯", 安岳新闻综合
-https://pili-live-hls.ayrmt.com/livecast-anyue/fmzb1635900355246.m3u8
-#EXTINF:-1 tvg-name="巴州新闻" group-title="中文-新闻资讯", 巴州新闻
-http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/chunklist_w877242305.m3u8
-#EXTINF:-1 tvg-name="成都新闻综合" group-title="中文-新闻资讯", 成都新闻综合
-http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/CDTV-1_4000.m3u8
-#EXTINF:-1 tvg-name="大英新闻综合" group-title="中文-新闻资讯", 大英新闻综合
-http://devpgclive.cmc.dyrmt.com/live/dyrmt01.m3u8
-#EXTINF:-1 tvg-name="恩阳新闻" group-title="中文-新闻资讯", 恩阳新闻
-http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/eyxw_2000.m3u8
-#EXTINF:-1 tvg-name="珙县新闻综合" group-title="中文-新闻资讯", 珙县新闻综合
-http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/gxzh_2000.m3u8
-#EXTINF:-1 tvg-name="犍为新闻综合" group-title="中文-新闻资讯", 犍为新闻综合
-http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/qwxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="泸州新闻综合频道" group-title="中文-新闻资讯", 泸州新闻综合频道
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
-#EXTINF:-1 tvg-name="绵阳新闻综合" group-title="中文-新闻资讯", 绵阳新闻综合
-http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/myytH265_4000.m3u8
-#EXTINF:-1 tvg-name="冕宁新闻频道" group-title="中文-新闻资讯", 冕宁新闻频道
-http://live.sctvcloud.com/live/mianning/playlist.m3u8
-#EXTINF:-1 tvg-name="攀钢新闻综合" group-title="中文-新闻资讯", 攀钢新闻综合
-http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/pgxwzh_2000.m3u8
-#EXTINF:-1 tvg-name="遂宁新闻综合" group-title="中文-新闻资讯", 遂宁新闻综合
-http://play.sngdxsn.com/live/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-name="西充新闻综合" group-title="中文-新闻资讯", 西充新闻综合
-http://play.xichongtv.com/ZHPDTV/ZHPDTV.m3u8?auth_key=1625563881-0-0-1090f118d34efb219508d3f6913eebf0
-#EXTINF:-1 tvg-name="雅安新闻" group-title="中文-新闻资讯", 雅安新闻
-http://m3u8.channel.yatv.tv/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 tvg-name="岳池新闻综合" group-title="中文-新闻资讯", 岳池新闻综合
-http://liveyc.cmc.yuechirmt.cn/live/yctv.m3u8
-#EXTINF:-1 tvg-name="陇南新闻综合" group-title="中文-新闻资讯", 陇南新闻综合
-http://live.lnsbigdata.cn/tv/3d2e3db8eea4b52ea1f09f98fa626397.m3u8
-#EXTINF:-1 tvg-name="民乐新闻" group-title="中文-新闻资讯", 民乐新闻
-http://39.134.32.102:6610/270000001111/1110000023/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="平凉新闻综合" group-title="中文-新闻资讯", 平凉新闻综合
-http://39.134.32.102:6610/270000001111/1110000021/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="天水新闻综合" group-title="中文-新闻资讯", 天水新闻综合
-http://39.134.32.102:6610/270000001111/1110000185/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="渭源新闻频道" group-title="中文-新闻资讯", 渭源新闻频道
-http://p2bj.weizan.cn/1334496652/224253674017686826/live.m3u8
-#EXTINF:-1 tvg-name="武威新闻综合" group-title="中文-新闻资讯", 武威新闻综合
-http://39.134.32.102:6610/270000001111/1110000174/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="漳县新闻综合" group-title="中文-新闻资讯", 漳县新闻综合
-http://39.134.32.102:6610/270000001111/1110000011/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="金华新闻综合" group-title="中文-新闻资讯", 金华新闻综合
-http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-name="丽水景宁新闻综合" group-title="中文-新闻资讯", 丽水景宁新闻综合
-http://pili-live-hls.jnbctv.com/jnlive/tv81-1537153703.m3u8
-#EXTINF:-1 tvg-name="宁波新闻综合" group-title="中文-新闻资讯", 宁波新闻综合
-http://live1.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_500k_flv&trs=hls_ts
-#EXTINF:-1 tvg-name="瑞安新闻综合" group-title="中文-新闻资讯", 瑞安新闻综合
-http://stream.rabtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="长兴新闻综合" group-title="中文-新闻资讯", 长兴新闻综合
-http://hls-camera-w11.quklive.com/live/1637563485927004/playlist.m3u8
-#EXTINF:-1 tvg-name="池州东至新闻" group-title="中文-新闻资讯", 池州东至新闻
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-name="繁昌新闻综合" group-title="中文-新闻资讯", 繁昌新闻综合
-https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8
-#EXTINF:-1 tvg-name="阜南新闻综合" group-title="中文-新闻资讯", 阜南新闻综合
-http://112.27.139.242:8278/fnxwzhd/playlist.m3u8
-#EXTINF:-1 tvg-name="合肥财经" group-title="中文-新闻资讯", 合肥财经
-http://223.244.92.30:808/8Fvh9ro/1000/live.m3u8
-#EXTINF:-1 tvg-name="淮北新闻" group-title="中文-新闻资讯", 淮北新闻
-http://live.0561rtv.cn/xwzh/hd/live.m3u8
-#EXTINF:-1 tvg-name="太和新闻" group-title="中文-新闻资讯", 太和新闻
-http://p2.weizan.cn/1110366022/132071060845712961/live.m3u8
-#EXTINF:-1 tvg-name="桐城新闻频道" group-title="中文-新闻资讯", 桐城新闻频道
-http://pili-live-hls.ahtc.tianma3600.com/ahtc/tcxw.m3u8
-#EXTINF:-1 tvg-name="湾址新闻" group-title="中文-新闻资讯", 湾址新闻
-http://60.169.39.215:8090/live/ch0.m3u8
-#EXTINF:-1 tvg-name="五河新闻综合" group-title="中文-新闻资讯", 五河新闻综合
-http://60.170.109.149:1935/live/wuhe2/playlist.m3u8
-#EXTINF:-1 tvg-name="宣城郎溪新闻" group-title="中文-新闻资讯", 宣城郎溪新闻
-http://117.70.93.210:1935/live/xinwen/chunklist_w92126604.m3u8
-#EXTINF:-1 tvg-name="延安新闻综合" group-title="中文-新闻资讯", 延安新闻综合
-http://yatv1bl.yanews.cn/yatv101/yatv102.m3u8
-#EXTINF:-1 tvg-name="洪湖新闻频道" group-title="中文-新闻资讯", 洪湖新闻频道
-http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1672502399-0-0-b944c13c0dc5551ccf445dedb5d2027b
-#EXTINF:-1 tvg-name="黄陂新闻频道" group-title="中文-新闻资讯", 黄陂新闻频道
-http://live.hptv.com.cn:10080/live/cctv13.m3u8
-#EXTINF:-1 tvg-name="安乡新闻" group-title="中文-新闻资讯", 安乡新闻
-http://liveplay.rednet.cn/live/anxiang_tv_jhge13.m3u8
-#EXTINF:-1 tvg-name="辰溪新闻综合" group-title="中文-新闻资讯", 辰溪新闻综合
-http://liveplay.rednet.cn/live/chenxi_tv_e26d20.m3u8
-#EXTINF:-1 tvg-name="衡阳新闻" group-title="中文-新闻资讯", 衡阳新闻
-http://play-dgv-xhncloud.voc.com.cn/live/5243_ImycEv.m3u8
-#EXTINF:-1 tvg-name="衡阳新闻[1047*576]" group-title="中文-新闻资讯", 衡阳新闻[1047*576]
-http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="津市新闻频道" group-title="中文-新闻资讯", 津市新闻频道
-http://play-dgv-xhncloud.voc.com.cn/live/5243_ELbxiN.m3u8
-#EXTINF:-1 tvg-name="平江新闻" group-title="中文-新闻资讯", 平江新闻
-http://play-dgv-xhncloud.voc.com.cn/live/5243_MEAQRB.m3u8
-#EXTINF:-1 tvg-name="桑植新闻综合" group-title="中文-新闻资讯", 桑植新闻综合
-http://play-dgv-xhncloud.voc.com.cn/live/5243_NbaWW5.m3u8
-#EXTINF:-1 tvg-name="邵阳新闻综合" group-title="中文-新闻资讯", 邵阳新闻综合
-http://live2.sytv.net.cn/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-name="新宁新闻综合" group-title="中文-新闻资讯", 新宁新闻综合
-http://play-dgv-xhncloud.voc.com.cn/live/5243_y9Eag0.m3u8
-#EXTINF:-1 tvg-name="益阳新闻" group-title="中文-新闻资讯", 益阳新闻
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxwhd210130.m3u8
-#EXTINF:-1 tvg-name="益阳新闻[720*576]" group-title="中文-新闻资讯", 益阳新闻[720*576]
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxw210130.m3u8
-#EXTINF:-1 tvg-name="长沙新闻[1280*720]" group-title="中文-新闻资讯", 长沙新闻[1280*720]
-rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_346?auth_key=1936692784-0-0-9042421539d8424068f7e575f090dbca
-#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.cn/tv/包头新闻综合.png" group-title="内蒙频道", 包头新闻综合
-http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
-#EXTINF:-1 tvg-name="邵武新闻频道" group-title="中文-新闻资讯", 邵武新闻频道
-http://84y6jdxz.live2.danghongyun.com/live/hls/8efcc6f8c3a1469181c23d1c64e61526/7a29fd92c3324a06a1b943711573b04f.m3u8
-#EXTINF:-1 tvg-name="漳州新闻" group-title="中文-新闻资讯", 漳州新闻
-http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1 tvg-name="梧州新闻综合" group-title="中文-新闻资讯", 梧州新闻综合
-http://live.wzrtv.cn/xwzh1/sd/live.m3u8
-#EXTINF:-1 tvg-name="马山新闻" group-title="中文-新闻资讯", 马山新闻
-http://hls.nntv.cn/nnlive/MSTV_A.m3u8
-#EXTINF:-1 tvg-name="九江新闻综合" group-title="中文-新闻资讯", 九江新闻综合
-http://39.135.138.58:18890/PLTV/88888888/224/3221225774/index.m3u8
-#EXTINF:-1 tvg-name="上饶新闻综合" group-title="中文-新闻资讯", 上饶新闻综合
-http://live.0793.tv/srtv1/sd/live.m3u8
-#EXTINF:-1 tvg-name="宝应生活资讯" group-title="中文-新闻资讯", 宝应生活资讯
-http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-name="常熟新闻频道" group-title="中文-新闻资讯", 常熟新闻频道
-http://play-live.21cs.cn/tv_channel/cstv1.m3u8?auth_key=1592026485-f871ffb1e3b646d59dba799b1e6f3d61-0-53bbc432233cf87b39a6ec67a23981c3
-#EXTINF:-1 tvg-name="丹阳新闻综合" group-title="中文-新闻资讯", 丹阳新闻综合
-http://danyang-hls-tv-yf.cm.jstv.com/live/dyzh/online.m3u8
-#EXTINF:-1 tvg-name="东海新闻频道" group-title="中文-新闻资讯", 东海新闻频道
-http://donghai-hls-tv-yf.cm.jstv.com/live/donghaixinwensp/online.m3u8
-#EXTINF:-1 tvg-name="丰县新闻综合" group-title="中文-新闻资讯", 丰县新闻综合
-http://fengxian-hls-tv-yf.cm.jstv.com/live/fxxwzh/online.m3u8
-#EXTINF:-1 tvg-name="贾汪新闻频道" group-title="中文-新闻资讯", 贾汪新闻频道
-http://jiawang-hls-tv-yf.cm.jstv.com/live/jwxw/online.m3u8
-#EXTINF:-1 tvg-name="张家港新闻" group-title="中文-新闻资讯", 张家港新闻
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-name="姜堰新闻综合" group-title="中文-新闻资讯", 姜堰新闻综合
-http://jiangyan-hls-tv-yf.cm.jstv.com/live/jiangyanzh/online.m3u8
-#EXTINF:-1 tvg-name="金坛新闻频道" group-title="中文-新闻资讯", 金坛新闻频道
-http://live-dft-hls-yf.jstv.com/live/jintan_xw/online.m3u8
-#EXTINF:-1 tvg-name="沛县新闻综合" group-title="中文-新闻资讯", 沛县新闻综合
-http://peixian-hls-tv-yf.cm.jstv.com/live/pxzh/online.m3u8
-#EXTINF:-1 tvg-name="浦口新闻综合" group-title="中文-新闻资讯", 浦口新闻综合
-http://live-play.pukoufabu.com/pkdst/xwzhpd.m3u8
-#EXTINF:-1 tvg-name="泗阳资讯频道" group-title="中文-新闻资讯", 泗阳资讯频道
-http://siyang-hls-tv-yf.cm.jstv.com/live/siyangzx/online.m3u8
-#EXTINF:-1 tvg-name="睢宁资讯频道" group-title="中文-新闻资讯", 睢宁资讯频道
-http://suining-hls-tv-yf.cm.jstv.com/live/suiningys/online.m3u8
-#EXTINF:-1 tvg-name="泰兴新闻频道" group-title="中文-新闻资讯", 泰兴新闻频道
-http://sj.smarttaixing.com:1935/live/_definst_/txzb/playlist.m3u8
-#EXTINF:-1 tvg-name="宜兴新闻频道" group-title="中文-新闻资讯", 宜兴新闻频道
-http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
-#EXTINF:-1 tvg-name="曹县新闻" group-title="中文-新闻资讯", 曹县新闻
-https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
-#EXTINF:-1 tvg-name="昌乐新闻" group-title="中文-新闻资讯", 昌乐新闻
-https://jsylivealone302.iqilu.com/changle/changle_tv01.m3u8
-#EXTINF:-1 tvg-name="昌邑新闻综合" group-title="中文-新闻资讯", 昌邑新闻综合
-https://jsylivealone302.iqilu.com/live/changyi_tv01.m3u8
-#EXTINF:-1 tvg-name="昌邑新闻综合[1280*720]" group-title="中文-新闻资讯", 昌邑新闻综合[1280*720]
-https://jsylivealone302.iqilu.com/live/changyi_tv01/index.m3u8
-#EXTINF:-1 tvg-name="定陶新闻频道[1280*720]" group-title="中文-新闻资讯", 定陶新闻频道[1280*720]
-https://jsylivealone302.iqilu.com/live/dingtao_tv01/index.m3u8
-#EXTINF:-1 tvg-name="东明新闻综合" group-title="中文-新闻资讯", 东明新闻综合
-https://jsylivealone302.iqilu.com/live/dongming_tv01/index.m3u8
-#EXTINF:-1 tvg-name="东营新闻综合频道" group-title="中文-新闻资讯", 东营新闻综合频道
-http://stream.hhek.cn/twpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="高密新闻频道[1067*600]" group-title="中文-新闻资讯", 高密新闻频道[1067*600]
-https://jsylivealone302.iqilu.com/gaomi/gaomi_tv01.m3u8
-#EXTINF:-1 tvg-name="菏泽曹县新闻综合" group-title="中文-新闻资讯", 菏泽曹县新闻综合
-https://jsylivealone302.iqilu.com/live/caoxian_tv01/index.m3u8
-#EXTINF:-1 tvg-name="菏泽单县新闻综合" group-title="中文-新闻资讯", 菏泽单县新闻综合
-https://jsylivealone302.iqilu.com:443/live/shanxian_tv01/index.m3u8
-#EXTINF:-1 tvg-name="菏泽武城新闻综合" group-title="中文-新闻资讯", 菏泽武城新闻综合
-https://jsylivealone302.iqilu.com:443/live/wucheng_tv01/index.m3u8
-#EXTINF:-1 tvg-name="即墨新闻综合" group-title="中文-新闻资讯", 即墨新闻综合
-https://jsylivealone302.iqilu.com/live/jimo_tv01/index.m3u8
-#EXTINF:-1 tvg-name="巨野新闻频道" group-title="中文-新闻资讯", 巨野新闻频道
-https://jsylivealone302.iqilu.com/live/juye_tv01/index.m3u8
-#EXTINF:-1 tvg-name="垦利新闻频道" group-title="中文-新闻资讯", 垦利新闻频道
-https://livealone302.iqilu.com/kenli/kenli_tv01/playlist.m3u8
-#EXTINF:-1 tvg-name="临朐新闻频道[786*576]" group-title="中文-新闻资讯", 临朐新闻频道[786*576]
-https://jsylivealone302.iqilu.com/live/linqu_tv01/index.m3u8
-#EXTINF:-1 tvg-name="临沭新闻频道" group-title="中文-新闻资讯", 临沭新闻频道
-https://jsylivealone302.iqilu.com/live/linshu_tv01/index.m3u8
-#EXTINF:-1 tvg-name="临淄新闻综合" group-title="中文-新闻资讯", 临淄新闻综合
-https://jsylivealone302.iqilu.com/live/linzi_tv01/index.m3u8
-#EXTINF:-1 tvg-name="罗庄新闻综合[768*576]" group-title="中文-新闻资讯", 罗庄新闻综合[768*576]
-https://jsylivealone302.iqilu.com/live/luozhuang_tv01/index.m3u8
-#EXTINF:-1 tvg-name="蓬莱区新闻频道" group-title="中文-新闻资讯", 蓬莱区新闻频道
-https://jsylivealone302.iqilu.com/live/penglai_tv01/index.m3u8
-#EXTINF:-1 tvg-name="栖霞市新闻频道" group-title="中文-新闻资讯", 栖霞市新闻频道
-https://jsylivealone302.iqilu.com/live/qixia_tv01/index.m3u8
-#EXTINF:-1 tvg-name="曲阜新闻综合频道" group-title="中文-新闻资讯", 曲阜新闻综合频道
-https://jsylivealone302.iqilu.com/live/qufu_tv01/index.m3u8
-#EXTINF:-1 tvg-name="日照新闻综合频道[1280*720]" group-title="中文-新闻资讯", 日照新闻综合频道[1280*720]
-http://live.rzw.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="乳山新闻综合" group-title="中文-新闻资讯", 乳山新闻综合
-https://jsylivealone302.iqilu.com/live/rushan_tv01/index.m3u8
-#EXTINF:-1 tvg-name="寿光新闻频道" group-title="中文-新闻资讯", 寿光新闻频道
-http://rmtbf.univalsoft.com/rmt/live.m3u8
-#EXTINF:-1 tvg-name="泗水新闻综合" group-title="中文-新闻资讯", 泗水新闻综合
-https://jsylivealone302.iqilu.com/live/sishui_tv01/index.m3u8
-#EXTINF:-1 tvg-name="台儿庄新闻综合" group-title="中文-新闻资讯", 台儿庄新闻综合
-https://jsylivealone302.iqilu.com/live/taierzhuang_tv01/index.m3u8
-#EXTINF:-1 tvg-name="潍坊滨海新闻综合" group-title="中文-新闻资讯", 潍坊滨海新闻综合
-https://livealone302.iqilu.com/binhai/binhai_tv.m3u8
-#EXTINF:-1 tvg-name="潍坊一套新闻综合" group-title="中文-新闻资讯", 潍坊一套新闻综合
-http://stream.wfcmw.cn/1/sd/live.m3u8?_upt=9148f0a51578381735
-#EXTINF:-1 tvg-name="武城新闻综合" group-title="中文-新闻资讯", 武城新闻综合
-https://jsylivealone302.iqilu.com/live/wucheng_tv01/index.m3u8
-#EXTINF:-1 tvg-name="薛城新闻综合" group-title="中文-新闻资讯", 薛城新闻综合
-https://jsylivealone302.iqilu.com/xuecheng/xuecheng_tv01.m3u8
-#EXTINF:-1 tvg-name="沂源新闻频道" group-title="中文-新闻资讯", 沂源新闻频道
-https://jsylivealone302.iqilu.com/live/yiyuan_tv01/index.m3u8
-#EXTINF:-1 tvg-name="郓城新闻综合" group-title="中文-新闻资讯", 郓城新闻综合
-https://jsylivealone302.iqilu.com/live/yuncheng_tv01/index.m3u8
-#EXTINF:-1 tvg-name="枣庄新闻综合[960*540]" group-title="中文-新闻资讯", 枣庄新闻综合[960*540]
-http://stream.zzgd.tv/1/sd/live.m3u8
-#EXTINF:-1 tvg-name="长清新闻综合" group-title="中文-新闻资讯", 长清新闻综合
-https://jsylivealone302.iqilu.com/live/changqing_tv01/index.m3u8
-#EXTINF:-1 tvg-name="诸城新闻综合" group-title="中文-新闻资讯", 诸城新闻综合
-https://jsyaudiolive302.iqilu.com/live/zhucheng_tv01/index.m3u8
-#EXTINF:-1 tvg-name="河曲新闻综合" group-title="中文-新闻资讯", 河曲新闻综合
-http://w9dlwfw4.live.sxmty.com/live/hls/1fef51ab2fa94d11830411421272c2fd/8baaa4e2cbd64ed89d84d7e0ac0279ee-1.m3u8
-#EXTINF:-1 tvg-name="朔州新闻综合" group-title="中文-新闻资讯", 朔州新闻综合
-http://stream.sxsztv.com/live1/sd/live.m3u8
-#EXTINF:-1 tvg-name="南川新闻综合" group-title="中文-新闻资讯", 南川新闻综合
-http://nanchuanlive.cbg.cn:30000/1111.m3u8
-#EXTINF:-1 tvg-name="彭水新闻综合" group-title="中文-新闻资讯", 彭水新闻综合
-http://pengshuilive.cbg.cn/pengshui01.m3u8
-#EXTINF:-1 tvg-name="万盛新闻综合" group-title="中文-新闻资讯", 万盛新闻综合
-http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="酉阳新闻综合" group-title="中文-新闻资讯", 酉阳新闻综合
-http://qxlmlive.cbg.cn:1935/applive/youytv01/playlist.m3u8
-#EXTINF:-1 tvg-name="肥乡新闻综合" group-title="中文-新闻资讯", 肥乡新闻综合
-https://jwcdnqx.hebyun.com.cn/live/hdsfxqxwzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="衡水新闻综合[720*576]" group-title="中文-新闻资讯", 衡水新闻综合[720*576]
-http://218.10.43.24:81/live/bdac590a43b11a837c716a5ad606e95f/high/live.m3u8
-#EXTINF:-1 tvg-name="衡阳新闻综合[720*576]" group-title="中文-新闻资讯", 衡阳新闻综合[720*576]
-http://218.10.43.24:81/live/157ba509813644ea400e7c552b934d93/high/live.m3u8
-#EXTINF:-1 tvg-name="鸡泽新闻综合" group-title="中文-新闻资讯", 鸡泽新闻综合
-https://jwcdnqx.hebyun.com.cn/live/jiyunjize/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="滦南新闻综合" group-title="中文-新闻资讯", 滦南新闻综合
-https://tv.lnshw.com.cn:8123/lntv1/live.m3u8
-#EXTINF:-1 tvg-name="武安新闻综合" group-title="中文-新闻资讯", 武安新闻综合
-https://jwliveqxzb.hebyun.com.cn/wuan1/wuan1.m3u8
-#EXTINF:-1 tvg-name="安阳新闻综合" tvg-logo="http://cc.118138.xyz/tvlogo/安阳新闻综合.png" group-title="中文-新闻资讯", 安阳新闻综合
-http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
-#EXTINF:-1 tvg-name="新乡新闻综合" group-title="中文-新闻资讯", 新乡新闻综合
-http://player2.juyun.tv/camera/08813174.m3u8
-#EXTINF:-1 tvg-name="格尔木新闻综合" group-title="中文-新闻资讯", 格尔木新闻综合
-http://live.geermurmt.com/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="滨海新闻综合[785*576]" group-title="中文-新闻资讯", 滨海新闻综合[785*576]
-http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="七师新闻综合" group-title="中文-新闻资讯", 七师新闻综合
-https://klmyzb.rcsxzx.com/hls/qishi1.m3u8
-#EXTINF:-1 tvg-name="五家渠新闻综合" group-title="中文-新闻资讯", 五家渠新闻综合
-http://livewjq.chinamcache.com/live/wjq1.m3u8
-#EXTINF:-1 tvg-name="安顺新闻频道" group-title="中文-新闻资讯", 安顺新闻频道
-https://player.juyun.tv/camera/64413134.m3u8
-#EXTINF:-1 tvg-name="道真新闻综合" group-title="中文-新闻资讯", 道真新闻综合
-http://live.dzrmt.com:90/live/XWZH_1M.m3u8
-#EXTINF:-1 tvg-name="铜仁新闻综合" group-title="中文-新闻资讯", 铜仁新闻综合
-http://media.trrtv.com:8083/videos/live/10/37/iY2ZjcOkrjAJN/iY2ZjcOkrjAJN.M3U8
-#EXTINF:-1 tvg-name="剑川新闻综合" group-title="中文-新闻资讯", 剑川新闻综合
-http://39.130.202.77:6610/gitv_live/G_JCTV/G_JCTV.m3u8
-#EXTINF:-1 tvg-name="陆良新闻" group-title="中文-新闻资讯", 陆良新闻
-https://hwapi.yunshicloud.com/9327b6/v8i7rf.m3u8
-#EXTINF:-1 tvg-name="丘北新闻综合" group-title="中文-新闻资讯", 丘北新闻综合
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
-#EXTINF:-1 tvg-name="漾濞新闻频道" group-title="中文-新闻资讯", 漾濞新闻频道
-http://39.130.202.77:6610/gitv_live/G_YANGBI/G_YANGBI.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-id="ABC News" tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="GPT-新闻", ABC News
-https://smt.goiptv.us.ci/abcnews_glo/playlist.m3u8
-#EXTINF:-1 tvg-name="ABCNEWS" tvg-id="ABC News" tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="GPT-新闻", ABC NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-id="ABC News" tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="GPT-新闻", ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-id="ABC News" tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="GPT-新闻", ABC News
-https://smart.dxjc.pp.ua/smart.php?id=abcnews_glo&token=tmxk
-#EXTINF:-1 tvg-name="CBS HD" tvg-id="CBS HD" group-title="GPT-新闻", CBS HD
-https://smt.goiptv.us.ci/cbshd_glo/playlist.m3u8
-#EXTINF:-1 tvg-name="CBS HD" tvg-id="CBS HD" group-title="GPT-新闻", CBS HD
-https://smart.dxjc.pp.ua/smart.php?id=cbshd_glo&token=tmxk
-#EXTINF:-1 tvg-name="CBSN HD" tvg-id="CBSN HD" group-title="GPT-新闻", CBSN HD
-https://smt.goiptv.us.ci/cbsn_glo/playlist.m3u8
-#EXTINF:-1 tvg-name="CBSN HD" tvg-id="CBSN HD" group-title="GPT-新闻", CBSN HD
-https://smart.dxjc.pp.ua/smart.php?id=cbsn_glo&token=tmxk
-#EXTINF:-1 tvg-name="CBSN HD" tvg-id="CBSN HD" group-title="GPT-新闻", CBSN HD
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
-#EXTINF:-1 tvg-name="France 24" tvg-id="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png" group-title="GPT-新闻", France 24
-https://smt.goiptv.us.ci/france24_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24" tvg-id="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png" group-title="GPT-新闻", France 24
-http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-name="FRANCE24" tvg-id="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png" group-title="GPT-新闻", FRANCE 24
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-name="France 24" tvg-id="France 24" tvg-logo="https://live.fanmingming.com/tv/France 24.png" group-title="GPT-新闻", France 24
-https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
-#EXTINF:-1 tvg-name="新闻频道|France 24" tvg-id="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="GPT-新闻", 新闻频道|France 24
-https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
-#EXTINF:-1 tvg-name="France 24" tvg-id="France 24" tvg-logo="https://epg.yang-1989.eu.org/logo/FRANCE24.png" group-title="GPT-新闻", France 24
-https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CF24&token=tgJerryfeng
-#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-id="DW (Deutsch)" group-title="GPT-新闻", DW (Deutsch)
-https://smt.goiptv.us.ci/dw_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-id="DW (Deutsch)" group-title="GPT-新闻", DW (Deutsch)
-https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
-#EXTINF:-1 tvg-name="Fox News" tvg-id="Fox News" group-title="GPT-新闻", Fox News
-https://smt.goiptv.us.ci/foxnews_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox News" tvg-id="Fox News" group-title="GPT-新闻", Fox News
-https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
-#EXTINF:-1 tvg-name="CNN International" tvg-id="CNN International" tvg-logo="https://11.112114.xyz/logo/CNN International.png" group-title="GPT-新闻", CNN International
-https://smt.goiptv.us.ci/Cnn/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-id="CNN International" tvg-logo="https://11.112114.xyz/logo/CNN International.png" group-title="GPT-新闻", CNN International
-https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
-#EXTINF:-1 tvg-name="CNN International" tvg-id="CNN International" tvg-logo="https://11.112114.xyz/logo/CNN International.png" group-title="GPT-新闻", CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CNN backup" tvg-id="CNN backup" group-title="GPT-新闻", CNN backup
-https://smt.goiptv.us.ci/cnn_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN backup" tvg-id="CNN backup" group-title="GPT-新闻", CNN backup
-https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", BBC World News
-https://smt.goiptv.us.ci/bbcnews_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", BBC World News
-https://smt.goiptv.us.ci/Bbcnews/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", BBC World News
-https://smt.goiptv.us.ci/bbcworldnews_antik/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", BBC World News
-http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel%28BBCworld%29/index.m3u8
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", BBC World News
-https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", BBC World News
-https://smart.dxjc.pp.ua/smart.php?id=Bbcnews&token=tmxk
-#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", BBC World News
-https://smart.dxjc.pp.ua/smart.php?id=bbcworldnews_antik&token=tmxk
-#EXTINF:-1 tvg-name="新闻频道|BBC World News" tvg-id="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", 新闻频道|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
-#EXTINF:-1 tvg-name="新闻频道|BBC World News" tvg-id="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", 新闻频道|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
-#EXTINF:-1 tvg-name="英国|BBC World News" tvg-id="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="GPT-新闻", 英国|BBC World News
-https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
-#EXTINF:-1 tvg-name="Bloomberg News" tvg-id="Bloomberg News" group-title="GPT-新闻", Bloomberg News
-https://smt.goiptv.us.ci/bloomberg_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg News" tvg-id="Bloomberg News" group-title="GPT-新闻", Bloomberg News
-https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
-#EXTINF:-1 tvg-name="Al-Jazeera" tvg-id="Al-Jazeera" group-title="GPT-新闻", Al-Jazeera
-https://smt.goiptv.us.ci/aljazeera_twn/playlist.m3u8
-#EXTINF:-1 tvg-name="Al-Jazeera" tvg-id="Al-Jazeera" group-title="GPT-新闻", Al-Jazeera
-https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
-#EXTINF:-1 tvg-name="iNews TV" tvg-id="iNews TV" group-title="GPT-印尼", iNews TV
-https://smt.goiptv.us.ci/Inewstv/playlist.m3u8
-#EXTINF:-1 tvg-name="iNews TV" tvg-id="iNews TV" group-title="GPT-印尼", iNews TV
-https://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
-#EXTINF:-1 tvg-name="News 18 Tamil" tvg-id="News 18 Tamil" group-title="GPT-印度", News 18 Tamil
-https://smt.goiptv.us.ci/news18tamil_raj/playlist.m3u8
-#EXTINF:-1 tvg-name="News 18 Tamil" tvg-id="News 18 Tamil" group-title="GPT-印度", News 18 Tamil
-https://smart.dxjc.pp.ua/smart.php?id=news18tamil_raj&token=tmxk
-#EXTINF:-1 tvg-name="Zee News" tvg-id="Zee News" group-title="GPT-印度", Zee News
-https://smt.goiptv.us.ci/Zeenews/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee News" tvg-id="Zee News" group-title="GPT-印度", Zee News
-https://smart.dxjc.pp.ua/smart.php?id=Zeenews&token=tmxk
-#EXTINF:-1 tvg-name="Asianet News" tvg-id="Asianet News" group-title="GPT-印度", Asianet News
-https://smt.goiptv.us.ci/asianetnews_raj/playlist.m3u8
-#EXTINF:-1 tvg-name="Asianet News" tvg-id="Asianet News" group-title="GPT-印度", Asianet News
-https://smart.dxjc.pp.ua/smart.php?id=asianetnews_raj&token=tmxk
+#EXTINF:-1 tvg-name="西安新闻综合" tvg-id="西安新闻综合" tvg-logo="西安新闻综合.png" group-title="西安", 西安新闻综合
+https://xatv-yt.xiancity.cn/live/1/index.m3u8
+#EXTINF:-1 tvg-name="西安商务资讯" tvg-id="西安商务资讯" tvg-logo="西安商务资讯.png" group-title="西安", 西安商务资讯
+https://xatv-yt.xiancity.cn/live/3/index.m3u8
+#EXTINF:-1 tvg-name="iNews新闻台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/iNews新闻台.png" group-title="港澳代理", iNews新闻台
+http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
+#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY资讯台.png" group-title="港澳代理", HOY资讯台
+http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
+#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/有线新闻.png" group-title="港澳代理", 有线新闻
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-name="BBC" tvg-id="BBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际频道", BBC
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="国际频道", CBC News
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道", ABC News Live
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 tvg-name="WionNews" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/WionNews.png" group-title="国际频道", WionNews
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-id="NBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/NBC1.png" group-title="国际频道", NBC News Now
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-id="Sky News" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/SkyNews.png" group-title="国际频道", Sky News
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 tvg-name="新闻频道|Skynews" tvg-id="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="国际频道", 新闻频道|Skynews
+https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
+#EXTINF:-1 tvg-name="日本新闻" tvg-id="RT08" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="国际频道", 日本全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1 tvg-name="RT News" tvg-id="RT01" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道", RT News（英语国际）
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/Newsmax.png" group-title="国际频道", Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="CBN News" group-title="国际频道", CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-name="GB News" group-title="国际频道", GB News
+https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 tvg-name="Nanchang News & Generalist Channel" tvg-id="NanchangNewsGeneralistChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/nctv1.jpg" group-title="General", Nanchang News & Generalist Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 #EXTINF:-1 tvg-name="西安商务资讯 (180p) [Not 24/7]" tvg-id="XianBusinessInformationChannel.cn@SD" tvg-logo="https://i.imgur.com/dzdiY4O.png" group-title="Business", 西安商务资讯 (180p) [Not 24/7]
 http://stream2.xiancity.cn/xatv3/playlist.m3u8
-#EXTINF:-1 tvg-name="西安新闻综合" group-title="LocalTV", 西安新闻综合
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226386/index.m3u8
-#EXTINF:-1 tvg-name="半岛英语" tvg-id="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际频道", 半岛英语
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="运通财经F运通" group-title="YouTube「P」", 运通财经
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-name="中天新闻「循环直播」" group-title="YouTube「P」", 中天新闻「循环直播」
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 tvg-name="半岛英语" group-title="YouTube「P」", 半岛新闻「英语」
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 tvg-name="镜新闻" tvg-id="镜新闻" tvg-logo="https://tv-res.pages.dev/logo/镜新闻.png" group-title="YouTube「P」", 镜新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 tvg-name="镜新闻" tvg-id="镜新闻" tvg-logo="https://tv-res.pages.dev/logo/镜新闻.png" group-title="YouTube「P」", 镜新闻
-p3p://167.114.175.6:55331/63ebd33c0003c437e26ae87279d061f1
-#EXTINF:-1 tvg-name="CRI 环球资讯广播" tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="•广播", CRI 环球资讯广播
-https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
-#EXTINF:-1 tvg-name="News98 新闻台" tvg-logo="https://live.fanmingming.com/radio/news98新闻台.png" group-title="•广播", News98 新闻台
-http://stream.rcs.revma.com/55tyxsy4qtzuv
-#EXTINF:-1 tvg-name="大象资讯台" tvg-logo="https://live.fanmingming.com/radio/大象资讯台.png" group-title="•广播", 大象资讯台
-https://stream.hndt.com/live/nongcun/playlist.m3u8
-#EXTINF:-1 tvg-name="福州新闻广播" tvg-logo="https://live.fanmingming.com/radio/福州新闻广播.png" group-title="•广播", 福州新闻广播
-http://live.zohi.tv/audio/s10001-FM944/index.m3u8
-#EXTINF:-1 tvg-name="宁波新闻广播" tvg-logo="https://live.fanmingming.com/radio/宁波新闻广播.png" group-title="•广播", 宁波新闻广播
-http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
-#EXTINF:-1 tvg-name="武汉新闻广播" tvg-logo="http://pic.qingting.fm/2015/0617/2015061718015278.jpg" group-title="•广播", 武汉新闻广播
-http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-name="中广新闻网" tvg-logo="https://live.fanmingming.com/radio/中广新闻网.png" group-title="•广播", 中广新闻网
-http://stream.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 tvg-name="半岛英语" group-title="•国际", 「QA」半岛新闻「英文」
-https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
-#EXTINF:-1 tvg-name="半岛英语" group-title="•国际", 「QA」半岛新闻「英语」
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
-#EXTINF:-1 tvg-name="「QA」半岛新闻「阿拉伯」" group-title="•国际", 「QA」半岛新闻「阿拉伯」
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-#EXTINF:-1 tvg-name="「SG」亚洲新闻" group-title="•国际", 「SG」亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-#EXTINF:-1 tvg-name="「US」*News max「新闻」" group-title="•国际", 「US」*News max「新闻」
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 tvg-name="半岛新闻「阿拉伯」" group-title="•国际", 半岛新闻「阿拉伯」
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-name="Bloomberg News Asia" group-title="•国际", Bloomberg News Asia
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-name="RT News" group-title="•国际", RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-name="Weather News" group-title="•日本", Weather News
-https://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-name="Dunya News" group-title="•杂货", Dunya News
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="GB News" group-title="•杂货", GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="综合广播", CNR环球资讯
-https://radio.0472.org/?id=692
-#EXTINF:-1 tvg-name="GB News" group-title="境外广播", GB News
-https://listen-gbnews.sharp-stream.com/gbnews.mp3
-#EXTINF:-1 tvg-name="LBC News" group-title="境外广播", LBC News
-https://icecast.thisisdax.com/LBCNewsUKMP3
-#EXTINF:-1 tvg-name="NPR News" group-title="境外广播", NPR News
-https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC News Radio" group-title="境外广播", ABC News Radio
-https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8
-#EXTINF:-1 tvg-name="Newstalk ZB" group-title="境外广播", Newstalk ZB
-https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.aac
+#EXTINF:-1 tvg-name="上视新闻" tvg-logo="http://49.233.180.193:5678/data/icon/上视新闻.png" group-title="央卫·备用", 上视新闻
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="http://cc.118138.xyz/tvlogo/金湖新闻综合.png" group-title="中文-新闻资讯", 金湖新闻综合
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+#EXTINF:-1 tvg-name="晋城新闻" tvg-logo="http://cc.118138.xyz/tvlogo/晋城新闻.png" group-title="中文-新闻资讯", 晋城新闻
+http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="南部新闻综合" tvg-logo="http://cc.118138.xyz/tvlogo/南部新闻综合.png" group-title="中文-新闻资讯", 南部新闻综合
+http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-id="SITV14" tvg-logo="https://live.lizanyang.top/tv/东方财经.png" group-title="数字综合", 东方财经
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
-#EXTINF:-1 tvg-name="神州新聞台" tvg-id="神州新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/神州新闻.png" group-title="MYTV", 神州新聞台
-https://php.946985.filegear-sg.me/mytv265.php?id=CMN1
-#EXTINF:-1 tvg-name="财经资讯台" group-title="港台", 财经资讯台
-http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+#EXTINF:-1 tvg-name="非凡新聞" tvg-id="非凡新聞" group-title="風雲試看臺灣頻道", 非凡新聞
+http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-name="中国航天“逆袭”之路" tvg-id="中国航天“逆袭”之路" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/527/202604231122_1776914362984_H32_1080.webp" group-title="新闻" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 中国航天“逆袭”之路
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=中国航天“逆袭”之路
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻" tvg-logo="https://11.112114.xyz/logo/无线新闻.png" group-title="其他", 无线新闻
+http://iptv.cqshushu.com/migu.php?pid=hk_wxxw&token=a569c1130aaf6d7e7a587728cadc3f78
+#EXTINF:-1 tvg-name="无线新闻台" tvg-id="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="其他", 无线新闻台
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="其他", 无线新闻
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="其他", 无线新闻
+https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="其他", 无线新闻
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="其他", 无线新闻
+https://mgev.188766.xyz/?migutoken=471400164b72f41a1c9fe3f2b7982838&id=hk_wxxw&type=dy
+#EXTINF:-1 tvg-name="BBC News" tvg-id="BBC News" tvg-logo="https://11.112114.xyz/logo/BBC News.png" group-title="其他", BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="Fox News Channel" tvg-id="Fox News Channel" tvg-logo="https://11.112114.xyz/logo/Fox News Channel.png" group-title="其他", Fox News Channel
+http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="CBS新闻" group-title="中文-新闻资讯", CBS新闻
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-name="安阳新闻综合" tvg-logo="http://cc.118138.xyz/tvlogo/安阳新闻综合.png" group-title="中文-新闻资讯", 安阳新闻综合
-http://hntvpull.8686c.com/wxtv/AY-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/Newsmax.png" group-title="国际频道", newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" group-title="中文-新闻资讯", 半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="亳州新闻综合" group-title="中文-新闻资讯", 亳州新闻综合
 http://218.22.251.12:8001/tslslive/wT9aUpL/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="成都新闻" group-title="中文-新闻资讯", 成都新闻
 http://live.826pc.com/cdtv/live.php?id=1
+#EXTINF:-1 tvg-name="德州新闻HD" group-title="中文-新闻资讯", 德州新闻HD
+http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 #EXTINF:-1 tvg-name="第一财经HD" group-title="中文-新闻资讯", 第一财经HD
 http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 tvg-name="点掌财经" tvg-id="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="👴🏻老年直播", 点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-name="点掌财经" tvg-id="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="👴🏻老年直播", 点掌财经
+https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 #EXTINF:-1 tvg-name="法国法国新闻" group-title="中文-新闻资讯", 法国法国新闻
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-name="奉化新闻综合" group-title="中文-新闻资讯", 奉化新闻综合
+http://stream.fhtv.net.cn/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合FHD" group-title="中文-新闻资讯", 哈尔滨新闻综合FHD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-name="海盐新闻频道" group-title="中文-新闻资讯", 海盐新闻频道
+http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="互动新闻" group-title="中文-新闻资讯", 互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-name="加拿大CME 财经一号" group-title="中文-新闻资讯", 加拿大CME 财经一号
 http://69.57.222.151:8082/45/stream.m3u8
+#EXTINF:-1 tvg-name="晋城新闻" tvg-logo="http://cc.118138.xyz/tvlogo/晋城新闻.png" group-title="中文-新闻资讯", 晋城新闻
+http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="靖江新闻HD" group-title="中文-新闻资讯", 靖江新闻HD
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-name="九寨沟旅游资讯" group-title="中文-新闻资讯", 九寨沟旅游资讯
 http://111.231.194.231:85/live/lyzx_500k.m3u8
+#EXTINF:-1 tvg-name="九寨沟新闻综合" group-title="中文-新闻资讯", 九寨沟新闻综合
+http://111.231.194.231:85/live/xwzh_500k.m3u8
 #EXTINF:-1 tvg-name="兰州新闻综合蓝光" group-title="中文-新闻资讯", 兰州新闻综合蓝光
 http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-name="乐清新闻" group-title="中文-新闻资讯", 乐清新闻
+http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8
 #EXTINF:-1 tvg-name="民視新聞台" tvg-id="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經", 民視新聞
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-name="民視新聞台" tvg-id="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經", 民視新聞
@@ -661,18 +177,38 @@ http://114.32.153.6:5051/4gtv-live413/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4j
 http://114.32.153.6:5051/litv-ftv13/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="彭博财经(美)Bloomberg TV" group-title="中文-新闻资讯", 彭博财经(美)Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-name="日本 Ⅰ 全天新闻" group-title="中文-新闻资讯", 日本 Ⅰ 全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="日本l全天新闻" group-title="中文-新闻资讯", 日本l全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-name="日本新闻24" group-title="中文-新闻资讯", 日本新闻24
 http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-name="台視新聞" tvg-id="台視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經", 台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-name="台視新聞" tvg-id="台視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經", 台視新聞
+https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv051
+#EXTINF:-1 tvg-name="西青新闻综合" group-title="中文-新闻资讯", 西青新闻综合
+http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1 tvg-name="孝义新闻综合" group-title="中文-新闻资讯", 孝义新闻综合
 http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="新马 Ⅰ 亚洲新闻" group-title="中文-新闻资讯", 新马 Ⅰ 亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" group-title="中文-新闻资讯", 亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="中視新聞" tvg-id="中視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經", 中視新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-name="中視新聞" tvg-id="中視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經", 中視新聞
+https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv074
+#EXTINF:-1 tvg-name="中視新聞" tvg-id="中視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經", 中視新聞
+http://114.32.153.6:5051/4gtv-live474/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="中視新聞" tvg-id="中視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經", 中視新聞
+http://114.32.153.6:5051/4gtv-4gtv074/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="中視新聞" tvg-id="中視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經", 中視新聞
+http://114.32.153.6:5051/of-4gtv-4gtv074/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="中天新聞" group-title="中文-新闻资讯", 中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-name="舟山新闻综合" group-title="中文-新闻资讯", 舟山新闻综合
+http://stream.wifizs.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="[SD]ABC" tvg-id="5628" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="新聞", [SD]ABC
 https://epg.pm/stream/c2ed2f6c9895983949cf8499916a6ce386478e9bfaa0dd0907bb84262343c9aa.m3u8
 #EXTINF:-1 tvg-name="[SD]23 ABC (KERO)" tvg-id="5628" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/06/22/large/20160622232611202416_43.jpg" group-title="新聞", [SD]23 ABC (KERO)
@@ -1599,110 +1135,8 @@ https://epg.pm/stream/09036a019370c6022d309db9766ded3c518cba70f8c1da5539248ae5a3
 https://epg.pm/stream/e53928767a97a298faee13ce372357db29b8fab6f3f06fb8d4fdde95ccd40fa8.m3u8
 #EXTINF:-1 tvg-name="[BD]南昌资讯@@2" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="其它", [BD]南昌资讯@@2
 https://epg.pm/stream/d1cd3ddac6bb6207dbd1c739921b5c0f054a9188515e358dfe6ee71ca462a79f.m3u8
-#EXTINF:-1 tvg-name="第一财经" tvg-id="1985" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="百视通", 第一财经
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="ABC News US HD" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg" group-title="英语新闻", ABC News US HD
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="BBCWORLDNEWSHD" tvg-id="BBC World News HD" tvg-logo="https://www.hualigs.cn/image/61556780f381e.jpg" group-title="英语新闻", BBC World News HD
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-name="BloombergTV HD" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg" group-title="英语新闻", BloombergTV HD
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-name="Bloomberg HT HD" tvg-logo="https://www.hualigs.cn/image/615553ec9a923.jpg" group-title="英语新闻", Bloomberg HT HD
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="BloombergTV HD" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg" group-title="英语新闻", BloombergTV HD
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-name="France24 FHD" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg" group-title="英语新闻", France24 FHD
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-name="ABC News Australiaᴴᴰ" group-title="美国Local听力磨耳朵", ABC News Australiaᴴᴰ
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
-#EXTINF:-1 tvg-name="CBS News | CBSN Chicago" group-title="美国Local听力磨耳朵", CBS News | CBSN Chicago
-https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?iu=/4128/CBS.CHI.OTT
-#EXTINF:-1 tvg-name="CBS News | CBSN Denver" group-title="美国Local听力磨耳朵", CBS News | CBSN Denver
-https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?iu=/4128/CBS.DENVER.OTT
-#EXTINF:-1 tvg-name="CBS News | CBSN Pittsburgh" group-title="美国Local听力磨耳朵", CBS News | CBSN Pittsburgh
-https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?iu=/4128/CBS.PITTS.OTT
-#EXTINF:-1 tvg-name="CBS News Los Angeles" group-title="美国Local听力磨耳朵", CBS News Los Angeles
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 tvg-name="CBSNews Denver" group-title="美国Local听力磨耳朵", CBSNews Denver
-https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
-#EXTINF:-1 tvg-name="WLS TV News" group-title="美国Local听力磨耳朵", WLS TV News
-https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-#EXTINF:-1 tvg-name="WPEC CBS12 News" group-title="美国Local听力磨耳朵", WPEC CBS12 News
-https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
-#EXTINF:-1 tvg-name="WPVI-TV News" group-title="美国Local听力磨耳朵", WPVI-TV News
-https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:-1 tvg-name="WTVD TV News" group-title="美国Local听力磨耳朵", WTVD TV News
-https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:-1 tvg-name="广州电视台新闻频道" group-title="中文-新闻资讯", 广州电视台新闻频道
-https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
-#EXTINF:-1 tvg-name="金坛新闻频道" group-title="中文-新闻资讯", 金坛新闻频道
-http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
-#EXTINF:-1 tvg-name="金坛新闻频道" group-title="中文-新闻资讯", 金坛新闻频道
-http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="沛县新闻综合" group-title="中文-新闻资讯", 沛县新闻综合
-http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="清水新闻综合" group-title="中文-新闻资讯", 清水新闻综合
-https://play.kankanlive.com/live/1655776648565943.m3u8
-#EXTINF:-1 tvg-name="什邡新闻频道" group-title="中文-新闻资讯", 什邡新闻频道
-http://live.sfrmt.com:85/live/zhpd.m3u8
-#EXTINF:-1 tvg-name="泗阳资讯频道" group-title="中文-新闻资讯", 泗阳资讯频道
-http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="天水新闻综合" group-title="中文-新闻资讯", 天水新闻综合
-https://play.kankanlive.com/live/1698724188723989.m3u8
-#EXTINF:-1 tvg-name="威海一套新闻综合" group-title="中文-新闻资讯", 威海一套新闻综合
-http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
-#EXTINF:-1 tvg-name="宜兴新闻频道" group-title="中文-新闻资讯", 宜兴新闻频道
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="舟曲新闻" group-title="中文-新闻资讯", 舟曲新闻
-http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
-#EXTINF:-1 tvg-name="环球资讯" tvg-logo="https://suxiaoming.codeberg.page/iptv/logo/radio/central/环球资讯.jpg" group-title="总台", 环球资讯
-https://sk.cri.cn/905.m3u8
-#EXTINF:-1 tvg-name="HOY资讯" tvg-id="HOY资讯" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="🍹定制台☕️", HOY资讯
-p3p://167.114.175.6:55331/655bd22c000147307fdff68936807320
-#EXTINF:-1 tvg-name="HOY 资讯" tvg-id="HOY资讯" tvg-logo="https://logo.catvod.com/HOY 资讯.png" group-title="🍹定制台☕️", HOY 资讯
-http://tv543.cc/Smart.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-name="Now财经" tvg-id="Now财经" tvg-logo="https://tv-res.pages.dev/logo/Now财经.png" group-title="🍹定制台☕️", Now财经
-p3p://167.114.175.6:55331/6256e47a0007a6bb0665fa1971252f50
-#EXTINF:-1 tvg-name="三立新闻(VPN)" tvg-id="三立新闻(VPN)" tvg-logo="https://tv-res.pages.dev/logo/三立新闻(VPN).png" group-title="🍹定制台☕️", 三立新闻(VPN)
-http://125.227.210.55:8162/VideoInput/play.ts
-#EXTINF:-1 tvg-name="寰宇财经" tvg-id="寰宇财经" tvg-logo="https://tv-res.pages.dev/logo/寰宇财经.png" group-title="🍹定制台☕️", 寰宇财经
-p3p://167.114.175.6:55331/64e36edf00052681a99e432a601547f5
-#EXTINF:-1 tvg-name="寰宇财经" tvg-id="寰宇财经" tvg-logo="https://logo.catvod.com/寰宇财经.png" group-title="🍹定制台☕️", 寰宇财经
-http://free.cnlive.club/channel/n4332074a/index.m3u8
-#EXTINF:-1 tvg-name="娱乐新闻" tvg-id="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="🍹定制P3P☕️", 娱乐新闻台
-https://hls-gateway.vpstv.net/streams/708904.m3u8
-#EXTINF:-1 tvg-name="娱乐新闻台" tvg-id="娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻台.png" group-title="🍹定制P3P☕️", 娱乐新闻台
-https://live.tvfix.org/live/enews/index.m3u8
-#EXTINF:-1 tvg-name="娱乐新闻" tvg-id="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="🍹定制P3P☕️", 娱乐新闻台
-https://rust.946985.filegear-sg.me/proxy/e970ef74fd045e78?token=tgJerryfeng
-#EXTINF:-1 tvg-name="神州新闻" tvg-id="神州新闻" tvg-logo="https://tv-res.pages.dev/logo/神州新闻.png" group-title="🍹定制P3P☕️", 神州新闻
-p3p://167.114.175.6:55331/655e74f7000953678a2be18968661f5f
-#EXTINF:-1 tvg-name="壹新闻" tvg-id="壹新闻" tvg-logo="https://tv-res.pages.dev/logo/壹新闻.png" group-title="🍹定制P3P☕️", 壹新闻
-p3p://167.114.175.6:55331/621dbb640001cb2b272027f74da62753
-#EXTINF:-1 tvg-name="半岛新闻" tvg-id="半岛新闻" tvg-logo="https://tv-res.pages.dev/logo/半岛新闻.png" group-title="💓英语频道", 半岛新闻
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-name="半岛新闻" tvg-id="半岛新闻" tvg-logo="https://tv-res.pages.dev/logo/半岛新闻.png" group-title="💓英语频道", 半岛新闻
-https://litv.zapi.us.kg/?id=litv-ftv10
-#EXTINF:-1 tvg-name="BBC News" tvg-id="BBC News" tvg-logo="https://11.112114.xyz/logo/BBC News.png" group-title="💓英语频道", BBC News
-http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 tvg-name="BBC News" tvg-id="BBC News" tvg-logo="https://11.112114.xyz/logo/BBC News.png" group-title="💓英语频道", BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC News" tvg-id="BBC News" tvg-logo="https://11.112114.xyz/logo/BBC News.png" group-title="💓英语频道", BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="DW" tvg-id="DW News" tvg-logo="https://tv-res.pages.dev/logo/DW News.png" group-title="💓英语频道", DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="DW" tvg-id="DW News" tvg-logo="https://tv-res.pages.dev/logo/DW News.png" group-title="💓英语频道", DW News
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-name="DW" tvg-id="DW News" tvg-logo="https://tv-res.pages.dev/logo/DW News.png" group-title="💓英语频道", DW News
-http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="ABC News Australia" tvg-logo="https://tv-res.pages.dev/logo/ABC News Australia.png" group-title="💓英语频道", ABC News Australia
-https://stream1.freetv.fun/abc-news-australia-1.m3u8
-#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="ABC News Australia" tvg-logo="https://tv-res.pages.dev/logo/ABC News Australia.png" group-title="💓英语频道", ABC News Australia
-https://stream1.freetv.fun/abc-news-australia-2.ctv
-#EXTINF:-1 tvg-name="BAND NEWS" tvg-id="BAND NEWS" tvg-logo="https://tv-res.pages.dev/logo/BAND NEWS.png" group-title="💓英语频道", BAND NEWS
-https://stream1.freetv.fun/band-news-2.ctv
-#EXTINF:-1 tvg-name="BAND NEWS" tvg-id="BAND NEWS" tvg-logo="https://tv-res.pages.dev/logo/BAND NEWS.png" group-title="💓英语频道", BAND NEWS
-https://stream1.freetv.fun/band-news-1.m3u8
+#EXTINF:-1 tvg-name="中天新聞台" tvg-id="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="新聞財經", 中天新聞台
+https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="華視新聞" tvg-id="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經", 華視新聞
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv052
 #EXTINF:-1 tvg-name="華視新聞" tvg-id="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經", 華視新聞台
@@ -1735,6 +1169,30 @@ http://220.135.64.124:5050/li-4gtv-4gtv158/index.m3u8
 http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8
 #EXTINF:-1 tvg-name="寰宇財經台" tvg-id="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經", 寰宇財經
 http://114.32.153.6:5051/of-4gtv-4gtv158/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經", 寰宇新聞台
+https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn14
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經", 寰宇新聞
+http://220.135.64.124:5050/litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經", 寰宇新聞
+http://220.135.64.124:5050/li-litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經", 寰宇新聞
+http://220.135.64.124:5050/of-litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經", 寰宇新聞
+http://114.32.153.6:5051/4gtv-live408/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經", 寰宇新聞
+http://114.32.153.6:5051/litv-longturn14/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經", 寰宇新聞
+http://114.32.153.6:5051/of-litv-longturn14/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-id="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經", 三立新聞iNEWS
+https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-id="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經", 三立iNEWS
+http://220.135.64.124:5050/4gtv-live089/index.m3u8
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-id="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經", 三立iNEWS
+http://220.135.64.124:5050/iNEWS/index.m3u8
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-id="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經", 三立新聞iNEWS
+http://114.32.153.6:5051/4gtv-live089/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-id="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經", 三立新聞iNEWS
+http://114.32.153.6:5051/iNEWS/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="倪珍播新聞" tvg-id="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經", 倪珍播新聞
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=nnews-zh
 #EXTINF:-1 tvg-name="倪珍播新聞" tvg-id="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經", 倪珍播新聞
@@ -1763,12 +1221,24 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii205
 http://220.135.64.124:5050/ofiii205/index.m3u8
 #EXTINF:-1 tvg-name="新聞觀測站" tvg-id="新聞觀測站" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3885_ofiii212_tv_20250924.png" group-title="新聞觀測站", 新聞觀測站
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii212
+#EXTINF:-1 tvg-name="环球资讯" tvg-logo="https://suxiaoming.codeberg.page/iptv/logo/radio/central/环球资讯.jpg" group-title="总台", 环球资讯
+https://sk.cri.cn/905.m3u8
+#EXTINF:-1 tvg-name="半岛英语" tvg-id="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际频道", 半岛英语
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-id="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經", 鏡電視新聞台
 http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-id="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經", 鏡電視新聞台
 http://220.135.64.124:5050/li-4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-id="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經", 鏡電視新聞台
 http://114.32.153.6:5051/4gtv-4gtv075/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="東森新聞台" tvg-id="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經", 東森新聞
+http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8
+#EXTINF:-1 tvg-name="東森新聞台" tvg-id="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經", 東森新聞
+http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8
+#EXTINF:-1 tvg-name="東森新聞台" tvg-id="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經", 東森新聞
+http://114.32.153.6:5051/4gtv-4gtv152/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="東森新聞台" tvg-id="東森新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經", 東森新聞
+http://114.32.153.6:5051/4gtv-live114/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="東森財經新聞台" tvg-id="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經", 東森財經新聞
 http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-name="東森財經新聞台" tvg-id="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經", 東森財經新聞
@@ -1811,6 +1281,12 @@ http://220.135.64.124:5050/li-litv-ftv03/index.m3u8
 http://220.135.64.124:5050/4gtv-live130/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-id="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="新聞財經", CNBC Asia 財經台
 http://114.32.153.6:5051/4gtv-live130/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="DW德國之聲" tvg-id="DW" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="新聞財經", DW德國之聲
+http://220.135.64.124:5050/4gtv-live071/index.m3u8
+#EXTINF:-1 tvg-name="新闻频道|DW (Deutsch)" tvg-id="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="新聞財經", 新闻频道|DW (Deutsch)
+https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
+#EXTINF:-1 tvg-name="DW德國之聲" tvg-id="DW" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="新聞財經", DW德國之聲
+http://114.32.153.6:5051/4gtv-live071/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="台視財經台" tvg-id="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經", 台視財經台
 http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經", 台視新聞台
@@ -1827,16 +1303,20 @@ https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
 https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
 #EXTINF:-1 tvg-name="新闻频道|CBSN HD" tvg-id="新闻频道|CBSN HD" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CBSN.png" group-title="Smart☠️源", 新闻频道|CBSN HD
 https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
+#EXTINF:-1 tvg-name="新闻频道|France 24" tvg-id="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="Smart☠️源", 新闻频道|France 24
+https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
 #EXTINF:-1 tvg-name="新闻频道|Fox News" tvg-id="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="Smart☠️源", 新闻频道|Fox News
 https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
-#EXTINF:-1 tvg-name="新闻频道|CNN International" tvg-id="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际频道", 新闻频道|CNN International
-https://smart.pendy.dpdns.org/Smart.php?id=Cnn
-#EXTINF:-1 tvg-name="新闻频道|CNN backup" tvg-id="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际频道", 新闻频道|CNN backup
-https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
 #EXTINF:-1 tvg-name="新闻频道|CNBC" tvg-id="新闻频道|CNBC" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CNBC.png" group-title="Smart☠️源", 新闻频道|CNBC
 https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 #EXTINF:-1 tvg-name="新闻频道|CNA" tvg-id="新闻频道|CNA" tvg-logo="https://epg.112114.xyz/logo/新闻频道|CNA.png" group-title="Smart☠️源", 新闻频道|CNA
 https://smart.pendy.dpdns.org/Smart.php?id=cna
+#EXTINF:-1 tvg-name="新闻频道|BBC World News" tvg-id="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="Smart☠️源", 新闻频道|BBC World News
+https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="新闻频道|BBC World News" tvg-id="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="Smart☠️源", 新闻频道|BBC World News
+https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
+#EXTINF:-1 tvg-name="英国|BBC World News" tvg-id="BBCWORLDNEWS" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="Smart☠️源", 英国|BBC World News
+https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
 #EXTINF:-1 tvg-name="新闻频道|Bloomberg News" tvg-id="新闻频道|Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/新闻频道|BLOOMBERGNEWS.png" group-title="Smart☠️源", 新闻频道|Bloomberg News
 https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
 #EXTINF:-1 tvg-name="新闻频道|Al-Jazeera" tvg-id="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="Smart☠️源", 新闻频道|Al-Jazeera
@@ -1845,154 +1325,40 @@ https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
 https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
 #EXTINF:-1 tvg-name="印度|News 18 Tamil" tvg-id="印度|News 18 Tamil" tvg-logo="https://epg.112114.xyz/logo/印度|NEWS18TAMIL.png" group-title="Smart☠️源", 印度|News 18 Tamil
 https://smart.pendy.dpdns.org/Smart.php?id=news18tamil_raj
-#EXTINF:-1 tvg-name="印度|Zee News" tvg-id="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="高清", 印度|Zee News
+#EXTINF:-1 tvg-name="印度|Zee News" tvg-id="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="Smart☠️源", 印度|Zee News
 https://smart.pendy.dpdns.org/Smart.php?id=Zeenews
 #EXTINF:-1 tvg-name="印度|Asianet News" tvg-id="印度|Asianet News" tvg-logo="https://epg.112114.xyz/logo/印度|ASIANETNEWS.png" group-title="Smart☠️源", 印度|Asianet News
 https://smart.pendy.dpdns.org/Smart.php?id=asianetnews_raj
-#EXTINF:-1 tvg-name="英国|Euronews" tvg-id="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="Undefined", 英国|Euronews
+#EXTINF:-1 tvg-name="英国|Euronews" tvg-id="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="Smart☠️源", 英国|Euronews
 https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
 #EXTINF:-1 tvg-name="韩国|Yonhap News" tvg-id="韩国|Yonhap News" tvg-logo="https://epg.112114.xyz/logo/韩国|YONHAPNEWS.png" group-title="Smart☠️源", 韩国|Yonhap News
 https://smart.pendy.dpdns.org/Smart.php?id=yonhapnews_korea
-#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="Juli", NOW新闻台
-https://rust.946985.filegear-sg.me/proxy/c57eba4f397c66eb?token=tgJerryfeng
-#EXTINF:-1 tvg-name="HOY国际财经" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/HOY国际财经.png" group-title="Juli", HOY国际财经台
-https://rust.946985.filegear-sg.me/proxy/65ecb2305e65a7e6?token=tgJerryfeng
-#EXTINF:-1 tvg-name="HOY资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="Juli", HOY资讯台
-https://rust.946985.filegear-sg.me/proxy/46a4055a4971162b?token=tgJerryfeng
-#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="Jack", NOW新闻台
-https://rust.946985.filegear-sg.me/proxy/c8ddd8f0542649c3?token=tgJerryfeng
-#EXTINF:-1 tvg-name="娱乐新闻" tvg-id="娛樂新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="MYTV", 娛樂新聞台
-https://rust.946985.filegear-sg.me/proxy/15718e7da2333cf5?token=tgJerryfeng
-#EXTINF:-1 tvg-name="娛樂新聞台" tvg-id="娛樂新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/娛樂新聞.png" group-title="MYTV", 娛樂新聞台
-https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CTVE&token=tgJerryfeng
-#EXTINF:-1 tvg-name="無綫新聞台" tvg-id="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="MYTV", 無綫新聞台
-https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=C&token=tgJerryfeng
-#EXTINF:-1 tvg-name="党建新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/党建新闻.png" group-title="其他频道" response-time="13ms", 党建新闻
-http://flv4mp4.people.com.cn/videofile7/pvmsvideo/2021/3/10/ShiXinPei_71ec1680d031363446f16a2366abccb9_android_c.mp4
-#EXTINF:-1 tvg-name="涿州新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/涿州新闻.png" group-title="其他频道" response-time="15ms", 涿州新闻
-http://121.19.134.119:808/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="廊坊新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/廊坊新闻.png" group-title="其他频道" response-time="19ms", 廊坊新闻
-http://121.19.134.119:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新闻.png" group-title="其他频道" response-time="23ms", 新闻
-http://221.13.234.195:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新闻.png" group-title="其他频道" response-time="26ms", 新闻
-http://221.13.235.158:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="保定新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/保定新闻综合.png" group-title="其他频道" response-time="27ms", 保定新闻综合
-http://121.19.134.160:808/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="综合广播", 环球资讯广播
-https://live-play.cctvnews.cctv.com/cctvaudio/hqzx.m3u8
-#EXTINF:-1 tvg-name="海峡之声·新闻广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声新闻广播.png" group-title="综合广播", 海峡之声·新闻广播
-http://vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="News938潇湘之声" tvg-logo="https://wx3.sinaimg.cn/mw2000/74c40dealy8gq8y3155j1j20u00u0myp.jpg" group-title="综合广播", News938潇湘之声
-http://live.cooltv.top/tv/ytradio.php?id=526
-#EXTINF:-1 tvg-name="扬州新闻广播" tvg-logo="https://pic.qtfm.cn/2015/0907/20150907174509839.jpg" group-title="综合广播", 扬州新闻广播
-http://live.cooltv.top/tv/yz.php?id=xw
-#EXTINF:-1 tvg-name="常州新闻广播" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/9fdd959deb73174d1934ec394ad61863.png" group-title="综合广播", 常州新闻广播
-http://live.cooltv.top/tv/cz.php?id=fm1034
-#EXTINF:-1 tvg-name="苏州新闻综合广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州综合广播.png" group-title="综合广播", 苏州新闻综合广播
-http://live.cooltv.top/tv/ytradio.php?id=694
-#EXTINF:-1 tvg-name="南京新闻综合广播" tvg-logo="http://live.cooltv.top/logo/njxwzhgb.png" group-title="综合广播", 南京新闻综合广播
-http://hls.njgb.com/live_hls/1/playlist.m3u8
-#EXTINF:-1 tvg-name="合肥新闻广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/合肥新闻.png" group-title="综合广播", 合肥新闻广播
-http://live.cooltv.top/tv/tide.php?id=hfxwgb
-#EXTINF:-1 tvg-name="石家庄新闻广播" group-title="综合广播", 石家庄新闻广播
-http://pluslive2.sjzntv.cn/aac_xwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="南昌新闻综合广播" tvg-logo="http://live.cooltv.top/logo/ncjjshgb.png" group-title="综合广播", 南昌新闻综合广播
-http://live.cooltv.top/tv/nctv.php?id=5
-#EXTINF:-1 tvg-name="深圳新闻广播先锋898" tvg-logo="https://pic.qtfm.cn/sso/198/1572602894027_Jv8W5VjLR.jpeg" group-title="综合广播", 深圳新闻广播先锋898
-http://satpili-live-hls.mp.sztv.com.cn/satlive/sat_FM898.m3u8
-#EXTINF:-1 tvg-name="成都新闻广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/成都新闻广播.png" group-title="综合广播", 成都新闻广播
-http://live.cooltv.top/cdgb.php?id=998
-#EXTINF:-1 tvg-name="延边新闻广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/延边新闻广播.png" group-title="综合广播", 延边新闻广播
-http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="徐州新闻综合广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/徐州新闻综合广播.png" group-title="综合广播", 徐州新闻综合广播
-http://stream1.huaihai.tv/aac_gbfm93/playlist.m3u8
-#EXTINF:-1 tvg-name="镇江新闻广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江综合广播.png" group-title="综合广播", 镇江新闻广播
-https://zjtv-wshls.homecdn.com/live/10047.m3u8
-#EXTINF:-1 tvg-name="宜昌新闻综合广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="综合广播", 宜昌新闻综合广播
-http://play.3xgd.com/fm/xwt.m3u8
-#EXTINF:-1 tvg-name="中广新闻网" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/中广新闻网.png" group-title="境外广播", 中广新闻网
-http://n12.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 tvg-name="News98新闻台" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/news98新闻台.png" group-title="境外广播", News98新闻台
-http://n12.rcs.revma.com/55tyxsy4qtzuv
-#EXTINF:-1 tvg-name="n p r | WLRN" tvg-logo="https://mytuner-radio.com/media/news/2017/01/11/4tq6n6zqwy.png" group-title="境外广播", n p r | WLRN
-https://hls.wlrn.mobi/live/WLRNFMAAC/live/WLRNFMAAC256/playlist.m3u8
-#EXTINF:-1 tvg-name="n p r | HPM News" tvg-logo="https://player.streamguys.com/hpm-news/sgplayer3/include/image/hpm_listenlive_app_news88-7.png" group-title="境外广播", n p r | HPM News
-https://stream.houstonpublicmedia.org/news-mp3
-#EXTINF:-1 tvg-name="n p r | MPR News" tvg-logo="https://cdn-profiles.tunein.com/s34350/images/logod.png" group-title="境外广播", n p r | MPR News
-http://nis.stream.publicradio.org/nis.mp3
-#EXTINF:-1 tvg-name="n p r | KCRW News" tvg-logo="https://cdn-profiles.tunein.com/s32152/images/logog.png" group-title="境外广播", n p r | KCRW News
-http://kcrw.streamguys1.com/kcrw_192k_mp3_news
-#EXTINF:-1 tvg-name="FOX News Radio" tvg-logo="https://cdn-profiles.tunein.com/s20431/images/logod.jpg?t=159405" group-title="境外广播", FOX News Radio
-http://tunein.streamguys1.com/foxnews
-#EXTINF:-1 tvg-name="CNBC" tvg-id="CNBC" tvg-logo="https://cdn-profiles.tunein.com/s110052/images/logog.png" group-title="GPT-新闻", CNBC
-http://tunein.streamguys1.com/cnbc
-#EXTINF:-1 tvg-name="CNBC" tvg-id="CNBC" tvg-logo="https://11.112114.xyz/logo/CNBC.png" group-title="GPT-新闻", CNBC
-http://143.244.60.30/CNBC/index.m3u8
-#EXTINF:-1 tvg-name="杭州城市资讯广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/杭州城市资讯广播.PNG" group-title="音乐广播", 杭州城市资讯广播
-http://live.cooltv.top/tv/hz.php?id=23
+#EXTINF:-1 tvg-name="🇨🇦加拿大Global News" tvg-id="🇨🇦加拿大Global News" tvg-logo="https://epg.112114.xyz/logo/🇨🇦加拿大Global News.png" group-title="🌏全球台直播", 🇨🇦加拿大Global News
+http://iptv.zkbhj.com/tv/url/go?id=188da1cd42026cce4e3c6fd900520b5bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 tvg-name="🇧🇷巴西Record News" tvg-id="🇧🇷巴西Record News" group-title="🌏全球台直播", 🇧🇷巴西Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-name="兰州新闻综合" group-title="其他", 兰州新闻综合
 http://61.178.227.57:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="🇨🇦加拿大Global News" tvg-logo="https://epg.112114.xyz/logo/🇨🇦加拿大Global News.png" group-title="🌏全球直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 🇨🇦加拿大Global News
-http://iptv.zkbhj.com/tv/url/go?id=188da1cd42026cce4e3c6fd900520b5bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
 #EXTINF:-1 tvg-name="🇮🇶伊拉克Sharqiya News" tvg-logo="https://epg.112114.xyz/logo/🇮🇶伊拉克Sharqiya News.png" group-title="🌏全球直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 🇮🇶伊拉克Sharqiya News
 http://iptv.zkbhj.com/tv/url/go?id=22631bd2308603231957203b0436f7cdf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 tvg-name="SZDTMB-HOY 國際財經台" tvg-id="a9aaf2b29afbaf6fc67e834f3dc6eb0e" tvg-logo="https://lax.efoxcloud.com:9981/imagecache/8?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU" group-title="中文-新闻资讯" tvg-chno="76", SZDTMB-HOY 國際財經台
+https://lax.efoxcloud.com:9981/stream/channelid/854764201?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU&profile=pass
+#EXTINF:-1 tvg-name="SZDTMB-HOY TV 資訊台" tvg-id="3dfa0c7fe995c9e1baeea62030903c04" tvg-logo="https://lax.efoxcloud.com:9981/imagecache/6?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU" group-title="中文-新闻资讯" tvg-chno="78", SZDTMB-HOY TV 資訊台
+https://lax.efoxcloud.com:9981/stream/channelid/2131556925?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU&profile=pass
+#EXTINF:-1 tvg-name="SZDTMB-無綫新聞台" tvg-id="c1d84080256854417785c49eb5eb6302" tvg-logo="https://lax.efoxcloud.com:9981/imagecache/14?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU" group-title="中文-新闻资讯" tvg-chno="83", SZDTMB-無綫新聞台
+https://lax.efoxcloud.com:9981/stream/channelid/4249793?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU&profile=pass
 #EXTINF:-1 tvg-name="亚洲新闻CNA" tvg-logo="https://epg.112114.xyz/logo/亚洲新闻CNA.png" group-title="中文-新闻资讯" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 亚洲新闻CNA
 https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8
-#EXTINF:-1 tvg-name="茶陵新闻综合" group-title="中文-新闻资讯", 茶陵新闻综合
-http://liveplay.rednet.cn/live/chaling_tv.m3u8?zhund
-#EXTINF:-1 tvg-name="当涂新闻综合" group-title="中文-新闻资讯", 当涂新闻综合
-http://newvideo.dangtutv.cn:8278/dt1/playlist.m3u8?zanhd
-#EXTINF:-1 tvg-name="阜南新闻综合" group-title="中文-新闻资讯", 阜南新闻综合
-http://112.27.139.242:8278/fnxwzhd/playlist.m3u8?zanhd
-#EXTINF:-1 tvg-name="呼伦贝尔生活资讯" group-title="中文-新闻资讯", 呼伦贝尔生活资讯
-https://live.hrtonline.cn/flv/live/live003.flv
-#EXTINF:-1 tvg-name="呼伦贝尔生活资讯" group-title="中文-新闻资讯", 呼伦贝尔生活资讯
-https://live.hrtonline.cn/hls/live003.m3u8
-#EXTINF:-1 tvg-name="黄冈新闻频道" group-title="中文-新闻资讯", 黄冈新闻频道
-http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1672502399-0-0-658b048e38ac7a094a7bca28bf712d53
-#EXTINF:-1 tvg-name="吉安新闻综合" group-title="中文-新闻资讯", 吉安新闻综合
-http://stream.ijatv.com/jatv1/hd/live.m3u8?zjiangxd
-#EXTINF:-1 tvg-name="嘉鱼新闻综合" group-title="中文-新闻资讯", 嘉鱼新闻综合
-http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1672502399-0-0-98f908536976adbeef9a05f05b3bda7c
-#EXTINF:-1 tvg-name="金华新闻综合" group-title="中文-新闻资讯", 金华新闻综合
-http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8?zzhed
-#EXTINF:-1 tvg-name="垦利新闻" group-title="中文-新闻资讯", 垦利新闻
-https://livealone302.iqilu.com/kenli/kenli_tv01/playlist.m3u8?shandd
-#EXTINF:-1 tvg-name="利川新闻综合" group-title="中文-新闻资讯", 利川新闻综合
-http://lichuan-live21.cjyun.org/10093/s10093-lczh.m3u8?auth_key=1672502399-0-0-f207596099dd52263c0839cbf33ce792
-#EXTINF:-1 tvg-name="宁河新闻" group-title="中文-新闻资讯", 宁河新闻
-http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8?ztianjd
-#EXTINF:-1 tvg-name="宁河新闻频道" group-title="中文-新闻资讯", 宁河新闻频道
-http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8
-#EXTINF:-1 tvg-name="遂宁新闻综合" group-title="中文-新闻资讯", 遂宁新闻综合
-http://play.sngdxsn.com/live/xwzh/playlist.m3u8?zsicd
-#EXTINF:-1 tvg-name="太和新闻综合" group-title="中文-新闻资讯", 太和新闻综合
-http://p2.weizan.cn/1110366022/132071060845712961/live.m3u8?zanhd
-#EXTINF:-1 tvg-name="泰宁新闻频道" group-title="中文-新闻资讯", 泰宁新闻频道
-https://p2.weizan.cn/2123201810/941522397962841708/live.m3u8?zfud
-#EXTINF:-1 tvg-name="咸丰新闻综合" group-title="中文-新闻资讯", 咸丰新闻综合
-http://xianfeng-live21.cjyun.org/10096/s10096-xftv1.m3u8?auth_key=1672502399-0-0-360388050a36653e6ce75944e6842202
-#EXTINF:-1 tvg-name="孝昌新闻党建" group-title="中文-新闻资讯", 孝昌新闻党建
-http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1672502399-0-0-720f18225520a83ba7ec795bbea95d0c
-#EXTINF:-1 tvg-name="孝感新闻综合" group-title="中文-新闻资讯", 孝感新闻综合
-http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1672502399-0-0-5794062654aeaf404bcac09b0d00d10d
-#EXTINF:-1 tvg-name="徐州新聞綜合" group-title="中文-新闻资讯", 徐州新聞綜合
-http://183.207.248.11/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-name="阳新新闻" group-title="中文-新闻资讯", 阳新新闻
-http://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1672502399-0-0-ada31d0b09e80db8707a4b3737fa74da
-#EXTINF:-1 tvg-name="宜宾新闻综合" group-title="中文-新闻资讯", 宜宾新闻综合
-http://p2.weizan.cn/48393/657730224997692923/live.m3u8?zsicd
-#EXTINF:-1 tvg-name="云溪新闻综合" group-title="中文-新闻资讯", 云溪新闻综合
-http://liveplay.rednet.cn/live/yunxi_tv.m3u8?zhund
-#EXTINF:-1 tvg-name="秭归新闻综合" group-title="中文-新闻资讯", 秭归新闻综合
-http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1672502399-0-0-17fadbf9472366a8dd59500f240acf37
-#EXTINF:-1 tvg-name="WAAA-164SexAppealMunmun女上司的共享房间Mara吃反向NTR我调皮用鞭子牛奶大屁股中出新闻直到早上......MeiSatsukiAsakuraKokona" group-title="WhosTV", WAAA-164SexAppealMunmun女上司的共享房间Mara吃反向NTR我调皮用鞭子牛奶大屁股中出新闻直到早上......MeiSatsukiAsakuraKokona
-https://s3.aaaaa.io/72e19e6c190714200801755c029068fe/72e19e6c190714200801755c029068fe.m3u8
+#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="mytv", HOY国际财经台
+https://cdn11.163189.xyz/163189/hoy76
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="mytv", 无线新闻台
+https://cdn6.163189.xyz/163189/wxxwt
 #EXTINF:-1 tvg-name="大象新闻" tvg-logo="https://epg.112114.xyz/logo/大象新闻.png" group-title="🎙️抖音直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 大象新闻
 https://tv1288.xyz/douyin.php?type=rid&rid=ElephantNews
-#EXTINF:-1 tvg-name="武汉新闻综合" tvg-logo="https://logo.catvod.com/武汉新闻综合.png" group-title="☘️个人常看", 武汉新闻综合
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429
+#EXTINF:-1 tvg-name="CTi News" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/CTi News.png" group-title="其他频道", CTi News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="TTV News" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/TTV News.png" group-title="其他频道", TTV News
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 tvg-name="荆州新闻" tvg-logo="https://logo.catvod.com/荆州新闻.png" group-title="📺央卫频道", 荆州新闻
 http://61.184.46.85:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 #EXTINF:-1 tvg-name="NEWS_NATION" tvg-logo="https://logo.catvod.com/NEWS_NATION.png" group-title="🇺🇸美国", NEWS_NATION

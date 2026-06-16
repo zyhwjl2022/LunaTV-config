@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="音乐现场" tvg-id="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="🎵音乐频道", 音乐现场
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC音乐" tvg-id="AMC音乐" tvg-logo="https://tb.zbds.top/logo/AMC音乐.png" group-title="音乐频道", AMC音乐
 https://AMChls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="音乐欣赏" tvg-id="音乐欣赏" tvg-logo="https://tb.zbds.top/logo/音乐欣赏.png" group-title="音乐频道", 音乐欣赏
 http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-id="音乐现场" tvg-logo="https://tb.zbds.top/logo/音乐现场.png" group-title="音乐频道", 音乐现场
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-id="音乐现场" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="音乐频道", 音乐现场
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-id="音乐现场" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="音乐频道", 音乐现场
+http://114.254.185.98:8099/rtp/239.3.1.70:4120
 #EXTINF:-1 tvg-name="音乐广播" tvg-id="音乐广播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐广播.png" group-title="🎵音乐频道", 音乐广播
 https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 #EXTINF:-1 tvg-name="音乐广播" tvg-id="音乐广播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐广播.png" group-title="🎵音乐频道", 音乐广播
@@ -15,28 +19,6 @@ https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a
 https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 #EXTINF:-1 tvg-name="音乐广播" tvg-id="音乐广播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐广播.png" group-title="🎵音乐频道", 音乐广播
 https://tv.iill.top/fm/552&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
-#EXTINF:-1 tvg-name="GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]" group-title="Undefined", GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH29 經典音樂河 (720p) [Not 24/7]" group-title="Undefined", GOOD TV CH29 經典音樂河 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH31 福音佈道音樂會 (720p)" group-title="Undefined", GOOD TV CH31 福音佈道音樂會 (720p)
-https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-name="Astro MTV" tvg-id="Astro MTV" group-title="GPT-马来西亚", Astro MTV
-https://smt.goiptv.us.ci/AstroMTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Astro MTV" tvg-id="Astro MTV" group-title="GPT-马来西亚", Astro MTV
-https://smart.dxjc.pp.ua/smart.php?id=AstroMTV&token=tmxk
-#EXTINF:-1 tvg-name="Music TV" tvg-id="Music TV" group-title="GPT-印尼", Music TV
-https://smt.goiptv.us.ci/MusicTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Music TV" tvg-id="Music TV" group-title="GPT-印尼", MusicTV
-http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
-#EXTINF:-1 tvg-name="Music TV" tvg-id="Music TV" group-title="GPT-印尼", Music TV
-https://smart.dxjc.pp.ua/smart.php?id=MusicTV&token=tmxk
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 风尚音乐
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 英雄联盟音乐节
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8978605063318475207/index.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="风尚音乐" tvg-id="YanG-1989" tvg-logo="https://epg.112114.xyz/logo/风尚音乐.png" group-title="百事通" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 风尚音乐
-http://120.76.248.139/live/bfgd/4200000294.m3u8
 #EXTINF:-1 tvg-name="雨声助眠白噪音下雨天直播学习白噪声音乐" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161050000025248835cneqnh.jpg" group-title="沉浸体验", 雨声助眠白噪音下雨天直播学习白噪声音乐
 https://live.ottiptv.cc/bilibili/25248835
 #EXTINF:-1 tvg-name="学习工作背景音乐 24/7 自习室" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161051000027519423h979lk.jpg" group-title="生活杂谈", 学习工作背景音乐 24/7 自习室
@@ -49,1008 +31,446 @@ https://live.ottiptv.cc/bilibili/379658
 https://live.ottiptv.cc/bilibili/1985117552
 #EXTINF:-1 tvg-name="音乐自习室" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161051001975552394il0mmi.jpg" group-title="手工绘画", 音乐自习室
 https://live.ottiptv.cc/bilibili/1975552394
-#EXTINF:-1 tvg-name="音乐石榴" group-title="•音乐", 音乐石榴
-https://yang-1989.eu.org/live/huya/17091681
-#EXTINF:-1 tvg-name="治愈•放松" group-title="•音乐", 治愈•放松
-https://yang-1989.eu.org/live/huya/21241811
-#EXTINF:-1 tvg-name="新歌速递" group-title="•音乐", 新歌速递
-https://yang-1989.eu.org/live/huya/19439762
-#EXTINF:-1 tvg-name="阅读•学习" group-title="•音乐", 阅读•学习
-https://yang-1989.eu.org/live/huya/21241813
-#EXTINF:-1 tvg-name="PMC" group-title="•音乐", PMC
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Retro" group-title="•音乐", Retro
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-name="M2" group-title="•音乐", M2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-name="Sexy K-Pop" group-title="•音乐", Sexy K-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1 tvg-name="Vibee" group-title="•音乐", Vibee
-http://de1se01.v2beat.live/chunks.m3u8
-#EXTINF:-1 tvg-name="Wanasah" group-title="•音乐", Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 tvg-name="Music Top" group-title="•音乐", Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-name="MTV Spankin" group-title="•音乐", MTV Spankin
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 tvg-name="MTV WMA" group-title="•音乐", MTV WMA
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 tvg-name="MTV Yo!" group-title="•音乐", MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8#EXTINF:-1%20group-title=%22%E5%B9%BF%E6%92%AD%22%20tvg-logo=%22https://live.fanmingming.com/radio/988.png%22,988%E5%8F%8B%E5%A3%B0%E6%9C%89%E8%89%B2
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" group-title="•广播", CNR 音乐之声
+#EXTINF:-1 tvg-name="Tank-三国恋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Tank-三国恋
+http://115.190.124.74/php/gqyy.php?id=Tank-三国恋&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Tank-千年泪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Tank-千年泪
+http://115.190.124.74/php/gqyy.php?id=Tank-千年泪&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-蜗牛+七里香" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-蜗牛+七里香
+http://115.190.124.74/php/gqyy.php?id=周杰伦-蜗牛七里香&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="任贤齐-伤心太平洋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 任贤齐-伤心太平洋
+http://115.190.124.74/php/gqyy.php?id=任贤齐-伤心太平洋&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-退后" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-退后
+http://115.190.124.74/php/gqyy.php?id=周杰伦-退后&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-少年吔安啦" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-少年吔安啦
+http://115.190.124.74/php/gqyy.php?id=伍佰-少年吔安啦&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-Last_Dance" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-Last_Dance
+http://115.190.124.74/php/gqyy.php?id=伍佰-LastDance&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="林宥嘉-说谎" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 林宥嘉-说谎
+http://115.190.124.74/php/gqyy.php?id=林宥嘉-说谎&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-与你到永久" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-与你到永久
+http://115.190.124.74/php/gqyy.php?id=伍佰-与你到永久&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="梅艳芳_陈奕迅-有心人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 梅艳芳_陈奕迅-有心人
+http://115.190.124.74/php/gqyy.php?id=梅艳芳_陈奕迅-有心人&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-再度重相逢" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-再度重相逢
+http://115.190.124.74/php/gqyy.php?id=伍佰-再度重相逢&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-冰雨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-冰雨
+http://115.190.124.74/php/gqyy.php?id=伍佰-冰雨&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="潘玮柏-双人舞" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 潘玮柏-双人舞
+http://115.190.124.74/php/gqyy.php?id=潘玮柏-双人舞&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="许嵩-宿敌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 许嵩-宿敌
+http://115.190.124.74/php/gqyy.php?id=许嵩-宿敌&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-挪威的森林" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-挪威的森林
+http://115.190.124.74/php/gqyy.php?id=伍佰-挪威的森林&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-晚风" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-晚风
+http://115.190.124.74/php/gqyy.php?id=伍佰-晚风&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-浪人情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-浪人情歌
+http://115.190.124.74/php/gqyy.php?id=伍佰-浪人情歌&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="李荣浩-乌梅子酱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 李荣浩-乌梅子酱
+http://115.190.124.74/php/gqyy.php?id=李荣浩-乌梅子酱&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-爱上别人是快乐的事" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-爱上别人是快乐的事
+http://115.190.124.74/php/gqyy.php?id=伍佰-爱上别人是快乐的事&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="郁可唯-路过人间" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 郁可唯-路过人间
+http://115.190.124.74/php/gqyy.php?id=郁可唯-路过人间&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-爱你一万年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-爱你一万年
+http://115.190.124.74/php/gqyy.php?id=伍佰-爱你一万年&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-爱情的尽头" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-爱情的尽头
+http://115.190.124.74/php/gqyy.php?id=伍佰-爱情的尽头&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-牵挂" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-牵挂
+http://115.190.124.74/php/gqyy.php?id=伍佰-牵挂&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈奕迅-人来人往" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈奕迅-人来人往
+http://115.190.124.74/php/gqyy.php?id=陈奕迅-人来人往&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-突然的自我" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-突然的自我
+http://115.190.124.74/php/gqyy.php?id=伍佰-突然的自我&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-纯真年代" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-纯真年代
+http://115.190.124.74/php/gqyy.php?id=伍佰-纯真年代&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-继续堕落" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-继续堕落
+http://115.190.124.74/php/gqyy.php?id=伍佰-继续堕落&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-背叛" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-背叛
+http://115.190.124.74/php/gqyy.php?id=伍佰-背叛&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-稻香" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-稻香
+http://115.190.124.74/php/gqyy.php?id=周杰伦-稻香&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈奕迅-十年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈奕迅-十年
+http://115.190.124.74/php/gqyy.php?id=陈奕迅-十年&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="信乐团-死了都要爱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 信乐团-死了都要爱
+http://115.190.124.74/php/gqyy.php?id=信乐团-死了都要爱&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-菊花台" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-菊花台
+http://115.190.124.74/php/gqyy.php?id=周杰伦-菊花台&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈奕迅-十面埋伏" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈奕迅-十面埋伏
+http://115.190.124.74/php/gqyy.php?id=陈奕迅-十面埋伏&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-一路向北" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-一路向北
+http://115.190.124.74/php/gqyy.php?id=周杰伦-一路向北&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈奕迅-明年今日" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈奕迅-明年今日
+http://115.190.124.74/php/gqyy.php?id=陈奕迅-明年今日&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-不爱我就拉倒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-不爱我就拉倒
+http://115.190.124.74/php/gqyy.php?id=周杰伦-不爱我就拉倒&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈奕迅-淘汰" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈奕迅-淘汰
+http://115.190.124.74/php/gqyy.php?id=陈奕迅-淘汰&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-乔克叔叔" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-乔克叔叔
+http://115.190.124.74/php/gqyy.php?id=周杰伦-乔克叔叔&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-你好吗" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-你好吗
+http://115.190.124.74/php/gqyy.php?id=周杰伦-你好吗&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈奕迅-爱情转移" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈奕迅-爱情转移
+http://115.190.124.74/php/gqyy.php?id=陈奕迅-爱情转移&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-半岛铁盒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-半岛铁盒
+http://115.190.124.74/php/gqyy.php?id=周杰伦-半岛铁盒&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-发如雪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-发如雪
+http://115.190.124.74/php/gqyy.php?id=周杰伦-发如雪&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈小春-独家记忆" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈小春-独家记忆
+http://115.190.124.74/php/gqyy.php?id=陈小春-独家记忆&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-回到过去" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-回到过去
+http://115.190.124.74/php/gqyy.php?id=周杰伦-回到过去&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-夜曲" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-夜曲
+http://115.190.124.74/php/gqyy.php?id=周杰伦-夜曲&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-彩虹" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-彩虹
+http://115.190.124.74/php/gqyy.php?id=周杰伦-彩虹&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-心雨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-心雨
+http://115.190.124.74/php/gqyy.php?id=周杰伦-心雨&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-我不配" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-我不配
+http://115.190.124.74/php/gqyy.php?id=周杰伦-我不配&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-爱在西元前" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-爱在西元前
+http://115.190.124.74/php/gqyy.php?id=周杰伦-爱在西元前&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-魔术先生" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-魔术先生
+http://115.190.124.74/php/gqyy.php?id=周杰伦-魔术先生&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="孙燕姿-遇见" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 孙燕姿-遇见
+http://115.190.124.74/php/gqyy.php?id=孙燕姿-遇见&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="庾澄庆-情非得已" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 庾澄庆-情非得已
+http://115.190.124.74/php/gqyy.php?id=庾澄庆-情非得已&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈奕迅-K歌之王-粤语版" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈奕迅-K歌之王-粤语版
+http://115.190.124.74/php/gqyy.php?id=陈奕迅-K歌之王-粤语版&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="任贤齐-春天花会开" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 任贤齐-春天花会开
+http://115.190.124.74/php/gqyy.php?id=任贤齐-春天花会开&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="泰坦尼克号-我心永恒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 泰坦尼克号-我心永恒
+http://115.190.124.74/php/gqyy.php?id=泰坦尼克号-我心永恒&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="兔子舞" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 兔子舞
+http://115.190.124.74/php/gqyy.php?id=兔子舞&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王菲-匆匆那年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王菲-匆匆那年
+http://115.190.124.74/php/gqyy.php?id=王菲-匆匆那年&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王一佳-有风无风皆自由" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王一佳-有风无风皆自由
+http://115.190.124.74/php/gqyy.php?id=王一佳-有风无风皆自由&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="游鸿明-白色恋人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 游鸿明-白色恋人
+http://115.190.124.74/php/gqyy.php?id=游鸿明-白色恋人&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="梁静茹-勇气" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 梁静茹-勇气
+http://115.190.124.74/php/gqyy.php?id=梁静茹-勇气&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="罗文-甄妮-铁血丹心" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 罗文-甄妮-铁血丹心
+http://115.190.124.74/php/gqyy.php?id=罗文-甄妮-铁血丹心&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="莫文蔚-盛夏的果实" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 莫文蔚-盛夏的果实
+http://115.190.124.74/php/gqyy.php?id=莫文蔚-盛夏的果实&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="任贤齐-小雪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 任贤齐-小雪
+http://115.190.124.74/php/gqyy.php?id=任贤齐-小雪&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="灯叔-恰逢那年你明媚" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 灯叔-恰逢那年你明媚
+http://115.190.124.74/php/gqyy.php?id=灯叔-恰逢那年你明媚&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="文夫-背着风流泪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 文夫-背着风流泪
+http://115.190.124.74/php/gqyy.php?id=文夫-背着风流泪&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="谷村新司-星" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 谷村新司-星
+http://115.190.124.74/php/gqyy.php?id=谷村新司-星&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="杨千嬅-可惜我是水瓶座" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 杨千嬅-可惜我是水瓶座
+http://115.190.124.74/php/gqyy.php?id=杨千嬅-可惜我是水瓶座&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="任素汐-胡广生" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 任素汐-胡广生
+http://115.190.124.74/php/gqyy.php?id=任素汐-胡广生&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="曹磊-车站" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 曹磊-车站
+http://115.190.124.74/php/gqyy.php?id=曹磊-车站&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈慧娴-傻女" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈慧娴-傻女
+http://115.190.124.74/php/gqyy.php?id=陈慧娴-傻女&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="程响-可能" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 程响-可能
+http://115.190.124.74/php/gqyy.php?id=程响-可能&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="方大同-红豆" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 方大同-红豆
+http://115.190.124.74/php/gqyy.php?id=方大同-红豆&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="光良-童话" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 光良-童话
+http://115.190.124.74/php/gqyy.php?id=光良-童话&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="皇后乐队-波西米亚狂想曲" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 皇后乐队-波西米亚狂想曲
+http://115.190.124.74/php/gqyy.php?id=皇后乐队-波西米亚狂想曲&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="姜育恒-梅花三弄" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 姜育恒-梅花三弄
+http://115.190.124.74/php/gqyy.php?id=姜育恒-梅花三弄&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="梁静茹-情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 梁静茹-情歌
+http://115.190.124.74/php/gqyy.php?id=梁静茹-情歌&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="林俊杰-我们的爱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 林俊杰-我们的爱
+http://115.190.124.74/php/gqyy.php?id=林俊杰-我们的爱&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="林子祥-男儿当自强" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 林子祥-男儿当自强
+http://115.190.124.74/php/gqyy.php?id=林子祥-男儿当自强&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="柳爽-漠河舞厅" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 柳爽-漠河舞厅
+http://115.190.124.74/php/gqyy.php?id=柳爽-漠河舞厅&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="罗文-尘缘" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 罗文-尘缘
+http://115.190.124.74/php/gqyy.php?id=罗文-尘缘&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="罗文-黄昏" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 罗文-黄昏
+http://115.190.124.74/php/gqyy.php?id=罗文-黄昏&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="吕方-老情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 吕方-老情歌
+http://115.190.124.74/php/gqyy.php?id=吕方-老情歌&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="吕方-每段路" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 吕方-每段路
+http://115.190.124.74/php/gqyy.php?id=吕方-每段路&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="吕方-流浪花" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 吕方-流浪花
+http://115.190.124.74/php/gqyy.php?id=吕方-流浪花&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="马句-一生啊" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 马句-一生啊
+http://115.190.124.74/php/gqyy.php?id=马句-一生啊&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="吕方-朋友别哭" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 吕方-朋友别哭
+http://115.190.124.74/php/gqyy.php?id=吕方-朋友别哭&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="梅艳芳-夕阳之歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 梅艳芳-夕阳之歌
+http://115.190.124.74/php/gqyy.php?id=梅艳芳-夕阳之歌&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="女声版-你的样子" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 女声版-你的样子
+http://115.190.124.74/php/gqyy.php?id=女声版-你的样子&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="祁隆-问佛" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 祁隆-问佛
+http://115.190.124.74/php/gqyy.php?id=祁隆-问佛&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="任贤齐-心太软" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 任贤齐-心太软
+http://115.190.124.74/php/gqyy.php?id=任贤齐-心太软&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陶喆-Susan说" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陶喆-Susan说
+http://115.190.124.74/php/gqyy.php?id=陶喆-Susan说&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王菲-爱与痛的边缘" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王菲-爱与痛的边缘
+http://115.190.124.74/php/gqyy.php?id=王菲-爱与痛的边缘&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王菲-我也不想这样" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王菲-我也不想这样
+http://115.190.124.74/php/gqyy.php?id=王菲-我也不想这样&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王杰-红尘有你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王杰-红尘有你
+http://115.190.124.74/php/gqyy.php?id=王杰-红尘有你&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王杰-忘记你不如忘记自己" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王杰-忘记你不如忘记自己
+http://115.190.124.74/php/gqyy.php?id=王杰-忘记你不如忘记自己&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王杰-忘了你忘了我" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王杰-忘了你忘了我
+http://115.190.124.74/php/gqyy.php?id=王杰-忘了你忘了我&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="小璐-平凡日子里的挣扎" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 小璐-平凡日子里的挣扎
+http://115.190.124.74/php/gqyy.php?id=小璐-平凡日子里的挣扎&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="谢安琪-钟无艳" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 谢安琪-钟无艳
+http://115.190.124.74/php/gqyy.php?id=谢安琪-钟无艳&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="许巍-曾经的你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 许巍-曾经的你
+http://115.190.124.74/php/gqyy.php?id=许巍-曾经的你&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="许巍-故乡" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 许巍-故乡
+http://115.190.124.74/php/gqyy.php?id=许巍-故乡&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="薛凯琪-苏州河" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 薛凯琪-苏州河
+http://115.190.124.74/php/gqyy.php?id=薛凯琪-苏州河&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="杨千嬅-少女的祈祷" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 杨千嬅-少女的祈祷
+http://115.190.124.74/php/gqyy.php?id=杨千嬅-少女的祈祷&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="杨千嬅-野孩子" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 杨千嬅-野孩子
+http://115.190.124.74/php/gqyy.php?id=杨千嬅-野孩子&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="印第安神曲-泪痕之外" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 印第安神曲-泪痕之外
+http://115.190.124.74/php/gqyy.php?id=印第安神曲-泪痕之外&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张国荣-当年情" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张国荣-当年情
+http://115.190.124.74/php/gqyy.php?id=张国荣-当年情&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="赵雷-南方姑娘" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 赵雷-南方姑娘
+http://115.190.124.74/php/gqyy.php?id=赵雷-南方姑娘&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="郑中基-绝口不提爱你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 郑中基-绝口不提爱你
+http://115.190.124.74/php/gqyy.php?id=郑中基-绝口不提爱你&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="郑中基-无赖" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 郑中基-无赖
+http://115.190.124.74/php/gqyy.php?id=郑中基-无赖&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周华健-爱江山更爱美人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周华健-爱江山更爱美人
+http://115.190.124.74/php/gqyy.php?id=周华健-爱江山更爱美人&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周华健-刀剑如梦" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周华健-刀剑如梦
+http://115.190.124.74/php/gqyy.php?id=周华健-刀剑如梦&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周华健-忘忧草" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周华健-忘忧草
+http://115.190.124.74/php/gqyy.php?id=周华健-忘忧草&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周杰伦-开不了口" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周杰伦-开不了口
+http://115.190.124.74/php/gqyy.php?id=周杰伦-开不了口&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="胡夏-那些年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 胡夏-那些年
+http://115.190.124.74/php/gqyy.php?id=胡夏-那些年&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-如果这都不算爱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-如果这都不算爱
+http://115.190.124.74/php/gqyy.php?id=张学友-如果这都不算爱&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-吻别" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-吻别
+http://115.190.124.74/php/gqyy.php?id=张学友-吻别&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-爱是永恒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-爱是永恒
+http://115.190.124.74/php/gqyy.php?id=张学友-爱是永恒&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-慢慢" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-慢慢
+http://115.190.124.74/php/gqyy.php?id=张学友-慢慢&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-李香兰" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-李香兰
+http://115.190.124.74/php/gqyy.php?id=张学友-李香兰&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-她来听我的演唱会" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-她来听我的演唱会
+http://115.190.124.74/php/gqyy.php?id=张学友-她来听我的演唱会&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-你的名字我的姓氏" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-你的名字我的姓氏
+http://115.190.124.74/php/gqyy.php?id=张学友-你的名字我的姓氏&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-忘记你我做不到" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-忘记你我做不到
+http://115.190.124.74/php/gqyy.php?id=张学友-忘记你我做不到&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-我真的受伤了" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-我真的受伤了
+http://115.190.124.74/php/gqyy.php?id=张学友-我真的受伤了&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-想和你去吹吹风" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-想和你去吹吹风
+http://115.190.124.74/php/gqyy.php?id=张学友-想和你去吹吹风&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-遥远的她" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-遥远的她
+http://115.190.124.74/php/gqyy.php?id=张学友-遥远的她&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-心如刀割" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-心如刀割
+http://115.190.124.74/php/gqyy.php?id=张学友-心如刀割&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="杜德伟-情人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 杜德伟-情人
+http://115.190.124.74/php/gqyy.php?id=杜德伟-情人&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="黄品源-海浪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 黄品源-海浪
+http://115.190.124.74/php/gqyy.php?id=黄品源-海浪&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="游鸿明-爱我的人和我爱的人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 游鸿明-爱我的人和我爱的人
+http://115.190.124.74/php/gqyy.php?id=游鸿明-爱我的人和我爱的人&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="刀郎-手心里的温柔" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 刀郎-手心里的温柔
+http://115.190.124.74/php/gqyy.php?id=刀郎-手心里的温柔&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="咩咩爱睡懒觉-情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 咩咩爱睡懒觉-情歌
+http://115.190.124.74/php/gqyy.php?id=咩咩爱睡懒觉-情歌&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="咩咩爱睡懒觉-路过人间" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 咩咩爱睡懒觉-路过人间
+http://115.190.124.74/php/gqyy.php?id=咩咩爱睡懒觉-路过人间&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="咩咩爱睡懒觉-嘉宾" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 咩咩爱睡懒觉-嘉宾
+http://115.190.124.74/php/gqyy.php?id=咩咩爱睡懒觉-嘉宾&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="5566-我难过" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 5566-我难过
+http://115.190.124.74/php/gqyy.php?id=5566-我难过&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="F4-流星雨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", F4-流星雨
+http://115.190.124.74/php/gqyy.php?id=F4-流星雨&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="F4-第一时间" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", F4-第一时间
+http://115.190.124.74/php/gqyy.php?id=F4-第一时间&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="陈奕迅-富士山下" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 陈奕迅-富士山下
+http://115.190.124.74/php/gqyy.php?id=陈奕迅-富士山下&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="隔壁老樊-这一生关于你的风景" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 隔壁老樊-这一生关于你的风景
+http://115.190.124.74/php/gqyy.php?id=隔壁老樊-这一生关于你的风景&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="郭峰-移情别恋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 郭峰-移情别恋
+http://115.190.124.74/php/gqyy.php?id=郭峰-移情别恋&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="刘若英-当爱在靠近" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 刘若英-当爱在靠近
+http://115.190.124.74/php/gqyy.php?id=刘若英-当爱在靠近&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="沙宝亮-暗香" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 沙宝亮-暗香
+http://115.190.124.74/php/gqyy.php?id=沙宝亮-暗香&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="伍佰-泪桥" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 伍佰-泪桥
+http://115.190.124.74/php/gqyy.php?id=伍佰-泪桥&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张雨生-口是心非" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张雨生-口是心非
+http://115.190.124.74/php/gqyy.php?id=张雨生-口是心非&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张慧清-问情" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张慧清-问情
+http://115.190.124.74/php/gqyy.php?id=张慧清-问情&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="郑智化-水手" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 郑智化-水手
+http://115.190.124.74/php/gqyy.php?id=郑智化-水手&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周传雄-青花" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周传雄-青花
+http://115.190.124.74/php/gqyy.php?id=周传雄-青花&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周傳雄-今宵酒醒何處" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周傳雄-今宵酒醒何處
+http://115.190.124.74/php/gqyy.php?id=周傳雄-今宵酒醒何處&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-AMANI" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-AMANI
+http://115.190.124.74/php/gqyy.php?id=Beyond-AMANI&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-大地" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-大地
+http://115.190.124.74/php/gqyy.php?id=Beyond-大地&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-光辉岁月" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-光辉岁月
+http://115.190.124.74/php/gqyy.php?id=Beyond-光辉岁月&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-灰色轨迹" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-灰色轨迹
+http://115.190.124.74/php/gqyy.php?id=Beyond-灰色轨迹&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-旧日的足迹" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-旧日的足迹
+http://115.190.124.74/php/gqyy.php?id=Beyond-旧日的足迹&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-冷雨夜" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-冷雨夜
+http://115.190.124.74/php/gqyy.php?id=Beyond-冷雨夜&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-是错也再不分" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-是错也再不分
+http://115.190.124.74/php/gqyy.php?id=Beyond-是错也再不分&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-谁伴我闯荡" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-谁伴我闯荡
+http://115.190.124.74/php/gqyy.php?id=Beyond-谁伴我闯荡&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-再见理想" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-再见理想
+http://115.190.124.74/php/gqyy.php?id=Beyond-再见理想&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Beyond-真的爱你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Beyond-真的爱你
+http://115.190.124.74/php/gqyy.php?id=Beyond-真的爱你&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="动力火车-第一滴泪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 动力火车-第一滴泪
+http://115.190.124.74/php/gqyy.php?id=动力火车-第一滴泪&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="动力火车-无情的情书" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 动力火车-无情的情书
+http://115.190.124.74/php/gqyy.php?id=动力火车-无情的情书&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="动力火车-忠孝东路走九遍" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 动力火车-忠孝东路走九遍
+http://115.190.124.74/php/gqyy.php?id=动力火车-忠孝东路走九遍&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="朴树-平凡之路" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 朴树-平凡之路
+http://115.190.124.74/php/gqyy.php?id=朴树-平凡之路&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="韦伦-换到千般恨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 韦伦-换到千般恨
+http://115.190.124.74/php/gqyy.php?id=韦伦-换到千般恨&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="辛晓琪-味道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 辛晓琪-味道
+http://115.190.124.74/php/gqyy.php?id=辛晓琪-味道&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="许飞-父亲写的散文诗" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 许飞-父亲写的散文诗
+http://115.190.124.74/php/gqyy.php?id=许飞-父亲写的散文诗&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张韶涵-破茧" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张韶涵-破茧
+http://115.190.124.74/php/gqyy.php?id=张韶涵-破茧&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周华健-其实不想走" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周华健-其实不想走
+http://115.190.124.74/php/gqyy.php?id=周华健-其实不想走&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="阿黛尔-Hello" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 阿黛尔-Hello
+http://115.190.124.74/php/gqyy.php?id=阿黛尔-Hello&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="难却" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 难却
+http://115.190.124.74/php/gqyy.php?id=难却&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="别问我是谁-王馨平" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 别问我是谁-王馨平
+http://115.190.124.74/php/gqyy.php?id=别问我是谁-王馨平&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="海伦-桥边姑娘" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 海伦-桥边姑娘
+http://115.190.124.74/php/gqyy.php?id=海伦-桥边姑娘&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="海伦-游山恋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 海伦-游山恋
+http://115.190.124.74/php/gqyy.php?id=海伦-游山恋&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="就是南方凯-离别开出花" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 就是南方凯-离别开出花
+http://115.190.124.74/php/gqyy.php?id=就是南方凯-离别开出花&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="梅花三弄-姜育恒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 梅花三弄-姜育恒
+http://115.190.124.74/php/gqyy.php?id=梅花三弄-姜育恒&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="彭佳慧-相见恨晚" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 彭佳慧-相见恨晚
+http://115.190.124.74/php/gqyy.php?id=彭佳慧-相见恨晚&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="任然-飞鸟和蝉" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 任然-飞鸟和蝉
+http://115.190.124.74/php/gqyy.php?id=任然-飞鸟和蝉&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="魏佳艺-我来人间一趟" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 魏佳艺-我来人间一趟
+http://115.190.124.74/php/gqyy.php?id=魏佳艺-我来人间一趟&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="云朵-我的楼兰" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 云朵-我的楼兰
+http://115.190.124.74/php/gqyy.php?id=云朵-我的楼兰&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="纯享版-钢铁洪流进行曲" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 纯享版-钢铁洪流进行曲
+http://115.190.124.74/php/gqyy.php?id=纯享版-钢铁洪流进行曲&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="Vaniah维-探窗" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", Vaniah维-探窗
+http://115.190.124.74/php/gqyy.php?id=Vaniah维-探窗&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="金润吉-迟来的爱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 金润吉-迟来的爱
+http://115.190.124.74/php/gqyy.php?id=金润吉-迟来的爱&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="刘德华-冰雨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 刘德华-冰雨
+http://115.190.124.74/php/gqyy.php?id=刘德华-冰雨&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="孟庭苇-谁的眼泪在飞" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 孟庭苇-谁的眼泪在飞
+http://115.190.124.74/php/gqyy.php?id=孟庭苇-谁的眼泪在飞&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="童安格-其实你不懂我的心" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 童安格-其实你不懂我的心
+http://115.190.124.74/php/gqyy.php?id=童安格-其实你不懂我的心&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张宇&amp;彭羚-囚鸟" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张宇&amp;彭羚-囚鸟
+http://115.190.124.74/php/gqyy.php?id=张宇&彭羚-囚鸟&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="李健-有生之年（庆余年2片头曲）" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 李健-有生之年（庆余年2片头曲）
+http://115.190.124.74/php/gqyy.php?id=李健-有生之年（庆余年2片头曲）&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周深-借过一下（庆余年2片尾曲）" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周深-借过一下（庆余年2片尾曲）
+http://115.190.124.74/php/gqyy.php?id=周深-借过一下（庆余年2片尾曲）&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="郭有才-诺言" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 郭有才-诺言
+http://115.190.124.74/php/gqyy.php?id=郭有才-诺言&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="邓超-电台情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 邓超-电台情歌
+http://115.190.124.74/php/gqyy.php?id=邓超-电台情歌&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王菲-从你的全世界路过" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王菲-从你的全世界路过
+http://115.190.124.74/php/gqyy.php?id=王菲-从你的全世界路过&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="岳云鹏-西楼儿女" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 岳云鹏-西楼儿女
+http://115.190.124.74/php/gqyy.php?id=岳云鹏-西楼儿女&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="鹿先森乐队-春风十里" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 鹿先森乐队-春风十里
+http://115.190.124.74/php/gqyy.php?id=鹿先森乐队-春风十里&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="我找来全国的美女可你们只想看猴子" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 我找来全国的美女可你们只想看猴子
+http://115.190.124.74/php/gqyy.php?id=我找来全国的美女可你们只想看猴子&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="刘德华-今天" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 刘德华-今天
+http://115.190.124.74/php/gqyy.php?id=刘德华-今天&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="草蜢-半点心" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 草蜢-半点心
+http://115.190.124.74/php/gqyy.php?id=草蜢-半点心&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="老鹰乐队-加州旅馆" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 老鹰乐队-加州旅馆
+http://115.190.124.74/php/gqyy.php?id=老鹰乐队-加州旅馆&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="丹正母子版" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 丹正母子版
+http://115.190.124.74/php/gqyy.php?id=丹正母子版&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周深-听见下雨的声音" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周深-听见下雨的声音
+http://115.190.124.74/php/gqyy.php?id=周深-听见下雨的声音&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张真-我被青春撞了一下腰" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张真-我被青春撞了一下腰
+http://115.190.124.74/php/gqyy.php?id=张真-我被青春撞了一下腰&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="罗嘉良-当爱情走到尽头" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 罗嘉良-当爱情走到尽头
+http://115.190.124.74/php/gqyy.php?id=罗嘉良-当爱情走到尽头&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="罗嘉良-说天说地说空虚" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 罗嘉良-说天说地说空虚
+http://115.190.124.74/php/gqyy.php?id=罗嘉良-说天说地说空虚&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="王杰-梦全是你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 王杰-梦全是你
+http://115.190.124.74/php/gqyy.php?id=王杰-梦全是你&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="刘若英-后来" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 刘若英-后来
+http://115.190.124.74/php/gqyy.php?id=刘若英-后来&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张学友-离开以后" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张学友-离开以后
+http://115.190.124.74/php/gqyy.php?id=张学友-离开以后&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张国荣-怪你过分美丽" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张国荣-怪你过分美丽
+http://115.190.124.74/php/gqyy.php?id=张国荣-怪你过分美丽&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张信哲-宽容" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张信哲-宽容
+http://115.190.124.74/php/gqyy.php?id=张信哲-宽容&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张信哲-不要对他说" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张信哲-不要对他说
+http://115.190.124.74/php/gqyy.php?id=张信哲-不要对他说&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="张信哲-用情" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 张信哲-用情
+http://115.190.124.74/php/gqyy.php?id=张信哲-用情&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="薛之谦-我好像在哪见过你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 薛之谦-我好像在哪见过你
+http://115.190.124.74/php/gqyy.php?id=薛之谦-我好像在哪见过你&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="凡(翻唱)-莉莉安" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 凡(翻唱)-莉莉安
+http://115.190.124.74/php/gqyy.php?id=凡(翻唱)-莉莉安&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="萨顶顶-左手指月" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 萨顶顶-左手指月
+http://115.190.124.74/php/gqyy.php?id=萨顶顶-左手指月&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="游鸿明-一天一万年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 游鸿明-一天一万年
+http://115.190.124.74/php/gqyy.php?id=游鸿明-一天一万年&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="许嵩-断桥残雪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 许嵩-断桥残雪
+http://115.190.124.74/php/gqyy.php?id=许嵩-断桥残雪&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="周传雄-黄昏" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 周传雄-黄昏
+http://115.190.124.74/php/gqyy.php?id=周传雄-黄昏&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="谭晶-康美之恋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 谭晶-康美之恋
+http://115.190.124.74/php/gqyy.php?id=谭晶-康美之恋&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="谭艳-光明" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="MV频道", 谭艳-光明
+http://115.190.124.74/php/gqyy.php?id=谭艳-光明&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="音乐台长" tvg-id="音乐台长" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 音乐台长
+http://115.190.124.74/php/douyu.php?id=9629943&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="音乐台长" tvg-id="音乐台长" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 音乐台长
+http://free.frp.vip:10147/douyu/9629943
+#EXTINF:-1 tvg-name="音乐台长" tvg-id="音乐台长" tvg-logo="https://epg.112114.xyz/logo/音乐台长.png" group-title="影视轮播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐台长
+http://live.nctv.top/douyu1.php?id=9629943
+#EXTINF:-1 tvg-name="纸鸢SomniumV" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 纸鸢SomniumV
+http://115.190.124.74/php/douyu.php?id=9506782&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="热星音乐菌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 热星音乐菌
+http://115.190.124.74/php/douyu.php?id=8405922&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CNR 音乐之声" tvg-logo="https://live.lizanyang.top/radio/音乐之声.png" group-title="CNR•广播", CNR 音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 tvg-name="Eclectic24" tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square" group-title="•广播", Eclectic24
-https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
-#EXTINF:-1 tvg-name="潮流音乐台" group-title="•广播", 潮流音乐台
-http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 tvg-name="动感音乐台" group-title="•广播", 动感音乐台
-http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 tvg-name="格莱美音乐台" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553160555011.jpg" group-title="•广播", 格莱美音乐台
-http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
-#EXTINF:-1 tvg-name="古典音乐台" group-title="•广播", 古典音乐台
-http://play.redefine.ltd/Stream2/FM1058-2.m3u8
-#EXTINF:-1 tvg-name="怀集音乐台" group-title="•广播", 怀集音乐台
-http://live.xmcdn.com:80/live/966/64.m3u8
-#EXTINF:-1 tvg-name="老歌音乐台" group-title="•广播", 老歌音乐台
-http://live.xmcdn.com:80/live/2628/64.m3u8
-#EXTINF:-1 tvg-name="民谣音乐台" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241902428118.png" group-title="•广播", 民谣音乐台
-http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-#EXTINF:-1 tvg-name="青岛摩登音乐调频" tvg-logo="h" group-title="•广播", 青岛摩登音乐调频
-http://video11.qtv.com.cn/zhibo886/manifest.m3u8
-#EXTINF:-1 tvg-name="清晨音乐台" group-title="•广播", 清晨音乐台
-http://live.xmcdn.com:80/live/1011/64.m3u8
-#EXTINF:-1 tvg-name="深圳飞扬音乐台" group-title="•广播", 深圳飞扬音乐台
-http://ls.qingting.fm/live/1271.m3u8
-#EXTINF:-1 tvg-name="亚洲经典音乐台" group-title="•广播", 亚洲经典音乐台
-http://live.xmcdn.com:80/live/1005/64.m3u8
-#EXTINF:-1 tvg-name="中广音乐网" tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="•广播", 中广音乐网
-http://stream.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 tvg-name="「KH」 Persiana Music" group-title="•国际", 「KH」 Persiana Music
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 tvg-name="「韩」DJ Soda Remix 2021" group-title="•MTV", 「韩」DJ Soda Remix 2021
-https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-#EXTINF:-1 tvg-name="「韩」佳仁-ParadiseLost" group-title="•MTV", 「韩」佳仁-ParadiseLost
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
-#EXTINF:-1 tvg-name="「韩」僵尸舞" group-title="•MTV", 「韩」僵尸舞
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-#EXTINF:-1 tvg-name="「韩」朴孝敏–SKETCH" group-title="•MTV", 「韩」朴孝敏–SKETCH
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
-#EXTINF:-1 tvg-name="「韩」金泫雅1" group-title="•MTV", 「韩」金泫雅1
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
-#EXTINF:-1 tvg-name="「韩」Alan Walker-feat" group-title="•MTV", 「韩」Alan Walker-feat
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
-#EXTINF:-1 tvg-name="「韩」AOA - Excuse Me" group-title="•MTV", 「韩」AOA - Excuse Me
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
-#EXTINF:-1 tvg-name="「韩」AOA - Like A Cat" group-title="•MTV", 「韩」AOA - Like A Cat
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
-#EXTINF:-1 tvg-name="「韩」Areia Kpop Remix" group-title="•MTV", 「韩」Areia Kpop Remix
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
-#EXTINF:-1 tvg-name="「韩」DalShabet" group-title="•MTV", 「韩」DalShabet
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
-#EXTINF:-1 tvg-name="「韩」DavidJones" group-title="•MTV", 「韩」DavidJones
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
-#EXTINF:-1 tvg-name="「韩」EXID-UP&DOWN" group-title="•MTV", 「韩」EXID-UP&DOWN
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
-#EXTINF:-1 tvg-name="「韩」School-初恋" group-title="•MTV", 「韩」School-初恋
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
-#EXTINF:-1 tvg-name="「韩」School-Flashback" group-title="•MTV", 「韩」School-Flashback
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
-#EXTINF:-1 tvg-name="「韩」Stellar-Vibrato" group-title="•MTV", 「韩」Stellar-Vibrato
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
-#EXTINF:-1 tvg-name="「韩」StickySticky" group-title="•MTV", 「韩」StickySticky
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
-#EXTINF:-1 tvg-name="「韩」TroubleMaker" group-title="•MTV", 「韩」TroubleMaker
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
-#EXTINF:-1 tvg-name="「韩」TroubleMaker-Now" group-title="•MTV", 「韩」TroubleMaker-Now
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
-#EXTINF:-1 tvg-name="「韩」1" group-title="•MTV", 「韩」1
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-#EXTINF:-1 tvg-name="「韩」2" group-title="•MTV", 「韩」2
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
-#EXTINF:-1 tvg-name="「韩」3" group-title="•MTV", 「韩」3
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
-#EXTINF:-1 tvg-name="「韩」4" group-title="•MTV", 「韩」4
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-#EXTINF:-1 tvg-name="「韩」5" group-title="•MTV", 「韩」5
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
-#EXTINF:-1 tvg-name="「韩」6" group-title="•MTV", 「韩」6
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
-#EXTINF:-1 tvg-name="「韩」7" group-title="•MTV", 「韩」7
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
-#EXTINF:-1 tvg-name="「韩」8" group-title="•MTV", 「韩」8
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
-#EXTINF:-1 tvg-name="「韩」9" group-title="•MTV", 「韩」9
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
-#EXTINF:-1 tvg-name="「韩」10" group-title="•MTV", 「韩」10
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
-#EXTINF:-1 tvg-name="「韩」11" group-title="•MTV", 「韩」11
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
-#EXTINF:-1 tvg-name="「韩」12" group-title="•MTV", 「韩」12
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
-#EXTINF:-1 tvg-name="「韩」13" group-title="•MTV", 「韩」13
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
-#EXTINF:-1 tvg-name="「韩」14" group-title="•MTV", 「韩」14
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
-#EXTINF:-1 tvg-name="「韩」15" group-title="•MTV", 「韩」15
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
-#EXTINF:-1 tvg-name="「韩」16" group-title="•MTV", 「韩」16
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
-#EXTINF:-1 tvg-name="「韩」17" group-title="•MTV", 「韩」17
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
-#EXTINF:-1 tvg-name="「韩」18" group-title="•MTV", 「韩」18
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
-#EXTINF:-1 tvg-name="「韩」19" group-title="•MTV", 「韩」19
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
-#EXTINF:-1 tvg-name="「韩」20" group-title="•MTV", 「韩」20
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
-#EXTINF:-1 tvg-name="「韩」21" group-title="•MTV", 「韩」21
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
-#EXTINF:-1 tvg-name="「韩」22" group-title="•MTV", 「韩」22
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
-#EXTINF:-1 tvg-name="「韩」23" group-title="•MTV", 「韩」23
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
-#EXTINF:-1 tvg-name="「韩」24" group-title="•MTV", 「韩」24
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
-#EXTINF:-1 tvg-name="「韩」25" group-title="•MTV", 「韩」25
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
-#EXTINF:-1 tvg-name="「韩」26" group-title="•MTV", 「韩」26
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
-#EXTINF:-1 tvg-name="「韩」27" group-title="•MTV", 「韩」27
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
-#EXTINF:-1 tvg-name="「韩」28" group-title="•MTV", 「韩」28
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
-#EXTINF:-1 tvg-name="「韩」29" group-title="•MTV", 「韩」29
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
-#EXTINF:-1 tvg-name="「韩」30" group-title="•MTV", 「韩」30
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
-#EXTINF:-1 tvg-name="「韩」31" group-title="•MTV", 「韩」31
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
-#EXTINF:-1 tvg-name="「韩」32" group-title="•MTV", 「韩」32
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
-#EXTINF:-1 tvg-name="「韩」33" group-title="•MTV", 「韩」33
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
-#EXTINF:-1 tvg-name="「韩」34" group-title="•MTV", 「韩」34
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
-#EXTINF:-1 tvg-name="「韩」35" group-title="•MTV", 「韩」35
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
-#EXTINF:-1 tvg-name="「韩」36" group-title="•MTV", 「韩」36
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
-#EXTINF:-1 tvg-name="「韩」37" group-title="•MTV", 「韩」37
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
-#EXTINF:-1 tvg-name="「韩」38" group-title="•MTV", 「韩」38
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
-#EXTINF:-1 tvg-name="「韩」39" group-title="•MTV", 「韩」39
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
-#EXTINF:-1 tvg-name="「韩」40" group-title="•MTV", 「韩」40
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
-#EXTINF:-1 tvg-name="「韩」41" group-title="•MTV", 「韩」41
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
-#EXTINF:-1 tvg-name="「韩」42" group-title="•MTV", 「韩」42
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
-#EXTINF:-1 tvg-name="「韩」43" group-title="•MTV", 「韩」43
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
-#EXTINF:-1 tvg-name="「韩」44" group-title="•MTV", 「韩」44
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
-#EXTINF:-1 tvg-name="「韩」45" group-title="•MTV", 「韩」45
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
-#EXTINF:-1 tvg-name="「韩」46" group-title="•MTV", 「韩」46
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
-#EXTINF:-1 tvg-name="「韩」47" group-title="•MTV", 「韩」47
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
-#EXTINF:-1 tvg-name="「韩」48" group-title="•MTV", 「韩」48
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
-#EXTINF:-1 tvg-name="「韩」49" group-title="•MTV", 「韩」49
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
-#EXTINF:-1 tvg-name="「韩」50" group-title="•MTV", 「韩」50
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
-#EXTINF:-1 tvg-name="「韩」51" group-title="•MTV", 「韩」51
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
-#EXTINF:-1 tvg-name="「韩」52" group-title="•MTV", 「韩」52
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
-#EXTINF:-1 tvg-name="「韩」53" group-title="•MTV", 「韩」53
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
-#EXTINF:-1 tvg-name="「韩」54" group-title="•MTV", 「韩」54
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
-#EXTINF:-1 tvg-name="「韩」55" group-title="•MTV", 「韩」55
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
-#EXTINF:-1 tvg-name="「韩」56" group-title="•MTV", 「韩」56
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
-#EXTINF:-1 tvg-name="「韩」57" group-title="•MTV", 「韩」57
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
-#EXTINF:-1 tvg-name="「韩」58" group-title="•MTV", 「韩」58
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
-#EXTINF:-1 tvg-name="「韩」59" group-title="•MTV", 「韩」59
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
-#EXTINF:-1 tvg-name="「韩」60" group-title="•MTV", 「韩」60
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
-#EXTINF:-1 tvg-name="「韩」61" group-title="•MTV", 「韩」61
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
-#EXTINF:-1 tvg-name="「韩」62" group-title="•MTV", 「韩」62
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
-#EXTINF:-1 tvg-name="「韩」63" group-title="•MTV", 「韩」63
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
-#EXTINF:-1 tvg-name="「韩」64" group-title="•MTV", 「韩」64
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
-#EXTINF:-1 tvg-name="「韩」65" group-title="•MTV", 「韩」65
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
-#EXTINF:-1 tvg-name="「韩」66" group-title="•MTV", 「韩」66
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
-#EXTINF:-1 tvg-name="「韩」67" group-title="•MTV", 「韩」67
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
-#EXTINF:-1 tvg-name="「韩」68" group-title="•MTV", 「韩」68
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
-#EXTINF:-1 tvg-name="「韩」69" group-title="•MTV", 「韩」69
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
-#EXTINF:-1 tvg-name="「韩」70" group-title="•MTV", 「韩」70
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
-#EXTINF:-1 tvg-name="「韩」71" group-title="•MTV", 「韩」71
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
-#EXTINF:-1 tvg-name="「韩」72" group-title="•MTV", 「韩」72
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
-#EXTINF:-1 tvg-name="「韩」74" group-title="•MTV", 「韩」74
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
-#EXTINF:-1 tvg-name="「韩」75" group-title="•MTV", 「韩」75
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
-#EXTINF:-1 tvg-name="「韩」76" group-title="•MTV", 「韩」76
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
-#EXTINF:-1 tvg-name="「韩」77" group-title="•MTV", 「韩」77
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
-#EXTINF:-1 tvg-name="「韩」78" group-title="•MTV", 「韩」78
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
-#EXTINF:-1 tvg-name="「韩」79" group-title="•MTV", 「韩」79
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
-#EXTINF:-1 tvg-name="「韩」80" group-title="•MTV", 「韩」80
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
-#EXTINF:-1 tvg-name="「韩」81" group-title="•MTV", 「韩」81
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
-#EXTINF:-1 tvg-name="「韩」82" group-title="•MTV", 「韩」82
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
-#EXTINF:-1 tvg-name="「韩」83" group-title="•MTV", 「韩」83
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
-#EXTINF:-1 tvg-name="「韩」84" group-title="•MTV", 「韩」84
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
-#EXTINF:-1 tvg-name="「韩」85" group-title="•MTV", 「韩」85
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
-#EXTINF:-1 tvg-name="「韩」86" group-title="•MTV", 「韩」86
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
-#EXTINF:-1 tvg-name="「韩」87" group-title="•MTV", 「韩」87
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
-#EXTINF:-1 tvg-name="「韩」88" group-title="•MTV", 「韩」88
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
-#EXTINF:-1 tvg-name="「韩」89" group-title="•MTV", 「韩」89
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
-#EXTINF:-1 tvg-name="「韩」90" group-title="•MTV", 「韩」90
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
-#EXTINF:-1 tvg-name="「韩」92" group-title="•MTV", 「韩」92
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
-#EXTINF:-1 tvg-name="「韩」93" group-title="•MTV", 「韩」93
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
-#EXTINF:-1 tvg-name="「韩」94" group-title="•MTV", 「韩」94
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
-#EXTINF:-1 tvg-name="「韩」95" group-title="•MTV", 「韩」95
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
-#EXTINF:-1 tvg-name="「韩」96" group-title="•MTV", 「韩」96
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
-#EXTINF:-1 tvg-name="「韩」97" group-title="•MTV", 「韩」97
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
-#EXTINF:-1 tvg-name="「韩」98" group-title="•MTV", 「韩」98
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
-#EXTINF:-1 tvg-name="「韩」99" group-title="•MTV", 「韩」99
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
-#EXTINF:-1 tvg-name="「韩」100" group-title="•MTV", 「韩」100
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
-#EXTINF:-1 tvg-name="「韩」101" group-title="•MTV", 「韩」101
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
-#EXTINF:-1 tvg-name="「韩」102" group-title="•MTV", 「韩」102
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
-#EXTINF:-1 tvg-name="「韩」103" group-title="•MTV", 「韩」103
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
-#EXTINF:-1 tvg-name="「韩」104" group-title="•MTV", 「韩」104
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
-#EXTINF:-1 tvg-name="「韩」105" group-title="•MTV", 「韩」105
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
-#EXTINF:-1 tvg-name="「韩」106" group-title="•MTV", 「韩」106
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
-#EXTINF:-1 tvg-name="「韩」107" group-title="•MTV", 「韩」107
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
-#EXTINF:-1 tvg-name="「韩」108" group-title="•MTV", 「韩」108
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
-#EXTINF:-1 tvg-name="「韩」109" group-title="•MTV", 「韩」109
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
-#EXTINF:-1 tvg-name="「韩」110" group-title="•MTV", 「韩」110
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
-#EXTINF:-1 tvg-name="「韩」111" group-title="•MTV", 「韩」111
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
-#EXTINF:-1 tvg-name="「韩」112" group-title="•MTV", 「韩」112
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
-#EXTINF:-1 tvg-name="「韩」113" group-title="•MTV", 「韩」113
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
-#EXTINF:-1 tvg-name="「韩」114" group-title="•MTV", 「韩」114
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
-#EXTINF:-1 tvg-name="「韩」115" group-title="•MTV", 「韩」115
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
-#EXTINF:-1 tvg-name="「韩」116" group-title="•MTV", 「韩」116
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
-#EXTINF:-1 tvg-name="「韩」117" group-title="•MTV", 「韩」117
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
-#EXTINF:-1 tvg-name="「韩」118" group-title="•MTV", 「韩」118
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
-#EXTINF:-1 tvg-name="「韩」119" group-title="•MTV", 「韩」119
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
-#EXTINF:-1 tvg-name="「韩」120" group-title="•MTV", 「韩」120
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
-#EXTINF:-1 tvg-name="「韩」121" group-title="•MTV", 「韩」121
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
-#EXTINF:-1 tvg-name="「韩」122" group-title="•MTV", 「韩」122
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
-#EXTINF:-1 tvg-name="「韩」123" group-title="•MTV", 「韩」123
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
-#EXTINF:-1 tvg-name="「韩」125" group-title="•MTV", 「韩」125
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
-#EXTINF:-1 tvg-name="「韩」126" group-title="•MTV", 「韩」126
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
-#EXTINF:-1 tvg-name="「韩」127" group-title="•MTV", 「韩」127
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
-#EXTINF:-1 tvg-name="「韩」128" group-title="•MTV", 「韩」128
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
-#EXTINF:-1 tvg-name="「韩」129" group-title="•MTV", 「韩」129
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
-#EXTINF:-1 tvg-name="「韩」130" group-title="•MTV", 「韩」130
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
-#EXTINF:-1 tvg-name="「韩」131" group-title="•MTV", 「韩」131
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
-#EXTINF:-1 tvg-name="「韩」132" group-title="•MTV", 「韩」132
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
-#EXTINF:-1 tvg-name="「韩」133" group-title="•MTV", 「韩」133
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
-#EXTINF:-1 tvg-name="「韩」134" group-title="•MTV", 「韩」134
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
-#EXTINF:-1 tvg-name="「韩」135" group-title="•MTV", 「韩」135
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
-#EXTINF:-1 tvg-name="「韩」136" group-title="•MTV", 「韩」136
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
-#EXTINF:-1 tvg-name="「韩」137" group-title="•MTV", 「韩」137
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
-#EXTINF:-1 tvg-name="「韩」138" group-title="•MTV", 「韩」138
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
-#EXTINF:-1 tvg-name="「韩」139" group-title="•MTV", 「韩」139
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
-#EXTINF:-1 tvg-name="「韩」140" group-title="•MTV", 「韩」140
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
-#EXTINF:-1 tvg-name="「韩」141" group-title="•MTV", 「韩」141
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
-#EXTINF:-1 tvg-name="「韩」142" group-title="•MTV", 「韩」142
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
-#EXTINF:-1 tvg-name="「韩」143" group-title="•MTV", 「韩」143
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
-#EXTINF:-1 tvg-name="「韩」145" group-title="•MTV", 「韩」145
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
-#EXTINF:-1 tvg-name="「韩」146" group-title="•MTV", 「韩」146
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
-#EXTINF:-1 tvg-name="「韩」147" group-title="•MTV", 「韩」147
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
-#EXTINF:-1 tvg-name="「韩」148" group-title="•MTV", 「韩」148
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
-#EXTINF:-1 tvg-name="「韩」149" group-title="•MTV", 「韩」149
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
-#EXTINF:-1 tvg-name="「韩」150" group-title="•MTV", 「韩」150
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
-#EXTINF:-1 tvg-name="「韩」151" group-title="•MTV", 「韩」151
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
-#EXTINF:-1 tvg-name="「韩」152" group-title="•MTV", 「韩」152
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
-#EXTINF:-1 tvg-name="「韩」153" group-title="•MTV", 「韩」153
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
-#EXTINF:-1 tvg-name="「韩」154" group-title="•MTV", 「韩」154
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-#EXTINF:-1 tvg-name="「韩」155" group-title="•MTV", 「韩」155
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-#EXTINF:-1 tvg-name="「韩」156" group-title="•MTV", 「韩」156
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
-#EXTINF:-1 tvg-name="「韩」157" group-title="•MTV", 「韩」157
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
-#EXTINF:-1 tvg-name="「韩」158" group-title="•MTV", 「韩」158
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
-#EXTINF:-1 tvg-name="「韩」159" group-title="•MTV", 「韩」159
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
-#EXTINF:-1 tvg-name="「韩」160" group-title="•MTV", 「韩」160
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
-#EXTINF:-1 tvg-name="「韩」161" group-title="•MTV", 「韩」161
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
-#EXTINF:-1 tvg-name="「韩」162" group-title="•MTV", 「韩」162
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
-#EXTINF:-1 tvg-name="「韩」163" group-title="•MTV", 「韩」163
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
-#EXTINF:-1 tvg-name="「韩」164" group-title="•MTV", 「韩」164
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
-#EXTINF:-1 tvg-name="「韩」165" group-title="•MTV", 「韩」165
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
-#EXTINF:-1 tvg-name="「韩」166" group-title="•MTV", 「韩」166
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
-#EXTINF:-1 tvg-name="「韩」167" group-title="•MTV", 「韩」167
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
-#EXTINF:-1 tvg-name="「韩」168" group-title="•MTV", 「韩」168
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
-#EXTINF:-1 tvg-name="「韩」169" group-title="•MTV", 「韩」169
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
-#EXTINF:-1 tvg-name="「韩」170" group-title="•MTV", 「韩」170
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
-#EXTINF:-1 tvg-name="「韩」171" group-title="•MTV", 「韩」171
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
-#EXTINF:-1 tvg-name="「韩」172" group-title="•MTV", 「韩」172
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
-#EXTINF:-1 tvg-name="「韩」173" group-title="•MTV", 「韩」173
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
-#EXTINF:-1 tvg-name="「韩」174" group-title="•MTV", 「韩」174
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
-#EXTINF:-1 tvg-name="「韩」175" group-title="•MTV", 「韩」175
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
-#EXTINF:-1 tvg-name="「韩」176" group-title="•MTV", 「韩」176
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
-#EXTINF:-1 tvg-name="「韩」177" group-title="•MTV", 「韩」177
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
-#EXTINF:-1 tvg-name="「韩」178" group-title="•MTV", 「韩」178
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
-#EXTINF:-1 tvg-name="「韩」179" group-title="•MTV", 「韩」179
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
-#EXTINF:-1 tvg-name="「韩」180" group-title="•MTV", 「韩」180
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
-#EXTINF:-1 tvg-name="「韩」181" group-title="•MTV", 「韩」181
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
-#EXTINF:-1 tvg-name="「韩」182" group-title="•MTV", 「韩」182
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
-#EXTINF:-1 tvg-name="「韩」183" group-title="•MTV", 「韩」183
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
-#EXTINF:-1 tvg-name="「韩」184" group-title="•MTV", 「韩」184
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
-#EXTINF:-1 tvg-name="「韩」185" group-title="•MTV", 「韩」185
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4%EF%BB%BF
-#EXTINF:-1 tvg-name="「韩」186" group-title="•MTV", 「韩」186
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
-#EXTINF:-1 tvg-name="「韩」187" group-title="•MTV", 「韩」187
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
-#EXTINF:-1 tvg-name="「韩」188" group-title="•MTV", 「韩」188
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
-#EXTINF:-1 tvg-name="「韩」189" group-title="•MTV", 「韩」189
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
-#EXTINF:-1 tvg-name="「韩」190" group-title="•MTV", 「韩」190
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
-#EXTINF:-1 tvg-name="「韩」191" group-title="•MTV", 「韩」191
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
-#EXTINF:-1 tvg-name="「韩」192" group-title="•MTV", 「韩」192
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
-#EXTINF:-1 tvg-name="「韩」193" group-title="•MTV", 「韩」193
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
-#EXTINF:-1 tvg-name="「韩」194" group-title="•MTV", 「韩」194
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
-#EXTINF:-1 tvg-name="「韩」195" group-title="•MTV", 「韩」195
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
-#EXTINF:-1 tvg-name="「韩」196" group-title="•MTV", 「韩」196
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
-#EXTINF:-1 tvg-name="「韩」197" group-title="•MTV", 「韩」197
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
-#EXTINF:-1 tvg-name="「韩」198" group-title="•MTV", 「韩」198
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
-#EXTINF:-1 tvg-name="「欧美」迈克尔杰克逊" group-title="•MTV", 「欧美」迈克尔杰克逊
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
-#EXTINF:-1 tvg-name="「欧美」1" group-title="•MTV", 「欧美」1
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-#EXTINF:-1 tvg-name="「欧美」2" group-title="•MTV", 「欧美」2
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
-#EXTINF:-1 tvg-name="「欧美」3" group-title="•MTV", 「欧美」3
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
-#EXTINF:-1 tvg-name="「印度」1" group-title="•MTV", 「印度」1
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOCe9wUotr-RqQU.mp4
-#EXTINF:-1 tvg-name="「印度」2" group-title="•MTV", 「印度」2
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguuCe9wUoyKfU-gI.mp4
-#EXTINF:-1 tvg-name="「印度」3" group-title="•MTV", 「印度」3
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl_Ce9wUo6t-WdQ.mp4
-#EXTINF:-1 tvg-name="「印度」4" group-title="•MTV", 「印度」4
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmeCe9wUoiJmTxgc.mp4
-#EXTINF:-1 tvg-name="「印度」5" group-title="•MTV", 「印度」5
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj_Ce9wUoqtHxJQ.mp4
-#EXTINF:-1 tvg-name="「印度」6" group-title="•MTV", 「印度」6
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmuCe9wUokNHLuAQ.mp4
-#EXTINF:-1 tvg-name="「印度」7" group-title="•MTV", 「印度」7
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgneCe9wUouKLe8Ac.mp4
-#EXTINF:-1 tvg-name="「印度」8" group-title="•MTV", 「印度」8
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3N_e9wUogdbOaQ.mp4
-#EXTINF:-1 tvg-name="「印度」9" group-title="•MTV", 「印度」9
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1t_e9wUouM_i8wM.mp4
-#EXTINF:-1 tvg-name="「印度」10" group-title="•MTV", 「印度」10
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
-#EXTINF:-1 tvg-name="「印度」11" group-title="•MTV", 「印度」11
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
-#EXTINF:-1 tvg-name="「印度」12" group-title="•MTV", 「印度」12
-http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
-#EXTINF:-1 tvg-name="「中」UP&DOWN(中文版)" group-title="•MTV", 「中」UP&DOWN(中文版)
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
-#EXTINF:-1 tvg-name="「中」毛不易-不染" group-title="•MTV", 「中」毛不易-不染
-https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」蔡丽津月圆情" group-title="•MTV", 「中」蔡丽津月圆情
-http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
-#EXTINF:-1 tvg-name="「中」草蜢-半点心" group-title="•MTV", 「中」草蜢-半点心
-http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
-#EXTINF:-1 tvg-name="「中」草蜢-宝贝对不起" group-title="•MTV", 「中」草蜢-宝贝对不起
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
-#EXTINF:-1 tvg-name="「中」草蜢-失恋阵线联盟" group-title="•MTV", 「中」草蜢-失恋阵线联盟
-http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
-#EXTINF:-1 tvg-name="「中」草蜢-忘情森巴舞" group-title="•MTV", 「中」草蜢-忘情森巴舞
-http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
-#EXTINF:-1 tvg-name="「中」刘清沨-曾经拥有的那些年" group-title="•MTV", 「中」刘清沨-曾经拥有的那些年
-http://em.21dtv.com/songs/60110036.mkv
-#EXTINF:-1 tvg-name="「中」陈百潭-初恋" group-title="•MTV", 「中」陈百潭-初恋
-http://vd4.bdstatic.com/mda-jk22i7yt5vyjbgwt/hd/mda-jk22i7yt5vyjbgwt.mp4
-#EXTINF:-1 tvg-name="「中」陈慧娴-孤单背影" group-title="•MTV", 「中」陈慧娴-孤单背影
-http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈慧娴-归来吧" group-title="•MTV", 「中」陈慧娴-归来吧
-http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈慧娴-红茶馆" group-title="•MTV", 「中」陈慧娴-红茶馆
-http://vodcdn.video.taobao.com/oss/ali-video/22ecb463b2e44875b1fa78090d0ffd4e/1460015776/video.m3u8.m3u8
-#EXTINF:-1 tvg-name="「中」陈慧娴-千千阙歌" group-title="•MTV", 「中」陈慧娴-千千阙歌
-http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈慧娴-跳舞街" group-title="•MTV", 「中」陈慧娴-跳舞街
-http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈柯宇-生僻字" group-title="•MTV", 「中」陈柯宇-生僻字
-http://vd2.bdstatic.com/mda-jb28qp6tauzkzpy9/hd/mda-jb28qp6tauzkzpy9.mp4
-#EXTINF:-1 tvg-name="「中」陈明真-百万个吻" group-title="•MTV", 「中」陈明真-百万个吻
-http://vodcdn.video.taobao.com/oss/ali-video/0c66aff1e198e944fb0460172d33d780/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈明真-变心的翅膀" group-title="•MTV", 「中」陈明真-变心的翅膀
-http://vodcdn.video.taobao.com/oss/ali-video/e18dd3abfada11fb6faf26a521084343/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈明真-情债" group-title="•MTV", 「中」陈明真-情债
-http://vodcdn.video.taobao.com/oss/ali-video/99c8f1df6d5686d99e4adc1e6caed7b7/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈明真-为爱笑着流泪" group-title="•MTV", 「中」陈明真-为爱笑着流泪
-http://vodcdn.video.taobao.com/oss/ali-video/4f31a4692aae0974dbc82a95d23339f4/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈倩倩-婴儿" group-title="•MTV", 「中」陈倩倩-婴儿
-http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
-#EXTINF:-1 tvg-name="「中」陈瑞-爱得真伤的深" group-title="•MTV", 「中」陈瑞-爱得真伤的深
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1218839&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-爱的痕迹" group-title="•MTV", 「中」陈瑞-爱的痕迹
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1218815&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-别思" group-title="•MTV", 「中」陈瑞-别思
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3429064&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-分手了别来打扰我" group-title="•MTV", 「中」陈瑞-分手了别来打扰我
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5835684&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-父亲" group-title="•MTV", 「中」陈瑞-父亲
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4247454&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-红尘永相伴" group-title="•MTV", 「中」陈瑞-红尘永相伴
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_506435&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-三生三世" group-title="•MTV", 「中」陈瑞-三生三世
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6449820&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-天长地久" group-title="•MTV", 「中」陈瑞-天长地久
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583220&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-心中的牵挂" group-title="•MTV", 「中」陈瑞-心中的牵挂
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583211&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-一辈子的真爱" group-title="•MTV", 「中」陈瑞-一辈子的真爱
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_28470656&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-一生的等待" group-title="•MTV", 「中」陈瑞-一生的等待
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583215&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-有谁知道我在等你" group-title="•MTV", 「中」陈瑞-有谁知道我在等你
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583218&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-鱼和水的故事" group-title="•MTV", 「中」陈瑞-鱼和水的故事
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_353501&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈瑞-烛光里的妈妈" group-title="•MTV", 「中」陈瑞-烛光里的妈妈
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1024266&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」陈淑苹-黄昏之恋" group-title="•MTV", 「中」陈淑苹-黄昏之恋
-http://vd4.bdstatic.com/mda-jk0m1rgje4eh01cw/hd/mda-jk0m1rgje4eh01cw.mp4
-#EXTINF:-1 tvg-name="「中」陈淑苹-离家" group-title="•MTV", 「中」陈淑苹-离家
-http://vd2.bdstatic.com/mda-iftyuk6tjcxrm53p/sc/mda-iftyuk6tjcxrm53p.mp4
-#EXTINF:-1 tvg-name="「中」大田后-生仔" group-title="•MTV", 「中」大田后-生仔
-https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」花粥/马雨阳-盗将行" group-title="•MTV", 「中」花粥/马雨阳-盗将行
-https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」刘珂矣-芙蓉雨" group-title="•MTV", 「中」刘珂矣-芙蓉雨
-https://vdse.bdstatic.com//85593e1127a1389dc49e9b0491814df2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A58%3A05Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」张杰-浮诛" group-title="•MTV", 「中」张杰-浮诛
-https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」杨小壮-孤芳自赏" group-title="•MTV", 「中」杨小壮-孤芳自赏
-https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」光良-第一次" group-title="•MTV", 「中」光良-第一次
-http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
-#EXTINF:-1 tvg-name="「中」光良-童话" group-title="•MTV", 「中」光良-童话
-http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
-#EXTINF:-1 tvg-name="「中」胡杨林-香水有毒" group-title="•MTV", 「中」胡杨林-香水有毒
-http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/video.m3u8
-#EXTINF:-1 tvg-name="「中」黄凯芹-相爱很难" group-title="•MTV", 「中」黄凯芹-相爱很难
-http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
-#EXTINF:-1 tvg-name="「中」江蕙-梦中的情话" group-title="•MTV", 「中」江蕙-梦中的情话
-http://vd2.bdstatic.com/mda-ji4rwrwg7fijyqkh/mda-ji4rwrwg7fijyqkh.mp4
-#EXTINF:-1 tvg-name="「中」曾惜-讲真的" group-title="•MTV", 「中」曾惜-讲真的
-https://vdse.bdstatic.com//9145a29aecbbf594c5b21ab1e6b14d20.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A46%3A15Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」张杰-就算没有如果" group-title="•MTV", 「中」张杰-就算没有如果
-https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-
-#EXTINF:-1 tvg-name="「中」筷子兄弟-小苹果" group-title="•MTV", 「中」筷子兄弟-小苹果
-http://vd1.bdstatic.com/mda-hc2rwgemn6yrnvw2/mda-hc2rwgemn6yrnvw2.mp4
-#EXTINF:-1 tvg-name="「中」冷漠-不要再说你还爱我" group-title="•MTV", 「中」冷漠-不要再说你还爱我
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_911272&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」冷漠-古咖啡" group-title="•MTV", 「中」冷漠-古咖啡
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」冷漠-你把爱情给了谁" group-title="•MTV", 「中」冷漠-你把爱情给了谁
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」冷漠-谁都不要说分手" group-title="•MTV", 「中」冷漠-谁都不要说分手
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_12975393&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」冷漠-时光海湾" group-title="•MTV", 「中」冷漠-时光海湾
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」冷漠-我是否也在你心中" group-title="•MTV", 「中」冷漠-我是否也在你心中
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4378249&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」冷漠-再爱也没有用" group-title="•MTV", 「中」冷漠-再爱也没有用
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5834217&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」冷漠-真不是闹着玩" group-title="•MTV", 「中」冷漠-真不是闹着玩
-http://antiserver.kuwo.cn/anti.s?rid=MUSIC_22836669&response=res&format=mp4&type=convert_url
-#EXTINF:-1 tvg-name="「中」黎瑞恩-为情为爱" group-title="•MTV", 「中」黎瑞恩-为情为爱
-http://vodcdn.video.taobao.com/oss/ali-video/73348f95d4cee3fcc96a63c30deed357/video.m3u8
-#EXTINF:-1 tvg-name="「中」李圣杰-痴心绝对" group-title="•MTV", 「中」李圣杰-痴心绝对
-http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
-#EXTINF:-1 tvg-name="「中」李翊君-诺言" group-title="•MTV", 「中」李翊君-诺言
-http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
-#EXTINF:-1 tvg-name="「中」凉凉张碧晨杨宗纬" group-title="•MTV", 「中」凉凉张碧晨杨宗纬
-https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-
-#EXTINF:-1 tvg-name="「中」梁朝伟-一天一天爱恋" group-title="•MTV", 「中」梁朝伟-一天一天爱恋
-http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8
-#EXTINF:-1 tvg-name="「中」梁静茹-问" group-title="•MTV", 「中」梁静茹-问
-http://vodcdn.video.taobao.com/oss/ali-video/b2a2adf565e97d00d1bd6d62145184d1/video.m3u8
-#EXTINF:-1 tvg-name="「中」梁静茹-勇气" group-title="•MTV", 「中」梁静茹-勇气
-http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
-#EXTINF:-1 tvg-name="「中」龙梅子-泪满天" group-title="•MTV", 「中」龙梅子-泪满天
-http://vodcdn.video.taobao.com/oss/ali-video/2ea2890443421f58665a7fdf0a297265/video.m3u8
-#EXTINF:-1 tvg-name="「中」吕方-多爱你一天" group-title="•MTV", 「中」吕方-多爱你一天
-http://vodcdn.video.taobao.com/oss/ali-video/dcd97358c3e72377932aa883727320f9/video.m3u8
-#EXTINF:-1 tvg-name="「中」吕方-朋友别哭" group-title="•MTV", 「中」吕方-朋友别哭
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
-#EXTINF:-1 tvg-name="「中」罗时丰-爱那么痛" group-title="•MTV", 「中」罗时丰-爱那么痛
-http://vd2.bdstatic.com/mda-jcrjbhmgprhs00c4/sc/mda-jcrjbhmgprhs00c4.mp4
-#EXTINF:-1 tvg-name="「中」罗时丰-爱情的路" group-title="•MTV", 「中」罗时丰-爱情的路
-http://vd4.bdstatic.com/mda-jcrjcp1wy5q2i00n/sc/mda-jcrjcp1wy5q2i00n.mp4
-#EXTINF:-1 tvg-name="「中」罗时丰-擦掉彼句我爱你" group-title="•MTV", 「中」罗时丰-擦掉彼句我爱你
-http://vd1.bdstatic.com/mda-hj3j9zhu12h99a79/vs-f5f50550f0b93f5020da43ab88266eda-watermark/hd/mda-hj3j9zhu12h99a79.mp4
-#EXTINF:-1 tvg-name="「中」罗时丰-无情之梦" group-title="•MTV", 「中」罗时丰-无情之梦
-http://vd2.bdstatic.com/mda-je1jq1hvgmab08gd/sc/mda-je1jq1hvgmab08gd.mp4
-#EXTINF:-1 tvg-name="「中」罗时丰-心事" group-title="•MTV", 「中」罗时丰-心事
-http://vd2.bdstatic.com/mda-jaadiz1rwrtrj7kw/sc/mda-jaadiz1rwrtrj7kw.mp4
-#EXTINF:-1 tvg-name="「中」罗时丰一定要成功" group-title="•MTV", 「中」罗时丰一定要成功
-http://vd1.bdstatic.com/mda-hgmk00ncqxvvix0v/mda-hgmk00ncqxvvix0v.mp4
-#EXTINF:-1 tvg-name="「中」赵方婧-芒种" group-title="•MTV", 「中」赵方婧-芒种
-https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
-#EXTINF:-1 tvg-name="「中」毛宁-蓝蓝的夜蓝蓝的梦" group-title="•MTV", 「中」毛宁-蓝蓝的夜蓝蓝的梦
-http://vodcdn.video.taobao.com/oss/ali-video/6d5a8c2e7667e3d6138246a45571d1f7/video.m3u8
-#EXTINF:-1 tvg-name="「中」毛宁-晚秋" group-title="•MTV", 「中」毛宁-晚秋
-http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
-#EXTINF:-1 tvg-name="「中」毛宁/杨钰莹-心雨" group-title="•MTV", 「中」毛宁/杨钰莹-心雨
-http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-爱你太深" group-title="•MTV", 「中」孟庭苇-爱你太深
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-把思念寄托远方" group-title="•MTV", 「中」孟庭苇-把思念寄托远方
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-不下雨就出太阳吧" group-title="•MTV", 「中」孟庭苇-不下雨就出太阳吧
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-春雪" group-title="•MTV", 「中」孟庭苇-春雪
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5ZFrpzPk37KvY7CaTUj%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-冬季到台北来看雨" group-title="•MTV", 「中」孟庭苇-冬季到台北来看雨
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-风里的梦" group-title="•MTV", 「中」孟庭苇-风里的梦
-http://vodcdn.video.taobao.com/oss/ali-video/626e2336b5e9765e14ba22a617fd6223/video.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-风中有朵雨做的云" group-title="•MTV", 「中」孟庭苇-风中有朵雨做的云
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-过冬" group-title="•MTV", 「中」孟庭苇-过冬
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/U9QKnKK2RpKMElnSS07%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-红雨" group-title="•MTV", 「中」孟庭苇-红雨
-http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-你究竟有多少个好妹妹" group-title="•MTV", 「中」孟庭苇-你究竟有多少个好妹妹
-http://vodcdn.video.taobao.com/oss/ali-video/dfb07cbdd8435d48cb1e6691122d8d85/video.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-你看你看月亮的脸" group-title="•MTV", 「中」孟庭苇-你看你看月亮的脸
-http://vodcdn.video.taobao.com/oss/ali-video/6e098f7b47614885845efb7a45998eb1/1465875165/video.m3u8.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-谁的眼泪在飞" group-title="•MTV", 「中」孟庭苇-谁的眼泪在飞
-http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-我说的谎都是真的" group-title="•MTV", 「中」孟庭苇-我说的谎都是真的
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9aqTcUjlJ7KZkA37W1E%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-无声的雨" group-title="•MTV", 「中」孟庭苇-无声的雨
-http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-雾里看花" group-title="•MTV", 「中」孟庭苇-雾里看花
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」孟庭苇-真的还是假的" group-title="•MTV", 「中」孟庭苇-真的还是假的
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/vhJvCIZiDOz7f6VTCON%40%40hd.m3u8
-#EXTINF:-1 tvg-name="「中」摩登兄弟-探清水河" group-title="•MTV", 「中」摩登兄弟-探清水河
-http://vd2.bdstatic.com/mda-jg6dffnbt92877h0/sc/mda-jg6dffnbt92877h0.mp4
-#EXTINF:-1 tvg-name="「中」阿冗-你的答案" group-title="•MTV", 「中」阿冗-你的答案
-https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」陈雪凝-你的酒馆对我打了烊" group-title="•MTV", 「中」陈雪凝-你的酒馆对我打了烊
-https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
-#EXTINF:-1 tvg-name="「中」阿悠悠-你若三冬" group-title="•MTV", 「中」阿悠悠-你若三冬
-https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」彭佳慧-回味" group-title="•MTV", 「中」彭佳慧-回味
-http://vodcdn.video.taobao.com/oss/ali-video/6801f707771eacdb5264f8bb20e4d599/video.m3u8
-#EXTINF:-1 tvg-name="「中」彭佳慧-无法割舍" group-title="•MTV", 「中」彭佳慧-无法割舍
-http://vodcdn.video.taobao.com/oss/ali-video/8be8f7d28d4f2c7ce759d431f0d3181b/video.m3u8
-#EXTINF:-1 tvg-name="「中」海伦-桥边姑娘" group-title="•MTV", 「中」海伦-桥边姑娘
-https://vdse.bdstatic.com/8ae4235344c61f9c05ccf3716c84e823.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」裘正海-爱你十分泪七分" group-title="•MTV", 「中」裘正海-爱你十分泪七分
-http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
-#EXTINF:-1 tvg-name="「中」任齐贤-心太软" group-title="•MTV", 「中」任齐贤-心太软
-http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
-#EXTINF:-1 tvg-name="「中」如果有一天我变的很有钱" group-title="•MTV", 「中」如果有一天我变的很有钱
-https://vd3.bdstatic.com/mda-jjmfvpaqh1z11ibc/hd/mda-jjmfvpaqh1z11ibc.mp4?pd=19&vt=1
-#EXTINF:-1 tvg-name="「中」如梦令" group-title="•MTV", 「中」如梦令
-https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」马健淘-杀阡陌" group-title="•MTV", 「中」马健淘-杀阡陌
-https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」柏松-世界美好与你环环相扣" group-title="•MTV", 「中」柏松-世界美好与你环环相扣
-https://vdse.bdstatic.com//90f59f9978da89c2f5f8dec807a238b6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A25%3A00Z%2F-
-#EXTINF:-1 tvg-name="「中」誓言-求佛" group-title="•MTV", 「中」誓言-求佛
-http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
-#EXTINF:-1 tvg-name="「中」思慕-郁可唯" group-title="•MTV", 「中」思慕-郁可唯
-https://vdse.bdstatic.com/5ec8d619d2ecb4ff832cfa252a967bb8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」谭咏麟/关淑怡-明天你是否依然爱我" group-title="•MTV", 「中」谭咏麟/关淑怡-明天你是否依然爱我
-http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
-#EXTINF:-1 tvg-name="「中」于文文-体面" group-title="•MTV", 「中」于文文-体面
-https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」杨紫/邓伦-天地无霜" group-title="•MTV", 「中」杨紫/邓伦-天地无霜
-https://vdse.bdstatic.com//bd1f7fcb1263b608c60793c5c7094ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A25%3A13Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」王彩华-爱情的骗子我问你" group-title="•MTV", 「中」王彩华-爱情的骗子我问你
-http://vd4.bdstatic.com/mda-jm4h7v1isxwc660u/sc/mda-jm4h7v1isxwc660u.mp4
-#EXTINF:-1 tvg-name="「中」王菲-爱与痛的边缘" group-title="•MTV", 「中」王菲-爱与痛的边缘
-http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
-#EXTINF:-1 tvg-name="「中」王菲-如风" group-title="•MTV", 「中」王菲-如风
-http://vodcdn.video.taobao.com/oss/ali-video/f176658a3f974aecd5ce3df456092835/video.m3u8
-#EXTINF:-1 tvg-name="「中」王菲-执迷不悔" group-title="•MTV", 「中」王菲-执迷不悔
-http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
-#EXTINF:-1 tvg-name="「中」王麟-伤不起" group-title="•MTV", 「中」王麟-伤不起
-http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
-#EXTINF:-1 tvg-name="「中」损茜茹/马良-往后余生" group-title="•MTV", 「中」损茜茹/马良-往后余生
-https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
-#EXTINF:-1 tvg-name="「中」赵丽颖/张碧晨-望" group-title="•MTV", 「中」赵丽颖/张碧晨-望
-https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」翁立友-阿公的茶" group-title="•MTV", 「中」翁立友-阿公的茶
-http://vd2.bdstatic.com/mda-ijgqgd9jwz54ray7/sc/mda-ijgqgd9jwz54ray7.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-爱过无心" group-title="•MTV", 「中」翁立友-爱过无心
-http://vd4.bdstatic.com/mda-ijgqk17gxf3xh2wz/sc/mda-ijgqk17gxf3xh2wz.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-爱情的陷阱" group-title="•MTV", 「中」翁立友-爱情的陷阱
-http://vd3.bdstatic.com/mda-ijgee8tg9n4a95ij/sc/mda-ijgee8tg9n4a95ij.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-表示" group-title="•MTV", 「中」翁立友-表示
-http://vd4.bdstatic.com/mda-ijge8r0m6vgx46ms/sc/mda-ijge8r0m6vgx46ms.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-痴情雨" group-title="•MTV", 「中」翁立友-痴情雨
-http://vd1.bdstatic.com/mda-hemzqd1rrbr8q4kw/sc/mda-hemzqd1rrbr8q4kw.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-独身仔的生活" group-title="•MTV", 「中」翁立友-独身仔的生活
-http://vd4.bdstatic.com/mda-jdmd7ydrsa0dp6e2/hd/mda-jdmd7ydrsa0dp6e2.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-感恩" group-title="•MTV", 「中」翁立友-感恩
-http://vd2.bdstatic.com/mda-jdc4v9b9tvrjw4pe/hd/mda-jdc4v9b9tvrjw4pe.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-乎我理由" group-title="•MTV", 「中」翁立友-乎我理由
-http://vd3.bdstatic.com/mda-jd0bzjvcp1d19b0k/sc/mda-jd0bzjvcp1d19b0k.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-甲妳惜命命" group-title="•MTV", 「中」翁立友-甲妳惜命命
-http://vd2.bdstatic.com/mda-jk2ptewhvn5cee6n/sc/mda-jk2ptewhvn5cee6n.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-坚持" group-title="•MTV", 「中」翁立友-坚持
-http://vd2.bdstatic.com/mda-ji4uxxfqu5tgr7c3/mda-ji4uxxfqu5tgr7c3.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-今生今世" group-title="•MTV", 「中」翁立友-今生今世
-http://vd3.bdstatic.com/mda-ji4sadsbxes30b8h/mda-ji4sadsbxes30b8h.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-妈妈请你不通痛" group-title="•MTV", 「中」翁立友-妈妈请你不通痛
-http://vd3.bdstatic.com/mda-im9gh6d15m05zu9p/sc/mda-im9gh6d15m05zu9p.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-迷魂香" group-title="•MTV", 「中」翁立友-迷魂香
-http://vd1.bdstatic.com/mda-hid0euc4xc7xmum0/sc/mda-hid0euc4xc7xmum0.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-恁姊仔住市内" group-title="•MTV", 「中」翁立友-恁姊仔住市内
-http://vd3.bdstatic.com/mda-ijfekw4yxergj9ak/sc/mda-ijfekw4yxergj9ak.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-拼命的坚持" group-title="•MTV", 「中」翁立友-拼命的坚持
-http://vd4.bdstatic.com/mda-jd9ksvdjk0n3qiae/hd/mda-jd9ksvdjk0n3qiae.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-前途" group-title="•MTV", 「中」翁立友-前途
-http://vd2.bdstatic.com/mda-jijnuvcf8ggs5wte/mda-jijnuvcf8ggs5wte.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-情缘路" group-title="•MTV", 「中」翁立友-情缘路
-http://vd3.bdstatic.com/mda-ijgdxmwrrfv4tsam/sc/mda-ijgdxmwrrfv4tsam.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-思念的情泪" group-title="•MTV", 「中」翁立友-思念的情泪
-http://vd3.bdstatic.com/mda-hmhng3p0jbskv57p/sc/mda-hmhng3p0jbskv57p.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-送你送到这" group-title="•MTV", 「中」翁立友-送你送到这
-http://vd2.bdstatic.com/mda-jm33ts9txcjuaq27/hd/mda-jm33ts9txcjuaq27.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-探听" group-title="•MTV", 「中」翁立友-探听
-http://vd2.bdstatic.com/mda-igmf3i4hied5ar5u/hd/mda-igmf3i4hied5ar5u.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-为爱相逢" group-title="•MTV", 「中」翁立友-为爱相逢
-http://vd2.bdstatic.com/mda-ijgq79ukweagj0v0/sc/mda-ijgq79ukweagj0v0.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-温暖家园" group-title="•MTV", 「中」翁立友-温暖家园
-http://vd3.bdstatic.com/mda-igim5cnwnq4xv94f/hd/mda-igim5cnwnq4xv94f.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-我问天" group-title="•MTV", 「中」翁立友-我问天
-http://vd4.bdstatic.com/mda-im9gwdckyxiq5ab6/sc/mda-im9gwdckyxiq5ab6.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-沃澹的相片" group-title="•MTV", 「中」翁立友-沃澹的相片
-http://vd4.bdstatic.com/mda-jefjhd593hvtfjsc/sc/mda-jefjhd593hvtfjsc.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-限时批" group-title="•MTV", 「中」翁立友-限时批
-http://vd3.bdstatic.com/mda-iighnnxyc3nfj9zu/sc/mda-iighnnxyc3nfj9zu.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-行棋" group-title="•MTV", 「中」翁立友-行棋
-http://vd2.bdstatic.com/mda-ji4w8pcxse8taw5b/sc/mda-ji4w8pcxse8taw5b.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-因为你的爱" group-title="•MTV", 「中」翁立友-因为你的爱
-http://vd2.bdstatic.com/mda-jk2r3d0w8sqkk59j/mda-jk2r3d0w8sqkk59j.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-用泪写缘份" group-title="•MTV", 「中」翁立友-用泪写缘份
-http://vd4.bdstatic.com/mda-ijfeqx4zc0gxq5jq/sc/mda-ijfeqx4zc0gxq5jq.mp4
-#EXTINF:-1 tvg-name="「中」翁立友-找巢" group-title="•MTV", 「中」翁立友-找巢
-http://vd2.bdstatic.com/mda-jm5gc09g63p6j10k/sc/mda-jm5gc09g63p6j10k.mp4
-#EXTINF:-1 tvg-name="「中」我曾" group-title="•MTV", 「中」我曾
-https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
-#EXTINF:-1 tvg-name="「中」我愿意平凡的陪在你身旁" group-title="•MTV", 「中」我愿意平凡的陪在你身旁
-https://vdse.bdstatic.com/570e05ef514db00b14c9c10d1aef7f1f.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z
-#EXTINF:-1 tvg-name="「中」巫启贤-太傻" group-title="•MTV", 「中」巫启贤-太傻
-http://vodcdn.video.taobao.com/oss/ali-video/e6f2953419f904065dc2ce38efc85515/video.m3u8
-#EXTINF:-1 tvg-name="「中」巫启贤-只因你伤心" group-title="•MTV", 「中」巫启贤-只因你伤心
-http://vodcdn.video.taobao.com/oss/ali-video/c28acbe36530da595b04161855bba004/video.m3u8
-#EXTINF:-1 tvg-name="「中」屋顶着火宋茜" group-title="•MTV", 「中」屋顶着火宋茜
-https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
-#EXTINF:-1 tvg-name="「中」下山" group-title="•MTV", 「中」下山
-https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」消愁" group-title="•MTV", 「中」消愁
-https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
-#EXTINF:-1 tvg-name="「中」小凤凤爱情一阵风" group-title="•MTV", 「中」小凤凤爱情一阵风
-http://vd2.bdstatic.com/mda-jjm7vgq1iahz0zpg/mda-jjm7vgq1iahz0zpg.mp4
-#EXTINF:-1 tvg-name="「中」辛晓琪-仿佛是昨天" group-title="•MTV", 「中」辛晓琪-仿佛是昨天
-http://vodcdn.video.taobao.com/oss/ali-video/dbaf6d1d5a0ec2d93a668796e46e4f05/video.m3u8
-#EXTINF:-1 tvg-name="「中」辛晓琪-俩俩相忘" group-title="•MTV", 「中」辛晓琪-俩俩相忘
-http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
-#EXTINF:-1 tvg-name="「中」辛晓琪-领悟" group-title="•MTV", 「中」辛晓琪-领悟
-http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
-#EXTINF:-1 tvg-name="「中」辛晓琪-味道" group-title="•MTV", 「中」辛晓琪-味道
-http://vodcdn.video.taobao.com/oss/ali-video/ce005204d02a88cfac474f1583f08add/video.m3u8
-#EXTINF:-1 tvg-name="「中」许茹芸-不爱我放了我" group-title="•MTV", 「中」许茹芸-不爱我放了我
-http://vodcdn.video.taobao.com/oss/ali-video/b0f458650135c68f1b88ea7667eec629/video.m3u8
-#EXTINF:-1 tvg-name="「中」许茹芸-独角戏" group-title="•MTV", 「中」许茹芸-独角戏
-http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
-#EXTINF:-1 tvg-name="「中」许茹芸-泪海" group-title="•MTV", 「中」许茹芸-泪海
-http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
-#EXTINF:-1 tvg-name="「中」许茹芸-如果云知道" group-title="•MTV", 「中」许茹芸-如果云知道
-http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
-#EXTINF:-1 tvg-name="「中」许茹芸-我依然爱你" group-title="•MTV", 「中」许茹芸-我依然爱你
-http://vodcdn.video.taobao.com/oss/ali-video/4c4ec12e6efa0d76e5a269ac05ea394e/video.m3u8
-#EXTINF:-1 tvg-name="「中」杨曼-9999滴眼泪" group-title="•MTV", 「中」杨曼-9999滴眼泪
-http://vodcdn.video.taobao.com/oss/ali-video/f6d027835c0e8f72d3c74379b86fb696/video.m3u8
-#EXTINF:-1 tvg-name="「中」杨钰莹-等你一万年" group-title="•MTV", 「中」杨钰莹-等你一万年
-http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
-#EXTINF:-1 tvg-name="「中」杨钰莹-红彤彤的春天" group-title="•MTV", 「中」杨钰莹-红彤彤的春天
-http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
-#EXTINF:-1 tvg-name="「中」杨钰莹-轻轻告诉你" group-title="•MTV", 「中」杨钰莹-轻轻告诉你
-http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
-#EXTINF:-1 tvg-name="「中」杨钰莹-我不想说" group-title="•MTV", 「中」杨钰莹-我不想说
-http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
-#EXTINF:-1 tvg-name="「中」叶倩文-曾经心痛" group-title="•MTV", 「中」叶倩文-曾经心痛
-http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
-#EXTINF:-1 tvg-name="「中」叶倩文-伤逝" group-title="•MTV", 「中」叶倩文-伤逝
-http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
-#EXTINF:-1 tvg-name="「中」叶倩文-我的爱对你说" group-title="•MTV", 「中」叶倩文-我的爱对你说
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
-#EXTINF:-1 tvg-name="「中」叶倩文-潇洒走一回" group-title="•MTV", 「中」叶倩文-潇洒走一回
-http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
-#EXTINF:-1 tvg-name="「中」一念一年" group-title="•MTV", 「中」一念一年
-https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」一曲相思" group-title="•MTV", 「中」一曲相思
-https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」余年" group-title="•MTV", 「中」余年
-https://vdse.bdstatic.com/660c78b56b33dca31497de9c6921c5a6.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」原版大鱼海棠" group-title="•MTV", 「中」原版大鱼海棠
-http://vd3.bdstatic.com/mda-jm9x2pw13gpb4d82/sc/mda-jm9x2pw13gpb4d82.mp4
-#EXTINF:-1 tvg-name="「中」站着等你三千年" group-title="•MTV", 「中」站着等你三千年
-https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-
-#EXTINF:-1 tvg-name="「中」张惠妹-别在伤口撒盐" group-title="•MTV", 「中」张惠妹-别在伤口撒盐
-http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
-#EXTINF:-1 tvg-name="「中」张惠妹-听海" group-title="•MTV", 「中」张惠妹-听海
-http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
-#EXTINF:-1 tvg-name="「中」张秀卿车站" group-title="•MTV", 「中」张秀卿车站
-http://vd2.bdstatic.com/mda-jjmnjgiabtvmy13u/sc/mda-jjmnjgiabtvmy13u.mp4
-#EXTINF:-1 tvg-name="「中」张学友-一颗不变心" group-title="•MTV", 「中」张学友-一颗不变心
-http://vodcdn.video.taobao.com/oss/ali-video/1dcf180669ab98697e49c4c9b5f76cd7/video.m3u8
-#EXTINF:-1 tvg-name="「中」张学友-只想一生跟你走" group-title="•MTV", 「中」张学友-只想一生跟你走
-http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
-#EXTINF:-1 tvg-name="「中」张智霖-片片枫叶情" group-title="•MTV", 「中」张智霖-片片枫叶情
-http://vodcdn.video.taobao.com/oss/ali-video/1d02cf8794a542c930fbf210c0a4e3e7/video.m3u8
-#EXTINF:-1 tvg-name="「中」张智霖-现代爱情故事" group-title="•MTV", 「中」张智霖-现代爱情故事
-http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8
-#EXTINF:-1 tvg-name="「中」只问你肯不肯" group-title="•MTV", 「中」只问你肯不肯
-https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="「中」纸短情长" group-title="•MTV", 「中」纸短情长
-https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」周华健-风雨无阻" group-title="•MTV", 「中」周华健-风雨无阻
-http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
-#EXTINF:-1 tvg-name="「中」周华健-朋友" group-title="•MTV", 「中」周华健-朋友
-http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
-#EXTINF:-1 tvg-name="「中」周慧敏-痴心换情深" group-title="•MTV", 「中」周慧敏-痴心换情深
-http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
-#EXTINF:-1 tvg-name="「中」卓依婷-爱拼才会赢" group-title="•MTV", 「中」卓依婷-爱拼才会赢
-http://vd3.bdstatic.com/mda-jfreugw1pcza8xr1/mda-jfreugw1pcza8xr1.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-爱情一阵风" group-title="•MTV", 「中」卓依婷-爱情一阵风
-http://vd3.bdstatic.com/mda-jf5fre7jvd0q3rfu/mda-jf5fre7jvd0q3rfu.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-擦干眼泪" group-title="•MTV", 「中」卓依婷-擦干眼泪
-http://vd3.bdstatic.com/mda-jeqd4kq8iwh67a1k/mda-jeqd4kq8iwh67a1k.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-采红菱" group-title="•MTV", 「中」卓依婷-采红菱
-http://vd3.bdstatic.com/mda-jfdvpsg280t986rz/mda-jfdvpsg280t986rz.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-常回家看看" group-title="•MTV", 「中」卓依婷-常回家看看
-http://vd3.bdstatic.com/mda-jerf6nxy7nc0d6m5/mda-jerf6nxy7nc0d6m5.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-大家一起来DJ" group-title="•MTV", 「中」卓依婷-大家一起来DJ
-http://vd3.bdstatic.com/mda-jf1jfkgj3qte7h96/mda-jf1jfkgj3qte7h96.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-歹路不通行" group-title="•MTV", 「中」卓依婷-歹路不通行
-http://vd3.bdstatic.com/mda-imigfktdeeseud4j/mda-imigfktdeeseud4j.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-电话情思" group-title="•MTV", 「中」卓依婷-电话情思
-http://vd3.bdstatic.com/mda-jfghscj8datutink/mda-jfghscj8datutink.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-东南西北风" group-title="•MTV", 「中」卓依婷-东南西北风
-http://vd3.bdstatic.com/mda-jf9fszd51shymgp6/mda-jf9fszd51shymgp6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-杜十娘" group-title="•MTV", 「中」卓依婷-杜十娘
-http://vd3.bdstatic.com/mda-jekst5s3c341xwyd/mda-jekst5s3c341xwyd.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-橄榄树" group-title="•MTV", 「中」卓依婷-橄榄树
-http://vd3.bdstatic.com/mda-jfagwdhxb30ymr13/mda-jfagwdhxb30ymr13.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-花好月圆" group-title="•MTV", 「中」卓依婷-花好月圆
-http://vd3.bdstatic.com/mda-jepfhjwcthgci13y/mda-jepfhjwcthgci13y.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-旧情也绵绵" group-title="•MTV", 「中」卓依婷-旧情也绵绵
-http://vd3.bdstatic.com/mda-jfje0s0z33b0c9vf/mda-jfje0s0z33b0c9vf.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-看不见温柔" group-title="•MTV", 「中」卓依婷-看不见温柔
-http://vd3.bdstatic.com/mda-jeqg6s6gc0ietmst/mda-jeqg6s6gc0ietmst.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-流星雨" group-title="•MTV", 「中」卓依婷-流星雨
-http://vd3.bdstatic.com/mda-jfap39wqmi2yisu6/mda-jfap39wqmi2yisu6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-鲁冰花" group-title="•MTV", 「中」卓依婷-鲁冰花
-http://vd3.bdstatic.com/mda-jf8fbjprnf1fvpxm/mda-jf8fbjprnf1fvpxm.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-美酒加咖啡" group-title="•MTV", 「中」卓依婷-美酒加咖啡
-http://vd3.bdstatic.com/mda-jfrred8ck6pnh6bq/mda-jfrred8ck6pnh6bq.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-梦醒十分" group-title="•MTV", 「中」卓依婷-梦醒十分
-http://vd3.bdstatic.com/mda-jennyc5ci1ugrxzi/mda-jennyc5ci1ugrxzi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-免失志" group-title="•MTV", 「中」卓依婷-免失志
-http://vd3.bdstatic.com/mda-jdngvdh4ru0irwma/mda-jdngvdh4ru0irwma.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-莫辜负好时光" group-title="•MTV", 「中」卓依婷-莫辜负好时光
-http://vd3.bdstatic.com/mda-jfkkh6m5u47trvqc/mda-jfkkh6m5u47trvqc.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-萍聚" group-title="•MTV", 「中」卓依婷-萍聚
-http://vd3.bdstatic.com/mda-jenmbx88uk365k40/mda-jenmbx88uk365k40.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-山不转水转" group-title="•MTV", 「中」卓依婷-山不转水转
-http://vd3.bdstatic.com/mda-jb7pfvgc6wuivhqi/mda-jb7pfvgc6wuivhqi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-同一首歌" group-title="•MTV", 「中」卓依婷-同一首歌
-http://vd3.bdstatic.com/mda-jf1j2af0dji6ju83/mda-jf1j2af0dji6ju83.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-蜗牛与黄鹂鸟" group-title="•MTV", 「中」卓依婷-蜗牛与黄鹂鸟
-http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-无聊的爱情" group-title="•MTV", 「中」卓依婷-无聊的爱情
-http://vd3.bdstatic.com/mda-jfkhu7bksxcqjq2z/mda-jfkhu7bksxcqjq2z.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-无情的班机" group-title="•MTV", 「中」卓依婷-无情的班机
-http://vd3.bdstatic.com/mda-jeqjsqimdzvytgvv/mda-jeqjsqimdzvytgvv.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-无言的结局" group-title="•MTV", 「中」卓依婷-无言的结局
-http://vd3.bdstatic.com/mda-jenpdiydc7kez9ze/mda-jenpdiydc7kez9ze.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-谢谢你的爱" group-title="•MTV", 「中」卓依婷-谢谢你的爱
-http://vd3.bdstatic.com/mda-jf2fuh2yhd0txff0/mda-jf2fuh2yhd0txff0.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-心挂意无处用" group-title="•MTV", 「中」卓依婷-心挂意无处用
-http://vd3.bdstatic.com/mda-jfkgx7x5gki9xpgs/mda-jfkgx7x5gki9xpgs.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-夜来香" group-title="•MTV", 「中」卓依婷-夜来香
-http://vd3.bdstatic.com/mda-jfai9k0sxf0nisvq/mda-jfai9k0sxf0nisvq.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-雨过天晴" group-title="•MTV", 「中」卓依婷-雨过天晴
-http://vd3.bdstatic.com/mda-jfbggf264f55hv4m/mda-jfbggf264f55hv4m.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」卓依婷-捉泥鳅" group-title="•MTV", 「中」卓依婷-捉泥鳅
-http://vd3.bdstatic.com/mda-jf6k8v71hrs8s441/mda-jf6k8v71hrs8s441.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-#EXTINF:-1 tvg-name="「中」醉千年李袁杰" group-title="•MTV", 「中」醉千年李袁杰
-http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
-#EXTINF:-1 tvg-name="「中」左手指月" group-title="•MTV", 「中」左手指月
-https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost
-#EXTINF:-1 tvg-name="「中」sheep张艺兴" group-title="•MTV", 「中」sheep张艺兴
-https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 tvg-name="30A Music" group-title="•杂货", 30A Music
-http://30a-tv.com/music.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Classic Rock「音乐」" group-title="•杂货", Stingray Classic Rock「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Everything 80s「音乐」" group-title="•杂货", Stingray Everything 80s「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Flashback 70s「音乐」" group-title="•杂货", Stingray Flashback 70s「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Hit List「音乐」" group-title="•杂货", Stingray Hit List「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Holiday Hits「音乐」" group-title="•杂货", Stingray Holiday Hits「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Hot Country「音乐」" group-title="•杂货", Stingray Hot Country「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Rock Alternative「音乐」" group-title="•杂货", Stingray Rock Alternative「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Today's Latin Pop「音乐」" group-title="•杂货", Stingray Today's Latin Pop「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Stingray Urban Beats「音乐」" group-title="•杂货", Stingray Urban Beats「音乐」
-https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="综合广播", CNR音乐之声
-https://radio.0472.org/?id=641
-#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="综合广播", CNR经典音乐
-https://radio.0472.org/?id=642
-#EXTINF:-1 tvg-name="芒果时空音乐台" tvg-logo="https://radio.0472.org/?id=524&logo" group-title="音乐广播", 芒果时空音乐
-https://radio.0472.org/?id=524
-#EXTINF:-1 tvg-name="长沙交通广播" tvg-logo="https://radio.0472.org/?id=1061&logo" group-title="音乐广播", 长沙交通广播
-https://radio.0472.org/?id=1061
-#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://radio.0472.org/?id=1531&logo" group-title="音乐广播", 长沙音乐广播
-https://radio.0472.org/?id=1531
-#EXTINF:-1 tvg-name="深圳音乐频率" tvg-logo="https://radio.0472.org/?id=498&logo" group-title="音乐广播", 深圳音乐频率
-https://radio.0472.org/?id=498
-#EXTINF:-1 tvg-name="楚天音乐广播" tvg-logo="https://radio.0472.org/?id=533&logo" group-title="音乐广播", 楚天音乐广播
-https://radio.0472.org/?id=533
-#EXTINF:-1 tvg-name="厦门音乐广播" tvg-logo="https://radio.0472.org/?id=1897&logo" group-title="音乐广播", 厦门音乐广播
-https://radio.0472.org/?id=1897
-#EXTINF:-1 tvg-name="BBC Radio 6 Music" tvg-logo="http://live.cooltv.top/logo/6.png" group-title="境外广播", BBC Radio 6 Music
-http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-id="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="数字综合" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 老故事
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=老故事
 #EXTINF:-1 tvg-name="老故事" tvg-id="老故事" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/002/202405081702_1715158642984_H169_1080.jpg" group-title="数字综合", 老故事
@@ -1059,7 +479,7 @@ http://sport.pendy.dpdns.org/migu/884121956?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBP
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=中学生
 #EXTINF:-1 tvg-name="中学生" tvg-id="中学生" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/355/202405081702_1715158104256_H169_1080.jpg" group-title="数字综合", 中学生
 http://sport.pendy.dpdns.org/migu/708869532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="财富天下" tvg-id="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="其他频道" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 财富天下
+#EXTINF:-1 tvg-name="财富天下" tvg-id="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="仅电信可用·限时内测" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 财富天下
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=财富天下
 #EXTINF:-1 tvg-name="抗战经典影片" tvg-id="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="影视" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 抗战经典影片
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=抗战经典影片
@@ -1117,12 +537,12 @@ javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?chan
 http://sport.pendy.dpdns.org/migu/609169285?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="新动力量创一流" tvg-id="新动力量创一流" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/523/202506060000_1749138941378_H32_1080.webp" group-title="纪实" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 新动力量创一流
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=新动力量创一流
-#EXTINF:-1 tvg-name="Music Top" group-title="•音乐", Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 #EXTINF:-1 tvg-name="俄罗斯 Ⅰ FM 音乐频道" group-title="中文-音乐", 俄罗斯 Ⅰ FM 音乐频道
 http://rtmp.one.by:1200
 #EXTINF:-1 tvg-name="俄罗斯 Ⅰ OR 音乐频道" group-title="中文-音乐", 俄罗斯 Ⅰ OR 音乐频道
 http://rtmp.one.by:2200/
+#EXTINF:-1 tvg-name="乌克兰 Ⅰ M2 音乐频道" group-title="中文-音乐", 乌克兰 Ⅰ M2 音乐频道
+http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-name="意大利 Ⅰ V2 音乐频道" group-title="中文-音乐", 意大利 Ⅰ V2 音乐频道
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-name="音乐20TV" group-title="中文-音乐", 音乐20TV
@@ -1139,30 +559,6 @@ https://epg.pm/stream/d0db79c3ed314e35a576ce3d4aa5a21fb29277fc47b2a1207bab4770ac
 https://epg.pm/stream/6b2dcfb136ae25fcb8a02e2bd0754e45387e2b82942aff11b3b2b1544aa6a658.m3u8
 #EXTINF:-1 tvg-name="[HD]MTV2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163152045628_30.png" group-title="綜合", [HD]MTV2
 https://epg.pm/stream/e0217bf9315827bebf0a3ca22f256ee7f79b6d6878777f5cace43c10c3fbf659.m3u8
-#EXTINF:-1 tvg-name="CBS 3 Omaha(KMTV)" group-title="美国Local听力磨耳朵", CBS 3 Omaha(KMTV)
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 tvg-name="🚨(广)Music Channel" tvg-id="🚨(广)Music Channel" tvg-logo="https://tv-res.pages.dev/logo/🚨(广)Music Channel.png" group-title="更新时间", 🚨(广)Music Channel
-https://cmc-ono.amagi.tv/playlist1080_p.m3u8
-#EXTINF:-1 tvg-name="🚨(告)周杰伦MV" tvg-id="🚨(告)周杰伦MV" tvg-logo="https://tv-res.pages.dev/logo/🚨(告)周杰伦MV.png" group-title="更新时间", 🚨(告)周杰伦MV
-http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-#EXTINF:-1 tvg-name="音乐_AT_KroneHit" tvg-id="音乐_AT_KroneHit" tvg-logo="https://tv-res.pages.dev/logo/音乐_AT_KroneHit.png" group-title="更新时间", 音乐_AT_KroneHit
-http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
-#EXTINF:-1 tvg-name="音乐_捷克_Ocko" tvg-id="音乐_捷克_Ocko" tvg-logo="https://tv-res.pages.dev/logo/音乐_捷克_Ocko.png" group-title="更新时间", 音乐_捷克_Ocko
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-name="音乐_捷克_Ocko Star" tvg-id="音乐_捷克_Ocko Star" tvg-logo="https://tv-res.pages.dev/logo/音乐_捷克_Ocko Star.png" group-title="更新时间", 音乐_捷克_Ocko Star
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-name="音乐_捷克_Ocko Expres" tvg-id="音乐_捷克_Ocko Expres" tvg-logo="https://tv-res.pages.dev/logo/音乐_捷克_Ocko Expres.png" group-title="更新时间", 音乐_捷克_Ocko Expres
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-name="纪录|MTV Live" tvg-id="纪录|MTV Live" tvg-logo="https://tv-res.pages.dev/logo/纪录|MTV Live.png" group-title="💓优质个源", 纪录|MTV Live
-http://free.cnlive.club/channel/n7a0c7aec/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="无线音乐" tvg-id="无线音乐" tvg-logo="https://tv-res.pages.dev/logo/无线音乐.png" group-title="🍹定制P3P☕️", 无线音乐
-https://hls-gateway.vpstv.net/streams/709467.m3u8
-#EXTINF:-1 tvg-name="Classica古典音乐" tvg-id="Classica古典音乐" tvg-logo="https://tv-res.pages.dev/logo/Classica古典音乐.png" group-title="🍹定制P3P☕️", Classica古典音乐
-p3p://167.114.175.6:55331/6452b4f1000c38e8744ac80744c33d67
-#EXTINF:-1 tvg-name="CMusic" tvg-id="CMUSIC" tvg-logo="https://epg.112114.xyz/logo/CMusic.png" group-title="🍹定制P3P☕️", CMUSIC
-p3p://167.114.175.6:55331/64e368dc000e5b23a986c9d62f9604df
-#EXTINF:-1 tvg-name="CMusic" tvg-id="CMUSIC" tvg-logo="https://epg.112114.xyz/logo/CMusic.png" group-title="🍹定制P3P☕️" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CMusic
-https://cdn12.178.indevs.in/163189/d396cb84b6c89889
 #EXTINF:-1 tvg-name="演唱會直擊" tvg-id="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="演唱會直擊", 演唱會直擊
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii91
 #EXTINF:-1 tvg-name="演唱會直擊" tvg-id="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="演唱會直擊", 演唱會直擊
@@ -1173,7 +569,7 @@ http://220.135.64.124:5050/4gtv-4gtv016/index.m3u8
 http://220.135.64.124:5050/li-4gtv-4gtv016/index.m3u8
 #EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-id="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他", 韓國娛樂台
 http://114.32.153.6:5051/4gtv-4gtv016/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="上视东方影视" tvg-id="上视东方影视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg" group-title="高清", 上视东方影视
+#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg" group-title="咪咕视频", 上视东方影视
 http://sport.pendy.dpdns.org/migu/617290047?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="军事迷必看大片" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202406101432_1718000751139_H169_1080.jpg" group-title="咪咕视频", 军事迷必看大片
 http://sport.pendy.dpdns.org/migu/617432318?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -1197,178 +593,130 @@ https://smart.pendy.dpdns.org/Smart.php?id=MuslimTV
 https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
 #EXTINF:-1 tvg-name="印度|Sun Music" tvg-id="印度|Sun Music" tvg-logo="https://epg.112114.xyz/logo/印度|SUNMUSIC.png" group-title="Smart☠️源", 印度|Sun Music
 https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
-#EXTINF:-1 tvg-name="DELUXE MUSIC DE" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/Deluxe Music DE.png" group-title="Jack", DELUXE MUSIC DE🇩🇪德国
-https://rust.946985.filegear-sg.me/proxy/0a77a6d5d2fe5f23?token=tgJerryfeng
-#EXTINF:-1 tvg-name="M6 Music FR" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/M6 Music FR.png" group-title="Jack", M6 Music FR🇫🇷法国
-https://rust.946985.filegear-sg.me/proxy/5caf217ef83f544d?token=tgJerryfeng
-#EXTINF:-1 tvg-name="粤听·小满音乐台" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2022-09/9dfbc98283519043OSS1663831185.png" group-title="网络广播", 粤听·小满音乐台
-http://live.cooltv.top/tv/yueting.php?id=2490
-#EXTINF:-1 tvg-name="AsiaFM 亚洲音乐台" tvg-logo="http://live.cooltv.top/logo/asiamusic.png" group-title="网络广播", AsiaFM 亚洲音乐台
-http://asiafm.hk:8000/asiafm
-#EXTINF:-1 tvg-name="AsiaFM HD音乐台" tvg-logo="http://live.cooltv.top/logo/asiahd.png" group-title="网络广播", AsiaFM HD音乐台
-http://asiafm.hk:8000/asiahd
-#EXTINF:-1 tvg-name="长沙交通广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙交通广播.png" group-title="综合广播", 长沙交通广播
-http://20573.hlsplay.aodianyun.com/zhcs_radio/jtgb1061.m3u8
-#EXTINF:-1 tvg-name="宜昌交通广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="综合广播", 宜昌交通广播
-http://play.3xgd.com/fm/jtt.m3u8
-#EXTINF:-1 tvg-name="BBC Radio 6 Music" tvg-logo="http://live.cooltv.top/logo/6.png" group-title="境外广播", BBC Radio 6 Music
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
-#EXTINF:-1 tvg-name="PulseFM心动音乐电台" tvg-logo="http://live.cooltv.top/logo/pulsefm.png" group-title="境外广播", PulseFM心动音乐电台
-http://live.cooltv.top/tv/899.php
-#EXTINF:-1 tvg-name="A-Line Radio 网路音乐台" tvg-logo="https://epg.112114.eu.org/logo/aline.png" group-title="境外广播", A-Line Radio 网路音乐台
-http://live.cooltv.top/tv/appleline.php?id=aline
-#EXTINF:-1 tvg-name="BravoFM台北都会音乐台" tvg-logo="http://live.cooltv.top/logo/bravofm.png" group-title="境外广播", BravoFM台北都会音乐台
-https://onair.bravo913.com.tw:9130/live.mp3
-#EXTINF:-1 tvg-name="台中古典音乐台" tvg-logo="http://live.cooltv.top/logo/台中古典音乐台.png" group-title="境外广播", 台中古典音乐台
-https://onair.family977.com.tw:8977/live.mp3
-#EXTINF:-1 tvg-name="中广音乐网" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/中广音乐网.png" group-title="境外广播", 中广音乐网
-http://n07.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 tvg-name="n p r | KJZZ" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/74uqeZnXmV.png" group-title="境外广播", n p r | KJZZ
-http://kjzz.streamguys1.com/kjzz_aac_high
-#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="音乐广播", HITFM劲曲调频
-http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1 tvg-name="动感101" tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播", 动感101
-http://live.cooltv.top/tv/news1296.php?id=4
-#EXTINF:-1 tvg-name="Love Radio" tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播", Love Radio
-http://live.cooltv.top/tv/news1296.php?id=7
-#EXTINF:-1 tvg-name="KFM981" tvg-logo="http://live.cooltv.top/logo/kfm.png" group-title="音乐广播", KFM981
-http://live.cooltv.top/tv/news1296.php?id=9
-#EXTINF:-1 tvg-name="经典947" tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播", 经典947
-http://live.cooltv.top/tv/news1296.php?id=8
-#EXTINF:-1 tvg-name="南京城市管理广播" tvg-logo="http://live.cooltv.top/logo/njcsglgb.png" group-title="音乐广播", 南京城市管理广播
-http://hls.njgb.com/live_hls/5/playlist.m3u8
-#EXTINF:-1 tvg-name="南京cool radio" tvg-logo="http://live.cooltv.top/logo/njcoolradio.png" group-title="音乐广播", 南京cool radio
-http://hls.njgb.com/live_hls/8/playlist.m3u8
-#EXTINF:-1 tvg-name="芒果时空音乐电台" tvg-logo="http://live.cooltv.top/logo/spacemusic.png" group-title="音乐广播", 芒果时空音乐电台
-http://live.cooltv.top/tv/ytradio.php?id=524
-#EXTINF:-1 tvg-name="摩登音乐台" tvg-logo="http://live.cooltv.top/logo/hunan975.png" group-title="音乐广播", 摩登音乐台
-rtmp://satellitepull.cnr.cn/live/wx32hunwygb
-#EXTINF:-1 tvg-name="南宁乡村生活广播经典1049" tvg-logo="http://live.cooltv.top/logo/nn1049.png" group-title="音乐广播", 南宁乡村生活广播经典1049
-http://hls.nntv.cn/nnradio/FM1049.m3u8
-#EXTINF:-1 tvg-name="南宁故事广播快乐895" tvg-logo="http://live.cooltv.top/logo/nn895.png" group-title="音乐广播", 南宁故事广播快乐895
-http://hls.nntv.cn/nnradio/FM895.m3u8
-#EXTINF:-1 tvg-name="合肥文艺广播" tvg-logo="http://live.cooltv.top/logo/876.png" group-title="音乐广播", 合肥文艺广播
-http://live.cooltv.top/tv/tide.php?id=hfwygb
-#EXTINF:-1 tvg-name="长春都市音乐广播UFM880" tvg-logo="http://live.cooltv.top/logo/ufm880.png" group-title="音乐广播", 长春都市音乐广播UFM880
-http://p2bj.vzan.com/slowlive/730848065915372146/live.m3u8
-#EXTINF:-1 tvg-name="崂山921" tvg-logo="http://live.cooltv.top/logo/921.png" group-title="音乐广播", 崂山921
-rtmp://jsylivealone.iqilu.com/laoshan/laoshan_audio
-#EXTINF:-1 tvg-name="经典948" tvg-logo="http://live.cooltv.top/logo/948.png" group-title="音乐广播", 经典948
-http://live.cooltv.top/tv/iqilu.php?id=948
-#EXTINF:-1 tvg-name="海峡之声·文化生活广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="音乐广播", 海峡之声·文化生活广播
-http://47.107.255.25:1935/live/liveSh/800k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="唐山音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/唐山音乐广播.PNG" group-title="音乐广播", 唐山音乐广播
-http://live.cooltv.top/tv/ts.php?id=yygb
-#EXTINF:-1 tvg-name="南昌经济生活广播" tvg-logo="http://live.cooltv.top/logo/ncjjshgb.png" group-title="音乐广播", 南昌经济生活广播
-http://live.cooltv.top/tv/nctv.php?id=7
-#EXTINF:-1 tvg-name="PlayFM甬江之声" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/playfm.png" group-title="音乐广播", PlayFM甬江之声
-http://netlive.zhxwzx.com/live/1001.m3u8
-#EXTINF:-1 tvg-name="郑州音乐广播" tvg-logo="http://live.cooltv.top/logo/944.png" group-title="音乐广播", 郑州音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=717
-#EXTINF:-1 tvg-name="深圳飞扬971" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/971.png" group-title="音乐广播", 深圳飞扬971
-rtmp://satellitepull.cnr.cn/live/wxszfy971
-#EXTINF:-1 tvg-name="深圳生活942" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/942.png" group-title="音乐广播", 深圳生活942
-rtmp://satellitepull.cnr.cn/live/wxszsjcgb
-#EXTINF:-1 tvg-name="成都文化休闲广播·radio946" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/cd946.png" group-title="音乐广播", 成都文化休闲广播·radio946
-http://live.cooltv.top/tv/cdgb.php?id=946
-#EXTINF:-1 tvg-name="AsiaFM 亚洲音乐台" tvg-logo="https://gitee.com/radioer/photo/raw/main/asiacd.png" group-title="音乐广播", AsiaFM 亚洲音乐台
-http://asiafm.vip:8000/fm965
-#EXTINF:-1 tvg-name="最爱878音乐广播" tvg-logo="http://live.cooltv.top/logo/878.png" group-title="音乐广播", 最爱878音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=2415&type=hubei
-#EXTINF:-1 tvg-name="绍兴私家车音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/绍兴私家车音乐广播.png" group-title="音乐广播", 绍兴私家车音乐广播
-http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
-#EXTINF:-1 tvg-name="扬州经济音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/扬州经济音乐广播.png" group-title="音乐广播", 扬州经济音乐广播
-http://live.cooltv.top/tv/yz.php?id=jjyy
-#EXTINF:-1 tvg-name="常州音乐广播" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/798285e1766815818d495053cc2881c8.png" group-title="音乐广播", 常州音乐广播
-http://live.cooltv.top/tv/cz.php?id=fm935
-#EXTINF:-1 tvg-name="烟台音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/烟台音乐广播.png" group-title="音乐广播", 烟台音乐广播
-http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
-#EXTINF:-1 tvg-name="年代959" tvg-logo="http://live.cooltv.top/logo/959.png" group-title="音乐广播", 年代959
-http://live.cooltv.top/tv/ytradio.php?id=2397
-#EXTINF:-1 tvg-name="长沙城市之声" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙城市之声.png" group-title="音乐广播", 长沙城市之声
-http://20573.hlsplay.aodianyun.com/zhcs_radio/cszs1017.m3u8
-#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙音乐广播.png" group-title="音乐广播", 长沙音乐广播
-http://20573.hlsplay.aodianyun.com/zhcs_radio/jjgb886.m3u8
-#EXTINF:-1 tvg-name="太原音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/太原音乐广播.png" group-title="音乐广播", 太原音乐广播
-http://live.cooltv.top/tv/tide.php?id=tyyygb
-#EXTINF:-1 tvg-name="石家庄音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/石家庄音乐广播.PNG" group-title="音乐广播", 石家庄音乐广播
-http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
-#EXTINF:-1 tvg-name="崇州电台年代音乐1022" tvg-logo="https://pic.qtfm.cn/2022/0114/20220114060455.jpeg" group-title="音乐广播", 崇州电台年代音乐1022
-http://live.cooltv.top/tv/cdgb.php?id=433-1315
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="🇺🇸美国直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-name="MTV2" tvg-logo="https://epg.112114.xyz/logo/MTV2.png" group-title="🇺🇸美国直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", MTV2
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10427
-#EXTINF:-1 tvg-name="华流才是最吊" tvg-logo="https://epg.112114.xyz/logo/华流才是最吊.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 华流才是最吊
-https://live.ottiptv.cc/huya/15326083
-#EXTINF:-1 tvg-name="周杰伦专场" tvg-logo="https://epg.112114.xyz/logo/周杰伦专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 周杰伦专场
+#EXTINF:-1 tvg-name="周杰伦专场" tvg-id="周杰伦专场" tvg-logo="https://epg.112114.xyz/logo/周杰伦专场.png" group-title="🎧音乐直播", 周杰伦专场
+http://free.frp.vip:10147/douyu/7537296
+#EXTINF:-1 tvg-name="周杰伦专场" tvg-id="周杰伦专场" tvg-logo="https://epg.112114.xyz/logo/周杰伦专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 周杰伦专场
 http://live.nctv.top/douyu1.php?id=7537296
-#EXTINF:-1 tvg-name="双笙专场" tvg-logo="https://epg.112114.xyz/logo/双笙专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 双笙专场
+#EXTINF:-1 tvg-name="陈奕迅专场" tvg-id="陈奕迅专场" group-title="🎧音乐直播", 陈奕迅专场
+http://81.70.10.196:35455/huya/21241843
+#EXTINF:-1 tvg-name="五月天专场" tvg-id="五月天专场" group-title="🎧音乐直播", 五月天专场
+http://81.70.10.196:35455/huya/21241841
+#EXTINF:-1 tvg-name="双笙专场" tvg-id="双笙专场" tvg-logo="https://epg.112114.xyz/logo/双笙专场.png" group-title="🎧音乐直播", 双笙专场
+http://free.frp.vip:10147/douyu/6476693
+#EXTINF:-1 tvg-name="双笙专场" tvg-id="双笙专场" tvg-logo="https://epg.112114.xyz/logo/双笙专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 双笙专场
 http://live.nctv.top/douyu1.php?id=6476693
-#EXTINF:-1 tvg-name="室外专场" tvg-logo="https://epg.112114.xyz/logo/室外专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 室外专场
-http://live.nctv.top/douyu1.php?id=9627625
-#EXTINF:-1 tvg-name="翻唱专场" tvg-logo="https://epg.112114.xyz/logo/翻唱专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 翻唱专场
-http://live.nctv.top/douyu1.php?id=9572351
-#EXTINF:-1 tvg-name="阿七点歌台" tvg-logo="https://epg.112114.xyz/logo/阿七点歌台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 阿七点歌台
-http://live.nctv.top/douyu1.php?id=3186217
-#EXTINF:-1 tvg-name="音悦喵点歌台" tvg-logo="https://epg.112114.xyz/logo/音悦喵点歌台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音悦喵点歌台
-http://live.nctv.top/douyu1.php?id=3870925
-#EXTINF:-1 tvg-name="音乐台长" tvg-logo="https://epg.112114.xyz/logo/音乐台长.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐台长
-http://live.nctv.top/douyu1.php?id=9629943
-#EXTINF:-1 tvg-name="下饭音乐" tvg-logo="https://epg.112114.xyz/logo/下饭音乐.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 下饭音乐
-http://live.nctv.top/douyu1.php?id=8661966
-#EXTINF:-1 tvg-name="音乐Wu哥" tvg-logo="https://epg.112114.xyz/logo/音乐Wu哥.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐Wu哥
-http://live.nctv.top/douyu1.php?id=8667755
-#EXTINF:-1 tvg-name="音乐快斗" tvg-logo="https://epg.112114.xyz/logo/音乐快斗.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐快斗
-http://live.nctv.top/douyu1.php?id=8324627
-#EXTINF:-1 tvg-name="蚕豆电台" tvg-logo="https://epg.112114.xyz/logo/蚕豆电台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 蚕豆电台
-http://live.nctv.top/douyu1.php?id=8768792
-#EXTINF:-1 tvg-name="音乐猛抬头" tvg-logo="https://epg.112114.xyz/logo/音乐猛抬头.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐猛抬头
-http://live.nctv.top/douyu1.php?id=8666105
-#EXTINF:-1 tvg-name="喵喵音乐台" tvg-logo="https://epg.112114.xyz/logo/喵喵音乐台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 喵喵音乐台
-http://live.nctv.top/douyu1.php?id=9568091
-#EXTINF:-1 tvg-name="黑糖音乐秀" tvg-logo="https://epg.112114.xyz/logo/黑糖音乐秀.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 黑糖音乐秀
-http://live.nctv.top/douyu1.php?id=9560563
-#EXTINF:-1 tvg-name="荒草音乐" tvg-logo="https://epg.112114.xyz/logo/荒草音乐.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 荒草音乐
-http://live.nctv.top/douyu1.php?id=8706465
-#EXTINF:-1 tvg-name="热星音乐菌" tvg-logo="https://epg.112114.xyz/logo/热星音乐菌.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 热星音乐菌
-http://live.nctv.top/douyu1.php?id=8405922
-#EXTINF:-1 tvg-name="音乐Fans小琼" tvg-logo="https://epg.112114.xyz/logo/音乐Fans小琼.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐Fans小琼
-http://live.nctv.top/douyu1.php?id=8666210
-#EXTINF:-1 tvg-name="小飞飞流行DJ音乐" tvg-logo="https://epg.112114.xyz/logo/小飞飞流行DJ音乐.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 小飞飞流行DJ音乐
-http://live.nctv.top/douyu1.php?id=10469362
-#EXTINF:-1 tvg-name="小舞点歌台" tvg-logo="https://epg.112114.xyz/logo/小舞点歌台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 小舞点歌台
-https://live.ottiptv.cc/huya/15590571
-#EXTINF:-1 tvg-name="24小时点歌台" tvg-logo="https://epg.112114.xyz/logo/24小时点歌台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 24小时点歌台
-https://live.ottiptv.cc/huya/25261191
-#EXTINF:-1 tvg-name="助眠音乐专场" tvg-logo="https://epg.112114.xyz/logo/助眠音乐专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 助眠音乐专场
-https://live.ottiptv.cc/huya/21241811
-#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://epg.112114.xyz/logo/音乐小石榴.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐小石榴
-https://live.ottiptv.cc/huya/17091681
-#EXTINF:-1 tvg-name="DJ专场" tvg-logo="https://epg.112114.xyz/logo/DJ专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", DJ专场
-https://live.ottiptv.cc/huya/20432228
-#EXTINF:-1 tvg-name="吉他专场" tvg-logo="https://epg.112114.xyz/logo/吉他专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 吉他专场
+#EXTINF:-1 tvg-name="华语专场" tvg-id="华语专场" group-title="🎧音乐直播", 华语专场
+http://81.70.10.196:35455/huya/21241839
+#EXTINF:-1 tvg-name="吉他专场" tvg-id="吉他专场" tvg-logo="https://epg.112114.xyz/logo/吉他专场.png" group-title="🎧音乐直播", 吉他专场
+http://81.70.10.196:35455/huya/21241765
+#EXTINF:-1 tvg-name="吉他专场" tvg-id="吉他专场" tvg-logo="https://epg.112114.xyz/logo/吉他专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 吉他专场
 https://live.ottiptv.cc/huya/21241765
-#EXTINF:-1 tvg-name="24×7音乐" tvg-logo="https://epg.112114.xyz/logo/24×7音乐.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 24×7音乐
-https://live.ottiptv.cc/huya/30483433
-#EXTINF:-1 tvg-name="轻音乐专场" tvg-logo="https://epg.112114.xyz/logo/轻音乐专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 轻音乐专场
-https://live.ottiptv.cc/huya/26947138
-#EXTINF:-1 tvg-name="日语专场" tvg-logo="https://epg.112114.xyz/logo/日语专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 日语专场
+#EXTINF:-1 tvg-name="说唱专场" tvg-id="说唱专场" group-title="🎧音乐直播", 说唱专场
+http://81.70.10.196:35455/huya/21241840
+#EXTINF:-1 tvg-name="民谣专场" tvg-id="民谣专场" group-title="🎧音乐直播", 民谣专场
+http://81.70.10.196:35455/huya/21241831
+#EXTINF:-1 tvg-name="歌单专场" tvg-id="歌单专场" group-title="🎧音乐直播", 歌单专场
+http://81.70.10.196:35455/huya/21241844
+#EXTINF:-1 tvg-name="游戏音乐专场" tvg-id="游戏音乐专场" group-title="🎧音乐直播", 游戏音乐专场
+http://81.70.10.196:35455/huya/21241838
+#EXTINF:-1 tvg-name="日语专场" tvg-id="日语专场" tvg-logo="https://epg.112114.xyz/logo/日语专场.png" group-title="🎧音乐直播", 日语专场
+http://81.70.10.196:35455/huya/21241795
+#EXTINF:-1 tvg-name="日语专场" tvg-id="日语专场" tvg-logo="https://epg.112114.xyz/logo/日语专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 日语专场
 https://live.ottiptv.cc/huya/21241795
-#EXTINF:-1 tvg-name="海选专场" tvg-logo="https://epg.112114.xyz/logo/海选专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 海选专场
-https://live.ottiptv.cc/huya/21241781
-#EXTINF:-1 tvg-name="2002THEONE演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2002THEONE演唱会完整版.png" group-title="🎤周杰伦歌曲点播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 2002THEONE演唱会完整版
+#EXTINF:-1 tvg-name="欧美专场" tvg-id="欧美专场" group-title="🎧音乐直播", 欧美专场
+http://81.70.10.196:35455/huya/21241790
+#EXTINF:-1 tvg-name="甜美专场" tvg-id="甜美专场" group-title="🎧音乐直播", 甜美专场
+http://81.70.10.196:35455/huya/21241784
+#EXTINF:-1 tvg-name="连麦专场" tvg-id="连麦专场" group-title="🎧音乐直播", 连麦专场
+http://81.70.10.196:35455/huya/21241781
+#EXTINF:-1 tvg-name="室外专场" tvg-id="室外专场" tvg-logo="https://epg.112114.xyz/logo/室外专场.png" group-title="🎧音乐直播", 室外专场
+http://free.frp.vip:10147/douyu/9627625
+#EXTINF:-1 tvg-name="室外专场" tvg-id="室外专场" tvg-logo="https://epg.112114.xyz/logo/室外专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 室外专场
+http://live.nctv.top/douyu1.php?id=9627625
+#EXTINF:-1 tvg-name="翻唱专场" tvg-id="翻唱专场" tvg-logo="https://epg.112114.xyz/logo/翻唱专场.png" group-title="🎧音乐直播", 翻唱专场
+http://free.frp.vip:10147/douyu/9572351
+#EXTINF:-1 tvg-name="翻唱专场" tvg-id="翻唱专场" tvg-logo="https://epg.112114.xyz/logo/翻唱专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 翻唱专场
+http://live.nctv.top/douyu1.php?id=9572351
+#EXTINF:-1 tvg-name="打碟专场" tvg-id="打碟专场" group-title="🎧音乐直播", 打碟专场
+http://81.70.10.196:35455/huya/22719885
+#EXTINF:-1 tvg-name="蹦迪专场" tvg-id="蹦迪专场" group-title="🎧音乐直播", 蹦迪专场
+http://81.70.10.196:35455/huya/20432232
+#EXTINF:-1 tvg-name="嘻哈专场" tvg-id="嘻哈专场" group-title="🎧音乐直播", 嘻哈专场
+http://81.70.10.196:35455/huya/21241810
+#EXTINF:-1 tvg-name="DJ专场" tvg-id="DJ专场" tvg-logo="https://epg.112114.xyz/logo/DJ专场.png" group-title="🎧音乐直播", DJ专场
+http://81.70.10.196:35455/huya/20432228
+#EXTINF:-1 tvg-name="DJ专场" tvg-id="DJ专场" tvg-logo="https://epg.112114.xyz/logo/DJ专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", DJ专场
+https://live.ottiptv.cc/huya/20432228
+#EXTINF:-1 tvg-name="轻音乐专场" tvg-id="轻音乐专场" tvg-logo="https://epg.112114.xyz/logo/轻音乐专场.png" group-title="🎧音乐直播", 轻音乐专场
+http://81.70.10.196:35455/huya/21241813
+#EXTINF:-1 tvg-name="轻音乐专场" tvg-id="轻音乐专场" tvg-logo="https://epg.112114.xyz/logo/轻音乐专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 轻音乐专场
+https://live.ottiptv.cc/huya/26947138
+#EXTINF:-1 tvg-name="助眠音乐专场" tvg-id="助眠音乐专场" tvg-logo="https://epg.112114.xyz/logo/助眠音乐专场.png" group-title="🎧音乐直播", 助眠音乐专场
+http://81.70.10.196:35455/huya/21241811
+#EXTINF:-1 tvg-name="助眠音乐专场" tvg-id="助眠音乐专场" tvg-logo="https://epg.112114.xyz/logo/助眠音乐专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 助眠音乐专场
+https://live.ottiptv.cc/huya/21241811
+#EXTINF:-1 tvg-name="阿七点歌台" tvg-id="阿七点歌台" tvg-logo="https://epg.112114.xyz/logo/阿七点歌台.png" group-title="🎧音乐直播", 阿七点歌台
+http://free.frp.vip:10147/douyu/3186217
+#EXTINF:-1 tvg-name="阿七点歌台" tvg-id="阿七点歌台" tvg-logo="https://epg.112114.xyz/logo/阿七点歌台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 阿七点歌台
+http://live.nctv.top/douyu1.php?id=3186217
+#EXTINF:-1 tvg-name="音悦喵点歌台" tvg-id="音悦喵点歌台" tvg-logo="https://epg.112114.xyz/logo/音悦喵点歌台.png" group-title="🎧音乐直播", 音悦喵点歌台
+http://free.frp.vip:10147/douyu/3870925
+#EXTINF:-1 tvg-name="音悦喵点歌台" tvg-id="音悦喵点歌台" tvg-logo="https://epg.112114.xyz/logo/音悦喵点歌台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音悦喵点歌台
+http://live.nctv.top/douyu1.php?id=3870925
+#EXTINF:-1 tvg-name="小舞点歌台" tvg-id="小舞点歌台" tvg-logo="https://epg.112114.xyz/logo/小舞点歌台.png" group-title="🎧音乐直播", 小舞点歌台
+http://81.70.10.196:35455/huya/15590571
+#EXTINF:-1 tvg-name="小舞点歌台" tvg-id="小舞点歌台" tvg-logo="https://epg.112114.xyz/logo/小舞点歌台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 小舞点歌台
+https://live.ottiptv.cc/huya/15590571
+#EXTINF:-1 tvg-name="24小时点歌台" tvg-id="24小时点歌台" tvg-logo="https://epg.112114.xyz/logo/24小时点歌台.png" group-title="🎧音乐直播", 24小时点歌台
+http://81.70.10.196:35455/huya/25261191
+#EXTINF:-1 tvg-name="24小时点歌台" tvg-id="24小时点歌台" tvg-logo="https://epg.112114.xyz/logo/24小时点歌台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 24小时点歌台
+https://live.ottiptv.cc/huya/25261191
+#EXTINF:-1 tvg-name="下饭音乐" tvg-id="下饭音乐" tvg-logo="https://epg.112114.xyz/logo/下饭音乐.png" group-title="🎧音乐直播", 下饭音乐
+http://free.frp.vip:10147/douyu/8661966
+#EXTINF:-1 tvg-name="下饭音乐" tvg-id="下饭音乐" tvg-logo="https://epg.112114.xyz/logo/下饭音乐.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 下饭音乐
+http://live.nctv.top/douyu1.php?id=8661966
+#EXTINF:-1 tvg-name="音乐Wu哥" tvg-id="音乐Wu哥" tvg-logo="https://epg.112114.xyz/logo/音乐Wu哥.png" group-title="🎧音乐直播", 音乐Wu哥
+http://free.frp.vip:10147/douyu/8667755
+#EXTINF:-1 tvg-name="音乐Wu哥" tvg-id="音乐Wu哥" tvg-logo="https://epg.112114.xyz/logo/音乐Wu哥.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐Wu哥
+http://live.nctv.top/douyu1.php?id=8667755
+#EXTINF:-1 tvg-name="音乐快斗" tvg-id="音乐快斗" tvg-logo="https://epg.112114.xyz/logo/音乐快斗.png" group-title="🎧音乐直播", 音乐快斗
+http://free.frp.vip:10147/douyu/8324627
+#EXTINF:-1 tvg-name="音乐快斗" tvg-id="音乐快斗" tvg-logo="https://epg.112114.xyz/logo/音乐快斗.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐快斗
+http://live.nctv.top/douyu1.php?id=8324627
+#EXTINF:-1 tvg-name="蚕豆电台" tvg-id="蚕豆电台" tvg-logo="https://epg.112114.xyz/logo/蚕豆电台.png" group-title="🎧音乐直播", 蚕豆电台
+http://free.frp.vip:10147/douyu/8768792
+#EXTINF:-1 tvg-name="蚕豆电台" tvg-id="蚕豆电台" tvg-logo="https://epg.112114.xyz/logo/蚕豆电台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 蚕豆电台
+http://live.nctv.top/douyu1.php?id=8768792
+#EXTINF:-1 tvg-name="音乐猛抬头" tvg-id="音乐猛抬头" tvg-logo="https://epg.112114.xyz/logo/音乐猛抬头.png" group-title="🎧音乐直播", 音乐猛抬头
+http://free.frp.vip:10147/douyu/8666105
+#EXTINF:-1 tvg-name="音乐猛抬头" tvg-id="音乐猛抬头" tvg-logo="https://epg.112114.xyz/logo/音乐猛抬头.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐猛抬头
+http://live.nctv.top/douyu1.php?id=8666105
+#EXTINF:-1 tvg-name="喵喵音乐台" tvg-id="喵喵音乐台" tvg-logo="https://epg.112114.xyz/logo/喵喵音乐台.png" group-title="🎧音乐直播", 喵喵音乐台
+http://free.frp.vip:10147/douyu/9568091
+#EXTINF:-1 tvg-name="喵喵音乐台" tvg-id="喵喵音乐台" tvg-logo="https://epg.112114.xyz/logo/喵喵音乐台.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 喵喵音乐台
+http://live.nctv.top/douyu1.php?id=9568091
+#EXTINF:-1 tvg-name="黑糖音乐秀" tvg-id="黑糖音乐秀" tvg-logo="https://epg.112114.xyz/logo/黑糖音乐秀.png" group-title="🎧音乐直播", 黑糖音乐秀
+http://free.frp.vip:10147/douyu/9560563
+#EXTINF:-1 tvg-name="黑糖音乐秀" tvg-id="黑糖音乐秀" tvg-logo="https://epg.112114.xyz/logo/黑糖音乐秀.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 黑糖音乐秀
+http://live.nctv.top/douyu1.php?id=9560563
+#EXTINF:-1 tvg-name="英雄联盟音乐节" tvg-id="英雄联盟音乐节" group-title="🎧音乐直播", 英雄联盟音乐节
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=8978605063318475207&livemode=1&stbId=yu&mode=1&%242M%20
+#EXTINF:-1 tvg-name="音乐小七治愈系" tvg-id="音乐小七治愈系" group-title="👠九秀直播", 音乐小七治愈系
+https://videodowntx.9xiuzb.com/9xiu/16456813.m3u8
+#EXTINF:-1 tvg-name="2002THEONE演唱会完整版" tvg-id="2002THEONE演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2002THEONE演唱会完整版.png" group-title="🎤周杰伦歌曲点播", 2002THEONE演唱会完整版
 https://vd3.bdstatic.com/mda-nmgdfvsm9kc46pcz/576p/h264/1671270120913302151/mda-nmgdfvsm9kc46pcz.mp4
-#EXTINF:-1 tvg-name="2004无与伦比演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2004无与伦比演唱会完整版.png" group-title="🎤周杰伦歌曲点播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 2004无与伦比演唱会完整版
+#EXTINF:-1 tvg-name="2004无与伦比演唱会完整版" tvg-id="2004无与伦比演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2004无与伦比演唱会完整版.png" group-title="🎤周杰伦歌曲点播", 2004无与伦比演唱会完整版
 https://vd4.bdstatic.com/mda-nmbpre7yr8iug4m1/576p/h264/1670863877948761917/mda-nmbpre7yr8iug4m1.mp4
-#EXTINF:-1 tvg-name="2007年世界巡回演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2007年世界巡回演唱会完整版.png" group-title="🎤周杰伦歌曲点播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 2007年世界巡回演唱会完整版
+#EXTINF:-1 tvg-name="2007年世界巡回演唱会完整版" tvg-id="2007年世界巡回演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2007年世界巡回演唱会完整版.png" group-title="🎤周杰伦歌曲点播", 2007年世界巡回演唱会完整版
 https://vd4.bdstatic.com/mda-nmbgya8v797emg7u/576p/h264/1670847005358747234/mda-nmbgya8v797emg7u.mp4
-#EXTINF:-1 tvg-name="2010超时代演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2010超时代演唱会完整版.png" group-title="🎤周杰伦歌曲点播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 2010超时代演唱会完整版
+#EXTINF:-1 tvg-name="2010超时代演唱会完整版" tvg-id="2010超时代演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2010超时代演唱会完整版.png" group-title="🎤周杰伦歌曲点播", 2010超时代演唱会完整版
 https://vd2.bdstatic.com/mda-nmc4khkjnn0k62bn/360p/h264/1670901524505595792/mda-nmc4khkjnn0k62bn.mp4
-#EXTINF:-1 tvg-name="2013摩天轮演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2013摩天轮演唱会完整版.png" group-title="🎤周杰伦歌曲点播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 2013摩天轮演唱会完整版
+#EXTINF:-1 tvg-name="2013摩天轮演唱会完整版" tvg-id="2013摩天轮演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2013摩天轮演唱会完整版.png" group-title="🎤周杰伦歌曲点播", 2013摩天轮演唱会完整版
 https://vd4.bdstatic.com/mda-nmcex5u2u9puxz6d/576p/h264/1670928165588976698/mda-nmcex5u2u9puxz6d.mp4
-#EXTINF:-1 tvg-name="2016地表最强演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2016地表最强演唱会完整版.png" group-title="🎤周杰伦歌曲点播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 2016地表最强演唱会完整版
+#EXTINF:-1 tvg-name="2016地表最强演唱会完整版" tvg-id="2016地表最强演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2016地表最强演唱会完整版.png" group-title="🎤周杰伦歌曲点播", 2016地表最强演唱会完整版
 https://vd2.bdstatic.com/mda-nmd5ujxqrmxh59qj/576p/h264/1670992604552514459/mda-nmd5ujxqrmxh59qj.mp4
+#EXTINF:-1 tvg-name="潮流音乐" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮流音乐.png" group-title="🎵音乐频道", 潮流音乐
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-name="蜜桃传媒PMTC017音乐爱情故事-越爱越难" group-title="中文-音乐", 蜜桃传媒PMTC017音乐爱情故事-越爱越难
 https://t21.cdn2020.com/video/m3u8/2023/02/05/d822edcb/index.m3u8
 #EXTINF:-1 tvg-name="MVSD-532 叔叔的阴部糖果-希咲那奈" group-title="中文-音乐", MVSD-532 叔叔的阴部糖果-希咲那奈
@@ -1377,54 +725,38 @@ https://t21.cdn2020.com/video/m3u8/2023/03/06/1326ba13/index.m3u8
 https://t21.cdn2020.com/video/m3u8/2023/02/01/6e3b208c/index.m3u8
 #EXTINF:-1 tvg-name="STCV-246 偷拍与演唱会结束後的偶像做爱的样子" group-title="中文-音乐", STCV-246 偷拍与演唱会结束後的偶像做爱的样子
 https://t21.cdn2020.com/video/m3u8/2023/04/11/d4397da1/index.m3u8
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="http://live.cooltv.top/logo/cnrmusicradio.png" group-title="广播电台", 音乐之声
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="🇺🇸美国直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-name="MTV2" tvg-logo="https://epg.112114.xyz/logo/MTV2.png" group-title="🇺🇸美国直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", MTV2
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10427
+#EXTINF:-1 tvg-name="华流才是最吊" tvg-logo="https://epg.112114.xyz/logo/华流才是最吊.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 华流才是最吊
+https://live.ottiptv.cc/huya/15326083
+#EXTINF:-1 tvg-name="荒草音乐" tvg-logo="https://epg.112114.xyz/logo/荒草音乐.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 荒草音乐
+http://live.nctv.top/douyu1.php?id=8706465
+#EXTINF:-1 tvg-name="热星音乐菌" tvg-logo="https://epg.112114.xyz/logo/热星音乐菌.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 热星音乐菌
+http://live.nctv.top/douyu1.php?id=8405922
+#EXTINF:-1 tvg-name="音乐Fans小琼" tvg-logo="https://epg.112114.xyz/logo/音乐Fans小琼.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 音乐Fans小琼
+http://live.nctv.top/douyu1.php?id=8666210
+#EXTINF:-1 tvg-name="小飞飞流行DJ音乐" tvg-logo="https://epg.112114.xyz/logo/小飞飞流行DJ音乐.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 小飞飞流行DJ音乐
+http://live.nctv.top/douyu1.php?id=10469362
+#EXTINF:-1 tvg-name="24×7音乐" tvg-logo="https://epg.112114.xyz/logo/24×7音乐.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 24×7音乐
+https://live.ottiptv.cc/huya/30483433
+#EXTINF:-1 tvg-name="海选专场" tvg-logo="https://epg.112114.xyz/logo/海选专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 海选专场
+https://live.ottiptv.cc/huya/21241781
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐之声.png" group-title="广播电台", 音乐之声
 https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="http://live.cooltv.top/logo/cnrgoldenradio.png" group-title="广播电台", 经典音乐广播
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐之声.png" group-title="广播电台", 音乐之声
+https://radio.0472.org/?id=641
+#EXTINF:-1 tvg-name="经典音乐广播" group-title="广播电台", 经典音乐广播
 https://ngcdn001.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-name="MVSD-652 加班时对穿着紧身套装的丰满巨乳和穿着连裤袜的火辣屁股的OL进行性骚扰，结果她性感到让我一次又一次地在她体内中出 - 北野美奈" group-title="WhosTV", MVSD-652 加班时对穿着紧身套装的丰满巨乳和穿着连裤袜的火辣屁股的OL进行性骚扰，结果她性感到让我一次又一次地在她体内中出 - 北野美奈
-https://s3.aaaaa.io/936198dd2188bd6fa1752884fe943871/936198dd2188bd6fa1752884fe943871.m3u8
-#EXTINF:-1 tvg-name="MVSD-195壮阳药3孔暨燕子之旅！瑞水" group-title="WhosTV", MVSD-195壮阳药3孔暨燕子之旅！瑞水
-https://s3.aaaaa.io/bb36f4ed37f3cc5d7a9514cbdeda3304/bb36f4ed37f3cc5d7a9514cbdeda3304.m3u8
-#EXTINF:-1 tvg-name="MVG-140 支配受虐女性的绝对皇后 新村明里 一条美绪" group-title="WhosTV", MVG-140 支配受虐女性的绝对皇后 新村明里 一条美绪
-https://s3.aaaaa.io/d6c4cd44eba7472d228768d5ddd98b88/d6c4cd44eba7472d228768d5ddd98b88.m3u8
-#EXTINF:-1 tvg-name="MVSD-500当我来到妈妈的男孩身边时，我是通过日复一日地玩我的乳头而发展起来的，我记得我的乳头。纯白的Mikuru" group-title="WhosTV", MVSD-500当我来到妈妈的男孩身边时，我是通过日复一日地玩我的乳头而发展起来的，我记得我的乳头。纯白的Mikuru
-https://s3.aaaaa.io/188215d76a81bdbc0213946d40229168/188215d76a81bdbc0213946d40229168.m3u8
-#EXTINF:-1 tvg-name="MVSD-505如果你按护士电话，你会来吸急吉○端口立即规模口交护士！她喜欢我的妙语，想舔它！此外，它是相当严重的AkariNeo" group-title="WhosTV", MVSD-505如果你按护士电话，你会来吸急吉○端口立即规模口交护士！她喜欢我的妙语，想舔它！此外，它是相当严重的AkariNeo
-https://s3.aaaaa.io/d560370dc64e48f410450120a3317a17/d560370dc64e48f410450120a3317a17.m3u8
-#EXTINF:-1 tvg-name="MVSD-512 似乎我的妻子过去曾经被调教过。 未知的妻子过去……人人羡慕的我的爱妻是S级大吊邻居的中出受虐宠物 蜜美杏" group-title="WhosTV", MVSD-512 似乎我的妻子过去曾经被调教过。 未知的妻子过去……人人羡慕的我的爱妻是S级大吊邻居的中出受虐宠物 蜜美杏
-https://s3.aaaaa.io/766666c1f862d6c6bfbf0f83065a5548/766666c1f862d6c6bfbf0f83065a5548.m3u8
-#EXTINF:-1 tvg-name="MVSD-654 即使女友就在身边，她也会微笑着露出阴部并进行绘画的裸模泉真希" group-title="WhosTV", MVSD-654 即使女友就在身边，她也会微笑着露出阴部并进行绘画的裸模泉真希
-https://s3.aaaaa.io/6ad1205c0e4ae3620d195a53308947f0/6ad1205c0e4ae3620d195a53308947f0.m3u8
-#EXTINF:-1 tvg-name="MVSD-518我的学生是一个小恶魔打手枪一个聪明的打手枪荣誉学生AkariNeo很高兴看到反应" group-title="WhosTV", MVSD-518我的学生是一个小恶魔打手枪一个聪明的打手枪荣誉学生AkariNeo很高兴看到反应
-https://s3.aaaaa.io/0db3c22acf03ed63a371c7f525d2abc3/0db3c22acf03ed63a371c7f525d2abc3.m3u8
-#EXTINF:-1 tvg-name="MVSD-660 超自然怪物屁股上瘾的明星妻子自愿进行3洞FUCK！强烈的破坏感让她模特级冲击9头受虐狂美体抽搐！拱起她的背！狂怒的失禁屁股高潮登场！三森树里" group-title="WhosTV", MVSD-660 超自然怪物屁股上瘾的明星妻子自愿进行3洞FUCK！强烈的破坏感让她模特级冲击9头受虐狂美体抽搐！拱起她的背！狂怒的失禁屁股高潮登场！三森树里
-https://s3.aaaaa.io/4b09f49bc8e57da6766bccb03b397eca/4b09f49bc8e57da6766bccb03b397eca.m3u8
-#EXTINF:-1 tvg-name="MVSD-416 来弟弟家玩的猥琐大伯看到可爱侄女永濑由衣在自慰只好肩负起性教育的责任用几天时间让侄女对内射上瘾" group-title="WhosTV", MVSD-416 来弟弟家玩的猥琐大伯看到可爱侄女永濑由衣在自慰只好肩负起性教育的责任用几天时间让侄女对内射上瘾
-https://s3.aaaaa.io/eaf24e49d7389b66c6a1eaf6f12554a3/eaf24e49d7389b66c6a1eaf6f12554a3.m3u8
-#EXTINF:-1 tvg-name="■“被绑起来的感觉真好…”■ *超美精英音乐导师*孤独又性欲的美人妻出现在AV中寻求刺激*脂肪恰到好处的裸体性感爆棚*第一时间限制持续动荡的高潮与振动器折磨游戏*中出他妈的，一个整洁的已婚女人被性交并多次达到高潮！ ！" group-title="WhosTV", ■“被绑起来的感觉真好…”■ *超美精英音乐导师*孤独又性欲的美人妻出现在AV中寻求刺激*脂肪恰到好处的裸体性感爆棚*第一时间限制持续动荡的高潮与振动器折磨游戏*中出他妈的，一个整洁的已婚女人被性交并多次达到高潮！ ！
-https://s3.aaaaa.io/6ab1c1db581246696b6a57f8d3b2091d/6ab1c1db581246696b6a57f8d3b2091d.m3u8
-#EXTINF:-1 tvg-name="MVSD-643 我的阴蒂非常敏感......我的健康老师每天都玩弄我的阴蒂，这让我很不安全，直到我达到高潮，我一次又一次地尿裤子。松井日菜子" group-title="WhosTV", MVSD-643 我的阴蒂非常敏感......我的健康老师每天都玩弄我的阴蒂，这让我很不安全，直到我达到高潮，我一次又一次地尿裤子。松井日菜子
-https://s3.aaaaa.io/1c1ead9b6a79db9e505cae8462aeafe8/1c1ead9b6a79db9e505cae8462aeafe8.m3u8
-#EXTINF:-1 tvg-name="MVG-130 我的童年好友，一个顺从的高中女生，被训练成一个顺从的肛交宠物，Mai Hanagakari - 花狩舞" group-title="WhosTV", MVG-130 我的童年好友，一个顺从的高中女生，被训练成一个顺从的肛交宠物，Mai Hanagakari - 花狩舞
-https://s3.aaaaa.io/67819a74e761ee11396dc2b8154db6c2/67819a74e761ee11396dc2b8154db6c2.m3u8
-#EXTINF:-1 tvg-name="MVSD-523人妻之家沙龙掉进肮脏迪克的年轻妻子美容师邻居末广淳" group-title="WhosTV", MVSD-523人妻之家沙龙掉进肮脏迪克的年轻妻子美容师邻居末广淳
-https://s3.aaaaa.io/e2a42729c465d8e1c75833a7ed06d018/e2a42729c465d8e1c75833a7ed06d018.m3u8
-#EXTINF:-1 tvg-name="MVG-132 肛交上瘾同人角色扮演者的肛交摄影 Otoairisi" group-title="WhosTV", MVG-132 肛交上瘾同人角色扮演者的肛交摄影 Otoairisi
-https://s3.aaaaa.io/ae7467f8a3dff56dda9d685e2475a425/ae7467f8a3dff56dda9d685e2475a425.m3u8
-#EXTINF:-1 tvg-name="KING-272 总金额：100万日圆！用粗假阳具玩抢椅子的游戏来赢取压岁钱！当音乐停止时，将假阳具插入你的阴部！扭动臀部3分钟后，如果能够潮吹，就算通过了！如果失败的话，就会立即受到中出惩罚！决赛" group-title="WhosTV", KING-272 总金额：100万日圆！用粗假阳具玩抢椅子的游戏来赢取压岁钱！当音乐停止时，将假阳具插入你的阴部！扭动臀部3分钟后，如果能够潮吹，就算通过了！如果失败的话，就会立即受到中出惩罚！决赛
-https://s3.aaaaa.io/ec64ff5b6ec992f1bca7bcceb909f9a8/ec64ff5b6ec992f1bca7bcceb909f9a8.m3u8
-#EXTINF:-1 tvg-name="MVSD-503告别派对之夜...我喝醉了在床上醒来W舔Slut原始边缘全身唇部反转3P后宫11枪直到早上与传闻吃新人的两个美丽的接待员！原始阴道射精！ RenaAoiMukaiAi" group-title="WhosTV", MVSD-503告别派对之夜...我喝醉了在床上醒来W舔Slut原始边缘全身唇部反转3P后宫11枪直到早上与传闻吃新人的两个美丽的接待员！原始阴道射精！ RenaAoiMukaiAi
-https://s3.aaaaa.io/f2e93d29283b73e2dabe6f1c6aa71c0b/f2e93d29283b73e2dabe6f1c6aa71c0b.m3u8
-#EXTINF:-1 tvg-name="MVSD-649 喉咙射击！嘴巴射击！大量吞咽精液！深喉咙深到让她翻白眼●吞咽精液深喉咙折磨精致的受虐狂美人妻的喉咙和阴道到处都被折磨●串烧硬FUCK 三池小春" group-title="WhosTV", MVSD-649 喉咙射击！嘴巴射击！大量吞咽精液！深喉咙深到让她翻白眼●吞咽精液深喉咙折磨精致的受虐狂美人妻的喉咙和阴道到处都被折磨●串烧硬FUCK 三池小春
-https://s3.aaaaa.io/677c3b2dda56e0c496a1cbe2b8c5aa70/677c3b2dda56e0c496a1cbe2b8c5aa70.m3u8
-#EXTINF:-1 tvg-name="MVSD-533爸爸……新婆婆超级漂亮可爱，就是有点疯……喝醉的下流婊子妻子在她父亲不在的时候微笑着玩弄我的性欲享受中出性爱RioRukawa" group-title="WhosTV", MVSD-533爸爸……新婆婆超级漂亮可爱，就是有点疯……喝醉的下流婊子妻子在她父亲不在的时候微笑着玩弄我的性欲享受中出性爱RioRukawa
-https://s3.aaaaa.io/72fdb399e196b21217759c92b553cc95/72fdb399e196b21217759c92b553cc95.m3u8
-#EXTINF:-1 tvg-name="SONE-187 文静的音乐系大学生被电车痴汉盯上，超越恐惧的快感让她欲罢不能 黑岛玲" group-title="WhosTV", SONE-187 文静的音乐系大学生被电车痴汉盯上，超越恐惧的快感让她欲罢不能 黑岛玲
-https://s3.aaaaa.io/824a019216332e19a94face10c84b802/824a019216332e19a94face10c84b802.m3u8
+#EXTINF:-1 tvg-name="经典音乐广播" group-title="广播电台", 经典音乐广播
+https://radio.0472.org/?id=642
 #EXTINF:-1 tvg-name="借我一生MV" tvg-logo="https://logo.catvod.com/借我一生MV.png" group-title="🕘️4K测试", 借我一生MV
 http://em.21dtv.com/songs/60023733.mkv
 #EXTINF:-1 tvg-name="只为你着迷MV" tvg-logo="https://logo.catvod.com/只为你着迷MV.png" group-title="🕘️4K测试", 只为你着迷MV
 http://em.21dtv.com/songs/60168329.mkv
+#EXTINF:-1 tvg-name="韩国音乐" tvg-logo="https://logo.catvod.com/韩国音乐.png" group-title="🇰🇷韩国", 韩国音乐
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ТНТ Music" tvg-logo="https://logo.catvod.com/ТНТ Music.png" group-title="🇷🇺俄罗斯", ТНТ Music
 http://178.163.117.7:4022/udp/234.0.0.231:2000
 #EXTINF:-1 tvg-name="MTV Dance" tvg-logo="https://logo.catvod.com/MTV Dance.png" group-title="🇷🇺俄罗斯", MTV Dance
@@ -1591,3 +923,5 @@ http://ls.qingting.fm/live/3032681.m3u8
 http://ls.qingting.fm/live/4969.m3u8
 #EXTINF:-1 tvg-name="HITFM国际流行音乐" tvg-logo="https://logo.catvod.com/HITFM国际流行音乐.png" group-title="📻广播频道", HITFM国际流行音乐
 https://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-name="音乐僵尸" tvg-logo="https://logo.catvod.com/音乐僵尸.png" group-title="🙏林正英", 音乐僵尸
+https://play.hhuus.com/play/lejJD24e/index.m3u8

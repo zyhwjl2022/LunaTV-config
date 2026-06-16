@@ -5,12 +5,62 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 https://hls-gateway.vpstv.net/streams/476247.m3u8
 #EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="港台频道", CN卡通
 https://stream1.freetv.fun/cnqia-tong-3.ctv
-#EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="港台频道", CN卡通
-http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
-#EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="港台频道", CN卡通
-http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
 http://183.11.239.36:808/hls/69/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000151
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="http://49.233.180.193:5678/data/icon/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://115.190.124.74/php/cmcc.php?id=jykt&/PLTV/&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="http://49.233.180.193:5678/data/icon/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://115.190.124.74/php/as.php?/PLTV/&id=10240050&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="http://49.233.180.193:5678/data/icon/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://115.190.124.74/php/hundf.php?id=287&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+rtsp://10.11.43.21/PLTV/88888912/224/3221226716/426212012.smil
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://111.12.102.68:6610/PLTV/77777777/224/3221225702/index.m3u8?
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://204.12.221.218:8181/3m1080p/hnjykt.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://fnos.sunny2017.xyz:7788/udp/239.21.1.48:5002
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://125.43.244.40:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613#
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://183.62.8.58:50085/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://180.165.12.42:50001/tsfile/live/0001_42.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://120.238.84.45:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://36.158.75.239:8088/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://36.158.75.249:8088/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://113.241.135.29:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://113.241.135.29:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://219.144.190.2:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="儿童频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 金鹰卡通
+https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYKTMPP360.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="儿童频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 金鹰卡通
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227149/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="儿童频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 金鹰卡通
+http://61.184.46.85:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://36.135.118.195:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://116.232.150.101:6000/tsfile/live/0001_48.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://118.81.192.183:9003/hls/56/index.m3u8$山西太原酒店
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://118.81.193.192:9003/hls/56/index.m3u8$山西联通酒店
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://118.81.194.174:9003/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://tb.zbds.top/logo/中华小当家.png" group-title="儿童频道", 中华小当家
 https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="儿童频道", 中华小当家
@@ -19,14 +69,12 @@ https://live.iill.top/huya/11342413
 http://cdn.jdshipin.com:8880/huya.php?id=11342413
 #EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="儿童频道", 中华小当家
 https://live.ottiptv.cc/huya/11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/中华小当家.png" group-title="儿童频道", 中华小当家
-http://1.94.31.214:35455/huya/11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://tb.zbds.top/logo/中华小当家.png" group-title="儿童频道", 中华小当家
-https://yang-1989.eu.org/live/huya/11342413
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://tb.zbds.top/logo/海绵宝宝.png" group-title="儿童频道", 海绵宝宝
 https://live.metshop.top/douyu/3949681
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://epg.112114.xyz/logo/海绵宝宝.png" group-title="儿童频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 海绵宝宝
-https://live.ottiptv.cc/huya/11352919
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://tb.zbds.top/logo/海绵宝宝.png" group-title="儿童频道", 海绵宝宝
+http://81.70.10.196:35455/huya/11352919
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="http://10.1.0.25:5180/logo/海绵宝宝.png" group-title="儿童频道", 海绵宝宝
+https://www.goodiptv.club/huya/11352919
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://tb.zbds.top/logo/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
 https://live.metshop.top/huya/11352879
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
@@ -37,22 +85,18 @@ http://live.iill.top/huya.php?id=11352879
 http://cdn.jdshipin.com:8880/huya.php?id=11352879
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
 https://live.ottiptv.cc/huya/11352879
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
-http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="儿童频道", 猫和老鼠
+http://115.190.124.74/php/huya.php?id=11352879&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://tb.zbds.top/logo/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
-http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://tb.zbds.top/logo/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://tb.zbds.top/logo/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
-https://yang-1989.eu.org/live/huya/11352879
+http://81.70.10.196:35455/huya/11352879
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/猫和老鼠.png" group-title="儿童频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 猫和老鼠
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="http://10.1.0.25:5180/logo/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
+https://www.goodiptv.club/huya/11352879
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://logo.catvod.com/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
 http://cfss.cc/cdn/hy/11352879.m3u8
 #EXTINF:-1 tvg-name="福州少儿" tvg-id="福州少儿" tvg-logo="https://tb.zbds.top/logo/福州少儿.png" group-title="儿童频道", 福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 tvg-name="福州少儿" tvg-id="福州少儿" tvg-logo="https://tb.zbds.top/logo/福州少儿.png" group-title="儿童频道", 福州少儿
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="韩国EBS少儿" tvg-id="韩国EBS少儿" tvg-logo="https://tb.zbds.top/logo/韩国EBS少儿.png" group-title="儿童频道", 韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="🪁动画频道", 新动漫
@@ -63,12 +107,10 @@ https://tv.iill.top/migu/xdm&token=2276b9830bd9e6d7f4858f72fe6095ad7d4eeb9d25164
 https://migu.188766.xyz/?migutoken=fa7fab5af3b2b0fca5c12c94accfd524&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="🪁动画频道", 新动漫
 https://migu.188766.xyz/?migutoken=b6723923245d1a7b8f0a16fa0e1850e7&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
-#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://live.fanmingming.cn/tv/新动漫.png" group-title="🪁动画频道", 新动漫
-http://nas.hssvm.com:8888/udp/225.1.1.216:5002
-#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="🪁动画频道", 新动漫
-https://tv.iill.top/migu/xdm&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="🪁动画频道" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 新动漫
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="🪁动画频道", 新动漫
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000500
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="🪁动画频道", 新动漫
 http://219.156.95.119:4022/rtp/225.1.4.212:1265
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="🪁动画频道", 新动漫
@@ -89,280 +131,112 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱动漫.png" group-title="🪁动画频道", iHOT 爱动漫
 http://111.22.153.159:35455/itv/2000000004000000059.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/IHOT/ihot11.png" group-title="🪁动画频道", 爱动漫
-http://home.wwang.pw:35455/itv/2000000004000000059.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://epg.iill.top/logo/iHOT爱动漫.png" group-title="🪁动画频道", iHOT 爱动漫
-http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="iHOT爱动漫" tvg-id="爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="🪁动画频道", iHOT爱动漫
-http://gslbserv.itv.cmvideo.cn/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+https://stream1.freetv.fun/jin-ying-qia-tong-13.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+https://stream1.freetv.fun/jin-ying-qia-tong-19.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hunan/Hunan10.png" group-title="🪁动画频道", 金鹰卡通
+http://tvbox6.icu/tv/mgtv.php?id=287
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://live.lizanyang.top/tv/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://101.66.199.215:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://101.66.199.121:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://113.241.133.180:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://125.43.249.130:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://125.42.150.124:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://120.196.235.42:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://125.42.150.164:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://182.207.218.37:999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://125.42.151.216:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://1.198.67.71:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://114.244.117.90:1314/rtp/239.3.1.51:9252
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040024&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000016601&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://8.138.7.223/tv/mgtv.php?id=287
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://111.29.9.33:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://125.42.151.43:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://106.115.27.91:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://125.43.249.150:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://171.14.89.131:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://183.222.15.202:4321/rtp/239.11.0.127:5140
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://183.220.107.138:4022/rtp/239.11.0.127:5140
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://222.128.26.62:4001/rtp/239.3.1.51:9252
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://221.219.104.6:1193/rtp/239.3.1.51:9252
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://182.135.66.163:1888/rtp/239.94.2.231:5140
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🪁动画频道", 金鹰卡通
+http://182.135.66.163:18888/rtp/239.94.2.231:5140
 #EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="🪁动画频道", 七龙珠
 https://live.ottiptv.cc/huya/11601966
 #EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="🪁动画频道", 七龙珠
 https://live.metshop.top/huya/11601966
 #EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="🪁动画频道", 七龙珠
 http://cdn.jdshipin.com:8880/huya.php?id=11601966
-#EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="🪁动画频道", 七龙珠
-http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="🪁动画频道", 七龙珠
-http://103.193.151.146/huya.php?id=11601966
+http://81.70.10.196:35455/huya/11601966
 #EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="🪁动画频道", 火影忍者
 http://cdn.jdshipin.com:8880/huya.php?id=29465866
-#EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://epg.112114.xyz/logo/火影忍者.png" group-title="🪁动画频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 火影忍者
-https://live.ottiptv.cc/huya/29465866
+#EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="🪁动画频道", 火影忍者
+http://81.70.10.196:35455/huya/29465866
+#EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/火影忍者.png" group-title="🪁动画频道", 火影忍者
+https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="🪁动画频道", 蜡笔小新
 https://live.ottiptv.cc/bilibili/30837590
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/蜡笔小新.png" group-title="🪁动画频道", 蜡笔小新
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="🪁动画频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 蜡笔小新
-https://live.ottiptv.cc/huya/11352970
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="🪁动画频道", 蜡笔小新
+http://115.190.124.74/php/huya.php?id=11352970&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="🪁动画频道", 蜡笔小新
+http://81.70.10.196:35455/huya/11352970
 #EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画频道", 灌篮高手
 https://live.ottiptv.cc/yy/1382735626
 #EXTINF:-1 tvg-name="哆啦A梦" tvg-id="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" group-title="动画频道", 哆啦A梦
 https://live.ottiptv.cc/huya/11601963
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-id="哆啦A梦" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" group-title="动画频道", 哆啦A梦
-http://1.94.31.214:35455/huya/11601963
 #EXTINF:-1 tvg-name="哆啦A梦" tvg-id="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" group-title="动画频道", 哆啦A梦
-http://103.193.151.146/huya.php?id=11601963
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-id="喜羊羊与灰太狼" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" group-title="动画频道", 喜羊羊与灰太狼
+http://81.70.10.196:35455/huya/11601963
+#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" group-title="动画频道", 喜羊羊与灰太狼
 https://live.ottiptv.cc/huya/23865080
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-id="喜羊羊与灰太狼" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" group-title="动画频道", 喜羊羊与灰太狼
-http://1.94.31.214:35455/huya/23865080
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-id="喜羊羊与灰太狼" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" group-title="动画频道", 喜羊羊与灰太狼
-http://103.193.151.146/huya.php?id=23865080
 #EXTINF:-1 tvg-name="精灵宝可梦" tvg-id="精灵宝可梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" group-title="动画频道", 精灵宝可梦
 https://live.ottiptv.cc/huya/23749096
-#EXTINF:-1 tvg-name="精灵宝可梦" tvg-id="精灵宝可梦" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" group-title="动画频道", 精灵宝可梦
-http://1.94.31.214:35455/huya/23749096
 #EXTINF:-1 tvg-name="精灵宝可梦" tvg-id="精灵宝可梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" group-title="动画频道", 精灵宝可梦
-http://103.193.151.146/huya.php?id=23749096
-#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="动画频道", 名侦探柯南
+http://live.metshop.top/huya/23749096?cdn=alicdn
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-id="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="动画频道", 名侦探柯南
 https://live.ottiptv.cc/huya/30080236
-#EXTINF:-1 tvg-name="GOOD TV CH45 卡通 (720p) [Not 24/7]" group-title="Undefined", GOOD TV CH45 卡通 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech45.m3u8
-#EXTINF:-1 tvg-name="动画王国 (1080p)" group-title="Undefined", 动画王国 (1080p)
-http://183.207.248.71/cntv/live1/donghuawg/donghuawg
-#EXTINF:-1 tvg-name="南京少儿 (720p) [Not 24/7]" group-title="Undefined", 南京少儿 (720p) [Not 24/7]
-https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通 (576p)" group-title="Undefined", 嘉佳卡通 (576p)
-http://223.110.245.139/PLTV/4/224/3221227009/index.m3u8
-#EXTINF:-1 tvg-name="少儿科教" group-title="Undefined", 少儿科教
-http://121.19.134.246:808/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="炫动卡通 (576p)" group-title="Undefined", 炫动卡通 (576p)
-http://223.110.245.139/PLTV/4/224/3221226388/index.m3u8
-#EXTINF:-1 tvg-name="霸州少兒頻道 (576p) [Not 24/7]" group-title="Undefined", 霸州少兒頻道 (576p) [Not 24/7]
-http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="宁波少儿频道" group-title="中文-动漫少儿", 宁波少儿频道
-http://live.cloud.nbtv.cn/live/f9af570c981c4c618f919ea91b93966f?fmt=h264_500k_flv&trs=hls_ts
-#EXTINF:-1 tvg-name="乌鲁木齐妇女儿童" group-title="中文-动漫少儿", 乌鲁木齐妇女儿童
-http://202.107.188.139:5002/utv6_hdgq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-name="Baby TV Eng" tvg-id="Baby TV Eng" group-title="GPT-儿童", Baby TV Eng
-https://smt.goiptv.us.ci/Babytv/playlist.m3u8
-#EXTINF:-1 tvg-name="Baby TV Eng" tvg-id="Baby TV Eng" group-title="GPT-儿童", Baby TV Eng
-https://smart.dxjc.pp.ua/smart.php?id=Babytv&token=tmxk
-#EXTINF:-1 tvg-name="CBeebies" tvg-id="CBeebies" group-title="GPT-儿童", CBeebies
-https://smt.goiptv.us.ci/Cbeebies/playlist.m3u8
-#EXTINF:-1 tvg-name="CBeebies" tvg-id="CBeebies" group-title="GPT-儿童", CBeebies
-https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
-#EXTINF:-1 tvg-name="儿童频道|CBeebies" tvg-id="CBEEBIES" tvg-logo="https://epg.112114.xyz/logo/CBEEBIES.png" group-title="GPT-儿童", 儿童频道|CBeebies
-https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
-#EXTINF:-1 tvg-name="Kids TV" tvg-id="Kids TV" group-title="GPT-儿童", Kids TV
-https://smt.goiptv.us.ci/KidsTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Kids TV" tvg-id="Kids TV" group-title="GPT-儿童", Kids TV
-https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
-#EXTINF:-1 tvg-name="MiaoMi" tvg-id="MiaoMi" group-title="GPT-儿童", MiaoMi
-https://smt.goiptv.us.ci/MiaoMi/playlist.m3u8
-#EXTINF:-1 tvg-name="MiaoMi" tvg-id="MiaoMi" group-title="GPT-儿童", MiaoMi
-https://smart.dxjc.pp.ua/smart.php?id=MiaoMi&token=tmxk
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="GPT-儿童", Nickelodeon
-https://smt.goiptv.us.ci/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="GPT-儿童", Nickelodeon
-http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-id="Nickelodeon" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="GPT-儿童", Nickelodeon
-https://php.946985.filegear-sg.me/mytv265.php?id=CNIKO
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="GPT-儿童", Nickelodeon
-https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="GPT-儿童", Nickelodeon
-http://220.135.64.124:5050/4gtv-live105/index.m3u8
-#EXTINF:-1 tvg-name="儿童频道|Nickelodeon" tvg-id="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="GPT-儿童", 儿童频道|Nickelodeon
-https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://epg.yang-1989.eu.org/logo/Nickelodeon.png" group-title="GPT-儿童", Nickelodeon
-https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CNIKO&token=tgJerryfeng
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="GPT-儿童", Nickelodeon
-http://178.163.117.7:4022/udp/234.0.0.153:2000
-#EXTINF:-1 tvg-name="Nick Jr" tvg-id="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="GPT-儿童", Nick Jr
-https://smt.goiptv.us.ci/Nickjr/playlist.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-id="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="GPT-儿童", Nick Jr
-http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-id="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="GPT-儿童", Nick Jr
-https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
-#EXTINF:-1 tvg-name="Nick Jr" tvg-id="Nick Jr" tvg-logo="https://epg.yang-1989.eu.org/logo/Nickjr.png" group-title="GPT-儿童", Nick Jr.
-https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CNIJR&token=tgJerryfeng
-#EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-id="Discovery Kids Tamil" group-title="GPT-印度", Discovery Kids Tamil
-https://smt.goiptv.us.ci/discoverykidtamil_raj/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-id="Discovery Kids Tamil" group-title="GPT-印度", Discovery Kids Tamil
-https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字频道", 黑莓动画
-http://home.wwang.pw:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字频道", 黑莓动画
-http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-name="noepg" tvg-id="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字频道", 黑莓动画
-http://39.135.32.28:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="数字频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="数字频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000021734&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="数字频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 黑莓动画
-http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字频道", 黑莓动画
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://home.wwang.pw:35455/itv/5000000011000265008.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://live.lizanyang.top/tv/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227212/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://218.13.170.98:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://183.162.120.197:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://1.198.67.71:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="http://n.ysyz.top:99/buyaolian/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-https://live.metshop.top/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 tvg-name="卡酷少儿 8M" tvg-id="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="动画频道", 卡酷少儿 8M
-https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://114.244.117.90:1314/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://171.14.89.131:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://125.42.151.43:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://183.222.15.202:4321/rtp/239.11.0.129:5140
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://183.220.107.138:4022/rtp/239.11.0.129:5140
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://182.135.66.163:1888/rtp/239.94.2.230:5140
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://182.135.66.163:18888/rtp/239.94.2.230:5140
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://219.156.95.119:4022/rtp/225.1.4.48:1077
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://39.77.21.53:4002/rtp/239.253.254.66:8000
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://121.29.215.105:2083/rtp/239.253.92.162:8054
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://106.59.2.85:55555/rtp/239.200.200.64:8324
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://27.18.83.20:9100/rtp/239.69.1.193:10800
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="动画频道", 卡酷少儿
-http://106.116.126.74:4022/rtp/239.254.200.91:9248
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://home.wwang.pw:35455/itv/1000000002000025964.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.lizanyang.top/tv/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://gitee.com/Mr_Dai-Project/js-unicom-iptv/raw/master/src/main/resources/epg/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://122.96.52.98:8006/JS_CUCC/G_JIAJIA.m3u8?Authinfo=Y4s6oy416xp21V4rdElRUD5ZkHjA9uMn%2BBGapVo0FOOx4woq%2BKfxLKpgAY1SY7bF&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" group-title="动画频道" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 嘉佳卡通
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=嘉佳卡通
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://125.42.151.216:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://125.42.150.164:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://125.42.150.124:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://123.55.3.70:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://1.198.67.71:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://183.162.120.197:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://120.196.235.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://111.12.102.68:6610/PLTV/77777777/224/3221225797/index.m3u8?
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/172/388/202304101530_2206172388_H169_1080.jpg" group-title="动画频道", 嘉佳卡通
-http://sport.pendy.dpdns.org/migu/614952364?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="动画频道" response-time="20ms", 嘉佳卡通
-http://125.42.150.173:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="动画频道" response-time="71ms", 嘉佳卡通
-http://120.198.95.220:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://120.238.84.45:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://171.43.64.216:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://219.144.190.2:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="动画频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 嘉佳卡通
-http://192.151.150.154/live/gdjjkt.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="动画频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 嘉佳卡通
-http://204.12.221.218:8181/3m1080p/gdjjkt.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="动画频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 嘉佳卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000025964&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="动画频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 嘉佳卡通
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4739906347743456369&livemode=1&stbId=yu&mode=1&$2M
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="动画频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 嘉佳卡通
-http://111.29.9.33:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://114.244.117.90:1314/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://125.42.151.43:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://106.115.27.91:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://171.14.89.131:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://183.222.15.202:4321/rtp/239.11.0.203:5140
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://183.220.107.138:4022/rtp/239.11.0.203:5140
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://222.128.26.62:4001/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://221.219.104.6:1193/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://182.135.66.163:1888/rtp/239.94.2.226:5140
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://182.135.66.163:18888/rtp/239.94.2.226:5140
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://219.156.95.119:4022/rtp/225.1.4.92:1121
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://121.29.215.105:2083/rtp/239.253.93.203:6381
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/1.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://113.81.20.131:20443/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="动画频道", 嘉佳卡通
-http://tvtj1.jxwltx.com:8003/live1328.m3u8
-#EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画频道", 灌篮高手
-http://1.94.31.214:35455/yy/1382735626
-#EXTINF:-1 tvg-name="航海王" tvg-id="航海王" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/航海王.png" group-title="动画频道", 航海王
-http://1.94.31.214:35455/huya/16913382
-#EXTINF:-1 tvg-name="航海王" tvg-id="航海王" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/航海王.png" group-title="动画频道", 航海王
-http://103.193.151.146/huya.php?id=16913382
-#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="动画频道", 名侦探柯南
-http://1.94.31.214:35455/huya/30080236
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 宝宝动画
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288002/index.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 少儿动漫
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 青春动漫
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 青春动漫
-http://121.230.171.192:8000/rtp/239.49.1.212:6000
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 宝宝动画
-http://121.230.171.192:8000/rtp/239.49.1.213:6000
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 青春动漫
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 宝宝动画
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="http://n.ysyz.top:99/buyaolian/青春动漫.png" group-title="百事通", 青春动漫
-https://live.metshop.top/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="http://n.ysyz.top:99/buyaolian/宝宝动画.png" group-title="百事通", 宝宝动画
-https://live.metshop.top/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-id="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="动画频道", 名侦探柯南
+http://81.70.10.196:35455/huya/30080236
+#EXTINF:-1 tvg-name="卡通少儿" group-title="中文-动漫少儿", 卡通少儿
+http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000150
+#EXTINF:-1 tvg-name="上午无事做做动画" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161050000011089391y6j0fr.jpg" group-title="手工绘画", 上午无事做做动画
+https://live.ottiptv.cc/bilibili/11089391
 #EXTINF:-1 tvg-name="BRTV Kaku Childrens Channel" tvg-id="BRTVKakuChildrensChannel.cn@SD" tvg-logo="https://i.imgur.com/t8X4wPZ.png" group-title="Kids", BRTV Kaku Childrens Channel
 http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 #EXTINF:-1 tvg-name="BRTV Kaku Childrens Channel" tvg-id="BRTVKakuChildrensChannel.cn@SD" tvg-logo="https://i.imgur.com/t8X4wPZ.png" group-title="Kids", BRTV Kaku Childrens Channel
@@ -375,62 +249,188 @@ http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通 (576p)" tvg-id="GoldenEagleCartoon.cn@SD" tvg-logo="https://i.imgur.com/xfVHrKQ.png" group-title="Animation;Kids", 金鹰卡通 (576p)
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
-#EXTINF:-1 tvg-name="卡酷动画" tvg-id="67" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="LocalTV", 卡酷少儿
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="67" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="LocalTV", 卡酷少儿
-http://223.110.241.149:6610/gitv/live1/G_KAKU/G_KAKU/1.m3u8
-#EXTINF:-1 tvg-name="上午无事做做动画" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161050000011089391y6j0fr.jpg" group-title="手工绘画", 上午无事做做动画
-https://live.ottiptv.cc/bilibili/11089391
-#EXTINF:-1 tvg-name="卡通少儿" group-title="中文-动漫少儿", 卡通少儿
-http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000150
-#EXTINF:-1 tvg-name="小猪佩奇" group-title="YouTube「P」", 小猪佩奇「动画」
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-name="动画1" group-title="YouTube「P」", 动画1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-name="动画2" group-title="YouTube「P」", 动画2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 tvg-name="儿童歌曲1" group-title="YouTube「P」", 儿童歌曲1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 tvg-name="儿童歌曲2" group-title="YouTube「P」", 儿童歌曲2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 tvg-name="「动画」茶啊二中" group-title="•影视", 「动画」茶啊二中
-https://yang-1989.eu.org/live/huya/11213191
-#EXTINF:-1 tvg-name="「解说」动漫•1" group-title="•影视", 「解说」动漫•1
-https://yang-1989.eu.org/live/huya/19757963
-#EXTINF:-1 tvg-name="「轮播」动漫" group-title="•影视", 「轮播」动漫
-http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=874ec8068853bd13e2fa21a68f258440&token=cpn-androidmpro-0-206858-355488b41ed19088616f37e791a58fcf3679923943a09438&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-name="「动漫」航海王" group-title="•影视", 「动漫」航海王
-https://yang-1989.eu.org/live/huya/16913382
-#EXTINF:-1 tvg-name="怀旧动画" group-title="•影视", 怀旧动画
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-#EXTINF:-1 tvg-name="宝宝巴士" group-title="•少儿", 宝宝巴士
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
-#EXTINF:-1 tvg-name="宝宝课堂" group-title="•少儿", 宝宝课堂
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key
-#EXTINF:-1 tvg-name="贝瓦儿歌" group-title="•少儿", 贝瓦儿歌
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c56_lb_188_600_t10/c56_lb_188_600_t10.m3u8?key
-#EXTINF:-1 tvg-name="成都大熊猫繁育研究基地" group-title="•少儿", 成都大熊猫繁育研究基地
-https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
-#EXTINF:-1 tvg-name="漫画说历史" group-title="•少儿", 漫画说历史
-https://yang-1989.eu.org/live/huya/20985824
-#EXTINF:-1 tvg-name="「轮播」二次猿动画" group-title="•少儿", 「轮播」二次猿动画
-http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=9eaefce6cc13570baaeff857204a4d5c&token=cpn-androidmpro-0-206858-355488b41ed19088c77925a51949944b3aeedf4a96fd30f8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-name="喜仔的动画世界" group-title="•少儿", 喜仔的动画世界
-https://yang-1989.eu.org/live/huya/20036751
-#EXTINF:-1 tvg-name="KBS Kids" group-title="•韩国", KBS Kids
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 tvg-name="Camp Spoopy「少儿」" group-title="•杂货", Camp Spoopy「少儿」
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f77a99416621400402b3dc1&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---&checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="PequeRadio TV「少儿」" group-title="•杂货", PequeRadio TV「少儿」
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="iHOT爱动漫" tvg-id="iHOT爱动漫" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱动漫.png" group-title="IHOT", iHOT爱动漫
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="NewTV", NewTV黑莓动画
-http://gslbserv.itv.cmvideo.cn/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="卡酷卡通" group-title="嗷嗷", 卡酷卡通
-http://ak.cj022.com:10080/hls/54/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通HD" group-title="嗷嗷", 金鹰卡通HD
-http://ak.cj022.com:10080/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="besTV 4K动画" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="央卫·备用", besTV 4K动画
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/sepd4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-name="青春动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="央卫·备用", 青春动漫
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="宝宝动画" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="央卫·备用", 宝宝动画
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://115.190.124.74/php/as.php?/PLTV/&id=10240087&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.lizanyang.top/tv/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+rtsp://10.11.43.21/PLTV/88888912/224/3221226704/394902423.smil
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" group-title="仅电信可用·限时内测" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 嘉佳卡通
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://125.42.151.216:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://125.42.150.164:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://125.42.150.124:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://123.55.3.70:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://1.198.67.71:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://183.162.120.197:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://120.196.235.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://114.244.117.90:1314/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://111.12.102.68:6610/PLTV/77777777/224/3221225797/index.m3u8?
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/172/388/202304101530_2206172388_H169_1080.jpg" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://sport.pendy.dpdns.org/migu/614952364?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000025964&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=4739906347743456369&livemode=1&stbId=yu&mode=1&$2M
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://111.29.9.33:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://204.12.221.218:8181/3m1080p/gdjjkt.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://fnos.sunny2017.xyz:7788/udp/239.21.2.5:5002
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://183.236.43.98:4111/udp/239.77.0.179:5146
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://120.238.84.45:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://171.43.64.216:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="http://49.233.180.193:5678/data/icon/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://219.144.190.2:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="仅电信可用·限时内测" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 嘉佳卡通
+http://192.151.150.154/live/gdjjkt.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://125.42.151.43:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://106.115.27.91:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://171.14.89.131:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://183.222.15.202:4321/rtp/239.11.0.203:5140
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://183.220.107.138:4022/rtp/239.11.0.203:5140
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://222.128.26.62:4001/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://221.219.104.6:1193/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://182.135.66.163:1888/rtp/239.94.2.226:5140
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://182.135.66.163:18888/rtp/239.94.2.226:5140
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://219.156.95.119:4022/rtp/225.1.4.92:1121
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://121.29.215.105:2083/rtp/239.253.93.203:6381
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/1.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://113.81.20.131:20443/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="仅电信可用·限时内测", 嘉佳卡通
+http://tvtj1.jxwltx.com:8003/live1328.m3u8
+#EXTINF:-1 tvg-name="开心锤锤动漫" tvg-id="开心锤锤动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 开心锤锤动漫
+http://115.190.124.74/php/douyu.php?id=9018297&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="开心锤锤动漫" tvg-id="开心锤锤动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 开心锤锤动漫
+http://free.frp.vip:10147/douyu/9018297
+#EXTINF:-1 tvg-name="开心锤锤动漫" tvg-id="开心锤锤动漫" tvg-logo="https://epg.112114.xyz/logo/开心锤锤动漫.png" group-title="影视轮播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 开心锤锤动漫
+http://live.nctv.top/douyu1.php?id=9018297
+#EXTINF:-1 tvg-name="PP看动漫" tvg-id="PP看动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", PP看动漫
+http://115.190.124.74/php/douyu.php?id=9837291&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="PP看动漫" tvg-id="PP看动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", PP看动漫
+http://free.frp.vip:10147/douyu/9837291
+#EXTINF:-1 tvg-name="真香动漫解说" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 真香动漫解说
+http://115.190.124.74/php/douyu.php?id=9391292&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="小陶气说动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 小陶气说动漫
+http://115.190.124.74/php/douyu.php?id=9527700&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="搞笑动漫大本营" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 搞笑动漫大本营
+http://115.190.124.74/php/douyu.php?id=9650181&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="动漫推荐i" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 动漫推荐i
+http://115.190.124.74/php/douyu.php?id=5187099&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="圈踢动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 圈踢动漫
+http://115.190.124.74/php/douyu.php?id=1952680&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="动画大师姐" tvg-id="动画大师姐" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 动画大师姐
+http://115.190.124.74/php/douyu.php?id=9742136&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="动画大师姐" tvg-id="动画大师姐" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 动画大师姐
+http://free.frp.vip:10147/douyu/9742136
+#EXTINF:-1 tvg-name="动画大师姐" tvg-id="动画大师姐" tvg-logo="https://epg.112114.xyz/logo/动画大师姐.png" group-title="影视轮播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 动画大师姐
+http://live.nctv.top/douyu1.php?id=9742136
+#EXTINF:-1 tvg-name="米粒儿动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 米粒儿动漫
+http://115.190.124.74/php/douyu.php?id=9445279&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="动画魂" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 动画魂
+http://115.190.124.74/php/douyu.php?id=9393242&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="蛋黄讲动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 蛋黄讲动漫
+http://115.190.124.74/php/douyu.php?id=9542834&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="鑫酱盘动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 鑫酱盘动漫
+http://115.190.124.74/php/douyu.php?id=9547575&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="漫尼动画" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 漫尼动画
+http://115.190.124.74/php/douyu.php?id=10364790&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="皮皮动漫星球" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 皮皮动漫星球
+http://115.190.124.74/php/douyu.php?id=8841920&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="17号说动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 17号说动漫
+http://115.190.124.74/php/douyu.php?id=9822277&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="立秋动画" tvg-id="立秋动画" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 立秋动画
+http://115.190.124.74/php/douyu.php?id=10351891&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="立秋动画" tvg-id="立秋动画" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 立秋动画
+http://free.frp.vip:10147/douyu/10351891
+#EXTINF:-1 tvg-name="立秋动画" tvg-id="立秋动画" tvg-logo="https://epg.112114.xyz/logo/立秋动画.png" group-title="影视轮播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 立秋动画
+http://live.nctv.top/douyu1.php?id=10351891
+#EXTINF:-1 tvg-name="三新动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 三新动漫
+http://115.190.124.74/php/douyu.php?id=9548279&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="雨忆动漫" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 雨忆动漫
+http://115.190.124.74/php/douyu.php?id=9568700&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="动漫唯美風" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 动漫唯美風
+http://115.190.124.74/php/douyu.php?id=8912038&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="经典日本动漫速看" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="一起看", 经典日本动漫速看
+https://live.ottiptv.cc/huya/29982686
+#EXTINF:-1 tvg-name="小当家动漫社" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="一起看", 小当家动漫社
+https://live.ottiptv.cc/huya/24257300
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://live.lizanyang.top/tv/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227212/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://183.162.120.197:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://1.198.67.71:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://114.244.117.90:1314/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7851974109718180595&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7589856436881630561&livemode=1&stbId=yu&mode=1&$2M
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://171.14.89.131:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://125.42.151.43:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://183.222.15.202:4321/rtp/239.11.0.129:5140
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://183.220.107.138:4022/rtp/239.11.0.129:5140
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://182.135.66.163:1888/rtp/239.94.2.230:5140
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://182.135.66.163:18888/rtp/239.94.2.230:5140
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://219.156.95.119:4022/rtp/225.1.4.48:1077
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://39.77.21.53:4002/rtp/239.253.254.66:8000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://121.29.215.105:2083/rtp/239.253.92.162:8054
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://106.59.2.85:55555/rtp/239.200.200.64:8324
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://27.18.83.20:9100/rtp/239.69.1.193:10800
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷少儿.png" group-title="数字综合", 卡酷少儿
+http://106.116.126.74:4022/rtp/239.254.200.91:9248
+#EXTINF:-1 tvg-name="梦工场动漫" tvg-id="梦工场动漫" tvg-logo="https://epg.112114.xyz/logo/梦工场动漫.png" group-title="風雲試看臺灣頻道", 梦工场动漫
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1 tvg-name="Duck TV兒童卡通" tvg-id="Duck TV兒童卡通" group-title="風雲試看臺灣頻道", Duck TV兒童卡通
+http://iptv.4666888.xyz/iptv2A.php?id=39
 #EXTINF:-1 tvg-name="经典动画大集合" tvg-id="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 经典动画大集合
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=经典动画大集合
 #EXTINF:-1 tvg-name="经典动画大集合" tvg-id="经典动画大集合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="少儿", 经典动画大集合
@@ -461,6 +461,8 @@ http://106.116.126.74:4022/rtp/239.254.201.165:6358
 http://39.77.163.179:4002/rtp/239.253.254.115:8000
 #EXTINF:-1 tvg-name="SiTV-动漫秀场" tvg-id="SiTV-动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-动漫秀场.png" group-title="数字频道", SiTV-动漫秀场
 http://1.192.247.36:8188/rtp/239.16.20.40:10400
+#EXTINF:-1 tvg-name="黑莓动画" tvg-id="C09" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hmdh.png" group-title="数字", 黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动画王国" group-title="中文-动漫少儿", NewTV动画王国
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-name="SiTV动漫秀场FHD" group-title="中文-动漫少儿", SiTV动漫秀场FHD
@@ -471,8 +473,6 @@ http://live.826pc.com/cdtv/live.php?id=6
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 #EXTINF:-1 tvg-name="黑莓动画FHD" group-title="中文-动漫少儿", 黑莓动画FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225710/index.m3u8?
-#EXTINF:-1 tvg-name="黑莓动画" tvg-id="C09" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hmdh.png" group-title="数字", 黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="[BD]金鹰卡通@@20" tvg-id="2656" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421221129071566_14.jpg" group-title="動畫", [BD]金鹰卡通@@20
 https://epg.pm/stream/12e2d59b9ab8f84a410e4e96708988399f6ebf520117ba89d8efb4e702936b96.m3u8
 #EXTINF:-1 tvg-name="[HD]金鹰卡通@@32" tvg-id="2656" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421221129071566_14.jpg" group-title="動畫", [HD]金鹰卡通@@32
@@ -911,66 +911,6 @@ https://epg.pm/stream/a4889a8877377609ac677b4690f60f078e51799be76d537fa3c0e5bb5e
 https://epg.pm/stream/7800dd773f7c6d6395b5523af58adb60be6f5aeda558dc0e2beeaf14a573e6c4.m3u8
 #EXTINF:-1 tvg-name="[BD]动漫@@1" tvg-id="2944" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506234051995170_29.jpg" group-title="動畫", [BD]动漫@@1
 https://epg.pm/stream/844835094deb0516de62f342d6e2463848737ff0995d645804d687b958d659d9.m3u8
-#EXTINF:-1 tvg-name="樱桃小丸子剧" tvg-id="樱桃小丸子剧" tvg-logo="https://tv-res.pages.dev/logo/樱桃小丸子剧.png" group-title="💓儿童专享", 樱桃小丸子剧
-http://103.193.151.146/huya.php?id=11342394
-#EXTINF:-1 tvg-name="猫和老鼠剧集" tvg-id="猫和老鼠剧集" tvg-logo="https://tv-res.pages.dev/logo/猫和老鼠剧集.png" group-title="💓儿童专享", 猫和老鼠剧集
-http://103.193.151.146/huya.php?id=11352879
-#EXTINF:-1 tvg-name="蜡笔小新剧集" tvg-id="蜡笔小新剧集" tvg-logo="https://tv-res.pages.dev/logo/蜡笔小新剧集.png" group-title="💓儿童专享", 蜡笔小新剧集
-http://103.193.151.146/huya.php?id=11352970
-#EXTINF:-1 tvg-name="Q版三国剧集" tvg-id="Q版三国剧集" tvg-logo="https://tv-res.pages.dev/logo/Q版三国剧集.png" group-title="💓儿童专享", Q版三国剧集
-http://103.193.151.146/huya.php?id=29465871
-#EXTINF:-1 tvg-name="东森幼幼" tvg-id="东森幼幼" tvg-logo="https://tv-res.pages.dev/logo/东森幼幼.png" group-title="💓儿童专享", 东森幼幼
-http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-#EXTINF:-1 tvg-name="东森幼幼" tvg-id="东森幼幼" tvg-logo="https://tv-res.pages.dev/logo/东森幼幼.png" group-title="💓儿童专享", 东森幼幼
-p3p://167.114.175.6:55331/62c9a6bb000ac34dc6a767036c5f3878
-#EXTINF:-1 tvg-name="东森幼幼" tvg-id="东森幼幼" tvg-logo="https://logo.catvod.com/东森幼幼.png" group-title="💓儿童专享", 东森幼幼
-http://free.cnlive.club/channel/naa6d18/index.m3u8
-#EXTINF:-1 tvg-name="3ABN Kids" tvg-id="3ABN Kids" tvg-logo="https://tv-res.pages.dev/logo/3ABN Kids.png" group-title="💓儿童专享", 3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Japanim TV" tvg-id="Japanim TV" tvg-logo="https://tv-res.pages.dev/logo/Japanim TV.png" group-title="💓儿童专享", Japanim TV
-https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 tvg-name="Kuriakos Kids" tvg-id="Kuriakos Kids" tvg-logo="https://tv-res.pages.dev/logo/Kuriakos Kids.png" group-title="💓儿童专享", Kuriakos Kids
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="XilamTV" tvg-id="XilamTV" tvg-logo="https://tv-res.pages.dev/logo/XilamTV.png" group-title="💓儿童专享", XilamTV
-https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FanpopTV" tvg-id="FanpopTV" tvg-logo="https://tv-res.pages.dev/logo/FanpopTV.png" group-title="💓儿童专享", FanpopTV
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-#EXTINF:-1 tvg-name="儿童|Baby TV Eng" tvg-id="儿童|Baby TV Eng" tvg-logo="https://tv-res.pages.dev/logo/儿童|Baby TV Eng.png" group-title="💓儿童专享", 儿童|Baby TV Eng
-http://free.cnlive.club/channel/n59903092/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|CBeebies" tvg-id="儿童|CBeebies" tvg-logo="https://tv-res.pages.dev/logo/儿童|CBeebies.png" group-title="💓儿童专享", 儿童|CBeebies
-http://free.cnlive.club/channel/33dc4490/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|Kids TV" tvg-id="儿童|Kids TV" tvg-logo="https://tv-res.pages.dev/logo/儿童|Kids TV.png" group-title="💓儿童专享", 儿童|Kids TV
-http://free.cnlive.club/channel/n149d9627/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|Animax" tvg-id="儿童|Animax" tvg-logo="https://tv-res.pages.dev/logo/儿童|Animax.png" group-title="💓儿童专享", 儿童|Animax
-http://free.cnlive.club/channel/7af110c4/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|Baby TV" tvg-id="儿童|Baby TV" tvg-logo="https://tv-res.pages.dev/logo/儿童|Baby TV.png" group-title="💓儿童专享", 儿童|Baby TV
-http://free.cnlive.club/channel/18a1ad0/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|MiaoMi" tvg-id="儿童|MiaoMi" tvg-logo="https://tv-res.pages.dev/logo/儿童|MiaoMi.png" group-title="💓儿童专享", 儿童|MiaoMi
-http://free.cnlive.club/channel/n70dedb3e/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|靖天卡通" tvg-id="儿童|靖天卡通" tvg-logo="https://tv-res.pages.dev/logo/儿童|靖天卡通.png" group-title="💓儿童专享", 儿童|靖天卡通
-http://free.cnlive.club/channel/n6567f5b8/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|东森幼幼" tvg-id="儿童|东森幼幼" tvg-logo="https://tv-res.pages.dev/logo/儿童|东森幼幼.png" group-title="💓儿童专享", 儿童|东森幼幼
-http://free.cnlive.club/channel/798aeeee/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|Nickelodeon" tvg-id="儿童|Nickelodeon" tvg-logo="https://tv-res.pages.dev/logo/儿童|Nickelodeon.png" group-title="💓儿童专享", 儿童|Nickelodeon
-http://free.cnlive.club/channel/n6a165737/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="儿童|Nick Jr" tvg-id="儿童|Nick Jr" tvg-logo="https://tv-res.pages.dev/logo/儿童|Nick Jr.png" group-title="💓儿童专享", 儿童|Nick Jr
-http://free.cnlive.club/channel/n75fc9ff7/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="无线少儿" tvg-id="无线少儿" tvg-logo="https://tv-res.pages.dev/logo/无线少儿.png" group-title="🍹定制P3P☕️", 无线少儿
-https://hls-gateway.vpstv.net/streams/708905.m3u8
-#EXTINF:-1 tvg-name="Super Kids" tvg-id="Super Kids" tvg-logo="https://tv-res.pages.dev/logo/Super Kids.png" group-title="🍹定制P3P☕️", Super Kids
-p3p://167.114.175.6:55331/6506d285000b06bd33dad67a652e2bfd
-#EXTINF:-1 tvg-name="CN卡通(粤)" tvg-id="CN卡通(粤)" tvg-logo="https://tv-res.pages.dev/logo/CN卡通(粤).png" group-title="🍹定制P3P☕️", CN卡通(粤)
-p3p://167.114.175.6:55331/648353bb0006d4d93236315a766b692a
-#EXTINF:-1 tvg-name="尼克儿童" tvg-id="尼克儿童" tvg-logo="https://tv-res.pages.dev/logo/尼克儿童.png" group-title="🍹定制P3P☕️", 尼克儿童
-p3p://167.114.175.6:55331/6233e0ca0000ca8f7da159a76b755519
-#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-id="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="🍹定制P3P☕️", 靖洋卡通
-p3p://167.114.175.6:55331/626104fd000e0f742df488f03ab9480b
-#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-id="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="🍹定制P3P☕️", 靖洋卡通
-http://220.135.64.124:5050/4gtv-4gtv057/index.m3u8
-#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-id="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="🍹定制P3P☕️", 靖洋卡通
-http://220.135.64.124:5050/li-4gtv-4gtv057/index.m3u8
-#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-id="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="🍹定制P3P☕️", 靖洋卡通Nice Bingo
-http://114.32.153.6:5051/4gtv-4gtv057/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="龍華卡通台" tvg-id="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通", 龍華卡通台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn01
 #EXTINF:-1 tvg-name="龍華卡通台" tvg-id="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通", 龍華卡通
@@ -979,8 +919,18 @@ http://220.135.64.124:5050/li-litv-longturn01/index.m3u8
 http://220.135.64.124:5050/litv-longturn01/index.m3u8
 #EXTINF:-1 tvg-name="龍華卡通台" tvg-id="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通", 龍華卡通台
 http://114.32.153.6:5051/litv-xinchuang01/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="69" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="数字", 金鹰卡通
-http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通", ELTV生活英語台
+https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn20
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通", ELTV生活英語台
+http://220.135.64.124:5050/litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通", ELTV生活英語台
+http://220.135.64.124:5050/li-litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通", ELTV生活英語台
+http://220.135.64.124:5050/of-litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通", ELTV生活英語台
+http://114.32.153.6:5051/litv-xinchuang20/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-id="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通", ELTV生活英語台
+http://114.32.153.6:5051/of-litv-xinchuang20/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="LiveABC互動英語頻道" tvg-id="LiveABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="兒童卡通", LiveABC 互動英語台
 http://220.135.64.124:5050/4gtv-live030/index.m3u8
 #EXTINF:-1 tvg-name="LIVEABC互動英語頻道" tvg-id="LIVEABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="兒童卡通", LiveABC互動英語頻道
@@ -993,20 +943,32 @@ http://220.135.64.124:5050/li-4gtv-4gtv018/index.m3u8
 http://114.32.153.6:5051/4gtv-4gtv018/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="Nick Jr. 兒童頻道" tvg-id="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通", Nick Jr.
 http://220.135.64.124:5050/4gtv-live032/index.m3u8
-#EXTINF:-1 tvg-name="Nick Jr. 兒童頻道" tvg-id="Nick Jr. 兒童頻道" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-live032.png" group-title="兒童卡通", Nick Jr. 兒童頻道
-https://rust.946985.filegear-sg.me/proxy/0f15b2489b2c25d8?token=tgJerryfeng
 #EXTINF:-1 tvg-name="Nick Jr. 兒童頻道" tvg-id="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通", Nick Jr. 兒童頻道
 http://114.32.153.6:5051/4gtv-live032/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童卡通", Nickelodeon
+http://220.135.64.124:5050/4gtv-live105/index.m3u8
+#EXTINF:-1 tvg-name="儿童频道|Nickelodeon" tvg-id="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="兒童卡通", 儿童频道|Nickelodeon
+https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="兒童卡通", Nickelodeon
+http://178.163.117.7:4022/udp/234.0.0.153:2000
 #EXTINF:-1 tvg-name="DreamWorks 夢工廠動畫" tvg-id="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="兒童卡通", DreamWorks
 http://220.135.64.124:5050/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-name="DreamWorks 夢工廠動畫" tvg-id="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="兒童卡通", DreamWorks 夢工廠動畫
 http://114.32.153.6:5051/4gtv-live017/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="Dream works" tvg-id="DreamWorks 夢工廠動畫" tvg-logo="https://logo.catvod.com/Dream works.png" group-title="兒童卡通", Dream works
+https://tv543.cc/Smart.php?id=Dreamworks
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-id="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通", 靖天卡通
 http://220.135.64.124:5050/4gtv-4gtv044/index.m3u8
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-id="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通", 靖天卡通
 http://220.135.64.124:5050/li-4gtv-4gtv044/index.m3u8
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-id="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通", 靖天卡通
 http://114.32.153.6:5051/4gtv-4gtv044/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-id="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通", 靖洋卡通
+http://220.135.64.124:5050/4gtv-4gtv057/index.m3u8
+#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-id="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通", 靖洋卡通
+http://220.135.64.124:5050/li-4gtv-4gtv057/index.m3u8
+#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-id="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通", 靖洋卡通Nice Bingo
+http://114.32.153.6:5051/4gtv-4gtv057/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="經典卡通台" tvg-id="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="兒童卡通", 經典卡通台
 http://220.135.64.124:5050/4gtv-live022/index.m3u8
 #EXTINF:-1 tvg-name="經典卡通台" tvg-id="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="兒童卡通", 經典卡通台
@@ -1015,8 +977,10 @@ http://114.32.153.6:5051/4gtv-live022/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4j
 http://220.135.64.124:5050/4gtv-live024/index.m3u8
 #EXTINF:-1 tvg-name="精選動漫台" tvg-id="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="兒童卡通", 精選動漫台
 http://114.32.153.6:5051/4gtv-live024/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="儿童频道|Baby TV Eng" tvg-id="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="GPT-儿童", 儿童频道|Baby TV Eng
+#EXTINF:-1 tvg-name="儿童频道|Baby TV Eng" tvg-id="BABYTV" tvg-logo="https://epg.112114.xyz/logo/BABYTV.png" group-title="Smart☠️源", 儿童频道|Baby TV Eng
 https://smart.pendy.dpdns.org/Smart.php?id=Babytv
+#EXTINF:-1 tvg-name="儿童频道|CBeebies" tvg-id="CBEEBIES" tvg-logo="https://epg.112114.xyz/logo/CBEEBIES.png" group-title="Smart☠️源", 儿童频道|CBeebies
+https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
 #EXTINF:-1 tvg-name="儿童频道|Kids TV" tvg-id="儿童频道|Kids TV" tvg-logo="https://epg.112114.xyz/logo/儿童频道|KIDSTV.png" group-title="Smart☠️源", 儿童频道|Kids TV
 https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
 #EXTINF:-1 tvg-name="儿童频道|MiaoMi" tvg-id="儿童频道|MiaoMi" tvg-logo="https://epg.112114.xyz/logo/儿童频道|MIAOMI.png" group-title="Smart☠️源", 儿童频道|MiaoMi
@@ -1027,128 +991,172 @@ https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
 https://smart.pendy.dpdns.org/Smart.php?id=discoverykidtamil_raj
 #EXTINF:-1 tvg-name="韩国|EBS Kids" tvg-id="韩国|EBS Kids" tvg-logo="https://epg.112114.xyz/logo/韩国|EBSKIDS.png" group-title="Smart☠️源", 韩国|EBS Kids
 https://smart.pendy.dpdns.org/Smart.php?id=ebskids_korea
-#EXTINF:-1 tvg-name="尼克兒童頻道" tvg-id="尼克兒童頻道" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-live105.png" group-title="4GTV", 尼克兒童頻道
-https://rust.946985.filegear-sg.me/proxy/705dcc010674da1f?token=tgJerryfeng
-#EXTINF:-1 tvg-name="尼克兒童頻道" tvg-id="尼克兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="4GTV", 尼克兒童頻道
-http://114.32.153.6:5051/4gtv-live105/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="經典卡通-FastTV飛速看" tvg-id="經典卡通-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live011.png" group-title="4GTV", 經典卡通-FastTV飛速看
-https://rust.946985.filegear-sg.me/proxy/36526dce51a35f45?token=tgJerryfeng
-#EXTINF:-1 tvg-name="免費精選動畫-FastTV飛速看" tvg-id="免費精選動畫-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live011.png" group-title="4GTV", 免費精選動畫-FastTV飛速看
-https://rust.946985.filegear-sg.me/proxy/5f6713e0bb181379?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Duck TV兒童卡通-FastTV飛速看" tvg-id="Duck TV兒童卡通-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live011.png" group-title="4GTV", Duck TV兒童卡通-FastTV飛速看
-https://rust.946985.filegear-sg.me/proxy/10b34687777da6c7?token=tgJerryfeng
-#EXTINF:-1 tvg-name="苏州儿童广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州儿童广播.png" group-title="综合广播", 苏州儿童广播
-http://live.cooltv.top/tv/ytradio.php?id=695
-#EXTINF:-1 tvg-name="台北爱乐Kids" tvg-logo="http://live.cooltv.top/logo/aiyue.png" group-title="境外广播", 台北爱乐Kids
-http://live.cooltv.top/tv/e-classical.php?id=kids
-#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://www.xn--rgv465a.top/tvlogo/少儿动画.png" group-title="数字", 少儿动画
-http://120.238.84.45:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="开心锤锤动漫" tvg-logo="https://epg.112114.xyz/logo/开心锤锤动漫.png" group-title="👶🏻少儿直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 开心锤锤动漫
-http://live.nctv.top/douyu1.php?id=9018297
-#EXTINF:-1 tvg-name="茶啊二中" tvg-logo="https://epg.112114.xyz/logo/茶啊二中.png" group-title="👶🏻少儿直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 茶啊二中
-http://live.nctv.top/douyu1.php?id=2925610
-#EXTINF:-1 tvg-name="动漫音乐专场" tvg-logo="https://epg.112114.xyz/logo/动漫音乐专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 动漫音乐专场
-http://live.nctv.top/douyu1.php?id=9409703
-#EXTINF:-1 tvg-name="海贼王" tvg-logo="https://epg.112114.xyz/logo/海贼王.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 海贼王
-https://live.ottiptv.cc/huya/29982634
-#EXTINF:-1 tvg-name="神奇宝贝" tvg-logo="https://epg.112114.xyz/logo/神奇宝贝.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 神奇宝贝
-https://live.ottiptv.cc/huya/21241784
-#EXTINF:-1 tvg-name="宫崎骏" tvg-logo="https://epg.112114.xyz/logo/宫崎骏.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 宫崎骏
-https://live.ottiptv.cc/huya/21059614
-#EXTINF:-1 tvg-name="钢之炼金术师" tvg-logo="https://epg.112114.xyz/logo/钢之炼金术师.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 钢之炼金术师
-https://live.ottiptv.cc/huya/20985859
-#EXTINF:-1 tvg-name="瑞克与莫蒂" tvg-logo="https://epg.112114.xyz/logo/瑞克与莫蒂.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 瑞克与莫蒂
-https://live.ottiptv.cc/huya/29982655
-#EXTINF:-1 tvg-name="星辰变" tvg-logo="https://epg.112114.xyz/logo/星辰变.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 星辰变
-https://live.ottiptv.cc/huya/24514506
-#EXTINF:-1 tvg-name="成龙历险记" tvg-logo="https://epg.112114.xyz/logo/成龙历险记.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 成龙历险记
-https://live.ottiptv.cc/huya/11352946
-#EXTINF:-1 tvg-name="飞天小女警" tvg-logo="https://epg.112114.xyz/logo/飞天小女警.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 飞天小女警
-https://live.ottiptv.cc/huya/11601958
-#EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://epg.112114.xyz/logo/樱桃小丸子.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 樱桃小丸子
-https://live.ottiptv.cc/huya/11342394
-#EXTINF:-1 tvg-name="全职高手" tvg-logo="https://epg.112114.xyz/logo/全职高手.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 全职高手
-https://live.ottiptv.cc/huya/21059628
-#EXTINF:-1 tvg-name="魔法少女" tvg-logo="https://epg.112114.xyz/logo/魔法少女.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 魔法少女
-https://live.ottiptv.cc/huya/21059587
-#EXTINF:-1 tvg-name="全职猎人" tvg-logo="https://epg.112114.xyz/logo/全职猎人.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 全职猎人
-https://live.ottiptv.cc/huya/30080254
-#EXTINF:-1 tvg-name="四驱兄弟" tvg-logo="https://epg.112114.xyz/logo/四驱兄弟.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四驱兄弟
-https://live.ottiptv.cc/huya/11352922
-#EXTINF:-1 tvg-name="一人之上" tvg-logo="https://epg.112114.xyz/logo/一人之上.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 一人之上
-https://live.ottiptv.cc/huya/11602065
-#EXTINF:-1 tvg-name="头文字D" tvg-logo="https://epg.112114.xyz/logo/头文字D.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 头文字D
-https://live.ottiptv.cc/huya/11352889
-#EXTINF:-1 tvg-name="玩具总动员" tvg-logo="https://epg.112114.xyz/logo/玩具总动员.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 玩具总动员
-https://live.ottiptv.cc/huya/30080256
-#EXTINF:-1 tvg-name="通灵王" tvg-logo="https://epg.112114.xyz/logo/通灵王.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 通灵王
-https://live.ottiptv.cc/huya/20969112
-#EXTINF:-1 tvg-name="游戏王" tvg-logo="https://epg.112114.xyz/logo/游戏王.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 游戏王
-https://live.ottiptv.cc/huya/20985856
-#EXTINF:-1 tvg-name="男子高中生的日常" tvg-logo="https://epg.112114.xyz/logo/男子高中生的日常.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 男子高中生的日常
-https://live.ottiptv.cc/huya/20985858
-#EXTINF:-1 tvg-name="元气少女缘结神" tvg-logo="https://epg.112114.xyz/logo/元气少女缘结神.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 元气少女缘结神
-https://live.ottiptv.cc/huya/11352967
-#EXTINF:-1 tvg-name="全职法师" tvg-logo="https://epg.112114.xyz/logo/全职法师.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 全职法师
-https://live.ottiptv.cc/huya/26355772
-#EXTINF:-1 tvg-name="尸兄" tvg-logo="https://epg.112114.xyz/logo/尸兄.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 尸兄
-https://live.ottiptv.cc/huya/26355846
-#EXTINF:-1 tvg-name="大头儿子小头爸爸" tvg-logo="https://epg.112114.xyz/logo/大头儿子小头爸爸.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 大头儿子小头爸爸
-https://live.ottiptv.cc/huya/20969114
-#EXTINF:-1 tvg-name="哪吒传奇" tvg-logo="https://epg.112114.xyz/logo/哪吒传奇.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 哪吒传奇
-https://live.ottiptv.cc/huya/26355782
-#EXTINF:-1 tvg-name="龙族" tvg-logo="https://epg.112114.xyz/logo/龙族.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 龙族
-https://live.ottiptv.cc/huya/23865086
-#EXTINF:-1 tvg-name="间谍过家家" tvg-logo="https://epg.112114.xyz/logo/间谍过家家.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 间谍过家家
-https://live.ottiptv.cc/huya/30080149
-#EXTINF:-1 tvg-name="罗小黑战记" tvg-logo="https://epg.112114.xyz/logo/罗小黑战记.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 罗小黑战记
-https://live.ottiptv.cc/huya/24314159
-#EXTINF:-1 tvg-name="圣斗士星矢" tvg-logo="https://epg.112114.xyz/logo/圣斗士星矢.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 圣斗士星矢
-https://live.ottiptv.cc/huya/10396612
-#EXTINF:-1 tvg-name="葫芦兄弟" tvg-logo="https://epg.112114.xyz/logo/葫芦兄弟.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 葫芦兄弟
-https://live.ottiptv.cc/huya/20985834
-#EXTINF:-1 tvg-name="咒术回战" tvg-logo="https://epg.112114.xyz/logo/咒术回战.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 咒术回战
-https://live.ottiptv.cc/huya/21059561
-#EXTINF:-1 tvg-name="反叛的鲁路修" tvg-logo="https://epg.112114.xyz/logo/反叛的鲁路修.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 反叛的鲁路修
-https://live.ottiptv.cc/huya/20969113
-#EXTINF:-1 tvg-name="超自然武装当哒当" tvg-logo="https://epg.112114.xyz/logo/超自然武装当哒当.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 超自然武装当哒当
-https://live.ottiptv.cc/huya/20985850
-#EXTINF:-1 tvg-name="新世纪福音战士" tvg-logo="https://epg.112114.xyz/logo/新世纪福音战士.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 新世纪福音战士
-https://live.ottiptv.cc/huya/20985862
-#EXTINF:-1 tvg-name="轻羽飞扬" tvg-logo="https://epg.112114.xyz/logo/轻羽飞扬.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 轻羽飞扬
-https://live.ottiptv.cc/huya/30805998
-#EXTINF:-1 tvg-name="虫师" tvg-logo="https://epg.112114.xyz/logo/虫师.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 虫师
-https://live.ottiptv.cc/huya/21241791
-#EXTINF:-1 tvg-name="魔神英雄传" tvg-logo="https://epg.112114.xyz/logo/魔神英雄传.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 魔神英雄传
-https://live.ottiptv.cc/huya/21241839
-#EXTINF:-1 tvg-name="NewTV宝宝动画" tvg-logo="https://epg.112114.xyz/logo/NewTV宝宝动画.png" group-title="🛸[移动]NewTV直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV宝宝动画
+#EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-id="BesTV宝宝动画" group-title="👶🏻少儿直播", BesTV宝宝动画
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288002&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="NewTV青春动漫" tvg-logo="https://epg.112114.xyz/logo/NewTV青春动漫.png" group-title="🛸[移动]NewTV直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV青春动漫
+#EXTINF:-1 tvg-name="BesTV青春动漫" tvg-id="BesTV青春动漫" group-title="👶🏻少儿直播", BesTV青春动漫
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288008&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="微笑和苦瓜" tvg-logo="https://epg.112114.xyz/logo/微笑和苦瓜.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 微笑和苦瓜
+#EXTINF:-1 tvg-name="喜羊羊与灰太狼专场" tvg-id="喜羊羊与灰太狼专场" group-title="👶🏻少儿直播", 喜羊羊与灰太狼专场
+http://81.70.10.196:35455/huya/23865080
+#EXTINF:-1 tvg-name="动漫音乐专场" tvg-id="动漫音乐专场" tvg-logo="https://epg.112114.xyz/logo/动漫音乐专场.png" group-title="🎧音乐直播", 动漫音乐专场
+http://free.frp.vip:10147/douyu/9409703
+#EXTINF:-1 tvg-name="动漫音乐专场" tvg-id="动漫音乐专场" tvg-logo="https://epg.112114.xyz/logo/动漫音乐专场.png" group-title="🎧音乐直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 动漫音乐专场
+http://live.nctv.top/douyu1.php?id=9409703
+#EXTINF:-1 tvg-name="海贼王" tvg-id="海贼王" tvg-logo="https://epg.112114.xyz/logo/海贼王.png" group-title="🎎动漫直播", 海贼王
+http://81.70.10.196:35455/huya/29982634
+#EXTINF:-1 tvg-name="宫崎骏" tvg-id="宫崎骏" tvg-logo="https://epg.112114.xyz/logo/宫崎骏.png" group-title="🎎动漫直播", 宫崎骏
+http://81.70.10.196:35455/huya/21059614
+#EXTINF:-1 tvg-name="钢之炼金术师" tvg-id="钢之炼金术师" tvg-logo="https://epg.112114.xyz/logo/钢之炼金术师.png" group-title="🎎动漫直播", 钢之炼金术师
+http://live.nctv.top/huya.php?id=20985859
+#EXTINF:-1 tvg-name="瑞克与莫蒂" tvg-id="瑞克与莫蒂" tvg-logo="https://epg.112114.xyz/logo/瑞克与莫蒂.png" group-title="🎎动漫直播", 瑞克与莫蒂
+http://81.70.10.196:35455/huya/29982655
+#EXTINF:-1 tvg-name="星辰变" tvg-id="星辰变" tvg-logo="https://epg.112114.xyz/logo/星辰变.png" group-title="🎎动漫直播", 星辰变
+http://81.70.10.196:35455/huya/24514506
+#EXTINF:-1 tvg-name="成龙历险记" tvg-id="成龙历险记" tvg-logo="https://epg.112114.xyz/logo/成龙历险记.png" group-title="🎎动漫直播", 成龙历险记
+http://81.70.10.196:35455/huya/11352946
+#EXTINF:-1 tvg-name="飞天小女警" tvg-id="飞天小女警" tvg-logo="https://epg.112114.xyz/logo/飞天小女警.png" group-title="🎎动漫直播", 飞天小女警
+http://81.70.10.196:35455/huya/11601958
+#EXTINF:-1 tvg-name="樱桃小丸子" tvg-id="樱桃小丸子" tvg-logo="https://epg.112114.xyz/logo/樱桃小丸子.png" group-title="🎎动漫直播", 樱桃小丸子
+http://81.70.10.196:35455/huya/11342394
+#EXTINF:-1 tvg-name="全职高手" tvg-id="全职高手" tvg-logo="https://epg.112114.xyz/logo/全职高手.png" group-title="🎎动漫直播", 全职高手
+http://81.70.10.196:35455/huya/21059628
+#EXTINF:-1 tvg-name="魔法少女" tvg-id="魔法少女" tvg-logo="https://epg.112114.xyz/logo/魔法少女.png" group-title="🎎动漫直播", 魔法少女
+http://81.70.10.196:35455/huya/21059587
+#EXTINF:-1 tvg-name="全职猎人" tvg-id="全职猎人" tvg-logo="https://epg.112114.xyz/logo/全职猎人.png" group-title="🎎动漫直播", 全职猎人
+http://81.70.10.196:35455/huya/30080254
+#EXTINF:-1 tvg-name="四驱兄弟" tvg-id="四驱兄弟" tvg-logo="https://epg.112114.xyz/logo/四驱兄弟.png" group-title="🎎动漫直播", 四驱兄弟
+http://81.70.10.196:35455/huya/11352922
+#EXTINF:-1 tvg-name="一人之上" tvg-id="一人之上" tvg-logo="https://epg.112114.xyz/logo/一人之上.png" group-title="🎎动漫直播", 一人之上
+http://81.70.10.196:35455/huya/11602065
+#EXTINF:-1 tvg-name="头文字D" tvg-id="头文字D" tvg-logo="https://epg.112114.xyz/logo/头文字D.png" group-title="🎎动漫直播", 头文字D
+http://81.70.10.196:35455/huya/11352889
+#EXTINF:-1 tvg-name="玩具总动员" tvg-id="玩具总动员" tvg-logo="https://epg.112114.xyz/logo/玩具总动员.png" group-title="🎎动漫直播", 玩具总动员
+http://81.70.10.196:35455/huya/30080256
+#EXTINF:-1 tvg-name="通灵王" tvg-id="通灵王" tvg-logo="https://epg.112114.xyz/logo/通灵王.png" group-title="🎎动漫直播", 通灵王
+http://81.70.10.196:35455/huya/20969112
+#EXTINF:-1 tvg-name="通灵王" tvg-id="通灵王" tvg-logo="https://epg.112114.xyz/logo/通灵王.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 通灵王
+https://live.ottiptv.cc/huya/20969112
+#EXTINF:-1 tvg-name="游戏王" tvg-id="游戏王" tvg-logo="https://epg.112114.xyz/logo/游戏王.png" group-title="🎎动漫直播", 游戏王
+http://81.70.10.196:35455/huya/20985856
+#EXTINF:-1 tvg-name="男子高中生的日常" tvg-id="男子高中生的日常" tvg-logo="https://epg.112114.xyz/logo/男子高中生的日常.png" group-title="🎎动漫直播", 男子高中生的日常
+http://81.70.10.196:35455/huya/20985858
+#EXTINF:-1 tvg-name="元气少女缘结神" tvg-id="元气少女缘结神" tvg-logo="https://epg.112114.xyz/logo/元气少女缘结神.png" group-title="🎎动漫直播", 元气少女缘结神
+http://81.70.10.196:35455/huya/11352967
+#EXTINF:-1 tvg-name="全职法师" tvg-id="全职法师" tvg-logo="https://epg.112114.xyz/logo/全职法师.png" group-title="🎎动漫直播", 全职法师
+http://81.70.10.196:35455/huya/26355772
+#EXTINF:-1 tvg-name="全职法师" tvg-id="全职法师" tvg-logo="https://epg.112114.xyz/logo/全职法师.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 全职法师
+https://live.ottiptv.cc/huya/26355772
+#EXTINF:-1 tvg-name="尸兄" tvg-id="尸兄" tvg-logo="https://epg.112114.xyz/logo/尸兄.png" group-title="🎎动漫直播", 尸兄
+http://81.70.10.196:35455/huya/26355846
+#EXTINF:-1 tvg-name="大头儿子小头爸爸" tvg-id="大头儿子小头爸爸" tvg-logo="https://epg.112114.xyz/logo/大头儿子小头爸爸.png" group-title="🎎动漫直播", 大头儿子小头爸爸
+http://81.70.10.196:35455/huya/20969114
+#EXTINF:-1 tvg-name="哪吒传奇" tvg-id="哪吒传奇" tvg-logo="https://epg.112114.xyz/logo/哪吒传奇.png" group-title="🎎动漫直播", 哪吒传奇
+http://81.70.10.196:35455/huya/26355782
+#EXTINF:-1 tvg-name="龙族" tvg-id="龙族" tvg-logo="https://epg.112114.xyz/logo/龙族.png" group-title="🎎动漫直播", 龙族
+http://81.70.10.196:35455/huya/23865086
+#EXTINF:-1 tvg-name="间谍过家家" tvg-id="间谍过家家" tvg-logo="https://epg.112114.xyz/logo/间谍过家家.png" group-title="🎎动漫直播", 间谍过家家
+http://81.70.10.196:35455/huya/30080149
+#EXTINF:-1 tvg-name="罗小黑战记" tvg-id="罗小黑战记" tvg-logo="https://epg.112114.xyz/logo/罗小黑战记.png" group-title="🎎动漫直播", 罗小黑战记
+http://81.70.10.196:35455/huya/24314159
+#EXTINF:-1 tvg-name="圣斗士星矢" tvg-id="圣斗士星矢" tvg-logo="https://epg.112114.xyz/logo/圣斗士星矢.png" group-title="🎎动漫直播", 圣斗士星矢
+http://81.70.10.196:35455/huya/10396612
+#EXTINF:-1 tvg-name="圣斗士星矢" tvg-id="圣斗士星矢" tvg-logo="https://epg.112114.xyz/logo/圣斗士星矢.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 圣斗士星矢
+https://live.ottiptv.cc/huya/10396612
+#EXTINF:-1 tvg-name="葫芦兄弟" tvg-id="葫芦兄弟" tvg-logo="https://epg.112114.xyz/logo/葫芦兄弟.png" group-title="🎎动漫直播", 葫芦兄弟
+http://81.70.10.196:35455/huya/20985834
+#EXTINF:-1 tvg-name="咒术回战" tvg-id="咒术回战" tvg-logo="https://epg.112114.xyz/logo/咒术回战.png" group-title="🎎动漫直播", 咒术回战
+http://81.70.10.196:35455/huya/21059561
+#EXTINF:-1 tvg-name="反叛的鲁路修" tvg-id="反叛的鲁路修" tvg-logo="https://epg.112114.xyz/logo/反叛的鲁路修.png" group-title="🎎动漫直播", 反叛的鲁路修
+http://81.70.10.196:35455/huya/20969113
+#EXTINF:-1 tvg-name="超自然武装当哒当" tvg-id="超自然武装当哒当" tvg-logo="https://epg.112114.xyz/logo/超自然武装当哒当.png" group-title="🎎动漫直播", 超自然武装当哒当
+http://81.70.10.196:35455/huya/20985850
+#EXTINF:-1 tvg-name="新世纪福音战士" tvg-id="新世纪福音战士" tvg-logo="https://epg.112114.xyz/logo/新世纪福音战士.png" group-title="🎎动漫直播", 新世纪福音战士
+http://81.70.10.196:35455/huya/20985862
+#EXTINF:-1 tvg-name="轻羽飞扬" tvg-id="轻羽飞扬" tvg-logo="https://epg.112114.xyz/logo/轻羽飞扬.png" group-title="🎎动漫直播", 轻羽飞扬
+http://81.70.10.196:35455/huya/30805998
+#EXTINF:-1 tvg-name="轻羽飞扬" tvg-id="轻羽飞扬" tvg-logo="https://epg.112114.xyz/logo/轻羽飞扬.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 轻羽飞扬
+https://live.ottiptv.cc/huya/30805998
+#EXTINF:-1 tvg-name="虫师" tvg-id="虫师" tvg-logo="https://epg.112114.xyz/logo/虫师.png" group-title="🎎动漫直播", 虫师
+https://tv1288.xyz/1002.php?id=21241791
+#EXTINF:-1 tvg-name="魔神英雄传" tvg-id="魔神英雄传" tvg-logo="https://epg.112114.xyz/logo/魔神英雄传.png" group-title="🎎动漫直播", 魔神英雄传
+https://tv1288.xyz/1002.php?id=21241839
+#EXTINF:-1 tvg-name="埋堆堆直播1" tvg-id="埋堆堆直播1" group-title="🎎动漫直播", 埋堆堆直播1
+http://81.70.10.196:35455/huya/23734246
+#EXTINF:-1 tvg-name="埋堆堆直播2" tvg-id="埋堆堆直播2" group-title="🎎动漫直播", 埋堆堆直播2
+http://81.70.10.196:35455/huya/23734256
+#EXTINF:-1 tvg-name="国产动漫系列" tvg-id="国产动漫系列" group-title="🎎动漫直播", 国产动漫系列
+http://81.70.10.196:35455/huya/11352869
+#EXTINF:-1 tvg-name="林小二动画" tvg-id="林小二动画" group-title="🤣沙雕动画直播", 林小二动画
+http://free.frp.vip:10147/douyu/11184164
+#EXTINF:-1 tvg-name="长庚旧梦" tvg-id="长庚旧梦" group-title="🤣沙雕动画直播", 长庚旧梦
+http://free.frp.vip:10147/douyu/11288935
+#EXTINF:-1 tvg-name="微笑和苦瓜" tvg-id="微笑和苦瓜" tvg-logo="https://epg.112114.xyz/logo/微笑和苦瓜.png" group-title="🤣沙雕动画直播", 微笑和苦瓜
+http://81.70.10.196:35455/huya/28213261
+#EXTINF:-1 tvg-name="微笑和苦瓜" tvg-id="微笑和苦瓜" tvg-logo="https://epg.112114.xyz/logo/微笑和苦瓜.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 微笑和苦瓜
 https://live.ottiptv.cc/huya/28213261
-#EXTINF:-1 tvg-name="熊孩子沙雕动画" tvg-logo="https://epg.112114.xyz/logo/熊孩子沙雕动画.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 熊孩子沙雕动画
+#EXTINF:-1 tvg-name="熊孩子沙雕动画" tvg-id="熊孩子沙雕动画" tvg-logo="https://epg.112114.xyz/logo/熊孩子沙雕动画.png" group-title="🤣沙雕动画直播", 熊孩子沙雕动画
+http://81.70.10.196:35455/huya/25243852
+#EXTINF:-1 tvg-name="熊孩子沙雕动画" tvg-id="熊孩子沙雕动画" tvg-logo="https://epg.112114.xyz/logo/熊孩子沙雕动画.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 熊孩子沙雕动画
 https://live.ottiptv.cc/huya/25243852
-#EXTINF:-1 tvg-name="悸动" tvg-logo="https://epg.112114.xyz/logo/悸动.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 悸动
-https://live.ottiptv.cc/huya/28272846
-#EXTINF:-1 tvg-name="小小天才搞笑视频" tvg-logo="https://epg.112114.xyz/logo/小小天才搞笑视频.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 小小天才搞笑视频
-http://live.nctv.top/douyu1.php?id=9419678
-#EXTINF:-1 tvg-name="冰糖葫芦没放盐V" tvg-logo="https://epg.112114.xyz/logo/冰糖葫芦没放盐V.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 冰糖葫芦没放盐V
-http://live.nctv.top/douyu1.php?id=3505453
-#EXTINF:-1 tvg-name="动画大师姐" tvg-logo="https://epg.112114.xyz/logo/动画大师姐.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 动画大师姐
-http://live.nctv.top/douyu1.php?id=9742136
-#EXTINF:-1 tvg-name="立秋动画" tvg-logo="https://epg.112114.xyz/logo/立秋动画.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 立秋动画
-http://live.nctv.top/douyu1.php?id=10351891
-#EXTINF:-1 tvg-name="天才大熊猫啊" tvg-logo="https://epg.112114.xyz/logo/天才大熊猫啊.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 天才大熊猫啊
-http://live.nctv.top/douyu1.php?id=10646699
+#EXTINF:-1 tvg-name="给生活加点笑" tvg-id="给生活加点笑" group-title="🤣沙雕动画直播", 给生活加点笑
+http://81.70.10.196:35455/huya/20985764
+#EXTINF:-1 tvg-name="加点吉拿棒" tvg-id="加点吉拿棒" group-title="🤣沙雕动画直播", 加点吉拿棒
+http://81.70.10.196:35455/huya/20985782
+#EXTINF:-1 tvg-name="凡小陈重生记(7小时)" tvg-id="凡小陈重生记(7小时)" group-title="🤪沙雕动画点播", 凡小陈重生记(7小时)
+https://txmov2.a.kwimgs.com/upic/2023/10/02/08/BMjAyMzEwMDIwODQ0MjNfMTc3ODc1NjEyMl8xMTQwODQ0NDM2NzdfMF8z_b_B979853f23985acb8927c9cee71c709a6.mp4
+#EXTINF:-1 tvg-name="生肖造神日记(17小时)" tvg-id="生肖造神日记(17小时)" group-title="🤪沙雕动画点播", 生肖造神日记(17小时)
+https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0200fg10000cqm6oufog65r70g4jj3g
+#EXTINF:-1 tvg-name="为弥补遗憾带老婆孩子逆袭人生(2小时)" tvg-id="为弥补遗憾带老婆孩子逆袭人生(2小时)" group-title="🤪沙雕动画点播", 为弥补遗憾带老婆孩子逆袭人生(2小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/16/14/BMjAyMzExMTYxNDU2NTJfMzc4OTA3MTE5MV8xMTcyODExNTkyMTlfMF8z_b_B0040256f5fb7b10163c712772d34544c.mp4
+#EXTINF:-1 tvg-name="对话万物.我能听到万物的心声(2小时)" tvg-id="对话万物.我能听到万物的心声(2小时)" group-title="🤪沙雕动画点播", 对话万物.我能听到万物的心声(2小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/20/12/BMjAyMzExMjAxMjUzMjBfMzc4OTA3MTE5MV8xMTc2MjQ3OTE3NjNfMF8z_b_Ba84422b53d7187ff60c865d509c4e8df.mp4
+#EXTINF:-1 tvg-name="阳光的仕途之路(3小时)" tvg-id="阳光的仕途之路(3小时)" group-title="🤪沙雕动画点播", 阳光的仕途之路(3小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/08/12/BMjAyMzExMDgxMjU5MjlfMzc4OTA3MTE5MV8xMTY3MjA3MjI5NzNfMF8z_b_B5691421822e10fef7bd36ade0d2a2afb.mp4
+#EXTINF:-1 tvg-name="和老婆一起重生.这次换我来追你(2小时)" tvg-id="和老婆一起重生.这次换我来追你(2小时)" group-title="🤪沙雕动画点播", 和老婆一起重生.这次换我来追你(2小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/06/11/BMjAyMzExMDYxMTAxMTBfMzc4OTA3MTE5MV8xMTY1ODU2MzYwNzdfMF8z_b_B28c735c491fa8560ed1ee6f2df3315ee.mp4
+#EXTINF:-1 tvg-name="带着超级系统徒步全球(2小时)" tvg-id="带着超级系统徒步全球(2小时)" group-title="🤪沙雕动画点播", 带着超级系统徒步全球(2小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/04/20/BMjAyMzExMDQyMDAzMTFfMzc4OTA3MTE5MV8xMTY0NjEyMDE0MTdfMF8z_b_Bbb96446530e21c9dba867f859b883ff9.mp4
+#EXTINF:-1 tvg-name="特种兵冷锋(2小时)" tvg-id="特种兵冷锋(2小时)" group-title="🤪沙雕动画点播", 特种兵冷锋(2小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/04/19/BMjAyMzExMDQxOTU5MzVfMzc4OTA3MTE5MV8xMTY0NjA3ODY4NTlfMF8z_b_B4e2ed4ce023d70b6d03bb53f789202f2.mp4
+#EXTINF:-1 tvg-name="万爆系统(3小时)" tvg-id="万爆系统(3小时)" group-title="🤪沙雕动画点播", 万爆系统(3小时)
+https://txmov2.a.kwimgs.com/upic/2024/01/29/00/BMjAyNDAxMjkwMDAxMjhfMTYzNTQ0MjQ1Nl8xMjMzODg3NDczNjNfMF8z_b_B0f98b43f6b5ad90081777d34f30c2897.mp4
+#EXTINF:-1 tvg-name="穿越抄歌的故事(5小时)" tvg-id="穿越抄歌的故事(5小时)" group-title="🤪沙雕动画点播", 穿越抄歌的故事(5小时)
+https://txmov2.a.kwimgs.com/upic/2023/12/31/00/BMjAyMzEyMzEwMDUzMjlfMzgwNzQ5MjA1Ml8xMjA5NTY4MDIzMzRfMF8z_b_B753303c564eb2f6fa6eddd8a38d6d34b.mp4
+#EXTINF:-1 tvg-name="天灾末世生存(1小时)" tvg-id="天灾末世生存(1小时)" group-title="🤪沙雕动画点播", 天灾末世生存(1小时)
+https://txmov2.a.kwimgs.com/upic/2024/01/07/09/BMjAyNDAxMDcwOTI2NTBfMzg1NjUwODk4OV8xMjE1Mjk2NDMxNTFfMF8z_b_Bd1efb047239a09b48f5904df0bde81c6.mp4
+#EXTINF:-1 tvg-name="都市化凡(4小时)" tvg-id="都市化凡(4小时)" group-title="🤪沙雕动画点播", 都市化凡(4小时)
+https://txmov2.a.kwimgs.com/upic/2024/02/17/18/BMjAyNDAyMTcxODIxNTFfMjIwNDQwNzg1NV8xMjUyMDU5NTAxNzhfMF8z_b_B404a351303bfd26959b752d4e559979a.mp4
+#EXTINF:-1 tvg-name="男主太废材被系统抛弃(5小时)" tvg-id="男主太废材被系统抛弃(5小时)" group-title="🤪沙雕动画点播", 男主太废材被系统抛弃(5小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/04/14/BMjAyMzExMDQxNDA2NTBfMzc4OTA3MTE5MV8xMTY0MjkxNzI4NDZfMF8z_b_B2a9f39a02a37e872eafa8a2d0d32a961.mp4
+#EXTINF:-1 tvg-name="我在修仙界卖艺(1小时)" tvg-id="我在修仙界卖艺(1小时)" group-title="🤪沙雕动画点播", 我在修仙界卖艺(1小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/20/12/BMjAyMzExMjAxMjU2MzFfMzc4OTA3MTE5MV8xMTc2MjUwMDI0MDZfMF8z_b_B1c26109910ad0534bf52f65c851cf73a.mp4
+#EXTINF:-1 tvg-name="女娲传承种植果园(5小时)" tvg-id="女娲传承种植果园(5小时)" group-title="🤪沙雕动画点播", 女娲传承种植果园(5小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/22/16/BMjAyMzExMjIxNjU5NDBfMzc4OTA3MTE5MV8xMTc3ODQ1ODIyNDJfMF8z_b_B68b207e82e1341054229a301856b0f19.mp4
+#EXTINF:-1 tvg-name="沙雕网游(4小时)" tvg-id="沙雕网游(4小时)" group-title="🤪沙雕动画点播", 沙雕网游(4小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/20/17/BMjAyMzExMjAxNzIyNDdfMzc4OTA3MTE5MV8xMTc2NDAzOTgwMzNfMF8z_b_B77527534a91c8f6666e6bf4710c588b6.mp4
+#EXTINF:-1 tvg-name="诅咒天逆向修仙(3小时)" tvg-id="诅咒天逆向修仙(3小时)" group-title="🤪沙雕动画点播", 诅咒天逆向修仙(3小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/20/17/BMjAyMzExMjAxNzI2NTJfMzc4OTA3MTE5MV8xMTc2NDA2Nzg0MDRfMF8z_b_B96f2ffb609ccd6909241503c49f6d286.mp4
+#EXTINF:-1 tvg-name="冥界小书生(7小时)" tvg-id="冥界小书生(7小时)" group-title="🤪沙雕动画点播", 冥界小书生(7小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/20/14/BMjAyMzExMjAxNDEwNDRfMzc4OTA3MTE5MV8xMTc2MjkzNzE2MTBfMF8z_b_B9149312d6303cd79733200b545308bf3.mp4
+#EXTINF:-1 tvg-name="重生之养子逆袭(1小时)" tvg-id="重生之养子逆袭(1小时)" group-title="🤪沙雕动画点播", 重生之养子逆袭(1小时)
+https://txmov2.a.kwimgs.com/upic/2023/11/20/13/BMjAyMzExMjAxMzI3MTRfMzc4OTA3MTE5MV8xMTc2MjY5MzM3MDlfMF8z_b_Bf6eb69ea25e4769f7ad34e2a5bb1d1aa.mp4
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="数字", 少儿动画
+http://114.254.185.98:8099/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="数字", 少儿动画
+http://120.238.84.45:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="动漫《缘之空》穹妹" group-title="中文-动漫少儿", 动漫《缘之空》穹妹
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/11/pw/5m/9o/7767714a57434242a353b23d4a3ef841.m3u8?
 #EXTINF:-1 tvg-name="對風俗嬢說教同時強迫口交完全勃起被店家列入黑名單的鬼畜親父投稿動畫" group-title="中文-动漫少儿", 對風俗嬢說教同時強迫口交完全勃起被店家列入黑名單的鬼畜親父投稿動畫
 https://vip2.slbfsl.com/20230410/S3l0JdBA/index.m3u8
-#EXTINF:-1 tvg-name="JiaJia Cartoon" tvg-id="JiaJiaCartoon.cn@SD" tvg-logo="https://i.imgur.com/0TLG3Xk.png" group-title="Kids", JiaJia Cartoon
-http://49.113.179.174:4022/udp/238.125.0.158:5140
-#EXTINF:-1 tvg-name="Toonmax TV" tvg-id="ToonmaxTV.cn@SD" tvg-logo="https://i.imgur.com/Uhwv1il.png" group-title="Kids", Toonmax TV
-http://49.113.179.174:4022/udp/238.125.4.28:5140
+#EXTINF:-1 tvg-name="天才大熊猫啊" tvg-logo="https://epg.112114.xyz/logo/天才大熊猫啊.png" group-title="🤣沙雕动画直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 天才大熊猫啊
+http://live.nctv.top/douyu1.php?id=10646699
+#EXTINF:-1 tvg-name="尼克兒童頻道" tvg-id="尼克兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童卡通", 尼克兒童頻道
+http://114.32.153.6:5051/4gtv-live105/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="67" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="数字", 卡酷少儿
+http://223.110.241.149:6610/gitv/live1/G_KAKU/G_KAKU/1.m3u8
+#EXTINF:-1 tvg-name="DreamWorks" tvg-logo="https://epg.112114.xyz/logo/DreamWorks梦工厂动画.png" group-title="mytv", DreamWorks梦工厂动画
+https://cdn12.178.indevs.in/163189/dreamworks
+#EXTINF:-1 tvg-name="精選動漫台" tvg-logo="https://epg.112114.xyz/logo/精选动漫台.png" group-title="mytv", 精选动漫台
+https://cdn12.178.indevs.in/163189/jxdmt
 #EXTINF:-1 tvg-name="华数少儿动画" tvg-id="华数少儿动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华数少儿动画.png" group-title="影视频道", 华数少儿动画
 http://222.128.26.62:4001/rtp/239.3.1.199:9000
 #EXTINF:-1 tvg-name="华数少儿动画" tvg-id="华数少儿动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华数少儿动画.png" group-title="影视频道", 华数少儿动画
@@ -1183,22 +1191,10 @@ http://182.135.66.163:18888/rtp/239.94.1.141:5140
 http://183.57.251.128:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="少儿动画" tvg-id="少儿动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/少儿动画.png" group-title="其他频道", 少儿动画
 http://112.92.128.71:9003/hls/61/index.m3u8
-#EXTINF:-1 tvg-name="【第一次限定1980年】我杯萝莉巨乳美妻❤️真人情色卡通状态配动漫声音❤️第一次乳头高潮连续Ikase❤️半年第一次用大屁股堆肉棒" group-title="WhosTV", 【第一次限定1980年】我杯萝莉巨乳美妻❤️真人情色卡通状态配动漫声音❤️第一次乳头高潮连续Ikase❤️半年第一次用大屁股堆肉棒
-https://s3.aaaaa.io/8763d2fe2cdd6683b3e345133e08394f/8763d2fe2cdd6683b3e345133e08394f.m3u8
-#EXTINF:-1 tvg-name="DASS-549 我喜欢有丰满臀部和身材的女人。矮个儿童贞与巨大的女姐的巨型性爱 瀬田一花" group-title="WhosTV", DASS-549 我喜欢有丰满臀部和身材的女人。矮个儿童贞与巨大的女姐的巨型性爱 瀬田一花
-https://s3.aaaaa.io/161b661fab6b9415cd57c9808f72ab4b/161b661fab6b9415cd57c9808f72ab4b.m3u8
-#EXTINF:-1 tvg-name="SQTE-545 我喜欢玩具和鸡巴（心）我一直用我敏感的身体高潮，我一直用我的动漫声音呻吟，高岛爱" group-title="WhosTV", SQTE-545 我喜欢玩具和鸡巴（心）我一直用我敏感的身体高潮，我一直用我的动漫声音呻吟，高岛爱
-https://s3.aaaaa.io/ddc57f5e38536ad810a954833dd0aa43/ddc57f5e38536ad810a954833dd0aa43.m3u8
-#EXTINF:-1 tvg-name="FC2-PPV-2694503儿童英语会话学校讲师FC2-PPV-2694503" group-title="WhosTV", FC2-PPV-2694503儿童英语会话学校讲师FC2-PPV-2694503
-https://s3.aaaaa.io/a5386b5b816b02b81847cdef375fda61/a5386b5b816b02b81847cdef375fda61.m3u8
-#EXTINF:-1 tvg-name="喜欢巴厘岛的博多美女♥“放进去感觉很好”♥美丽的乳房漂亮的屁股美女Manko 360°美女♥[注意]如果你和这个孩子一起拔出来，你可能无法和其他人一起拔出来儿童级别【个人拍摄】【外观】【附评论福利】" group-title="WhosTV", 喜欢巴厘岛的博多美女♥“放进去感觉很好”♥美丽的乳房漂亮的屁股美女Manko 360°美女♥[注意]如果你和这个孩子一起拔出来，你可能无法和其他人一起拔出来儿童级别【个人拍摄】【外观】【附评论福利】
-https://s3.aaaaa.io/eb64ad96cdc0a53ccd4fe3eeaf3659c5/eb64ad96cdc0a53ccd4fe3eeaf3659c5.m3u8
-#EXTINF:-1 tvg-name="CAWD-763 明明23岁了，还长了张娃娃脸，结果搞得我要穿那种比全裸还害羞的儿童泳装来当模特儿 日向夏" group-title="WhosTV", CAWD-763 明明23岁了，还长了张娃娃脸，结果搞得我要穿那种比全裸还害羞的儿童泳装来当模特儿 日向夏
-https://s3.aaaaa.io/abc142b7aa949809860798aabd523e16/abc142b7aa949809860798aabd523e16.m3u8
-#EXTINF:-1 tvg-name="SDMF-012 我是儿童房间的大叔 需要母亲帮助我解决性欲 平冈里枝子" group-title="WhosTV", SDMF-012 我是儿童房间的大叔 需要母亲帮助我解决性欲 平冈里枝子
-https://s3.aaaaa.io/0797848f0fac1f3cf38077a352d4d17c/0797848f0fac1f3cf38077a352d4d17c.m3u8
-#EXTINF:-1 tvg-name="IPZZ-301他想和一个在当地便利商店做深夜兼职的女孩成为朋友，所以他成为了跟踪狂。父母之家儿童房内被强奸佐佐木咲" group-title="WhosTV", IPZZ-301他想和一个在当地便利商店做深夜兼职的女孩成为朋友，所以他成为了跟踪狂。父母之家儿童房内被强奸佐佐木咲
-https://s3.aaaaa.io/d27fd412264c922d5f047223d426bf77/d27fd412264c922d5f047223d426bf77.m3u8
+#EXTINF:-1 tvg-name="JiaJia Cartoon" tvg-id="JiaJiaCartoon.cn@SD" tvg-logo="https://i.imgur.com/0TLG3Xk.png" group-title="Kids", JiaJia Cartoon
+http://49.113.179.174:4022/udp/238.125.0.158:5140
+#EXTINF:-1 tvg-name="Toonmax TV" tvg-id="ToonmaxTV.cn@SD" tvg-logo="https://i.imgur.com/Uhwv1il.png" group-title="Kids", Toonmax TV
+http://49.113.179.174:4022/udp/238.125.4.28:5140
 #EXTINF:-1 tvg-name="EBS-KIDS" tvg-logo="https://logo.catvod.com/EBS-KIDS.png" group-title="🇰🇷韩国", EBS-KIDS
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="动画1168" tvg-logo="https://logo.catvod.com/动画1168.png" group-title="🇷🇺俄罗斯", 动画1168

@@ -9,10 +9,6 @@ https://hls-gateway.vpstv.net/streams/708857.m3u8
 http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-GOLF-CQ
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="央视频道", 高尔夫网球
 http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视频道", 央视高网
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视频道", 央视高网
-http://121.230.171.192:8000/rtp/239.49.1.62:6000
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="央视频道", 高尔夫网球
 http://113.119.25.7:58888/udp/239.253.43.12:5146
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="央视频道", 高尔夫网球
@@ -37,82 +33,264 @@ http://106.116.242.184:9999/rtp/239.254.201.223:7252
 http://bztv.tvbus.cc:8081/cdnlive/gefwq.m3u8
 #EXTINF:-1 tvg-name="爱电竞" tvg-id="爱电竞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱电竞.png" group-title="🎮游戏频道", 爱电竞
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="SPORTS" tvg-logo="SPORTS.png" group-title="卫视", SPORTS
+http://117.114.153.26:8182/hls/TV00000000000000000070@HHZT.m3u8
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="SPORTS" tvg-logo="SPORTS.png" group-title="卫视", SPORTS
+http://117.114.153.26:8182/hls/TV00000000000000000111@HHZT.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-id="央视高网" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央视高网.png" group-title="央视频道", CCTV-央视高网
 http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-id="央视高网" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="央视频道", CCTV-央视高网
-http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 #EXTINF:-1 tvg-name="爱赛车" tvg-id="爱赛车" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱赛车.png" group-title="IHOT频道", iHOT 爱赛车
 http://111.22.153.159:35455/itv/2000000004000000055.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="爱赛车" tvg-id="爱赛车" tvg-logo="https://epg.iill.top/logo/iHOT爱赛车.png" group-title="IHOT频道", iHOT 爱赛车
-http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-id="爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="IHOT频道", iHOT爱赛车
-http://gslbserv.itv.cmvideo.cn/6000000006000240630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="Trace Sports" tvg-id="988" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道", Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="Trace Sports" tvg-id="988" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际频道", TraceSports
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv077
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="http://cc.118138.xyz/tvlogo/CCTV高尔夫网球.png" group-title="央视", CCTV高尔夫网球
-http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="Freesports" tvg-id="Freesports" group-title="GPT-英国", Freesports
-https://smt.goiptv.us.ci/freesports_antik/playlist.m3u8
-#EXTINF:-1 tvg-name="Freesports" tvg-id="Freesports" group-title="GPT-英国", Freesports
-https://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="数字频道", 哒啵电竞
-http://home.wwang.pw:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="数字频道", 哒啵电竞
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EyKHPEcCpKH4LmXqAQnvIbg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 电竞天堂
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="PS5XSS农村电竞房日常" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161050000021094185vwke9a.jpg" group-title="沉浸体验", PS5XSS农村电竞房日常
 https://live.ottiptv.cc/bilibili/21094185
 #EXTINF:-1 tvg-name="你完全可以拥有你想要的新生活-显化" tvg-logo="https://i0.hdslb.com/bfs/live/new_room_cover/edb460f2dbf04c7f2a93cf84812e75cb2e5bf189.jpg" group-title="生活杂谈", 你完全可以拥有你想要的新生活-显化
 https://live.ottiptv.cc/bilibili/1814037058
 #EXTINF:-1 tvg-name="作业是永远画不完的（悲" tvg-logo="https://i0.hdslb.com/bfs/live/new_room_cover/db2d391c2e9b7ba228cacf1a300f3d4f2512c087.jpg" group-title="手工绘画", 作业是永远画不完的（悲
 https://live.ottiptv.cc/bilibili/9442394
-#EXTINF:-1 tvg-name="JSPORTS1" tvg-id="JSPORTS1" tvg-logo="https://tv-res.pages.dev/logo/JSPORTS1.png" group-title="•日本", J SPORTS 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="JSPORTS1" tvg-id="JSPORTS1" tvg-logo="https://tv-res.pages.dev/logo/JSPORTS1.png" group-title="•日本", JSPORTS1
-https://stream1.freetv.fun/jsports-1-1.m3u8
-#EXTINF:-1 tvg-name="JSPORTS1" tvg-id="JSPORTS1" tvg-logo="https://epg.112114.xyz/logo/JSPORTS1.png" group-title="•日本" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", JSPORTS1
-http://iptv.4666888.xyz/iptv2A.php?id=6
-#EXTINF:-1 tvg-name="JSPORTS2" tvg-id="JSPORTS2" tvg-logo="https://tv-res.pages.dev/logo/JSPORTS2.png" group-title="•日本", J SPORTS 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="JSPORTS2" tvg-id="JSPORTS2" tvg-logo="https://tv-res.pages.dev/logo/JSPORTS2.png" group-title="•日本", JSPORTS2
-https://stream1.freetv.fun/jsports-2-2.m3u8
-#EXTINF:-1 tvg-name="JSPORTS3" tvg-id="JSPORTS3" tvg-logo="https://tv-res.pages.dev/logo/JSPORTS3.png" group-title="•日本", J SPORTS 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="JSPORTS4" tvg-id="JSPORTS4" tvg-logo="https://tv-res.pages.dev/logo/JSPORTS4.png" group-title="•日本", J Sports 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="Bahrain Sports 2" group-title="•杂货", Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Midpen Media Center Youth Education and Sports Channel 28" group-title="•杂货", Midpen Media Center Youth Education and Sports Channel 28
-https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Trace Sports Stars" group-title="•杂货", Trace Sports Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-id="iHOT爱赛车" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱赛车.png" group-title="IHOT", iHOT爱赛车
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="睛彩青少" tvg-id="68" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiQingShao.png" group-title="数字频道" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226175/10000100000000060000000001464349_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="68" zz-definition="HD" zz-raw-name="睛彩羽毛球", 睛彩青少
+#EXTINF:-1 tvg-name="电竞天堂" tvg-logo="http://49.233.180.193:5678/data/icon/电竞天堂.png" group-title="央卫·备用", 电竞天堂
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="电影_赛车" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="电影频道", 电影_赛车
+http://115.190.124.74/php/huya.php?id=11279247&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="话龙电竞" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 话龙电竞
+http://115.190.124.74/php/douyu.php?id=9957571&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="、午饭有鱼有虾" tvg-logo="https://huyaimg.msstatic.com/avatar/1034/65/aafc6ea74863b9c643f1ca066f1ef1_180_135.jpg?1769057599" group-title="原创", 、午饭有鱼有虾
+https://live.ottiptv.cc/huya/31091335
+#EXTINF:-1 tvg-name="全糖艳麦zoo" tvg-logo="https://huyaimg.msstatic.com/avatar/1064/18/945fc867f7b6dad2be7f132ae69451_180_135.jpg?1772089678" group-title="原创", 全糖艳麦zoo
+https://live.ottiptv.cc/huya/31183563
+#EXTINF:-1 tvg-name="子宽放" tvg-logo="https://huyaimg.msstatic.com/avatar/1092/24/d713c88119ab980d67f1242af3c366_180_135.jpg?1749208002" group-title="原创", 子宽放
+https://live.ottiptv.cc/huya/30362138
+#EXTINF:-1 tvg-name="古咕咕" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/a6/ce57254a5973608596194aff9dcf15_180_135.jpg?1717728145" group-title="一起看", 古咕咕
+https://live.ottiptv.cc/huya/29465875
+#EXTINF:-1 tvg-name="一川星悬-" tvg-logo="https://huyaimg.msstatic.com/avatar/1078/b1/2f13ab842010ed437e5dc4422f0982_180_135.jpg?1705565239" group-title="一起看", 一川星悬-
+https://live.ottiptv.cc/huya/29465870
+#EXTINF:-1 tvg-name="爽儿影视" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/14/dcd493e78dcf1649f5d9f9975532e8_180_135.jpg?1779198505" group-title="原创", 爽儿影视
+https://live.ottiptv.cc/huya/31275822
+#EXTINF:-1 tvg-name="李一彤彤" tvg-logo="https://huyaimg.msstatic.com/avatar/1015/88/b19531f1cd6cac00b816a844ca2eb5_180_135.jpg?1774941219" group-title="原创", 李一彤彤
+https://live.ottiptv.cc/huya/31209506
+#EXTINF:-1 tvg-name="柯冉冉" tvg-logo="http://huyaimg.msstatic.com/avatar/1087/94/d718f164cbdab50db6d8c07d594a57_180_135.jpg?1449487171" group-title="一起看", 柯冉冉
+https://live.ottiptv.cc/huya/11352874
+#EXTINF:-1 tvg-name="我是詹密" tvg-logo="http://huyaimg.msstatic.com/avatar/1041/7d/9207d1a3ef105d6a498e4543887427_180_135.jpg" group-title="一起看", 我是詹密
+https://live.ottiptv.cc/huya/11342439
+#EXTINF:-1 tvg-name="七七爱剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/96/cb848d2191146016f199b329a4d85b_180_135.jpg?1770420116" group-title="原创", 七七爱剧
+https://live.ottiptv.cc/huya/31147360
+#EXTINF:-1 tvg-name="入梦影视" tvg-logo="https://huyaimg.msstatic.com/avatar/1059/20/0aa07bd1ff565ba21e9eccf14644eb_180_135.jpg?1767411734" group-title="原创", 入梦影视
+https://live.ottiptv.cc/huya/31121607
+#EXTINF:-1 tvg-name="细品红楼" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/2f/5fe4fdd7b08d8f10fd9d8c7e84e865_180_135.jpg?1721977518" group-title="原创", 细品红楼
+https://live.ottiptv.cc/huya/30080181
+#EXTINF:-1 tvg-name="李小龙-中国龙" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/4d/c48780b399b8370b76b7f63489f164_180_135.jpg?1768286181" group-title="原创", 李小龙-中国龙
+https://live.ottiptv.cc/huya/30631748
+#EXTINF:-1 tvg-name="我要在你头上暴扣" tvg-logo="https://huyaimg.msstatic.com/avatar/1020/25/d7f1cac49929155f84ebd35fa8153d_180_135.jpg?1565864168" group-title="一起看", 我要在你头上暴扣
+https://live.ottiptv.cc/huya/19524135
+#EXTINF:-1 tvg-name="亮哥讲电影" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/28/eb10b25db1f1a70fcb79da1403ab72_180_135.jpg?1556020041" group-title="原创", 亮哥讲电影
+https://live.ottiptv.cc/huya/16144175
+#EXTINF:-1 tvg-name="春江花朝吹香夢" tvg-logo="https://huyaimg.msstatic.com/avatar/1095/ee/20efb83981c3bcfcf15cf755514bdf_180_135.jpg?1646813525" group-title="一起看", 春江花朝吹香夢
+https://live.ottiptv.cc/huya/26355791
+#EXTINF:-1 tvg-name="Mr-傀儡" tvg-logo="http://huyaimg.msstatic.com/avatar/1009/41/62b9177d3e1bbf1c4e87eded2c216a_180_135.jpg?1448362100" group-title="一起看", Mr-傀儡
+https://live.ottiptv.cc/huya/11352936
+#EXTINF:-1 tvg-name="西部影坛" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="原创", 西部影坛
+https://live.ottiptv.cc/huya/30311497
+#EXTINF:-1 tvg-name="回忆大马甲" tvg-logo="https://huyaimg.msstatic.com/avatar/1069/e6/d5fc9f1a3a7f7b798a3f05b5d6278f_180_135.jpg?1603792146" group-title="一起看", 回忆大马甲
+https://live.ottiptv.cc/huya/21241816
+#EXTINF:-1 tvg-name="西西姐姐" tvg-logo="https://huyaimg.msstatic.com/avatar/1020/b9/bea3cf116461d108609cf0fe6fd627_180_135.jpg?1716123791" group-title="原创", 西西姐姐
+https://live.ottiptv.cc/huya/29581116
+#EXTINF:-1 tvg-name="糊了的胡萝卜" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/c9/9d4901c202345f02624a0bf197f4c5_180_135.jpg?1646547610" group-title="原创", 糊了的胡萝卜
+https://live.ottiptv.cc/huya/25725150
+#EXTINF:-1 tvg-name="老问我东西南北" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/77/3bf1bb9032d601d9857f47aa9505f6_180_135.jpg?1723717341" group-title="一起看", 老问我东西南北
+https://live.ottiptv.cc/huya/30080244
+#EXTINF:-1 tvg-name="鸽宝小改改" tvg-logo="https://huyaimg.msstatic.com/avatar/1001/f7/f619d82184aaee854f1bd8912d7927_180_135.jpg?1542942334" group-title="一起看", 鸽宝小改改
+https://live.ottiptv.cc/huya/11601970
+#EXTINF:-1 tvg-name="前无古人147" tvg-logo="http://huyaimg.msstatic.com/avatar/1072/bf/4e1d463460d7c817654f15afebea48_180_135.jpg" group-title="一起看", 前无古人147
+https://live.ottiptv.cc/huya/11352901
+#EXTINF:-1 tvg-name="战士吹沙埃" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/0b/4a880dbd549aff19603c8689f33a5c_180_135.jpg?1730725406" group-title="原创", 战士吹沙埃
+https://live.ottiptv.cc/huya/30344039
+#EXTINF:-1 tvg-name="我是周粤驰" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/47/c2f18aa9b3e3bef6d544692fc5c0b2_180_135.jpg?1609127632" group-title="一起看", 我是周粤驰
+https://live.ottiptv.cc/huya/23864973
+#EXTINF:-1 tvg-name="布谷bugu" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/27/aebe514d430be85a0c9f17744ba779_180_135.jpg?1721374541" group-title="一起看", 布谷bugu
+https://live.ottiptv.cc/huya/29982671
+#EXTINF:-1 tvg-name="莫欺少年穷哇" tvg-logo="https://huyaimg.msstatic.com/avatar/1070/e7/08f6ac61d3e4c539b3a4eaf168a1b7_180_135.jpg?1584417762" group-title="一起看", 莫欺少年穷哇
+https://live.ottiptv.cc/huya/20985845
+#EXTINF:-1 tvg-name="SMG最强大脑" tvg-logo="http://huyaimg.msstatic.com/avatar/1027/86/3816fff1eef0e4c346fc840b627740_180_135.jpg" group-title="一起看", SMG最强大脑
+https://live.ottiptv.cc/huya/11352914
+#EXTINF:-1 tvg-name="视死思项羽" tvg-logo="https://huyaimg.msstatic.com/avatar/1083/8d/af10ba9044227484170818bf0059fa_180_135.jpg?1721207327" group-title="一起看", 视死思项羽
+https://live.ottiptv.cc/huya/29982655
+#EXTINF:-1 tvg-name="我叫山鸡哥" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/8e/f15bdae72ecdd23bc308c141aa0e18_180_135.jpg?1606791820" group-title="一起看", 我叫山鸡哥
+https://live.ottiptv.cc/huya/23734246
+#EXTINF:-1 tvg-name="短剧轻松自在" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/ec/4944d18c26cdc70d4f1b80ac9e00d6_180_135.jpg?1572776051" group-title="原创", 短剧轻松自在
+https://live.ottiptv.cc/huya/31002878
+#EXTINF:-1 tvg-name="小虎牙-UJvLCU73jW" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/ff/59f1ae401bf269971d2f5584f31cf9_180_135.jpg?1713426907" group-title="一起看", 小虎牙-UJvLCU73jW
+https://live.ottiptv.cc/huya/26355828
+#EXTINF:-1 tvg-name="苦瓜老姨" tvg-logo="http://huyaimg.msstatic.com/avatar/1001/72/51f15b1a3b41d012c63f572c843b0a_180_135.jpg?1447751187" group-title="一起看", 苦瓜老姨
+https://live.ottiptv.cc/huya/11342429
+#EXTINF:-1 tvg-name="排球少年砰砰砰" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/9a/609ad1357204c837bb624406a492bf_180_135.jpg?1721816070" group-title="一起看", 排球少年砰砰砰
+https://live.ottiptv.cc/huya/30080167
+#EXTINF:-1 tvg-name="后宫生存攻略" tvg-logo="https://huyaimg.msstatic.com/avatar/1026/e1/9aa5204168060b3f78ff10d2e10753_180_135.jpg?1721978662" group-title="一起看", 后宫生存攻略
+https://live.ottiptv.cc/huya/30080183
+#EXTINF:-1 tvg-name="小爱酱" tvg-logo="http://huyaimg.msstatic.com/avatar/1087/dc/6830f7b571924b0039cb898f197b7c_180_135.jpg?0" group-title="一起看", 小爱酱
+https://live.ottiptv.cc/huya/11352922
+#EXTINF:-1 tvg-name="是红鲤鱼绿鲤鱼与驴" tvg-logo="https://huyaimg.msstatic.com/avatar/1046/1e/e99c21e1f185b9c0cda805a0d3a498_180_135.jpg?1612428056" group-title="一起看", 是红鲤鱼绿鲤鱼与驴
+https://live.ottiptv.cc/huya/21059561
+#EXTINF:-1 tvg-name="华视-警匪大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/e0/a836f1c02db093f693c23cc43001e5_180_135.jpg?1601351374" group-title="一起看", 华视-警匪大片
+https://live.ottiptv.cc/huya/23358421
+#EXTINF:-1 tvg-name="4K花园" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/ea/3599bfddbf2a5e88d7c8b255502f1b_180_135.jpg?1588753386" group-title="一起看", 4K花园
+https://live.ottiptv.cc/huya/22188414
+#EXTINF:-1 tvg-name="贝爷" tvg-id="贝爷" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/bd/64e60760ed0b0ae31265d05ba405f1_180_135.jpg?1602657657" group-title="一起看", 贝爷
+https://live.ottiptv.cc/huya/20969143
+#EXTINF:-1 tvg-name="贝爷" tvg-id="贝爷" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/bd/64e60760ed0b0ae31265d05ba405f1_180_135.jpg?1602657657" group-title="一起看", 贝爷
+https://tv1288.xyz/1002.php?id=20969143
+#EXTINF:-1 tvg-name="梦儿" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/c8/931b5cb80c875c9c80f12229e1890e_180_135.jpg?1581172223" group-title="一起看", 梦儿
+https://live.ottiptv.cc/huya/20969102
+#EXTINF:-1 tvg-name="带巫婆的黑猫" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/81/3388a90409ca6f4280af115a6821b6_180_135.jpg?1710903082" group-title="一起看", 带巫婆的黑猫
+https://live.ottiptv.cc/huya/29465890
+#EXTINF:-1 tvg-name="笙歌" tvg-logo="http://huyaimg.msstatic.com/avatar/1091/2d/7bb2f158c9d3f0896f6ed313afc638_180_135.jpg?1456304717" group-title="一起看", 笙歌
+https://live.ottiptv.cc/huya/11352965
+#EXTINF:-1 tvg-name="为所欲为的微笑" tvg-logo="https://huyaimg.msstatic.com/avatar/1027/9c/1e88f15dd4b64cce5b937eff3bc109_180_135.jpg?1606717422" group-title="一起看", 为所欲为的微笑
+https://live.ottiptv.cc/huya/23728665
+#EXTINF:-1 tvg-name="yoo" tvg-logo="http://huyaimg.msstatic.com/avatar/1059/89/54f8f985e5fce58ab7253c340ff19b_180_135.jpg?1498529740" group-title="一起看", yoo
+https://live.ottiptv.cc/huya/11352876
+#EXTINF:-1 tvg-name="西班牙巴斯光年" tvg-logo="https://huyaimg.msstatic.com/avatar/1062/14/b9246b9ecace07dc9ef15b54145fb0_180_135.jpg?1724122314" group-title="一起看", 西班牙巴斯光年
+https://live.ottiptv.cc/huya/30080256
+#EXTINF:-1 tvg-name="狼肉-恐怖游戏" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/a2/f1086211b43eec48e4ef6a6f6b0145_180_135.jpg?1741261724" group-title="原创", 狼肉-恐怖游戏
+https://live.ottiptv.cc/huya/27949294
+#EXTINF:-1 tvg-name="岩石上的树" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/e9/2b08f9e77c66bda06d373f1438f702_180_135.jpg?1721978347" group-title="一起看", 岩石上的树
+https://live.ottiptv.cc/huya/30080222
+#EXTINF:-1 tvg-name="鬼畜娘" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/b6/aa27449a060835d70f14457f35e7df_180_135.jpg?1602840534" group-title="一起看", 鬼畜娘
+https://live.ottiptv.cc/huya/21241803
+#EXTINF:-1 tvg-name="伍德雅特" tvg-logo="https://huyaimg.msstatic.com/avatar/1099/b5/5c83f1bf8aa9cb158c704a32ef0e8c_180_135.jpg?1583119317" group-title="一起看", 伍德雅特
+https://live.ottiptv.cc/huya/20985805
+#EXTINF:-1 tvg-name="上元石" tvg-logo="https://huyaimg.msstatic.com/avatar/1073/ac/5fff1e72a5346d3457c46a67a47d70_180_135.jpg?1630481183" group-title="一起看", 上元石
+https://live.ottiptv.cc/huya/20985799
+#EXTINF:-1 tvg-name="光光电影" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/0c/ac3c60f10804956c53c4406d64e5c0_180_135.jpg?1698032717" group-title="原创", 光光电影
+https://live.ottiptv.cc/huya/29399457
+#EXTINF:-1 tvg-name="小丰爱追剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/10/1cdc057690ef4664429bdc65908f1a_180_135.jpg?1733915448" group-title="原创", 小丰爱追剧
+https://live.ottiptv.cc/huya/30439802
+#EXTINF:-1 tvg-name="电竞也要专用机" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/fb/716d9dae8f12f2b142ee18d2e24703_180_135.jpg?1679644579" group-title="一起看", 电竞也要专用机
+https://live.ottiptv.cc/huya/26355816
+#EXTINF:-1 tvg-name="阿夹" tvg-logo="https://huyaimg.msstatic.com/avatar/1002/5d/c71ae697f1ec490e9679a0997a5901_180_135.jpg?1604503633" group-title="一起看", 阿夹
+https://live.ottiptv.cc/huya/20985783
+#EXTINF:-1 tvg-name="小军迷" tvg-logo="http://huyaimg.msstatic.com/avatar/1052/fd/2b7cca54c637f425732ee4b7f1d75f_180_135.jpg?1453270484" group-title="一起看", 小军迷
+https://live.ottiptv.cc/huya/11352909
+#EXTINF:-1 tvg-name="辣条好吃嘛" tvg-logo="http://huyaimg.msstatic.com/avatar/1080/1e/c9ce888ae00d474ac63ecfecc520f1_180_135.jpg?1489482322" group-title="一起看", 辣条好吃嘛
+https://live.ottiptv.cc/huya/11601969
+#EXTINF:-1 tvg-name="蓬蓬带你看剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/2d/b37764da6a9a8779b0f5f1d48dc568_180_135.jpg?1732785418" group-title="原创", 蓬蓬带你看剧
+https://live.ottiptv.cc/huya/30309986
+#EXTINF:-1 tvg-name="威廉说" tvg-logo="https://huyaimg.msstatic.com/avatar/1052/84/f18ecc215ed8797debe97cd1ce1378_180_135.jpg?1623825779" group-title="原创", 威廉说
+https://live.ottiptv.cc/huya/24969192
+#EXTINF:-1 tvg-name="自由进行时" tvg-logo="https://huyaimg.msstatic.com/avatar/1064/f1/c0c2cc444aa307eb98e8cda4f40163_180_135.jpg?1647359687" group-title="原创", 自由进行时
+https://live.ottiptv.cc/huya/31003157
+#EXTINF:-1 tvg-name="52岁翼大利艺术" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/0d/912f8df1170a7b1fd08529463a6799_180_135.jpg?1718967555" group-title="一起看", 52岁翼大利艺术
+https://live.ottiptv.cc/huya/29982620
+#EXTINF:-1 tvg-name="追娘娘超会看" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/bd/f8813f1e5931dbf40537a6987476c7_180_135.jpg?1721980099" group-title="一起看", 追娘娘超会看
+https://live.ottiptv.cc/huya/30080184
+#EXTINF:-1 tvg-name="近藤喜彦" tvg-id="近藤喜彦" tvg-logo="https://huyaimg.msstatic.com/avatar/1050/f1/769cab95d220b6b26335464e0e73ed_180_135.jpg?1604504075" group-title="一起看", 近藤喜彦
+https://live.ottiptv.cc/huya/20985787
+#EXTINF:-1 tvg-name="近藤喜彦" tvg-id="近藤喜彦" tvg-logo="https://huyaimg.msstatic.com/avatar/1050/f1/769cab95d220b6b26335464e0e73ed_180_135.jpg?1604504075" group-title="一起看", 近藤喜彦
+http://81.70.10.196:35455/huya/20985787
+#EXTINF:-1 tvg-name="若雨随影" tvg-logo="https://huyaimg.msstatic.com/avatar/1099/9e/8eb2b93ad05e0b51612709fb54f1cd_180_135.jpg?1695202450" group-title="原创", 若雨随影
+https://live.ottiptv.cc/huya/29340713
+#EXTINF:-1 tvg-name="小金很大" tvg-logo="https://huyaimg.msstatic.com/avatar/1002/82/0058ea0f1eb623bb42c768ca79e54f_180_135.jpg?1625644474" group-title="原创", 小金很大
+https://live.ottiptv.cc/huya/30307351
+#EXTINF:-1 tvg-name="夏日么么茶" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/07/74de55853f74ebd361d828f11dfa57_180_135.jpg?1686297602" group-title="原创", 夏日么么茶
+https://live.ottiptv.cc/huya/17455040
+#EXTINF:-1 tvg-name="千与千寻的思考" tvg-logo="https://huyaimg.msstatic.com/avatar/1033/46/c256d706feaf1aa30c6cc97cd02b37_180_135.jpg?1618468751" group-title="一起看", 千与千寻的思考
+https://live.ottiptv.cc/huya/21059592
+#EXTINF:-1 tvg-name="大墨电影" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/c1/a64efaeeb398f1dceb115a76b7c31d_180_135.jpg?1699255661" group-title="原创", 大墨电影
+https://live.ottiptv.cc/huya/29458834
+#EXTINF:-1 tvg-name="探险小分队" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/f1/26073bb95ed4fe4800529f62673f92_180_135.jpg?1584678254" group-title="一起看", 探险小分队
+https://live.ottiptv.cc/huya/20985862
+#EXTINF:-1 tvg-name="我只是个好人" tvg-logo="https://huyaimg.msstatic.com/avatar/1061/92/77155200bd5aa9853a17297fdf105f_180_135.jpg?1606717068" group-title="一起看", 我只是个好人
+https://live.ottiptv.cc/huya/23728674
+#EXTINF:-1 tvg-name="云华新知" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/74/60074987ab8e29fbd8f1163bdbee4b_180_135.jpg?1604504170" group-title="一起看", 云华新知
+https://live.ottiptv.cc/huya/20969129
+#EXTINF:-1 tvg-name="阿杰cxj" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/09/788e3c1aaa2ad1fdd08f164daacc67_180_135.jpg?1722566411" group-title="一起看", 阿杰cxj
+https://live.ottiptv.cc/huya/30080234
+#EXTINF:-1 tvg-name="河水汝相对" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/b6/ab62f77c707d8cefe14f1d64cac394_180_135.jpg?1718270638" group-title="一起看", 河水汝相对
+https://live.ottiptv.cc/huya/29982610
+#EXTINF:-1 tvg-name="貔柴带你看" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/06/0240029d12e53c164f1d334d7650f4_180_135.jpg?1721976478" group-title="一起看", 貔柴带你看
+https://live.ottiptv.cc/huya/30080179
+#EXTINF:-1 tvg-name="每日读书" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/b8/03292c5908da804bf3ea6f1117e300_180_135.jpg?1583645514" group-title="一起看", 每日读书
+https://live.ottiptv.cc/huya/20985826
+#EXTINF:-1 tvg-name="宝玉不姓贾" tvg-logo="https://huyaimg.msstatic.com/avatar/1058/e0/cf1ce72d39023d224beed6d3a032f9_180_135.jpg?1584953470" group-title="一起看", 宝玉不姓贾
+https://live.ottiptv.cc/huya/20985866
+#EXTINF:-1 tvg-name="有点意思" tvg-logo="https://huyaimg.msstatic.com/avatar/1027/f7/2f7974e07af1727ed95cf234274fee_180_135.jpg?1583645626" group-title="一起看", 有点意思
+https://live.ottiptv.cc/huya/20985824
+#EXTINF:-1 tvg-name="地震监视慢直播" tvg-logo="https://huyaimg.msstatic.com/avatar/1063/0f/1764f8f1a1bed1db23fc10d4f24575_180_135.jpg?1712110769" group-title="一起看", 地震监视慢直播
+https://live.ottiptv.cc/huya/29465884
+#EXTINF:-1 tvg-name="秋波我食兮" tvg-logo="https://huyaimg.msstatic.com/avatar/1052/d1/088fc2800cf2eb606e1d5f1e6a76b2_180_135.jpg?1719997828" group-title="一起看", 秋波我食兮
+https://live.ottiptv.cc/huya/29982638
+#EXTINF:-1 tvg-name="娱乐现场" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/37/1ef1f6f184128d1c21b5b4e52311d4_180_135.jpg?1554780204" group-title="一起看", 娱乐现场
+https://live.ottiptv.cc/huya/17001286
+#EXTINF:-1 tvg-name="木槿花" tvg-logo="https://huyaimg.msstatic.com/avatar/1050/20/8af820dbf14f0dd8c6be0aa3a0a8d1_180_135.jpg?1581171776" group-title="一起看", 木槿花
+https://live.ottiptv.cc/huya/20969100
+#EXTINF:-1 tvg-name="丹凤新村老白" tvg-logo="https://huyaimg.msstatic.com/avatar/1006/32/69146f1270d1aa437e21da9cf2c6c8_180_135.jpg?1717726378" group-title="一起看", 丹凤新村老白
+https://live.ottiptv.cc/huya/26355851
+#EXTINF:-1 tvg-name="小猫儿不爱吃鱼" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/78/135ec9900a2a41eb2746f1adbd43f5_180_135.jpg?1756196992" group-title="一起看", 小猫儿不爱吃鱼
+https://live.ottiptv.cc/huya/11601956
+#EXTINF:-1 tvg-name="海轮子" tvg-logo="https://huyaimg.msstatic.com/avatar/1010/12/7c8be38c3d4011f1aeb7f012918f78_180_135.jpg?1604504300" group-title="一起看", 海轮子
+https://live.ottiptv.cc/huya/20969134
+#EXTINF:-1 tvg-name="吃点好的吧" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/b8/527a5c3b734c352625374f52af1168_180_135.jpg?1612247594" group-title="一起看", 吃点好的吧
+https://live.ottiptv.cc/huya/23865124
+#EXTINF:-1 tvg-name="排球太燃了" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/48/13e61a19ae8e2e6f526881b5e134a4_180_135.jpg?1721879627" group-title="一起看", 排球太燃了
+https://live.ottiptv.cc/huya/30080166
+#EXTINF:-1 tvg-name="电竞小魔王" tvg-id="电竞小魔王" tvg-logo="https://huyaimg.msstatic.com/avatar/1026/3f/7137a2fcb7896c1cc0ace8815c5825_180_135.jpg?1584523758" group-title="一起看", 电竞小魔王
+https://live.ottiptv.cc/huya/20985844
+#EXTINF:-1 tvg-name="电竞小魔王" tvg-id="电竞小魔王" tvg-logo="https://huyaimg.msstatic.com/avatar/1026/3f/7137a2fcb7896c1cc0ace8815c5825_180_135.jpg?1584523758" group-title="一起看", 电竞小魔王
+http://81.70.10.196:35455/huya/20985844
+#EXTINF:-1 tvg-name="户外寻宝" tvg-logo="https://huyaimg.msstatic.com/avatar/1063/b9/3d8c7d53a77ab98fdf1b68d4a8fc41_180_135.jpg?1585021726" group-title="一起看", 户外寻宝
+https://live.ottiptv.cc/huya/20985859
+#EXTINF:-1 tvg-name="小虎牙-291AplnKdh" tvg-logo="https://huyaimg.msstatic.com/avatar/1015/93/322e768d6cc15af750aeeea9b68f19_180_135.jpg?1589190029" group-title="一起看", 小虎牙-291AplnKdh
+https://live.ottiptv.cc/huya/22149408
+#EXTINF:-1 tvg-name="弹一闪闪闪" tvg-logo="https://huyaimg.msstatic.com/avatar/1001/2f/fc7f500f1bc34b5a486b567b72da49_180_135.jpg?1612509390" group-title="一起看", 弹一闪闪闪
+https://live.ottiptv.cc/huya/21059570
+#EXTINF:-1 tvg-name="恶魔宝钧" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/3e/77a86476ea51549e0f137b60df0507_180_135.jpg?1723004509" group-title="一起看", 恶魔宝钧
+https://live.ottiptv.cc/huya/30080242
+#EXTINF:-1 tvg-name="皇太子布朗尼" tvg-logo="https://huyaimg.msstatic.com/avatar/1064/c6/d242001a9ffbd9ebd6424f53c04df1_180_135.jpg?1719566464" group-title="一起看", 皇太子布朗尼
+https://live.ottiptv.cc/huya/29982642
+#EXTINF:-1 tvg-name="壹车" tvg-logo="https://huyaimg.msstatic.com/avatar/1000/97/8a9486d531c1a9320af5f1e57f6834_180_135.jpg?1607930281" group-title="一起看", 壹车
+https://live.ottiptv.cc/huya/20969124
+#EXTINF:-1 tvg-name="小虎牙-95tgIDoBHS" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/cb/78e1c68439ae8ff70f19af924bac00_180_135.jpg?1612404835" group-title="一起看", 小虎牙-95tgIDoBHS
+https://live.ottiptv.cc/huya/23863787
+#EXTINF:-1 tvg-name="狄仁杰大肥头" tvg-logo="https://huyaimg.msstatic.com/avatar/1087/8e/c7637685926fec28f1b60876862a2c_180_135.jpg?1605265521" group-title="一起看", 狄仁杰大肥头
+https://live.ottiptv.cc/huya/21059633
+#EXTINF:-1 tvg-name="君临剧良心" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/78/b5f15f5d61b7f15ad5ffcd395f3c95_180_135.jpg?1625543726" group-title="一起看", 君临剧良心
+https://live.ottiptv.cc/huya/24884368
+#EXTINF:-1 tvg-name="鲁智深拔杨柳" tvg-logo="https://huyaimg.msstatic.com/avatar/1074/1c/e71722e8f17e5b081f8f3208a6a0d2_180_135.jpg?1612424133" group-title="一起看", 鲁智深拔杨柳
+https://live.ottiptv.cc/huya/21059569
+#EXTINF:-1 tvg-name="薰衣草雀" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/5a/39d4afb5bf7f1d4384bab375cb8d03_180_135.jpg?1721298679" group-title="一起看", 薰衣草雀
+https://live.ottiptv.cc/huya/30080143
+#EXTINF:-1 tvg-name="西红柿王子" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/4d/df390d797b3270f4cf136d29b307cb_180_135.jpg?1604504682" group-title="一起看", 西红柿王子
+https://live.ottiptv.cc/huya/20985794
+#EXTINF:-1 tvg-name="YOUNG" tvg-logo="https://huyaimg.msstatic.com/avatar/1064/76/051a0da896c0f157a8c85ce1e7c0fd_180_135.jpg?1604504419" group-title="一起看", YOUNG
+https://live.ottiptv.cc/huya/20985766
+#EXTINF:-1 tvg-name="华视-喜剧大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fb/8852b2ce0a9d5f1b23fa796532aa9b_180_135.jpg?1601279065" group-title="一起看", 华视-喜剧大片
+https://live.ottiptv.cc/huya/23352525
+#EXTINF:-1 tvg-name="宠物电竞领主" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/b6/6a3b306ce5e18d2be90f045bff116a_180_135.jpg?1723002967" group-title="一起看", 宠物电竞领主
+https://live.ottiptv.cc/huya/30080235
+#EXTINF:-1 tvg-name="小虎牙-7kYdWFDMe2" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/2b/c3ad11609dc167616fe9bfcf61aff1_180_135.jpg?1596716861" group-title="一起看", 小虎牙-7kYdWFDMe2
+https://live.ottiptv.cc/huya/20985777
+#EXTINF:-1 tvg-name="海浪拍岸热情妹" tvg-logo="https://huyaimg.msstatic.com/avatar/1005/bf/cd009e166ee5f1c91f1f9391be1b5e_180_135.jpg?1723004070" group-title="一起看", 海浪拍岸热情妹
+https://live.ottiptv.cc/huya/30080239
+#EXTINF:-1 tvg-name="口袋妖怪COVER" tvg-logo="https://huyaimg.msstatic.com/avatar/1093/68/1a0c13bacc3c67f1e1346bfb99a03e_180_135.jpg?1598524332" group-title="一起看", 口袋妖怪COVER
+https://live.ottiptv.cc/huya/21241789
+#EXTINF:-1 tvg-name="小轩" tvg-logo="http://huyaimg.msstatic.com/avatar/1078/4c/f1042af7267bcae06c6d631b14d33f_180_135.jpg?1465667825" group-title="一起看", 小轩
+https://live.ottiptv.cc/huya/11352899
+#EXTINF:-1 tvg-name="颜值DJ" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/14/3a89185df29cdf1e8500c585996583_180_135.jpg?1596853536" group-title="一起看", 颜值DJ
+https://live.ottiptv.cc/huya/21241770
+#EXTINF:-1 tvg-name="霹雳靓妹" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/94/6937330a080299532344c50b97fdf1_180_135.jpg?1584437199" group-title="一起看", 霹雳靓妹
+https://live.ottiptv.cc/huya/20985840
+#EXTINF:-1 tvg-name="睛彩青少" tvg-id="68" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiQingShao.png" group-title="数字" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226175/10000100000000060000000001464349_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="68" zz-definition="HD" zz-raw-name="睛彩羽毛球", 睛彩青少
 rtp://239.3.1.127:8001
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="NewTV", NewTV哒啵电竞
-http://gslbserv.itv.cmvideo.cn/1000000006000032327/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱电竞" tvg-logo="https://live.fanmingming.com/tv/IHOT爱电竞.png" group-title="iHOT", iHOT爱电竞
-http://gslbserv.itv.cmvideo.cn/6000000006000230630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="http://cc.118138.xyz/tvlogo/CCTV高尔夫网球.png" group-title="央视", CCTV高尔夫网球
-http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电竞" group-title="网络", 黑莓电竞
-http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电竞" group-title="网络", 黑莓电竞
-http://39.135.138.58:18890/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电竞" group-title="网络", 黑莓电竞
-http://39.135.138.58:18890/PLTV/88888888/224/3221225750/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="C10" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/TVlogo/dbdj.png" group-title="数字", 哒啵电竞
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-id="C25" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="数字", 高尔夫网球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 tvg-name="CIBN全电竞" group-title="体育-其他", CIBN全电竞
 http://v.iam7.cn/iptv/cibn.php?code=115
 #EXTINF:-1 tvg-name="黑莓电竞FHD" group-title="体育-其他", 黑莓电竞FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225760/index.m3u8?
 #EXTINF:-1 tvg-name="黑莓电竞FHD" group-title="体育-其他", 黑莓电竞FHD
 http://117.169.119.199:8080/live/wmyx/index.m3u8
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="C10" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/TVlogo/dbdj.png" group-title="数字", 哒啵电竞
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
 #EXTINF:-1 tvg-name="[HD]TV 2 Sporten (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163756123824_29.png" group-title="其它", [HD]TV 2 Sporten (720p)
 https://epg.pm/stream/9bb10007247cf88478b46bcf26be47ffaed7db67201e6092937faed4ffb4f6ca.m3u8
 #EXTINF:-1 tvg-name="[BD]CCTV6" tvg-id="2596" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/f12c6e9655b5272db405abf6d654058e.jpg" group-title="電影", [BD]CCTV6
@@ -639,234 +817,38 @@ https://epg.pm/stream/3d6b2fac31ba862ee83d844e4b96ef3196457e21f7fd6515a54c968004
 https://epg.pm/stream/b42ef91ddc484db21c98ec10ebf8841d185007145c0f1481aaf9c1be0a217a16.m3u8
 #EXTINF:-1 tvg-name="[BD]ABU DHABI SPORT 4 HD" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/12/03/20161203053143699386_93.jpg" group-title="綜合", [BD]ABU DHABI SPORT 4 HD
 https://epg.pm/stream/a63117000698ac4f9a2b2e931ff2b7d14d0636bc97f35a5a60c8116145d8f754.m3u8
-#EXTINF:-1 tvg-name="电竞直播高清" group-title="高清卫视", 电竞直播高清
-http://121.230.171.192:8000/rtp/239.49.8.151:6000
-#EXTINF:-1 tvg-name="电竞直播高清" group-title="高清卫视", 电竞直播高清
-http://121.230.171.192:8000/rtp/239.49.8.152:6000
-#EXTINF:-1 tvg-name="电竞天堂" tvg-id="85" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="移动IPTV", 电竞天堂
-http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="电竞天堂" tvg-id="电竞天堂" tvg-logo="http://n.ysyz.top:99/buyaolian/电竞天堂.png" group-title="高清", 电竞天堂
-https://live.metshop.top/bestv.php?id=djtt8m/8000000
-#EXTINF:-1 tvg-name="Sky Sports 24 HD" tvg-logo="https://www.hualigs.cn/image/6156929a12198.jpg" group-title="英语新闻", Sky Sports 24 HD
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:-1 tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="美国Local听力磨耳朵", Edge Sport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-#EXTINF:-1 tvg-name="▶️疯狂的赛车" tvg-id="▶️疯狂的赛车" tvg-logo="https://tv-res.pages.dev/logo/▶️疯狂的赛车.png" group-title="💓专享源🅰️", ▶️疯狂的赛车
-https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
-#EXTINF:-1 tvg-name="UK: Sky Sports News" tvg-id="UK: Sky Sports News" tvg-logo="https://tv-res.pages.dev/logo/UK: Sky Sports News.png" group-title="💓咪咕直播", UK: Sky Sports News
-http://nocable.cc:8080//OURTV/OURTV@4806/35241
-#EXTINF:-1 tvg-name="UK: SKY SPORTS F1" tvg-id="UK: SKY SPORTS F1" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS F1.png" group-title="💓咪咕直播", UK: SKY SPORTS F1
-http://nocable.cc:8080//OURTV/OURTV@4806/35244
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Golf" tvg-id="UK: SKY SPORTS Golf" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Golf.png" group-title="💓咪咕直播", UK: SKY SPORTS Golf
-http://nocable.cc:8080//OURTV/OURTV@4806/35240
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Main Event" tvg-id="UK: SKY SPORTS Main Event" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Main Event.png" group-title="💓咪咕直播", UK: SKY SPORTS Main Event
-http://nocable.cc:8080//OURTV/OURTV@4806/137720
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Main Event" tvg-id="UK: SKY SPORTS Main Event" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Main Event.png" group-title="💓咪咕直播", UK: Sky Sports Main Event
-http://vocotv.pro//revol/revol/276918
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Mix" tvg-id="UK: SKY SPORTS Mix" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Mix.png" group-title="💓咪咕直播", UK: SKY SPORTS Mix
-http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001376
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Premier League" tvg-id="UK: SKY SPORTS Premier League" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Premier League.png" group-title="💓咪咕直播", UK: SKY SPORTS Premier League
-http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001378
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Premier League" tvg-id="UK: SKY SPORTS Premier League" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Premier League.png" group-title="💓咪咕直播", UK: Sky Sports Premier League
-http://vocotv.pro//revol/revol/276906
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Racing" tvg-id="UK: SKY SPORTS Racing" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Racing.png" group-title="💓咪咕直播", UK: SKY SPORTS Racing
-http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001379
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Action/NFL" tvg-id="UK: SKY SPORTS Action/NFL" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Action/NFL.png" group-title="💓咪咕直播", UK: SKY SPORTS Action/NFL
-http://nocable.cc:8080//OURTV/OURTV@4806/53705
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Arena" tvg-id="UK: SKY SPORTS Arena" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Arena.png" group-title="💓咪咕直播", UK: SKY SPORTS Arena
-http://nocable.cc:8080//OURTV/OURTV@4806/35238
-#EXTINF:-1 tvg-name="UK: SKY SPORTS SciFI" tvg-id="UK: SKY SPORTS SciFI" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS SciFI.png" group-title="💓咪咕直播", UK: SKY SPORTS SciFI
-http://nocable.cc:8080//OURTV/OURTV@4806/53663
-#EXTINF:-1 tvg-name="UK: SKY SPORTS Cricket" tvg-id="UK: SKY SPORTS Cricket" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Cricket.png" group-title="💓咪咕直播", UK: SKY SPORTS Cricket
-http://nocable.cc:8080//OURTV/OURTV@4806/45940
-#EXTINF:-1 tvg-name="摔跤格斗" tvg-id="摔跤格斗" tvg-logo="https://tv-res.pages.dev/logo/摔跤格斗.png" group-title="⚽️SPORTS", 摔跤格斗
-https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="摔跤格斗" tvg-id="摔跤格斗" tvg-logo="https://tv-res.pages.dev/logo/摔跤格斗.png" group-title="⚽️SPORTS", 摔跤格斗
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="Now Sports 1" tvg-id="Now Sports 1" tvg-logo="https://tv-res.pages.dev/logo/Now Sports 1.png" group-title="🍹定制台☕️", Now Sports 1
-p3p://167.114.175.6:55331/63ed464b000b911be8145d035c4e0f21
-#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="Now Sports 2" tvg-logo="https://tv-res.pages.dev/logo/Now Sports 2.png" group-title="🍹定制台☕️", Now Sports 2
-p3p://167.114.175.6:55331/63ed46be0002b99be8161bfd62d87e90
-#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="Now Sports 3" tvg-logo="https://tv-res.pages.dev/logo/Now Sports 3.png" group-title="🍹定制台☕️", Now Sports 3
-p3p://167.114.175.6:55331/63ed4715000c1bffe81772386f5b27f7
-#EXTINF:-1 tvg-name="Now Sports 4" tvg-id="Now Sports 4" tvg-logo="https://tv-res.pages.dev/logo/Now Sports 4.png" group-title="🍹定制台☕️", Now Sports 4
-p3p://167.114.175.6:55331/63ed478e000a98f2e8194a7c2bdc7fe6
-#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="Now Sports 5" tvg-logo="https://tv-res.pages.dev/logo/Now Sports 5.png" group-title="🍹定制台☕️", Now Sports 5
-p3p://167.114.175.6:55331/63ed98c2000122f4e9567b333a74077a
-#EXTINF:-1 tvg-name="Now Sports 6" tvg-id="Now Sports 6" tvg-logo="https://tv-res.pages.dev/logo/Now Sports 6.png" group-title="🍹定制台☕️", Now Sports 6
-p3p://167.114.175.6:55331/63ed98d90002f8f6e956d5822ff208b1
-#EXTINF:-1 tvg-name="Now Sports 7" tvg-id="Now Sports 7" tvg-logo="https://tv-res.pages.dev/logo/Now Sports 7.png" group-title="🍹定制台☕️", Now Sports 7
-p3p://167.114.175.6:55331/63ed990600010efde95784d4529f16d2
-#EXTINF:-1 tvg-name="Now Sports Prime" tvg-id="Now Sports Prime" tvg-logo="https://tv-res.pages.dev/logo/Now Sports Prime.png" group-title="🍹定制台☕️", Now Sports Prime
-p3p://167.114.175.6:55331/644edbcc0004d5a765428da71f967a86
-#EXTINF:-1 tvg-name="NowSports plus" tvg-id="NowSports plus" tvg-logo="https://tv-res.pages.dev/logo/NowSports plus.png" group-title="🍹定制台☕️", NowSports plus
-p3p://167.114.175.6:55331/65a442ed000e5f029ad7146558606385
-#EXTINF:-1 tvg-name="Bein Sport 1" tvg-id="Bein Sport 1" tvg-logo="https://tv-res.pages.dev/logo/Bein Sport 1.png" group-title="🍹定制P3P☕️", Bein Sport 1
-p3p://167.114.175.6:55331/667b10d1000e2b38149def9902d56b98
-#EXTINF:-1 tvg-name="Bein Sport 2" tvg-id="Bein Sport 2" tvg-logo="https://tv-res.pages.dev/logo/Bein Sport 2.png" group-title="🍹定制P3P☕️", Bein Sport 2
-p3p://167.114.175.6:55331/667b119a00012c7814a0fd5f0a4144be
-#EXTINF:-1 tvg-name="Bein Sport 3" tvg-id="Bein Sport 3" tvg-logo="https://tv-res.pages.dev/logo/Bein Sport 3.png" group-title="🍹定制P3P☕️", Bein Sport 3
-p3p://167.114.175.6:55331/667b130b000bb1a114a6a17a06ea671a
-#EXTINF:-1 tvg-name="博斯网球" tvg-id="博斯网球" tvg-logo="https://tv-res.pages.dev/logo/博斯网球.png" group-title="🍹定制P3P☕️", 博斯网球
-p3p://167.114.175.6:55331/6275f21d000aeb447fb1e83c30d60273
-#EXTINF:-1 tvg-name="博斯网球" tvg-id="博斯网球" tvg-logo="https://logo.catvod.com/博斯网球.png" group-title="🍹定制P3P☕️", 博斯网球
-http://free.cnlive.club/channel/4838e3b3/index.m3u8
-#EXTINF:-1 tvg-name="Trace Sport" tvg-id="Trace Sport" tvg-logo="https://tv-res.pages.dev/logo/Trace Sport.png" group-title="🍹定制P3P☕️", Trace Sport
-p3p://167.114.175.6:55331/644faccf000c7b6368730354764b17ed
-#EXTINF:-1 tvg-name="博斯高球台" tvg-id="博斯高球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="Undefined", 博斯高球I
-http://220.135.64.124:5050/litv-longturn05/index.m3u8
 #EXTINF:-1 tvg-name="英国|Freesports" tvg-id="英国|Freesports" tvg-logo="https://epg.112114.xyz/logo/英国|FREESPORTS.png" group-title="Smart☠️源", 英国|Freesports
 https://smart.pendy.dpdns.org/Smart.php?id=freesports_antik
-#EXTINF:-1 tvg-name="NOWSPORTS618" tvg-id="NOWSPORTS618" tvg-logo="https://tvlogo-282.pages.dev/logos/NowTV/618.png" group-title="⚽世界杯", Now Sports 618
-https://rust.946985.filegear-sg.me/proxy/71ccb5356f2a3241?token=tgJerryfeng
-#EXTINF:-1 tvg-name="NOWSPORTS618" tvg-id="NOWSPORTS618" tvg-logo="https://tvlogo-282.pages.dev/logos/NowTV/618.png" group-title="⚽世界杯", Now Sports 618(备)
-https://rust.946985.filegear-sg.me/proxy/e797fc306daa29b4?token=tgJerryfeng
-#EXTINF:-1 tvg-name="NOWSPORTS4K616" tvg-id="NOWSPORTS4K616" tvg-logo="https://tvlogo-282.pages.dev/logos/NowTV/616.png" group-title="⚽世界杯", Now Sports 616 4K(启停)
-https://rust.946985.filegear-sg.me/proxy/94f80612ff54f976?token=tgJerryfeng
-#EXTINF:-1 tvg-name="NOWSPORTS4K616" tvg-id="NOWSPORTS4K616" tvg-logo="https://tvlogo-282.pages.dev/logos/NowTV/616.png" group-title="⚽世界杯", Now Sports 616 4K(备)
-https://rust.946985.filegear-sg.me/proxy/c53f7f21b6c2dced?token=tgJerryfeng
-#EXTINF:-1 tvg-name="NOWSPORTS精选" tvg-logo="https://php.946985.filegear-sg.me/logo/nowsport.png" group-title="Jack", Now Sports 精選
-https://rust.946985.filegear-sg.me/proxy/b17a2620967ed166?token=tgJerryfeng
-#EXTINF:-1 tvg-name="beIN SPORTS 1 FR" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/beIN SPORTS 1 FR.png" group-title="Jack", beIN SPORTS 1 FR🇫🇷法国
-https://rust.946985.filegear-sg.me/proxy/c997c61109478bcb?token=tgJerryfeng
-#EXTINF:-1 tvg-name="beIN SPORTS 2 FR" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/beIN SPORTS 2 FR.png" group-title="Jack", beIN SPORTS 2 FR🇫🇷法国
-https://rust.946985.filegear-sg.me/proxy/0142469ce4a8a2ea?token=tgJerryfeng
-#EXTINF:-1 tvg-name="beIN SPORTS 3 FR" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/beIN SPORTS 3 FR.png" group-title="Jack", beIN SPORTS 3 FR🇫🇷法国
-https://rust.946985.filegear-sg.me/proxy/2b6c02bd850ff8ae?token=tgJerryfeng
-#EXTINF:-1 tvg-name="CANAL+ SPORT FR" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/CANAL+ Sport FR.png" group-title="Jack", CANAL+ SPORT FR🇫🇷法国
-https://rust.946985.filegear-sg.me/proxy/45f601e3dd52f8a2?token=tgJerryfeng
-#EXTINF:-1 tvg-name="CANAL+ SPORT 360 FR" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/CANAL+ Sport 360 FR.png" group-title="Jack", CANAL+ SPORT 360 FR🇫🇷法国
-https://rust.946985.filegear-sg.me/proxy/e415cb108b900168?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Prima Sport 1 RO" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/Prima Sport 1 RO.png" group-title="Jack", Prima Sport 1 RO🇷🇴罗马尼亚
-https://rust.946985.filegear-sg.me/proxy/d722277315c30ce4?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Prima Sport 2 RO" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/Prima Sport 2 RO.png" group-title="Jack", Prima Sport 2 RO🇷🇴罗马尼亚
-https://rust.946985.filegear-sg.me/proxy/c8f1994fda23bbae?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Prima Sport 3 RO" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/Prima Sport 3 RO.png" group-title="Jack", Prima Sport 3 RO🇷🇴罗马尼亚
-https://rust.946985.filegear-sg.me/proxy/e7095b67451d3f07?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Prima Sport 4 RO" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/Prima Sport 4 RO.png" group-title="Jack", Prima Sport 4 RO🇷🇴罗马尼亚
-https://rust.946985.filegear-sg.me/proxy/1d50a8085d0528e6?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Prima Sport 5 RO" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/Prima Sport 5 RO.png" group-title="Jack", Prima Sport 5 RO🇷🇴罗马尼亚
-https://rust.946985.filegear-sg.me/proxy/280962ddd6d738a3?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Polsat Sport Premium 1 PL" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/Polsat Sport Premium 1 PL.png" group-title="Jack", Polsat Sport Premium 1 PL🇵🇱波兰
-https://rust.946985.filegear-sg.me/proxy/57833e2001623141?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Polsat Sport Premium 2 PL" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/Polsat Sport Premium 2 PL.png" group-title="Jack", Polsat Sport Premium 2 PL🇵🇱波兰
-https://rust.946985.filegear-sg.me/proxy/b4e04ec6f257fb1c?token=tgJerryfeng
-#EXTINF:-1 tvg-name="CANAL+ SPORT PL" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/CANAL+ SPORT PL.png" group-title="Jack", CANAL+ SPORT PL🇵🇱波兰
-https://rust.946985.filegear-sg.me/proxy/fa81fd4a8b652074?token=tgJerryfeng
-#EXTINF:-1 tvg-name="CANAL+ SPORT 2 PL" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/CANAL+ SPORT 2 PL.png" group-title="Jack", CANAL+ SPORT 2 PL🇵🇱波兰
-https://rust.946985.filegear-sg.me/proxy/3342ebb0ce98faef?token=tgJerryfeng
-#EXTINF:-1 tvg-name="SPORT TV1 PT" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/Sport TV 1 PT.png" group-title="Jack", SPORT TV1 PT🇵🇹葡萄牙
-https://rust.946985.filegear-sg.me/proxy/ea4898a80db6d434?token=tgJerryfeng
-#EXTINF:-1 tvg-name="SPORT TV2 PT" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/Sport TV 2 PT.png" group-title="Jack", SPORT TV2 PT🇵🇹葡萄牙
-https://rust.946985.filegear-sg.me/proxy/ce9dd7592ed6b34f?token=tgJerryfeng
-#EXTINF:-1 tvg-name="SPORT TV3 PT" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/Sport TV 3 PT.png" group-title="Jack", SPORT TV3 PT🇵🇹葡萄牙
-https://rust.946985.filegear-sg.me/proxy/46681d343b81dd9f?token=tgJerryfeng
-#EXTINF:-1 tvg-name="SPORT TV4 PT" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/Sport TV 4 PT.png" group-title="Jack", SPORT TV4 PT🇵🇹葡萄牙
-https://rust.946985.filegear-sg.me/proxy/cb083f83edf79f72?token=tgJerryfeng
-#EXTINF:-1 tvg-name="SPORT TV5 PT" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/Sport TV 5 PT.png" group-title="Jack", SPORT TV5 PT🇵🇹葡萄牙
-https://rust.946985.filegear-sg.me/proxy/eb2eef24193fc7fc?token=tgJerryfeng
-#EXTINF:-1 tvg-name="SPORT TV6 PT" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/SPORT TV6 PT.png" group-title="Jack", SPORT TV6 PT🇵🇹葡萄牙
-https://rust.946985.filegear-sg.me/proxy/836840be0430f4bb?token=tgJerryfeng
-#EXTINF:-1 tvg-name="SPORT TV7 PT" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/SPORT TV7 PT.png" group-title="Jack", SPORT TV7 PT🇵🇹葡萄牙
-https://rust.946985.filegear-sg.me/proxy/dd221746d81ddf2a?token=tgJerryfeng
-#EXTINF:-1 tvg-name="FIGHT SPORTS (HD)" tvg-id="FIGHT SPORTS (HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/FIGHT SPORTS HD.png" group-title="STAR", FIGHT SPORTS HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=FightSportsHD&token=tgJerryfeng
-#EXTINF:-1 tvg-name="HUB SPORTS 1 HD" tvg-id="HUB SPORTS 1 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Hub Sports 1 HD.png" group-title="STAR", Hub Sports 1 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HubSports1HDnew1&token=tgJerryfeng
-#EXTINF:-1 tvg-name="HUB SPORTS 2 HD" tvg-id="HUB SPORTS 2 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Hub Sports 2 HD.png" group-title="STAR", Hub Sports 2 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HubSports2HD&token=tgJerryfeng
-#EXTINF:-1 tvg-name="HUB SPORTS 3 HD" tvg-id="HUB SPORTS 3 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Hub Sports 3 HD.png" group-title="STAR", Hub Sports 3 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HubSports3HDNEW&token=tgJerryfeng
-#EXTINF:-1 tvg-name="HUB SPORTS 4 HD" tvg-id="HUB SPORTS 4 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Hub Sports 4 HD.png" group-title="STAR", Hub Sports 4 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HubSports4HDnew&token=tgJerryfeng
-#EXTINF:-1 tvg-name="HUB SPORTS 5 HD" tvg-id="HUB SPORTS 5 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Hub Sports 5 HD.png" group-title="STAR", Hub Sports 5 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HubSports5HD&token=tgJerryfeng
-#EXTINF:-1 tvg-name="HUB SPORTS 6 HD" tvg-id="HUB SPORTS 6 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Hub Sports 6 HD.png" group-title="STAR", Hub Sports 6 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HubSports6&token=tgJerryfeng
-#EXTINF:-1 tvg-name="HUB SPORTS 7 HD" tvg-id="HUB SPORTS 7 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Hub Sports 7 HD.png" group-title="STAR", Hub Sports 7 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HubSports7&token=tgJerryfeng
-#EXTINF:-1 tvg-name="HUB SPORTS 8 HD" tvg-id="HUB SPORTS 8 HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Hub Sports 8 HD.png" group-title="STAR", Hub Sports 8 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HubSports8&token=tgJerryfeng
-#EXTINF:-1 tvg-name="BEIN SPORTS (HD)" tvg-id="BEIN SPORTS (HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/beIN Sports HD.png" group-title="STAR", beIN Sports HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=BeINSportsHD&token=tgJerryfeng
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 (HD)" tvg-id="BEIN SPORTS 2 (HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/beIN Sports 2 HD.png" group-title="STAR", beIN Sports 2 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=beINSportsHD2&token=tgJerryfeng
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 (HD)" tvg-id="BEIN SPORTS 3 (HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/beIN Sports 3 HD.png" group-title="STAR", beIN Sports 3 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=beINSports3NEW&token=tgJerryfeng
-#EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-id="BEIN SPORTS 4" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/beIN Sports 4 HD.png" group-title="STAR", beIN Sports 4 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=beINSports4&token=tgJerryfeng
-#EXTINF:-1 tvg-name="BEIN SPORTS 5" tvg-id="BEIN SPORTS 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/beIN Sports 5 HD.png" group-title="STAR", beIN Sports 5 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=beINSports5&token=tgJerryfeng
-#EXTINF:-1 tvg-name="湖南经广" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/B7DEDB38-BAC4-46DC-95C6-FF102524ED29.jpeg" group-title="综合广播", 湖南经广
-http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
-#EXTINF:-1 tvg-name="吉林交通广播" tvg-logo="https://ftp.muearfm.cn//upload/broadcasting/2021/09/01/4b6c4245-3c8f-4ef1-94ea-f5168d1bece4.png" group-title="综合广播", 吉林交通广播
-http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
-#EXTINF:-1 tvg-name="长春城市生活广播先锋1063" tvg-logo="http://live.cooltv.top/logo/xf1063.png" group-title="音乐广播", 长春城市生活广播先锋1063
-http://p2bj.vzan.com/slowlive/793692167089162182/live.m3u8
-#EXTINF:-1 tvg-name="宜昌音乐生活广播" tvg-logo="https://ytmedia.radio.cn/CCYT%2F202207%2F18%2F11%2Ff2022071811624.jpg" group-title="音乐广播", 宜昌音乐生活广播
-http://play.3xgd.com/fm/qct.m3u8
-#EXTINF:-1 tvg-name="广东珠江之声" tvg-id="广东珠江之声" tvg-logo="https://upload-qn.ajmide.com/p/image/202208/01/67-pRP6HZFraF1659360027084_271x271.png" group-title="📻·广东", 广东珠江之声
-https://rscdn-qn-i.ajmide.com/r_2913/2913.m3u8
+#EXTINF:-1 tvg-name="🇫🇷法国Eurosport" tvg-id="🇫🇷法国Eurosport" group-title="🌏全球台直播", 🇫🇷法国Eurosport
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
+#EXTINF:-1 tvg-name="🇸🇦沙特阿拉伯Dubai Sports 3" tvg-id="🇸🇦沙特阿拉伯Dubai Sports 3" group-title="🌏全球台直播", 🇸🇦沙特阿拉伯Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="🇸🇦沙特阿拉伯Sharjah Sports" tvg-id="🇸🇦沙特阿拉伯Sharjah Sports" group-title="🌏全球台直播", 🇸🇦沙特阿拉伯Sharjah Sports
+http://iptv.zkbhj.com/tv/url/go?id=fe7c06a71814ab54acc516226fed4d7ff2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-id="BesTV电竞天堂" group-title="🎮游戏直播", BesTV电竞天堂
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288003&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="网球王子" tvg-id="网球王子" tvg-logo="https://epg.112114.xyz/logo/网球王子.png" group-title="🎎动漫直播", 网球王子
+http://81.70.10.196:35455/huya/11352882
+#EXTINF:-1 tvg-name="GT赛车：极速狂飙" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GT赛车：极速狂飙.png" group-title="🏛经典剧场", GT赛车：极速狂飙
+https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/219/049/5105219049/media/5105219049_5211432582_56.mp4
+#EXTINF:-1 tvg-name="GT赛车：极速狂飙（普通话）" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GT赛车：极速狂飙（普通话）.png" group-title="🏛经典剧场", GT赛车：极速狂飙（普通话）
+https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/228/095/5105228095/media/5105228095_5211436706_56.mp4
+#EXTINF:-1 tvg-name="中国乒乓之绝地反击" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国乒乓之绝地反击.png" group-title="🏛经典剧场", 中国乒乓之绝地反击
+https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5103/124/027/5103124027/media/5103124027_5105840875_56.mp4
+#EXTINF:-1 tvg-name="海看电竞" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海看电竞.png" group-title="🎮游戏频道", 海看电竞
+http://fnos.sunny2017.xyz:7788/udp/239.21.1.135:5002
+#EXTINF:-1 tvg-name="探秘电竞酒店的特殊陪玩服务-美酱" group-title="体育-其他", 探秘电竞酒店的特殊陪玩服务-美酱
+https://t21.cdn2020.com/video/m3u8/2023/01/27/34d10833/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/CCTV-高尔夫网球.png" group-title="🔥[三网3]央卫视直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-高尔夫网球
 http://192.151.150.154/live/gefwq.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/CCTV-高尔夫网球.png" group-title="🔥[三网4]央卫视直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-高尔夫网球
 http://173.208.212.130:8181/720p/gefwq.m3u8
 #EXTINF:-1 tvg-name="🇷🇺俄罗斯Astrakhan Sport" tvg-logo="https://epg.112114.xyz/logo/🇷🇺俄罗斯Astrakhan Sport.png" group-title="🌏全球直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 🇷🇺俄罗斯Astrakhan Sport
 http://iptv.zkbhj.com/tv/url/go?id=3cf26103fa35806de782cbf3d1454b2df2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-#EXTINF:-1 tvg-name="网球王子" tvg-logo="https://epg.112114.xyz/logo/网球王子.png" group-title="🎎动漫直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 网球王子
-https://live.ottiptv.cc/huya/11352882
-#EXTINF:-1 tvg-name="NewTV电竞天堂" tvg-logo="https://epg.112114.xyz/logo/NewTV电竞天堂.png" group-title="🛸[移动]NewTV直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV电竞天堂
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288003&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="正阳门下" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7857fef11f0828fa8305.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 正阳门下
-https://live.ottiptv.cc/yy/1382851588
-#EXTINF:-1 tvg-name="大话西游至尊宝" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c22aeefef11f0828fac5db.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 大话西游至尊宝
-https://live.ottiptv.cc/yy/1382851590
-#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf781cfef11f0828fa8303.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 康熙王朝
-https://live.ottiptv.cc/yy/1382851583
-#EXTINF:-1 tvg-name="震撼！国内功夫大片" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64e70ec3fef11f0828fb86ba.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 震撼！国内功夫大片
-https://live.ottiptv.cc/yy/1382736902
-#EXTINF:-1 tvg-name="士兵突击" tvg-id="士兵突击" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7cddfef11f0828fa831c.png?imageview/4/0/w/400/h/500/q/80" group-title="电视剧频道", 士兵突击
-https://live.ottiptv.cc/yy/1382851600
-#EXTINF:-1 tvg-name="神探狄仁杰2" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64b90ac9fef11f0828fa7db2.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 神探狄仁杰2
-https://live.ottiptv.cc/yy/1382851146
-#EXTINF:-1 tvg-name="寻秦记-穿越剧经典" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7bb6fef11f0828fa8311.png?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 寻秦记-穿越剧经典
-https://live.ottiptv.cc/yy/1382851591
-#EXTINF:-1 tvg-name="炊事班的故事II" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c71e99fef11f0828fac828.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 炊事班的故事II
-https://live.ottiptv.cc/yy/1382851579
-#EXTINF:-1 tvg-name="少年包青天第三部" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64be1961fef11f0828fa814f.png?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 少年包青天第三部
-https://live.ottiptv.cc/yy/1382851540
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7c1efef11f0828fa8313.png?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 父母爱情
-https://live.ottiptv.cc/yy/1382851594
-#EXTINF:-1 tvg-name="读心神探" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf79b5fef11f0828fa8309.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 读心神探
-https://live.ottiptv.cc/yy/1382851589
-#EXTINF:-1 tvg-name="伪装者" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7bd8fef11f0828fa8312.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 伪装者
-https://live.ottiptv.cc/yy/1382851593
-#EXTINF:-1 tvg-name="魔幻手机" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c23682fef11f0828fac629.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 魔幻手机
-https://live.ottiptv.cc/yy/1382851541
-#EXTINF:-1 tvg-name="以家人之名" tvg-id="以家人之名" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64edbb33fef11f0828fb8ad4.jpg?imageview/4/0/w/400/h/500/q/80" group-title="以家人之名", 以家人之名
-https://live.ottiptv.cc/yy/1382736908
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64ca2850fef11f0828fad151.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 法证先锋
-https://live.ottiptv.cc/yy/1382851599
-#EXTINF:-1 tvg-name="国内经典动作电影" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c22b6cfef11f0828fac5e9.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 国内经典动作电影
-https://live.ottiptv.cc/yy/1382851522
-#EXTINF:-1 tvg-name="YY用户" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/66013d059c5c9f2b4f76f191.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", YY用户
-https://live.ottiptv.cc/yy/1382745103
-#EXTINF:-1 tvg-name="最美的青春" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64be1565fef11f0828fa813e.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 最美的青春
-https://live.ottiptv.cc/yy/1382851530
-#EXTINF:-1 tvg-name="少年四大名捕" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/66013d059c5c9f2b4f76f190.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 少年四大名捕
-https://live.ottiptv.cc/yy/1354936203
-#EXTINF:-1 tvg-name="手机APP掌控人生" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/7TAzTjs7GfdmxpsLH8Bf10.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 手机APP掌控人生
-https://live.ottiptv.cc/yy/1382736874
-#EXTINF:-1 tvg-name="超喜剧地下交通站男神贾贵" tvg-logo="http://zonemin.bs2dl.yy.com/group16/M00/bcef183c3edb472db7f9ba0ca6e33a4c.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 超喜剧地下交通站男神贾贵
-https://live.ottiptv.cc/yy/1353428972
-#EXTINF:-1 tvg-name="【新三国】" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c24093fef11f0828fac64c.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 【新三国】
-https://live.ottiptv.cc/yy/1382851415
-#EXTINF:-1 tvg-name="【新三国】日版" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c2314efef11f0828fac608.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 【新三国】日版
-https://live.ottiptv.cc/yy/1382851457
-#EXTINF:-1 tvg-name="新主播，求照顾" tvg-logo="http://zonemin.bs2dl.yy.com/group16/M00/36fae1f160f54d67b69de1c7d103a94a.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 新主播，求照顾
-https://live.ottiptv.cc/yy/1382690406
-#EXTINF:-1 tvg-name="探秘电竞酒店的特殊陪玩服务-美酱" group-title="体育-其他", 探秘电竞酒店的特殊陪玩服务-美酱
-https://t21.cdn2020.com/video/m3u8/2023/01/27/34d10833/index.m3u8
+#EXTINF:-1 tvg-name="SZDTMB-港台電視31" tvg-id="54f6bfb781f07758f15ea3e8002b96cc" tvg-logo="https://lax.efoxcloud.com:9981/imagecache/5?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU" group-title="体育-其他" tvg-chno="31", SZDTMB-港台電視31
+https://lax.efoxcloud.com:9981/stream/channelid/935327316?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU&profile=pass
+#EXTINF:-1 tvg-name="無綫新聞台 CY" tvg-id="1c8e1c4af14de6cf2e8676a8fcff2c49" group-title="体育-其他" tvg-chno="83", 無綫新聞台 CY
+https://lax.efoxcloud.com:9981/stream/channelid/1243385372?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU&profile=pass
 #EXTINF:-1 tvg-name="陈子豪" tvg-logo="https://huyaimg.msstatic.com/avatar/1073/70/b0429856d8a002a2f21a0d91ff19b0_180_135.jpg?1607744697" group-title="天天吃鸡", 陈子豪
 http://107.173.156.246:81/live/huya/199300
 #EXTINF:-1 tvg-name="久爱-小予神【矛神】" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/70/3ba6db576629de9f18a992e52e27ce_180_135.jpg?1665172072" group-title="王者荣耀", 久爱-小予神【矛神】
@@ -1773,7 +1755,7 @@ http://107.173.156.246:81/live/huya/27518798
 http://107.173.156.246:81/live/huya/11352936
 #EXTINF:-1 tvg-name="乐享、朱朱" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/17/5698703689c7f1e016650b48cd627a_180_135.jpg?1674124649" group-title="颜值", 乐享、朱朱
 http://107.173.156.246:81/live/huya/839359
-#EXTINF:-1 tvg-name="我是一颗小虎牙" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/3e/8bf1d1a0f7881b929c6e49f59e8f15_180_135.jpg?1534182305" group-title="二次元", 我是一颗小虎牙
+#EXTINF:-1 tvg-name="我是一颗小虎牙" tvg-id="我是一颗小虎牙" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/3e/8bf1d1a0f7881b929c6e49f59e8f15_180_135.jpg?1534182305" group-title="一起看", 我是一颗小虎牙
 http://107.173.156.246:81/live/huya/16258327
 #EXTINF:-1 tvg-name="人间丿" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/05/9b8cb178c268f108a675d0afc24074_180_135.jpg?1669625552" group-title="英雄联盟", 人间丿
 http://107.173.156.246:81/live/huya/28169714
@@ -1933,12 +1915,54 @@ http://107.173.156.246:81/live/huya/13009298
 http://107.173.156.246:81/live/huya/17729349
 #EXTINF:-1 tvg-name="露露的水狐狸是我纹的" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/cc/55da85285f156c4c0f0e01ab2aa0b4_180_135.jpg?1671034749" group-title="QQ华夏", 露露的水狐狸是我纹的
 http://107.173.156.246:81/live/huya/27592296
-#EXTINF:-1 tvg-name="Game Channel" tvg-id="GameChannel.cn@SD" tvg-logo="https://i.imgur.com/UMdwCum.png" group-title="Sports", Game Channel
-http://49.113.179.174:4022/udp/238.125.1.36:5140
-#EXTINF:-1 tvg-name="iHOT-爱赛车" tvg-id="iHOT-爱赛车" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱赛车.png" group-title="数字频道", iHOT-爱赛车
-http://182.135.66.163:1888/rtp/239.94.1.144:5140
-#EXTINF:-1 tvg-name="iHOT-爱赛车" tvg-id="iHOT-爱赛车" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱赛车.png" group-title="数字频道", iHOT-爱赛车
-http://182.135.66.163:18888/rtp/239.94.1.144:5140
+#EXTINF:-1 tvg-name="正阳门下" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7857fef11f0828fa8305.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 正阳门下
+https://live.ottiptv.cc/yy/1382851588
+#EXTINF:-1 tvg-name="大话西游至尊宝" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c22aeefef11f0828fac5db.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 大话西游至尊宝
+https://live.ottiptv.cc/yy/1382851590
+#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf781cfef11f0828fa8303.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 康熙王朝
+https://live.ottiptv.cc/yy/1382851583
+#EXTINF:-1 tvg-name="震撼！国内功夫大片" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64e70ec3fef11f0828fb86ba.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 震撼！国内功夫大片
+https://live.ottiptv.cc/yy/1382736902
+#EXTINF:-1 tvg-name="士兵突击" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7cddfef11f0828fa831c.png?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 士兵突击
+https://live.ottiptv.cc/yy/1382851600
+#EXTINF:-1 tvg-name="神探狄仁杰2" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64b90ac9fef11f0828fa7db2.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 神探狄仁杰2
+https://live.ottiptv.cc/yy/1382851146
+#EXTINF:-1 tvg-name="寻秦记-穿越剧经典" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7bb6fef11f0828fa8311.png?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 寻秦记-穿越剧经典
+https://live.ottiptv.cc/yy/1382851591
+#EXTINF:-1 tvg-name="炊事班的故事II" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c71e99fef11f0828fac828.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 炊事班的故事II
+https://live.ottiptv.cc/yy/1382851579
+#EXTINF:-1 tvg-name="少年包青天第三部" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64be1961fef11f0828fa814f.png?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 少年包青天第三部
+https://live.ottiptv.cc/yy/1382851540
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7c1efef11f0828fa8313.png?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 父母爱情
+https://live.ottiptv.cc/yy/1382851594
+#EXTINF:-1 tvg-name="读心神探" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf79b5fef11f0828fa8309.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 读心神探
+https://live.ottiptv.cc/yy/1382851589
+#EXTINF:-1 tvg-name="伪装者" tvg-id="伪装者" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7bd8fef11f0828fa8312.jpg?imageview/4/0/w/400/h/500/q/80" group-title="电视剧频道", 伪装者
+https://live.ottiptv.cc/yy/1382851593
+#EXTINF:-1 tvg-name="魔幻手机" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c23682fef11f0828fac629.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 魔幻手机
+https://live.ottiptv.cc/yy/1382851541
+#EXTINF:-1 tvg-name="以家人之名" tvg-id="以家人之名" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64edbb33fef11f0828fb8ad4.jpg?imageview/4/0/w/400/h/500/q/80" group-title="以家人之名", 以家人之名
+https://live.ottiptv.cc/yy/1382736908
+#EXTINF:-1 tvg-name="法证先锋" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64ca2850fef11f0828fad151.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 法证先锋
+https://live.ottiptv.cc/yy/1382851599
+#EXTINF:-1 tvg-name="国内经典动作电影" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c22b6cfef11f0828fac5e9.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 国内经典动作电影
+https://live.ottiptv.cc/yy/1382851522
+#EXTINF:-1 tvg-name="YY用户" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/66013d059c5c9f2b4f76f191.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", YY用户
+https://live.ottiptv.cc/yy/1382745103
+#EXTINF:-1 tvg-name="最美的青春" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64be1565fef11f0828fa813e.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 最美的青春
+https://live.ottiptv.cc/yy/1382851530
+#EXTINF:-1 tvg-name="少年四大名捕" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/66013d059c5c9f2b4f76f190.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 少年四大名捕
+https://live.ottiptv.cc/yy/1354936203
+#EXTINF:-1 tvg-name="手机APP掌控人生" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/7TAzTjs7GfdmxpsLH8Bf10.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 手机APP掌控人生
+https://live.ottiptv.cc/yy/1382736874
+#EXTINF:-1 tvg-name="超喜剧地下交通站男神贾贵" tvg-logo="http://zonemin.bs2dl.yy.com/group16/M00/bcef183c3edb472db7f9ba0ca6e33a4c.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 超喜剧地下交通站男神贾贵
+https://live.ottiptv.cc/yy/1353428972
+#EXTINF:-1 tvg-name="【新三国】" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c24093fef11f0828fac64c.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 【新三国】
+https://live.ottiptv.cc/yy/1382851415
+#EXTINF:-1 tvg-name="【新三国】日版" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c2314efef11f0828fac608.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 【新三国】日版
+https://live.ottiptv.cc/yy/1382851457
+#EXTINF:-1 tvg-name="新主播，求照顾" tvg-logo="http://zonemin.bs2dl.yy.com/group16/M00/36fae1f160f54d67b69de1c7d103a94a.jpg?imageview/4/0/w/400/h/500/q/80" group-title="zonghe", 新主播，求照顾
+https://live.ottiptv.cc/yy/1382690406
 #EXTINF:-1 tvg-name="德国 vs 库拉索" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="4K中文解说世界杯正赛", 德国 vs 库拉索
 http://82.156.243.185:52521/live/965292426.flv
 #EXTINF:-1 tvg-name="荷兰 vs 日本" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="4K中文解说世界杯正赛", 荷兰 vs 日本
@@ -1963,30 +1987,28 @@ http://82.156.243.185:52521/live/965336343.flv
 http://82.156.243.185:52521/live/965336613.flv
 #EXTINF:-1 tvg-name="奥地利 vs 约旦" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="4K中文解说世界杯正赛", 奥地利 vs 约旦
 http://82.156.243.185:52521/live/965336903.flv
-#EXTINF:-1 tvg-name="黑社活动顾问排球社王牌儿玉玲奈的课后SEX特训" group-title="WhosTV", 黑社活动顾问排球社王牌儿玉玲奈的课后SEX特训
-https://s3.aaaaa.io/476fe83591d22192c2390a7f9aad5764/476fe83591d22192c2390a7f9aad5764.m3u8
-#EXTINF:-1 tvg-name="[个人拍摄 50] 完整外观 20 岁剃光的赛车女王 对不起喷我很抱歉最后从连续阴道射液清洁口交" group-title="WhosTV", [个人拍摄 50] 完整外观 20 岁剃光的赛车女王 对不起喷我很抱歉最后从连续阴道射液清洁口交
-https://s3.aaaaa.io/f523264129ab61aeb63f7b9c20829161/f523264129ab61aeb63f7b9c20829161.m3u8
-#EXTINF:-1 tvg-name="START-379 四年来，我一直在偷偷拍摄我的网球俱乐部的妹妹，她喜欢在家里裸体，当她发现后，我问她是否可以和她发生性关系，我们的关系开始了，而我们的父母都不知道。星野里子" group-title="WhosTV", START-379 四年来，我一直在偷偷拍摄我的网球俱乐部的妹妹，她喜欢在家里裸体，当她发现后，我问她是否可以和她发生性关系，我们的关系开始了，而我们的父母都不知道。星野里子
-https://s3.aaaaa.io/c2c8932e52b3202a11c8c6ad40470615/c2c8932e52b3202a11c8c6ad40470615.m3u8
-#EXTINF:-1 tvg-name="IPX-724【我并不想这样 但还是...】接连被插入 被轮奸的高姿态赛车女郎 枫可怜" group-title="WhosTV", IPX-724【我并不想这样 但还是...】接连被插入 被轮奸的高姿态赛车女郎 枫可怜
-https://s3.aaaaa.io/0ebb133d0729de71760d25ca50e6e60e/0ebb133d0729de71760d25ca50e6e60e.m3u8
-#EXTINF:-1 tvg-name="Luxury TV 1327 前赛车皇后美熟女，肉欲妖娆，AV首秀！洒下藏不住的性感，久违的激烈性爱高潮风暴！摇动大山雀并感到不安！" group-title="WhosTV", Luxury TV 1327 前赛车皇后美熟女，肉欲妖娆，AV首秀！洒下藏不住的性感，久违的激烈性爱高潮风暴！摇动大山雀并感到不安！
-https://s3.aaaaa.io/fb7e6cb5cd9c8344a5ea44bd2f606751/fb7e6cb5cd9c8344a5ea44bd2f606751.m3u8
-#EXTINF:-1 tvg-name="HUNTA-723我的房子是女排俱乐部的宿舍，一个屋檐下有女孩○淘气的学生！!!我父亲是排球俱乐部的主任，所以我的家人来自县外......" group-title="WhosTV", HUNTA-723我的房子是女排俱乐部的宿舍，一个屋檐下有女孩○淘气的学生！!!我父亲是排球俱乐部的主任，所以我的家人来自县外......
-https://s3.aaaaa.io/ac1b884b82e59e294a70ad799f2f41c6/ac1b884b82e59e294a70ad799f2f41c6.m3u8
-#EXTINF:-1 tvg-name="妈妈的网球俱乐部 练习后，在他妻子的家中进行了 4 次阴道射精课程" group-title="WhosTV", 妈妈的网球俱乐部 练习后，在他妻子的家中进行了 4 次阴道射精课程
-https://s3.aaaaa.io/a737b5bbf420e0899ce991d786056354/a737b5bbf420e0899ce991d786056354.m3u8
-#EXTINF:-1 tvg-name="MKON-049 中出性爱俱乐部训练营：我还没吻过的女友就被著名私立大学网球部成员——姬崎花诱惑了" group-title="WhosTV", MKON-049 中出性爱俱乐部训练营：我还没吻过的女友就被著名私立大学网球部成员——姬崎花诱惑了
-https://s3.aaaaa.io/9149f0c265f6e8d2d7d3bff4408ee68e/9149f0c265f6e8d2d7d3bff4408ee68e.m3u8
-#EXTINF:-1 tvg-name="DLDSS-431 一名已婚妇女透过与母亲一起打排球来缓解性挫折，并在练习后进行出汗的婚外性行为 Naho Tsuno - 角奈保" group-title="WhosTV", DLDSS-431 一名已婚妇女透过与母亲一起打排球来缓解性挫折，并在练习后进行出汗的婚外性行为 Naho Tsuno - 角奈保
-https://s3.aaaaa.io/56f3c2a4be9ea32f47f5c84e423ab9c5/56f3c2a4be9ea32f47f5c84e423ab9c5.m3u8
-#EXTINF:-1 tvg-name="SONE-744 后辈的请求绝对不会拒绝，排球队温柔的‘蜜惠前辈’真的依赖起来后竟然发生了SEX的故事 明日叶三叶" group-title="WhosTV", SONE-744 后辈的请求绝对不会拒绝，排球队温柔的‘蜜惠前辈’真的依赖起来后竟然发生了SEX的故事 明日叶三叶
-https://s3.aaaaa.io/5767d86bc5a0ff81706f83f179870c3d/5767d86bc5a0ff81706f83f179870c3d.m3u8
-#EXTINF:-1 tvg-name="SDMM-211 沮丧的妈妈排球队在白子镇的魔镜面包车里举行了一场盛大的狂欢" group-title="WhosTV", SDMM-211 沮丧的妈妈排球队在白子镇的魔镜面包车里举行了一场盛大的狂欢
-https://s3.aaaaa.io/07d431b26bf8e6ef14819a114e08584c/07d431b26bf8e6ef14819a114e08584c.m3u8
-#EXTINF:-1 tvg-name="NIMA-013 高挑排球队的清纯系女友却变成前辈玩物的全部过程 丸新原作的超大HIT同人NTR终于写实化！！ 瀬田一花" group-title="WhosTV", NIMA-013 高挑排球队的清纯系女友却变成前辈玩物的全部过程 丸新原作的超大HIT同人NTR终于写实化！！ 瀬田一花
-https://s3.aaaaa.io/86346f1c50493ad415ba11a11f088ffb/86346f1c50493ad415ba11a11f088ffb.m3u8
+#EXTINF:-1 tvg-name="iHOT-爱赛车" tvg-id="iHOT-爱赛车" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱赛车.png" group-title="数字频道", iHOT-爱赛车
+http://182.135.66.163:1888/rtp/239.94.1.144:5140
+#EXTINF:-1 tvg-name="iHOT-爱赛车" tvg-id="iHOT-爱赛车" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱赛车.png" group-title="数字频道", iHOT-爱赛车
+http://182.135.66.163:18888/rtp/239.94.1.144:5140
+#EXTINF:-1 tvg-name="睛彩羽毛球" tvg-id="睛彩羽毛球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩羽毛球.png" group-title="其他频道", 睛彩羽毛球
+http://222.128.26.62:4001/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-name="睛彩羽毛球" tvg-id="睛彩羽毛球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩羽毛球.png" group-title="其他频道", 睛彩羽毛球
+http://221.219.104.6:1193/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-name="Game Channel" tvg-id="GameChannel.cn@SD" tvg-logo="https://i.imgur.com/UMdwCum.png" group-title="Sports", Game Channel
+http://49.113.179.174:4022/udp/238.125.1.36:5140
+#EXTINF:-1 tvg-name="[中青锦U21]浙江稠州银行U21VS北京首钢U21 06-16 13:00 主播解说①" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/3e54fc152a54f86a99a78c3b5cdbce81.png" group-title="比赛中", [中青锦U21]浙江稠州银行U21VS北京首钢U21 06-16 13:00 主播解说①
+http://iptv.cqshushu.com/jrs2.php?url=http%3A%2F%2Fm.sportsteam586.com%2Fplay%2Fsm.html%3Fid%3D56%26id2%3D
+#EXTINF:-1 tvg-name="[中青锦U21]四川锦城U21VS深圳新世纪U21 06-16 13:00 主播解说①" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/f6d6d51b38bd194424a5bdedcb000790.png" group-title="比赛中", [中青锦U21]四川锦城U21VS深圳新世纪U21 06-16 13:00 主播解说①
+http://iptv.cqshushu.com/jrs2.php?url=http%3A%2F%2Fm.sportsteam586.com%2Fplay%2Fsm.html%3Fid%3D320%26id2%3D
+#EXTINF:-1 tvg-name="[菲MPBL]布拉干库亚斯VS伊萨贝拉考博伊斯 06-16 16:00" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/13b98dcb18664018b4c71f3208b36281.png" group-title="未开赛", [菲MPBL]布拉干库亚斯VS伊萨贝拉考博伊斯 06-16 16:00
+http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816459.html
+#EXTINF:-1 tvg-name="[菲MPBL]马尼拉SVVS帕拉纳克爱国者 06-16 18:00" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/560cf44cef161b9ee8e3d71def6f5eba.png" group-title="未开赛", [菲MPBL]马尼拉SVVS帕拉纳克爱国者 06-16 18:00
+http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816460.html
+#EXTINF:-1 tvg-name="[中台P联]富邦勇士VS桃园领航猿 06-16 19:00" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/f320afb71a9a48c49ead69a2160a92e4.png" group-title="未开赛", [中台P联]富邦勇士VS桃园领航猿 06-16 19:00
+http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816481.html
+#EXTINF:-1 tvg-name="[菲MPBL]帕赛航海者VS宿务精英 06-16 20:00" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/be59618157d743a0b8cc82ee711b31db.png" group-title="未开赛", [菲MPBL]帕赛航海者VS宿务精英 06-16 20:00
+http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816461.html
 #EXTINF:-1 tvg-name="BEIN_SPORTS" tvg-logo="https://logo.catvod.com/BEIN_SPORTS.png" group-title="🇺🇸美国", BEIN_SPORTS
 https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-name="CBS_SPORTS" tvg-logo="https://logo.catvod.com/CBS_SPORTS.png" group-title="🇺🇸美国", CBS_SPORTS

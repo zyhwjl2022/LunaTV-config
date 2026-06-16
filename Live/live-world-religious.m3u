@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Christmas 365" group-title="Undefined", Christmas 365
-https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8
-#EXTINF:-1 tvg-name="Elevation Church (1080p)" group-title="Undefined", Elevation Church (1080p)
-https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="Undefined", Merry Christmas from Viafree
-https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
-#EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="Undefined", Merry Christmas from Viafree
-https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
-#EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="Undefined", Merry Christmas from Viafree
-https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Christmas tutto l'anno" group-title="Undefined", Pluto TV Christmas tutto l'anno
-https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
-#EXTINF:-1 tvg-name="XITE Christian Hits (1080p)" group-title="Undefined", XITE Christian Hits (1080p)
-https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
-#EXTINF:-1 tvg-name="Daai TV" tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Religious", DAAI TV
+#EXTINF:-1 tvg-name="DAAI TV" tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Religious", DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-name="CGNTV Japan (1080p)" tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Religious" http-referrer="http://japan.cgntv.net/HD_player_jp.html", CGNTV Japan (1080p)
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
