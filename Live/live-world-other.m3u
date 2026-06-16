@@ -1,16 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="IPTV5+" group-title="localTVHD", IPTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_9_1_16128907.ts?key=txiptv&key2=16128907
+live_9_1_16129060.ts?key=txiptv&key2=16129060
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_9_1_16128908.ts?key=txiptv&key2=16128908
+live_9_1_16129061.ts?key=txiptv&key2=16129061
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_9_1_16128909.ts?key=txiptv&key2=16128909
+live_9_1_16129062.ts?key=txiptv&key2=16129062
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_9_1_16128910.ts?key=txiptv&key2=16128910
+live_9_1_16129063.ts?key=txiptv&key2=16129063
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_9_1_16128911.ts?key=txiptv&key2=16128911
+live_9_1_16129064.ts?key=txiptv&key2=16129064
 #EXTINF:-1 tvg-name="墨の听歌房" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161050001772373625ocpsg9.jpg" group-title="沉浸体验", 墨の听歌房
 https://live.ottiptv.cc/bilibili/1772373625
+#EXTINF:-1 tvg-name="ASTROAWANI" group-title="YouTube「P」", ASTRO AWANI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1 tvg-name="123goLIVE" group-title="YouTube「P」", 123 GO LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 tvg-name="Top Hits 2023" group-title="YouTube「P」", Top Hits 2023
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000552/ei/COFiZcvRGIT02roPqOSxmA0/ip/223.16.10.147/id/lVmOUVRDKE8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/hk/siu/1/spc/UWF9f83M7303sjCXjsXVE1yQt6ryeowuVCtl8-NPRlO8Ilz8BmdW7Qg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgOpmfsCPmkYrdJ_goBk8U8MF9DRpywkSihOeA1a49LqwCIQDwE7e9ONbosFmgeV7YGp0_p9BK-aGAjy9A5z3o8vZXhA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="Unknown_33" group-title="国际-其他", Unknown_33
 http://live.redtraffic.xyz:80/bigdick.m3u8
 #EXTINF:-1 tvg-name="Unknown_56" group-title="国际-其他", Unknown_56
@@ -254,15 +262,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-name="Tech Storm (720p) [Geo-blocked]" tvg-id="TechStorm.sg@SD" tvg-logo="https://i.imgur.com/fAprFBJ.png" group-title="Undefined", Tech Storm (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_1012_1_17313784.ts?key=txiptv&key2=17313784
+live_1012_1_17313936.ts?key=txiptv&key2=17313936
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_1012_1_17313785.ts?key=txiptv&key2=17313785
+live_1012_1_17313937.ts?key=txiptv&key2=17313937
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_1012_1_17313786.ts?key=txiptv&key2=17313786
+live_1012_1_17313938.ts?key=txiptv&key2=17313938
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_1012_1_17313787.ts?key=txiptv&key2=17313787
+live_1012_1_17313939.ts?key=txiptv&key2=17313939
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-live_1012_1_17313788.ts?key=txiptv&key2=17313788
+live_1012_1_17313940.ts?key=txiptv&key2=17313940
 #EXTINF:-1 tvg-name="偷心大盗ヽ龍宝" tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="一起看", 偷心大盗ヽ龍宝
 https://live.ottiptv.cc/huya/11342386
 #EXTINF:-1 tvg-name="地狱ヽ妖妖" tvg-logo="http://huyaimg.msstatic.com/avatar/1062/41/605e2cb27decc8fd6dbe2fc7779e49_180_135.jpg?1448346204" group-title="一起看", 地狱ヽ妖妖
@@ -270,23 +278,25 @@ https://live.ottiptv.cc/huya/11352869
 #EXTINF:-1 tvg-name="勞資ヽ尐爺" tvg-logo="http://huyaimg.msstatic.com/avatar/1051/da/f7ad34d0e4f05947169c68fd202d8c_180_135.jpg?1448267842" group-title="一起看", 勞資ヽ尐爺
 https://live.ottiptv.cc/huya/11342434
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318144.ts
+http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318296.ts
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318145.ts
+http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318297.ts
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318146.ts
+http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318298.ts
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318147.ts
+http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318299.ts
 #EXTINF:5 tvg-name="no desc" group-title="国际-其他", no desc
-http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318148.ts
+http://10.10.0.1:8085/txkj_iptv/222.174.162.45:80/wh7f454c46tw3201636000_-1525591728/2/00/CHANNEL00000311/5840800/_356318300.ts
 #EXTINF:-1 tvg-name="Ariana TV" group-title="国际-其他", Ariana TV
 http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
+#EXTINF:-1 tvg-name="Arirang TV" tvg-id="Arirang TV" tvg-logo="https://epg.yang-1989.eu.org/logo/Arirang-TV.png" group-title="MYTV", Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-name="Arirang TV" tvg-id="Arirang TV" tvg-logo="https://epg.yang-1989.eu.org/logo/Arirang-TV.png" group-title="MYTV", Arirang TV
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CARI&token=tgJerryfeng
 #EXTINF:-1 tvg-name="Atameken" group-title="国际-其他", Atameken
 http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-name="Bloomberg (EN)" group-title="国际-其他", Bloomberg (EN)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 tvg-name="CBSN HD" group-title="国际-其他", CBSN HD
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
 #EXTINF:-1 tvg-name="Classique TV" group-title="国际-其他", Classique TV
 http://stmv3.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-name="CMC TV" group-title="国际-其他", CMC TV
@@ -301,8 +311,16 @@ http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 tvg-name="KPRF" group-title="国际-其他", KPRF
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 tvg-name="LOVE NATURE 4K" group-title="国际-其他", LOVE NATURE 4K
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-id="Love Nature 4K" tvg-logo="https://epg.yang-1989.eu.org/logo/LoveNature4K.png" group-title="MYTV", LOVE NATURE 4K
 http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-id="Love Nature 4K" tvg-logo="https://epg.yang-1989.eu.org/logo/LoveNature4K.png" group-title="MYTV", Love Nature 4K
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=LN4&token=tgJerryfeng
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-id="Love Nature 4K" tvg-logo="https://epg.yang-1989.eu.org/logo/LoveNature4K.png" group-title="MYTV", Love Nature 4k
+p3p://167.114.175.6:55331/655fa9280009c6278edfc1176731425f
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-id="Love Nature 4K" tvg-logo="https://epg.yang-1989.eu.org/logo/LoveNature4K.png" group-title="MYTV", Love Nature 4K
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1761&tk=f6cc1e0a0e1a
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-id="Love Nature 4K" tvg-logo="https://tv-res.pages.dev/logo/Love Nature 4K.png" group-title="MYTV", Love Nature 4K
+http://175.178.232.13:16888/api/htuiliu.php?exp=08cf2a85bb499c832add0cc51fc18517&ip=106.226.94.180&id=c2f242b26426fc80a10aec3ae825c2c5
 #EXTINF:-1 tvg-name="Luxury" group-title="国际-其他", Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 tvg-name="MY3" group-title="国际-其他", MY3
@@ -331,6 +349,56 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-name="[BD]CBS교회" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310121309341260_23.png" group-title="其它", [BD]CBS교회
 https://epg.pm/stream/ca28b4308047c004dc9c241bab2138ff65053a023391918248e59f9a0e6f87a1.m3u8
+#EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="Juli", IQIYI
+https://rust.946985.filegear-sg.me/proxy/65e7e5fae66aed96?token=tgJerryfeng
+#EXTINF:-1 tvg-name="SUPERFREE" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/MytvSuper.png" group-title="Jack", myTV SUPER FREE
+https://rust.946985.filegear-sg.me/proxy/0522a9abc1a47da3?token=tgJerryfeng
+#EXTINF:-1 tvg-name="SUPEREYT" tvg-id="SUPER EYT" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/SUPER EYT.png" group-title="Jack", SUPER EYT
+https://rust.946985.filegear-sg.me/proxy/a21cd202ec56e9c8?token=tgJerryfeng
+#EXTINF:-1 tvg-name="SUPER EYT" tvg-id="SUPER EYT" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack", SUPER EYT
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=SEYT&token=tgJerryfeng
+#EXTINF:-1 tvg-name="DayStar" tvg-id="daystar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/Daystar_214x120.png" group-title="OFIII", DayStar
+https://rust.946985.filegear-sg.me/proxy/ffbbff6262386d19?token=tgJerryfeng
+#EXTINF:-1 tvg-name="DayStar" tvg-id="DayStar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/Daystar_128x72.png" group-title="OFIII", DayStar
+http://114.32.153.6:5051/daystar/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="ROCK Extreme" tvg-id="ROCK Extreme" tvg-logo="https://epg.yang-1989.eu.org/logo/RockExtreme.png" group-title="MYTV", ROCK Extreme
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=RKEX&token=tgJerryfeng
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-id="Love Nature HD" tvg-logo="https://epg.yang-1989.eu.org/logo/Love-Nature.png" group-title="MYTV", Love Nature
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=LNH&token=tgJerryfeng
+#EXTINF:-1 tvg-name="Global Trekker" tvg-id="Global Trekker" tvg-logo="https://epg.yang-1989.eu.org/logo/Global-Trekker.png" group-title="4GTV", Global Trekker
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=SMS&token=tgJerryfeng
+#EXTINF:-1 tvg-name="Global Trekker" tvg-id="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="4GTV", Global Trekker
+http://220.135.64.124:5050/4gtv-live112/index.m3u8
+#EXTINF:-1 tvg-name="FashionBox" tvg-id="FashionBox" tvg-logo="https://epg.yang-1989.eu.org/logo/FashionBox.png" group-title="MYTV", FashionBox
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=FBX&token=tgJerryfeng
+#EXTINF:-1 tvg-name="FashionBox" tvg-id="FashionBox" tvg-logo="https://epg.yang-1989.eu.org/logo/FashionBox.png" group-title="MYTV", Fashion BOX
+p3p://167.114.175.6:55331/65ac3b2b000a5828b9f89b6271881f96
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://epg.yang-1989.eu.org/logo/MezzoLive.png" group-title="4GTV", Mezzo Live HD
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CMEZ&token=tgJerryfeng
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="4GTV", MEZZO LIVE HD
+http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="4GTV", MEZZO LIVE HD
+http://220.135.64.124:5050/li-4gtv-4gtv083/index.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="4GTV", Mezzo Live HD
+http://114.32.153.6:5051/4gtv-4gtv083/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="SUPER FREE" tvg-id="SUPER FREE" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="MYTV", SUPER FREE
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CWIN&token=tgJerryfeng
+#EXTINF:-1 tvg-name="LUXE TV Channel" tvg-id="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="4GTV", LUXE TV
+http://220.135.64.124:5050/4gtv-live121/index.m3u8
+#EXTINF:-1 tvg-name="LUXE TV Channel" tvg-id="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="4GTV", LUXE TV Channel
+http://114.32.153.6:5051/4gtv-live121/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="Loupe 4K" tvg-id="Loupe 4K" tvg-logo="https://tv-res.pages.dev/logo/Loupe 4K.png" group-title="💓4K(Test)", Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-name="Loupe 4K" tvg-id="Loupe 4K" tvg-logo="https://tv-res.pages.dev/logo/Loupe 4K.png" group-title="💓4K(Test)", Loupe 4K
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4726&tk=f6cc1e0a0e1a
+#EXTINF:-1 tvg-name="Fashion 4K" tvg-id="Fashion 4K" tvg-logo="https://tv-res.pages.dev/logo/Fashion 4K.png" group-title="💓4K(Test)", Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion 4K" tvg-id="Fashion 4K" tvg-logo="https://tv-res.pages.dev/logo/Fashion 4K.png" group-title="💓4K(Test)", Fashion 4K
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
+#EXTINF:-1 tvg-name="4K-1" tvg-id="4K-1" tvg-logo="https://tv-res.pages.dev/logo/4K-1.png" group-title="💓4K(Auto)", 4K-1
+http://101.43.145.141:12002/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="4K-2" tvg-id="4K-2" tvg-logo="https://tv-res.pages.dev/logo/4K-2.png" group-title="💓4K(Auto)", 4K-2
+http://101.43.145.141:12002/itv/3000000010000015686.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="츠보미." tvg-id="츠보미." group-title="🇰🇷SOOP直播", 츠보미.
 https://live.iill.top/soop/flowerbud1
 #EXTINF:-1 tvg-name="해리〃민경" tvg-id="해리〃민경" group-title="🇰🇷SOOP直播", 해리〃민경
@@ -367,6 +435,22 @@ http://zuenatooipswela.sqfkkj.top/live/cx_364955.flv
 http://lanfhllcjoahohadmcld.xinzhitushu.xyz/live/cx_366195.flv
 #EXTINF:-1 tvg-name="The%252520C" group-title="国际-其他", The%252520C
 http://mtfvihalkhofnzhftui.xinzhitushu.xyz/live/cx_382732.flv
+#EXTINF:-1 tvg-name="CGTV" tvg-logo="https://epg.112114.xyz/logo/CGTV.png" group-title="国际-其他" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CGTV
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221228075/index.m3u8
+#EXTINF:-1 tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="国际-其他" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CDTV1
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227495/index.m3u8
+#EXTINF:-1 tvg-name="DellaTV (720p)" tvg-id="DellaTV.it@HD" tvg-logo="https://i.imgur.com/6lvQ3Xz.png" group-title="General", DellaTV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+#EXTINF:-1 tvg-name="GSTV (720p)" tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Shop", GSTV (720p)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-name="JOAX-DTV" tvg-id="JOAXDTV.jp@SD" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="General", JOAX-DTV
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="JOCX-DTV" tvg-id="JOCXDTV.jp@SD" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="General", JOCX-DTV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="JOEX-DTV (540p)" tvg-id="JOEXDTV.jp@SD" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="General", JOEX-DTV (540p)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 tvg-name="JORX-DTV" tvg-id="JORXDTV.jp@SD" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="General", JORX-DTV
+https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-name="-夫婦げんかで家出してきた妊活中の義姉さんにこっそり中出しした僕！" group-title="国际-其他", -夫婦げんかで家出してきた妊活中の義姉さんにこっそり中出しした僕！
 https://vip2.slbfsl.com/20230308/Sj8o62yM/index.m3u8
 #EXTINF:-1 tvg-name="-可愛い笑顔が快感に！" group-title="国际-其他", -可愛い笑顔が快感に！
@@ -1485,22 +1569,6 @@ https://vip2.slbfsl.com/20230404/nj7n9xwa/index.m3u8
 https://vip2.slbfsl.com/20230404/5Bm6BKp7/index.m3u8
 #EXTINF:-1 tvg-name="をオモチャ責め" group-title="国际-其他", をオモチャ責め
 https://vip2.slbfsl.com/20230404/01J7WImo/index.m3u8
-#EXTINF:-1 tvg-name="CGTV" tvg-logo="https://epg.112114.xyz/logo/CGTV.png" group-title="国际-其他" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CGTV
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221228075/index.m3u8
-#EXTINF:-1 tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="国际-其他" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CDTV1
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227495/index.m3u8
-#EXTINF:-1 tvg-name="DellaTV (720p)" tvg-id="DellaTV.it@HD" tvg-logo="https://i.imgur.com/6lvQ3Xz.png" group-title="General", DellaTV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
-#EXTINF:-1 tvg-name="GSTV (720p)" tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Shop", GSTV (720p)
-https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
-#EXTINF:-1 tvg-name="JOAX-DTV" tvg-id="JOAXDTV.jp@SD" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="General", JOAX-DTV
-https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-name="JOCX-DTV" tvg-id="JOCXDTV.jp@SD" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="General", JOCX-DTV
-https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-name="JOEX-DTV (540p)" tvg-id="JOEXDTV.jp@SD" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="General", JOEX-DTV (540p)
-https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-name="JORX-DTV" tvg-id="JORXDTV.jp@SD" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="General", JORX-DTV
-https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-name="Max-PandaX" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/57/b93874cbfa73ba7e648a6a2965deb9_180_135.jpg" group-title="CS：GO", Max-PandaX
 http://107.173.156.246:81/live/huya/27252456
 #EXTINF:-1 tvg-name="xiaosaGeCSGO" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/21/25e636f40356d5fa698226db013d17_180_135.jpg?1629115534" group-title="CS：GO", xiaosaGeCSGO
@@ -1529,31 +1597,3 @@ http://107.173.156.246:81/live/huya/26465842
 http://107.173.156.246:81/live/huya/27657857
 #EXTINF:-1 tvg-name="khattap" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/4f/b62399970985a1eb7a8903aa0ba853_180_135.jpg?1672068194" group-title="CS：GO", khattap
 http://107.173.156.246:81/live/huya/27374769
-#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY TV.png" group-title="mytv", HOY TV
-https://cdn.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="BET EAST" tvg-logo="https://logo.catvod.com/BET EAST.png" group-title="🗽smart", BET EAST
-http://212.102.60.231/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-name="BET HER" tvg-logo="https://logo.catvod.com/BET HER.png" group-title="🗽smart", BET HER
-http://212.102.60.231/BET_HER/index.m3u8
-#EXTINF:-1 tvg-name="MGM+ Marquee" tvg-logo="https://logo.catvod.com/MGM+ Marquee.png" group-title="🗽smart", MGM+ Marquee
-http://212.102.60.231/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://logo.catvod.com/HBO FAMILY.png" group-title="🗽smart", HBO FAMILY
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://logo.catvod.com/HBO 2.png" group-title="🗽smart", HBO 2
-http://212.102.60.231/HBO_2/index.m3u8
-#EXTINF:-1 tvg-name="DISNEY" tvg-logo="https://logo.catvod.com/DISNEY.png" group-title="🗽smart", DISNEY
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://logo.catvod.com/HBO.png" group-title="🗽smart", HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://logo.catvod.com/TSN1.png" group-title="🗽smart", TSN1
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 tvg-name="TSN2" tvg-logo="https://logo.catvod.com/TSN2.png" group-title="🗽smart", TSN2
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 tvg-name="TSN3" tvg-logo="https://logo.catvod.com/TSN3.png" group-title="🗽smart", TSN3
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 tvg-name="TSN4" tvg-logo="https://logo.catvod.com/TSN4.png" group-title="🗽smart", TSN4
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 tvg-name="TSN5" tvg-logo="https://logo.catvod.com/TSN5.png" group-title="🗽smart", TSN5
-http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 tvg-name="vivid-red" tvg-logo="https://logo.catvod.com/vivid-red.png" group-title="🗽smart", vivid-red
-https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8

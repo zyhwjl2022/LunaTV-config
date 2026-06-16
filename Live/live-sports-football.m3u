@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
 http://207.56.13.146:81/cdnlive/fyzq.m3u8
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="风云足球" tvg-logo="https://tb.zbds.top/logo/CCTV风云足球.png" group-title="央视频道", CCTV风云足球
-https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
+https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
@@ -15,20 +15,50 @@ https://hls-gateway.vpstv.net/streams/708859.m3u8
 http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云足球.png" group-title="央视频道", CCTV-风云足球
 http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="风云足球" tvg-logo="https://tb.zbds.top/logo/CCTV风云足球.png" group-title="央视频道", CCTV风云足球
+http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="央视频道", CCTV-风云足球
+http://dassby.qqff.top:99/live/风云足球/index.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道", 风云足球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云足球.png" group-title="央视频道" response-time="90ms", 风云足球
+http://49.234.31.101:7033/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
 http://107.150.60.122/live/fyzq.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
-#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视频道", 风云足球
-http://sh.lnott.top:880/dx71.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道", 风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云足球.png" group-title="央视频道", CCTV-风云足球
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
+http://121.230.171.192:8000/rtp/239.49.1.61:6000
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="风云足球" tvg-logo="https://tb.zbds.top/logo/CCTV风云足球.png" group-title="央视频道", CCTV风云足球
+http://111.61.236.247:9081/hls/58/index.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
+https://live.264788.xyz/channel/fengyunzuqiu?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
+https://live.264788.xyz/channel/fengyunzuqiu?streamid=d6252ab5e983d48dbbb244d84a4c99a6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2140&tk=f6cc1e0a0e1a
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
+http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_FENGSHANGZQ-CQ
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5842&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4934&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
 http://173.208.212.130:8181/720p/fyzq.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://im5k.fun/logo/风云足球.png" group-title="央视频道", 风云足球
+http://124.112.189.64:4022/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道", 风云足球
 http://183.236.43.98:4111/udp/239.253.43.14:5146
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
 http://120.238.84.45:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-风云足球" tvg-id="风云足球" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云足球.png" group-title="央视频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-风云足球
 http://192.151.150.154/live/fyzq.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视频道", 风云足球
+http://sh.lnott.top:880/dx71.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云足球.png" group-title="央视频道", CCTV-风云足球
+http://60.10.167.88:808/hls/55/index.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
 http://113.119.25.7:58888/udp/239.253.43.14:5146
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="央视频道", 风云足球
@@ -55,6 +85,14 @@ http://112.92.128.71:9003/hls/20/index.m3u8
 http://183.57.251.128:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 风云足球
 http://61.184.46.85:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视频道", CCTV风云足球
+http://120.234.187.66:10086/rtp/239.11.0.59:1025
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视频道", CCTV风云足球
+http://120.234.187.66:10086/rtp/239.21.0.70:3620
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视频道", CCTV风云足球
+http://120.234.187.66:58686/rtp/239.11.0.59:1025
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="央视频道", CCTV风云足球
+http://120.234.187.66:58686/rtp/239.21.0.70:3620
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
 https://hls-gateway.vpstv.net/streams/708839.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
@@ -69,14 +107,84 @@ https://www.freetv.top/migu/796070308.m3u8?migutoken=f4f71100ed3cd756f336e1f3b6d
 http://t.061899.xyz/tl/tl.php?id=mlzq
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道", 魅力足球
 http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://gslbserv.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://live.lizanyang.top/tv/魅力足球.png" group-title="🏀体育频道", 魅力足球
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="http://n.ysyz.top:99/buyaolian/魅力足球.png" group-title="🏀体育频道", 魅力足球
+https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://121.230.171.192:8000/rtp/239.49.1.179:6000
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3624&tk=23a9aca1f79f
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1085&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+https://stream1.freetv.fun/mei-li-zu-qiu-2.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+https://stream1.freetv.fun/mei-li-zu-qiu-5.ctv
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://101.43.145.141:12002/migu/796070308.m3u8?migutoken=1730af6437a233f0596951f5d5a2061eaca737e10bcdbcea03fa2a7fa4bc33239ce4566a89ef3fdda6468d4a13966fccece1a98b921a181e5ffe79ab2788b226a9e33caa4f43bcc88a4cb636
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://36.105.100.208:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8920&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7365&tk=f6cc1e0a0e1a
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-3.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+https://stream1.freetv.fun/mei-li-zu-qiu-3.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://146.56.165.66:7788/TVOD/5000000011000031207/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2186&tk=e640d0a1bf70
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://150.158.112.123/公众号~玉玉软件库/mg.php?id=mlzq
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+https://stream1.freetv.fun/mei-li-zu-qiu-4.ctv
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-5.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0934&tk=e640d0a1bf70
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5943&tk=b53028476470
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="🏀体育频道", 魅力足球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8363&tk=e503191f8e20
+#EXTINF:-1 tvg-name="魅力足球 8M" tvg-id="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="🏀体育频道", 魅力足球 8M
+https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://11.112114.xyz/logo/魅力足球.png" group-title="🏀体育频道", 魅力足球
 http://119.165.106.224:4002/rtp/239.253.254.100:8000
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="Astro Football" tvg-logo="https://live.fanmingming.com/tv/Astro Football.png" group-title="GPT-体育", Astro Football
+https://smt.goiptv.us.ci/go_assp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="Astro Football" tvg-logo="https://live.fanmingming.com/tv/Astro Football.png" group-title="GPT-体育", Astro Football
+http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1 tvg-name="astroFootball" tvg-id="astroFootball" tvg-logo="https://live.fanmingming.com/tv/Astro Football.png" group-title="GPT-体育", astroFootball
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 tvg-name="足球频道" tvg-id="足球频道" tvg-logo="https://live.fanmingming.cn/tv/足球频道.png" group-title="数字频道", 足球频道
+http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1 tvg-name="足球频道" tvg-id="足球频道" tvg-logo="https://live.fanmingming.cn/tv/足球频道.png" group-title="数字频道", 足球频道
+https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1 tvg-name="足球" group-title="LocalTV", 足球
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8
 #EXTINF:-1 tvg-name="足球  伊朗vs新西兰 翻滚" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe061610510017546372696wv3qp.jpg" group-title="运动体育", 足球  伊朗vs新西兰 翻滚
 https://live.ottiptv.cc/bilibili/1754637269
 #EXTINF:-1 tvg-name="足球直播#伊朗#新西兰" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161051001706669794ahqatd.jpg" group-title="运动体育", 足球直播#伊朗#新西兰
 https://live.ottiptv.cc/bilibili/1706669794
+#EXTINF:-1 tvg-name="足球超级猎食者(上)" group-title="•动物世界", 足球超级猎食者(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
+#EXTINF:-1 tvg-name="足球超级猎食者(下)" group-title="•动物世界", 足球超级猎食者(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
 #EXTINF:-1 tvg-name="摇滚足球本" tvg-logo="https://huyaimg.msstatic.com/avatar/1073/e0/c572dcedbcb2aca61df5c91649142d_180_135.jpg?1718780469" group-title="一起看", 摇滚足球本
 https://live.ottiptv.cc/huya/29982616
 #EXTINF:-1 tvg-name="足球TOP" tvg-logo="https://huyaimg.msstatic.com/avatar/1099/97/692e7f70bea89c0f32f1638f11e2b2_180_135.jpg?1718254665" group-title="一起看", 足球TOP
@@ -87,16 +195,10 @@ https://live.ottiptv.cc/huya/29982619
 https://live.ottiptv.cc/huya/29982605
 #EXTINF:-1 tvg-name="治霖足球故事" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/ca/5b1f59ca3b6a693594e253cd6d7c06_180_135.jpg?1718254467" group-title="一起看", 治霖足球故事
 https://live.ottiptv.cc/huya/29982606
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png" group-title="国际", Sky Sports Football
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="CCTV风云足球" tvg-logo="https://live.lizanyang.top/tv/CCTV风云足球.png" group-title="央视", CCTV风云足球
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="CCTV风云足球" tvg-logo="https://tb.zbds.top/logo/CCTV风云足球.png" group-title="央视", CCTV风云足球
-http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 tvg-name="astroFootball" tvg-id="astroFootball" tvg-logo="https://epg.112114.xyz/logo/astroFootball.png" group-title="風雲試看體育頻道", astroFootball
-http://iptv.4666888.xyz/iptv2A.php?id=4
-#EXTINF:-1 tvg-name="Sky Sports Football" tvg-id="Sky Sports Football" tvg-logo="https://11.112114.xyz/logo/Sky Sports Football.png" group-title="体育", Sky Sports Football
-https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
-#EXTINF:-1 tvg-name="风云足球" tvg-id="C19" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="数字", 风云足球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-name="[VGA]CCTV风云足球" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="運動", [VGA]CCTV风云足球
 https://epg.pm/stream/b2d3b74cfb4004315ec5ad66b525cd97cf0426cd7dbd09ff16b97f2957f121c9.m3u8
 #EXTINF:-1 tvg-name="[BD]CCTV风云足球" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="運動", [BD]CCTV风云足球
@@ -131,24 +233,56 @@ https://epg.pm/stream/e70b961d72e774e6b1cece7745def803e6a31c854f7a5dab7f0a628297
 https://epg.pm/stream/48afe49c2044ac512d62e17efbe8e2609baf33fd8af3622aac59dfe025035c06.m3u8
 #EXTINF:-1 tvg-name="[BD]魅力足球" tvg-id="3124" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/28/large/20200328131601312895_59.PNG" group-title="運動", [BD]魅力足球
 https://epg.pm/stream/2c35cf59ff150552fa8063dcf6de751430a1fb8c8003748cc26a5c2edefa432f.m3u8
-#EXTINF:-1 tvg-name="(2001)少林足球(国/粤)" group-title="周星驰电影", (2001)少林足球(国/粤)
-https://vip.kuaikan-play1.com/20230308/T9iTqoDX/1718kb/hls/index.m3u8#https://vip.kuaikan-play1.com/20230308/BNrOCx7z/1720kb/hls/index.m3u8
+#EXTINF:-1 tvg-name="魅力足球高清" group-title="高清卫视", 魅力足球高清
+http://121.230.171.192:8000/rtp/239.49.8.181:6000
+#EXTINF:-1 tvg-name="风云足球高清" group-title="高清卫视", 风云足球高清
+http://121.230.171.192:8000/rtp/239.49.9.6:6000
+#EXTINF:-1 tvg-name="myTV SUPER直播足球2台" tvg-id="myTV SUPER直播足球2台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="MYTV", myTV SUPER 直播足球2台
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=EVT2&token=tgJerryfeng
+#EXTINF:-1 tvg-name="myTV SUPER直播足球3台" tvg-id="myTV SUPER直播足球3台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="MYTV", myTV SUPER 直播足球3台
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=EVT3&token=tgJerryfeng
+#EXTINF:-1 tvg-name="myTV SUPER直播足球4台" tvg-id="myTV SUPER直播足球4台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="MYTV", myTV SUPER直播足球4台
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=EVT4&token=tgJerryfeng
+#EXTINF:-1 tvg-name="myTV SUPER直播足球5台" tvg-id="myTV SUPER直播足球5台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="MYTV", myTV SUPER 直播足球5台
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=EVT5&token=tgJerryfeng
+#EXTINF:-1 tvg-name="myTV SUPER直播足球6台" tvg-id="myTV SUPER直播足球6台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="MYTV", myTV SUPER 直播足球6台
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=EVT6&token=tgJerryfeng
+#EXTINF:-1 tvg-name="myTV SUPER直播足球7台" tvg-id="myTV SUPER直播足球7台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="MYTV", myTV SUPER 直播足球7台
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=EVT7&token=tgJerryfeng
 #EXTINF:-1 tvg-name="体育频道|Astro Football" tvg-id="体育频道|Astro Football" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROFOOTBALL.png" group-title="Smart☠️源", 体育频道|Astro Football
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+#EXTINF:-1 tvg-name="UK: SKY SPORTS Football" tvg-id="UK: SKY SPORTS Football" tvg-logo="https://tv-res.pages.dev/logo/UK: SKY SPORTS Football.png" group-title="💓咪咕直播", UK: SKY SPORTS Football
+http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001373
+#EXTINF:-1 tvg-name="UK: : Sky Sports Football" tvg-id="UK: : Sky Sports Football" tvg-logo="https://tv-res.pages.dev/logo/UK: : Sky Sports Football.png" group-title="💓咪咕直播", UK: : Sky Sports Football
+http://vocotv.pro//revol/revol/276924
+#EXTINF:-1 tvg-name="NowSports 英超" tvg-id="NowSports 英超" tvg-logo="https://tv-res.pages.dev/logo/NowSports 英超.png" group-title="🍹定制台☕️", NowSports 英超
+p3p://167.114.175.6:55331/65acf008000b26e4bcbb1adc24476b3f
 #EXTINF:-1 tvg-name="足球小将" tvg-id="足球小将" tvg-logo="https://epg.112114.xyz/logo/足球小将.png" group-title="🎎动漫直播", 足球小将
 http://81.70.10.196:35455/huya/25725150
 #EXTINF:-1 tvg-name="小小足球队" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/小小足球队.png" group-title="🏛经典剧场", 小小足球队
 https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/381/5105004381/media/5105004381_5035598546_56.mp4
 #EXTINF:-1 tvg-name="足球" group-title="其他", 足球
 http://61.178.227.57:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="足球六六" tvg-logo="https://epg.112114.xyz/logo/足球六六.png" group-title="🏀zuqiu直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 足球六六
+https://live06.zuqiu106.com/live/81400757.m3u8
 #EXTINF:-1 tvg-name="世纪杯足球宝贝主题的情趣诱惑-小蜜" group-title="体育-足球", 世纪杯足球宝贝主题的情趣诱惑-小蜜
 https://t21.cdn2020.com/video/m3u8/2023/04/14/e1d34f3e/index.m3u8
 #EXTINF:-1 tvg-name="足球寶貝 EP1 節目篇/黃牌警告指尖高潮!/TZ-018" group-title="体育-足球", 足球寶貝 EP1 節目篇/黃牌警告指尖高潮!/TZ-018
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/g0/b7/5c/n7/8055fa0c4416489192c7d58e1eace119.m3u8?
 #EXTINF:-1 tvg-name="QDOG-003被包养的足球宝贝" group-title="体育-足球", QDOG-003被包养的足球宝贝
 https://t21.cdn2020.com/video/m3u8/2023/02/17/0f5b1200/index.m3u8
-#EXTINF:-1 tvg-name="足球六六" tvg-logo="https://epg.112114.xyz/logo/足球六六.png" group-title="🏀zuqiu直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 足球六六
-https://live06.zuqiu106.com/live/81400757.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-id="Sky Sports Football" tvg-logo="https://11.112114.xyz/logo/Sky Sports Football.png" group-title="体育", Sky Sports Football
+https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
+#EXTINF:-1 tvg-name="SMG Football Channel" tvg-id="SMGFootballChannel.cn@SD" tvg-logo="https://i.imgur.com/BaBr5fM.png" group-title="Sports", SMG Football Channel
+http://49.113.179.174:4022/udp/238.125.2.142:5140
+#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
+http://171.8.171.193:8800/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
+http://39.77.21.53:4002/rtp/239.253.254.100:8000
+#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
+http://39.77.163.179:4002/rtp/239.253.254.100:8000
+#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
+http://1.192.247.36:8188/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-name="云图DV【强化帮】左脚" tvg-logo="https://huyaimg.msstatic.com/avatar/1032/9a/123e82633f01d06b0b6ce55321672b_180_135.jpg?1664216527" group-title="FIFA足球世界", 云图DV【强化帮】左脚
 http://107.173.156.246:81/live/huya/20154741
 #EXTINF:-1 tvg-name="FIFA蓝调爵士" tvg-logo="https://huyaimg.msstatic.com/avatar/1088/60/68d50614f9ae6efc53eb684f304db4_180_135.jpg?1598615888" group-title="FIFA足球世界", FIFA蓝调爵士
@@ -163,47 +297,5 @@ http://107.173.156.246:81/live/huya/24665580
 http://107.173.156.246:81/live/huya/15516921
 #EXTINF:-1 tvg-name="籽籽冻" tvg-logo="https://huyaimg.msstatic.com/avatar/1066/7c/225628fa0b608ecb55c862fe589192_180_135.jpg?1641651573" group-title="实况足球", 籽籽冻
 http://107.173.156.246:81/live/huya/28287790
-#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
-http://171.8.171.193:8800/rtp/239.16.20.113:11130
-#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
-http://39.77.21.53:4002/rtp/239.253.254.100:8000
-#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
-http://39.77.163.179:4002/rtp/239.253.254.100:8000
-#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
-http://1.192.247.36:8188/rtp/239.16.20.113:11130
-#EXTINF:-1 tvg-name="SiTV-魅力足球" tvg-id="SiTV-魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-魅力足球.png" group-title="数字频道", SiTV-魅力足球
-http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
-#EXTINF:-1 tvg-name="SMG Football Channel" tvg-id="SMGFootballChannel.cn@SD" tvg-logo="https://i.imgur.com/BaBr5fM.png" group-title="Sports", SMG Football Channel
-http://49.113.179.174:4022/udp/238.125.2.142:5140
 #EXTINF:-1 tvg-name="足球六六" tvg-logo="https://epg.112114.xyz/logo/足球六六.png" group-title="🏀zuqiu直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 足球六六
 https://live06.zqty88.com/live/81400757.m3u8
-#EXTINF:-1 tvg-name="[澳昆甲]瑞德兰茨联VS阳光海岸流浪者 06-16 17:30" tvg-logo="https://cdn.sportnanoapi.com/football/team/5e2d4f203eeb88f0d994b4db76cf3926.png" group-title="未开赛", [澳昆甲]瑞德兰茨联VS阳光海岸流浪者 06-16 17:30
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816477.html
-#EXTINF:-1 tvg-name="[澳昆超]温纳姆狼VS布里斯班东郊 06-16 17:30" tvg-logo="https://cdn.sportnanoapi.com/football/team/631f4c9f257f5c69bffdee8c9541e95c.png" group-title="未开赛", [澳昆超]温纳姆狼VS布里斯班东郊 06-16 17:30
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816482.html
-#EXTINF:-1 tvg-name="[澳足总]萨巴拉斯VS布琳狮子 06-16 17:30" tvg-logo="https://cdn.sportnanoapi.com/football/team/2f863cf32a3db0c0eef9647572583d7c.png" group-title="未开赛", [澳足总]萨巴拉斯VS布琳狮子 06-16 17:30
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816483.html
-#EXTINF:-1 tvg-name="[澳昆超]罗切达尔流浪VS摩顿城精英 06-16 18:30" tvg-logo="https://cdn.sportnanoapi.com/football/team/030a377635b3ac3fe5cbb49221594110.png" group-title="未开赛", [澳昆超]罗切达尔流浪VS摩顿城精英 06-16 18:30
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816471.html
-#EXTINF:-1 tvg-name="[澳足总]湾水市VS珀斯红星 06-16 19:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/15809b305455c1e964ccd454cc180e51.png" group-title="未开赛", [澳足总]湾水市VS珀斯红星 06-16 19:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816472.html
-#EXTINF:-1 tvg-name="[澳足总]费雷曼特尔市VS奥林匹克金威 06-16 19:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/a2db56c9ef2c5e1c6efb6e93f31ef7f9.png" group-title="未开赛", [澳足总]费雷曼特尔市VS奥林匹克金威 06-16 19:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816473.html
-#EXTINF:-1 tvg-name="[黎巴嫩联]苏尔团结VS玛巴拉 06-16 21:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/1da29817ab4e7c4880d8b457cf2db363.png" group-title="未开赛", [黎巴嫩联]苏尔团结VS玛巴拉 06-16 21:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816474.html
-#EXTINF:-1 tvg-name="[埃塞超]谢格尔凯特马VS韦尔瓦罗 06-16 21:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/99943d6616c5240d42c5b9a7f79590b5.png" group-title="未开赛", [埃塞超]谢格尔凯特马VS韦尔瓦罗 06-16 21:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816478.html
-#EXTINF:-1 tvg-name="[伊朗甲]沙赫达里诺斯哈尔VS乌尔米耶 06-16 21:30" tvg-logo="https://cdn.sportnanoapi.com/football/team/1402e42c10c73929611be8eb207ea4ea.png" group-title="未开赛", [伊朗甲]沙赫达里诺斯哈尔VS乌尔米耶 06-16 21:30
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816484.html
-#EXTINF:-1 tvg-name="[拉脱超]陶格夫匹尔斯VS超级星 06-16 23:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png" group-title="未开赛", [拉脱超]陶格夫匹尔斯VS超级星 06-16 23:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816475.html
-#EXTINF:-1 tvg-name="[立陶甲]苏杜瓦VS希奥利艾 06-16 23:30" tvg-logo="https://cdn.sportnanoapi.com/football/team/7ddeb762b81e7575623341d01c90d478.png" group-title="未开赛", [立陶甲]苏杜瓦VS希奥利艾 06-16 23:30
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816476.html
-#EXTINF:-1 tvg-name="[世界杯]西班牙VS佛得角 06-16 00:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/330b1095d20af4bc1f6a415ae5717ba2.png" group-title="已结束", [世界杯]西班牙VS佛得角 06-16 00:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816462.html
-#EXTINF:-1 tvg-name="[世界杯]比利时VS埃及 06-16 03:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/f40763e705743d293364c0056abbc341.png" group-title="已结束", [世界杯]比利时VS埃及 06-16 03:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816466.html
-#EXTINF:-1 tvg-name="[世界杯]沙特阿拉伯VS乌拉圭 06-16 06:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/3874dcd109e646cbe7c5e8fb2bd41548.png" group-title="已结束", [世界杯]沙特阿拉伯VS乌拉圭 06-16 06:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816467.html
-#EXTINF:-1 tvg-name="[世界杯]伊朗VS新西兰 06-16 09:00" tvg-logo="https://cdn.sportnanoapi.com/football/team/58b5d5f352fafb845b4f6755c2d5b724.png" group-title="已结束", [世界杯]伊朗VS新西兰 06-16 09:00
-http://iptv.cqshushu.com/jrs2.php?url=http://m.sportsteam586.com/play/steam816470.html

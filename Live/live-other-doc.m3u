@@ -43,14 +43,56 @@ https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
 http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://home.wwang.pw:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道", 求索纪录
+http://gslbserv.itv.cmvideo.cn/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="RT Documentary" tvg-id="RT06" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道", RT Documentary（英语纪录）
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="RT Doc-Русский" tvg-id="RT07" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道", RT Doc-Русский（俄语纪录）
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-name="China Travel (1080p)" tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Culture;Documentary;Travel", China Travel (1080p)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Culture;Documentary", Discovering China (1080p)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-name="党员教育频道" group-title="中文-纪录教育", 党员教育频道
+http://12371alic.v.myalicdn.com/12371/dangyuanwang_1/index.m3u8
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="其他频道", 现代教育
+http://szlive.grtn.cn/jypd/sd/live.m3u8
+#EXTINF:-1 tvg-name="泸州科技教育频道" group-title="中文-纪录教育", 泸州科技教育频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1 tvg-name="金华教育科技" group-title="中文-纪录教育", 金华教育科技
+http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
+#EXTINF:-1 tvg-name="阜阳教育频道" group-title="中文-纪录教育", 阜阳教育频道
+http://hwapi.yunshicloud.com/8rj7c1/w5do38.m3u8
+#EXTINF:-1 tvg-name="淮北教育" group-title="中文-纪录教育", 淮北教育
+http://live.0561rtv.cn/jypd/hd/live.m3u8
+#EXTINF:-1 tvg-name="益阳教育[720*576]" group-title="中文-纪录教育", 益阳教育[720*576]
+http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy210130.m3u8
+#EXTINF:-1 tvg-name="益阳教育[720*576]" group-title="中文-纪录教育", 益阳教育[720*576]
+http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy210130.m3u8?auth_key=1638745972-0-0-585d3c3754f254ccd65f4e4c95bf782e
+#EXTINF:-1 tvg-name="益阳教育[720*576]" group-title="中文-纪录教育", 益阳教育[720*576]
+http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvjy210130.m3u8?auth_key=1638746077-0-0-14ea004d8a6209cc187f93dbb1b27403
+#EXTINF:-1 tvg-name="赣州教育频道" group-title="中文-纪录教育", 赣州教育频道
+http://pl1.cloud.dayang.com.cn/live/10062_ojZz8U.m3u8
+#EXTINF:-1 tvg-name="萍乡教育频道" group-title="中文-纪录教育", 萍乡教育频道
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
+#EXTINF:-1 tvg-name="济宁教育频道[1280*720]" group-title="中文-纪录教育", 济宁教育频道[1280*720]
+http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
+#EXTINF:-1 tvg-name="枣庄教育频道[960*540]" group-title="中文-纪录教育", 枣庄教育频道[960*540]
+http://stream.zzgd.tv/2/sd/live.m3u8
+#EXTINF:-1 tvg-name="汝州教育频道" group-title="中文-纪录教育", 汝州教育频道
+https://playstream.teacherasked.cn/live/ebd9629fc3ae5e9f6611e2ee05a31cef/playlist.m3u8
+#EXTINF:-1 tvg-name="巴州教育" group-title="中文-纪录教育", 巴州教育
+http://202.107.188.139:5002/bazhou4_hdgq.m3u8?token=guoziyun
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 探索纪录
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 百变课堂
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288001/index.m3u8?channel-id=bestzb&Contentid=5000000011000288001&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="百变课堂" tvg-id="YanG-1989" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="百事通", 百变课堂
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 百变课堂
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="http://n.ysyz.top:99/buyaolian/百变课堂.png" group-title="百事通", 百变课堂
+https://live.metshop.top/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 百变课堂
+http://121.230.171.192:8000/rtp/239.49.1.121:6000
 #EXTINF:-1 tvg-name="Shanghai Education Television Station" tvg-id="ShanghaiEducationTelevisionStation.cn@SD" group-title="Culture;Education", Shanghai Education Television Station
 http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-name="发现之旅 (576p)" tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="https://i.imgur.com/2FJfPDx.png" group-title="Documentary", 发现之旅 (576p)
@@ -59,20 +101,54 @@ http://125.210.152.18:9090/live/FXZL_750.m3u8
 http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
 #EXTINF:-1 tvg-name="纪实人文 (1080p)" tvg-id="DocumentaryHumanitiesChannel.cn@SD" tvg-logo="https://i.imgur.com/CEcNWsE.png" group-title="Undefined", 纪实人文 (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-name="百变课堂" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="央卫·备用", 百变课堂
-http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="西安教育" group-title="LocalTV", 西安教育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+#EXTINF:-1 tvg-name="NEWTV精品纪录" tvg-id="NEWTV精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="NewTV系列", 精品纪录
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-id="NEWTV精品纪录" tvg-logo="https://live.fanmingming.cn/tv/精品纪录.png" group-title="NewTV系列", 精品纪录
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="「KH」 Persiana Documentary" group-title="•国际", 「KH」 Persiana Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-name="China Travel (1080p)" tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Culture;Documentary;Travel", China Travel (1080p)
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Culture;Documentary", Discovering China (1080p)
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-name="newtv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="NewTV", NewTV精品纪录
+http://gslbserv.itv.cmvideo.cn/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="纪录片之家字幕组" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 纪录片之家字幕组
 http://115.190.124.74/php/douyu.php?id=8834003&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="Melo的健身课堂" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", Melo的健身课堂
 http://115.190.124.74/php/douyu.php?id=9306609&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="世界纪录大全" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 世界纪录大全
 http://115.190.124.74/php/douyu.php?id=9406359&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="中国教育-1" group-title="中文-纪录教育", 中国教育-1
-rtsp://10.11.43.21/PLTV/88888912/224/3221226698/426212016.smil
-#EXTINF:-1 tvg-name="求索纪录" tvg-id="C04" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png" group-title="数字", 求索纪录
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="萍乡教育频道" group-title="中文-纪录教育", 萍乡教育频道
-http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
+#EXTINF:-1 tvg-name="RT Documentary" group-title="国际", RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="一年级" group-title="教育", 一年级
+http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="二年级" group-title="教育", 二年级
+http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="三年级" group-title="教育", 三年级
+http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="四年级" group-title="教育", 四年级
+http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="五年级" group-title="教育", 五年级
+http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="六年级" group-title="教育", 六年级
+http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="初一" group-title="教育", 初一
+http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="初二" group-title="教育", 初二
+http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="初三" group-title="教育", 初三
+http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="高一" group-title="教育", 高一
+http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="高二" group-title="教育", 高二
+http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="高三" group-title="教育", 高三
+http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="newtv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="NewTV", NewTV精品纪录
+http://39.135.138.58:18890/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:-1 tvg-name="长治教育" group-title="中文-纪录教育", 长治教育
 http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
 #EXTINF:-1 tvg-name="[BD]求索纪录@@5" tvg-id="2674" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322211711184602_31.png" group-title="紀實", [BD]求索纪录@@5
@@ -163,11 +239,11 @@ https://epg.pm/stream/2811427c16b242c37f92c17507a59ed87a57fba1d9040c5b4a0b19b754
 https://epg.pm/stream/1eac4c3d6e230e57ba164eaf2f046efe64a42a0d6c403c5946c64ce6146a5937.m3u8
 #EXTINF:-1 tvg-name="[BD]纪录9台" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="紀實", [BD]纪录9台
 https://epg.pm/stream/1487b172e1033d95c9654f6e4a20d14877f44c440762dda6c8f2efa63c6763bf.m3u8
-#EXTINF:-1 tvg-name="全民星攻略 知識開箱" tvg-id="全民星攻略 知識開箱" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_tv_20250506.png" group-title="全民星攻略 知識開箱", 全民星攻略 知識開箱
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii81
-#EXTINF:-1 tvg-name="ASMR行車紀錄" tvg-id="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="ASMR行車紀錄", ASMR行車紀錄
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii94
-#EXTINF:-1 tvg-name="ASMR行車紀錄" tvg-id="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="ASMR行車紀錄", ASMR行車紀錄
+#EXTINF:-1 tvg-name="中国教育4台" tvg-id="7245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="百视通", 中国教育4套
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="茶频道" tvg-id="6585" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="百视通", 茶频道台
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="ASMR行車紀錄" tvg-id="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="歐飛點播", ASMR行車紀錄
 http://220.135.64.124:5050/ofiii94/index.m3u8
 #EXTINF:-1 tvg-name="纪录频道|Natgeo_HD" tvg-id="纪录频道|Natgeo_HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_.png" group-title="Smart☠️源", 纪录频道|Natgeo_HD
 https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
@@ -179,16 +255,14 @@ https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
 https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-name="纪录频道|Discovery HD" tvg-id="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="Smart☠️源", 纪录频道|Discovery HD
 https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
-#EXTINF:-1 tvg-name="纪录频道|CI" tvg-id="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源", 纪录频道|CI
+#EXTINF:-1 tvg-name="纪录频道|CI" tvg-id="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="GPT-记录", 纪录频道|CI
 https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
 #EXTINF:-1 tvg-name="纪录频道|NatGeo HD" tvg-id="纪录频道|NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO.png" group-title="Smart☠️源", 纪录频道|NatGeo HD
 https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
-#EXTINF:-1 tvg-name="纪录频道|Fashion TV" tvg-id="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="Smart☠️源", 纪录频道|Fashion TV
+#EXTINF:-1 tvg-name="纪录频道|Fashion TV" tvg-id="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="GPT-记录", 纪录频道|Fashion TV
 https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
-#EXTINF:-1 tvg-name="纪录频道|History" tvg-id="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="Smart☠️源", 纪录频道|History
+#EXTINF:-1 tvg-name="纪录频道|History" tvg-id="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="GPT-记录", 纪录频道|History
 https://smart.pendy.dpdns.org/Smart.php?id=History
-#EXTINF:-1 tvg-name="纪录频道|BBC Earth HD" tvg-id="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源", 纪录频道|BBC Earth HD
-https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
 #EXTINF:-1 tvg-name="纪录频道|NatGeo Wild HD" tvg-id="纪录频道|NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png" group-title="Smart☠️源", 纪录频道|NatGeo Wild HD
 https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
 #EXTINF:-1 tvg-name="纪录频道|Animal Planet (Eng)" tvg-id="纪录频道|Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png" group-title="Smart☠️源", 纪录频道|Animal Planet (Eng)
@@ -197,6 +271,38 @@ https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
 https://smart.pendy.dpdns.org/Smart.php?id=Tlc
 #EXTINF:-1 tvg-name="纪录频道|HGTV" tvg-id="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源", 纪录频道|HGTV
 https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+#EXTINF:-1 tvg-name="纪录|Natgeo_" tvg-id="纪录|Natgeo_" tvg-logo="https://tv-res.pages.dev/logo/纪录|Natgeo_.png" group-title="💓优质个源", 纪录|Natgeo_
+http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|NatGeo_Wild" tvg-id="纪录|NatGeo_Wild" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo_Wild .png" group-title="💓优质个源", 纪录|NatGeo_Wild
+http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|Animal_Planet" tvg-id="纪录|Animal_Planet" tvg-logo="https://tv-res.pages.dev/logo/纪录|Animal_Planet.png" group-title="💓优质个源", 纪录|Animal_Planet
+http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|Discovery Asia" tvg-id="纪录|Discovery Asia" tvg-logo="https://tv-res.pages.dev/logo/纪录|Discovery Asia.png" group-title="💓优质个源", 纪录|Discovery Asia
+http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|CI" tvg-id="纪录|CI" tvg-logo="https://tv-res.pages.dev/logo/纪录|CI.png" group-title="💓优质个源", 纪录|CI
+http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|Asia Travel" tvg-id="纪录|Asia Travel" tvg-logo="https://tv-res.pages.dev/logo/纪录|Asia Travel.png" group-title="💓优质个源", 纪录|Asia Travel
+http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|Discovery" tvg-id="纪录|Discovery" tvg-logo="https://tv-res.pages.dev/logo/纪录|Discovery .png" group-title="💓优质个源", 纪录|Discovery
+http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|亚洲TLC" tvg-id="纪录|亚洲TLC" tvg-logo="https://tv-res.pages.dev/logo/纪录|亚洲TLC.png" group-title="💓优质个源", 纪录|亚洲TLC
+http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|NatGeo" tvg-id="纪录|NatGeo" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo .png" group-title="💓优质个源", 纪录|NatGeo
+http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|Fashion TV" tvg-id="纪录|Fashion TV" tvg-logo="https://tv-res.pages.dev/logo/纪录|Fashion TV.png" group-title="💓优质个源", 纪录|Fashion TV
+http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|History" tvg-id="纪录|History" tvg-logo="https://tv-res.pages.dev/logo/纪录|History.png" group-title="💓优质个源", 纪录|History
+http://free.cnlive.club/channel/n20a85c83/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|BBC Earth" tvg-id="纪录|BBC Earth" tvg-logo="https://tv-res.pages.dev/logo/纪录|BBC Earth .png" group-title="💓优质个源", 纪录|BBC Earth
+http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|NatGeo Wild" tvg-id="纪录|NatGeo Wild" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo Wild .png" group-title="💓优质个源", 纪录|NatGeo Wild
+http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|Animal Planet (Eng)" tvg-id="纪录|Animal Planet (Eng)" tvg-logo="https://tv-res.pages.dev/logo/纪录|Animal Planet (Eng).png" group-title="💓优质个源", 纪录|Animal Planet (Eng)
+http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|TLC" tvg-id="纪录|TLC" tvg-logo="https://tv-res.pages.dev/logo/纪录|TLC.png" group-title="💓优质个源", 纪录|TLC
+http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|HGTV" tvg-id="纪录|HGTV" tvg-logo="https://tv-res.pages.dev/logo/纪录|HGTV.png" group-title="💓优质个源", 纪录|HGTV
+http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="NewTV精品记录" tvg-id="NewTV精品记录" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV精品记录.png" group-title="💽纪录片直播", NewTV精品记录
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6298506997017621594&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="BesTV纯享4K" tvg-id="BesTV纯享4K" group-title="💽纪录片直播", BesTV纯享4K
@@ -209,16 +315,12 @@ https://tv1288.xyz/1002.php?id=20985861
 http://81.70.10.196:35455/huya/22414123
 #EXTINF:-1 tvg-name="中国通史" tvg-id="中国通史" tvg-logo="https://epg.112114.xyz/logo/中国通史.png" group-title="💽纪录片直播", 中国通史
 https://tv1288.xyz/1002.php?id=20985822
-#EXTINF:-1 tvg-name="中国通史" tvg-id="中国通史" tvg-logo="https://logo.catvod.com/中国通史.png" group-title="💽纪录片直播", 中国通史
-http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8
 #EXTINF:-1 tvg-name="云游故宫1" tvg-id="云游故宫1" group-title="💽纪录片直播", 云游故宫1
 http://81.70.10.196:35455/huya/19743457
 #EXTINF:-1 tvg-name="云游故宫2" tvg-id="云游故宫2" group-title="💽纪录片直播", 云游故宫2
 http://81.70.10.196:35455/huya/19743452
 #EXTINF:-1 tvg-name="中国教育高清" group-title="其他", 中国教育高清
 http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="乌拖邦WTB066忍无可忍的兄妹教育" group-title="中文-纪录教育", 乌拖邦WTB066忍无可忍的兄妹教育
-https://t21.cdn2020.com/video/m3u8/2023/03/05/28bc0cd1/index.m3u8
 #EXTINF:-1 tvg-name="碎片记" tvg-logo="https://epg.112114.xyz/logo/碎片记.png" group-title="💽纪录片直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 碎片记
 http://live.nctv.top/douyu1.php?id=9412981
 #EXTINF:-1 tvg-name="宇宙视界" tvg-logo="https://epg.112114.xyz/logo/宇宙视界.png" group-title="💽纪录片直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 宇宙视界
@@ -229,6 +331,8 @@ http://live.nctv.top/douyu1.php?id=9456028
 http://live.nctv.top/douyu1.php?id=9369468
 #EXTINF:-1 tvg-name="航拍中国" tvg-logo="https://epg.112114.xyz/logo/航拍中国.png" group-title="💽纪录片直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 航拍中国
 https://live.ottiptv.cc/huya/22414123
+#EXTINF:-1 tvg-name="乌拖邦WTB066忍无可忍的兄妹教育" group-title="中文-纪录教育", 乌拖邦WTB066忍无可忍的兄妹教育
+https://t21.cdn2020.com/video/m3u8/2023/03/05/28bc0cd1/index.m3u8
 #EXTINF:-1 tvg-name="BRTV Science & Education Channel" tvg-id="BRTVScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/q0qvOUe.png" group-title="Education;Science", BRTV Science & Education Channel
 http://49.113.179.174:4022/udp/238.125.3.121:5140
 #EXTINF:-1 tvg-name="Channel Law" tvg-id="ChannelLaw.cn@SD" tvg-logo="https://i.imgur.com/QcO5Gxl.png" group-title="Education", Channel Law
@@ -237,3 +341,57 @@ http://49.113.179.174:4022/udp/238.125.2.201:5140
 http://49.113.179.174:4022/udp/238.125.2.175:5140
 #EXTINF:-1 tvg-name="Shandong Education TV" tvg-id="ShandongEducationTV.cn@SD" tvg-logo="https://i.imgur.com/yb10kF0.png" group-title="Education", Shandong Education TV
 http://49.113.179.174:4022/udp/238.125.0.156:5140
+#EXTINF:-1 tvg-name="金华教育科技" group-title="中文-纪录教育", 金华教育科技
+http://live.plus.jinhua.com.cn/jykj/playlist.m3u8?zzhed
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="教育频道", 中国教育1
+http://120.234.187.66:10086/rtp/239.10.0.223:1025
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="教育频道", 中国教育1
+http://120.234.187.66:10086/rtp/239.20.0.213:2224
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="教育频道", 中国教育1
+http://120.234.187.66:58686/rtp/239.10.0.223:1025
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="教育频道", 中国教育1
+http://120.234.187.66:58686/rtp/239.20.0.213:2224
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="教育频道", 中国教育2
+http://120.234.187.66:10086/rtp/239.11.0.35:1025
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="教育频道", 中国教育2
+http://120.234.187.66:10086/rtp/239.21.0.46:3524
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="教育频道", 中国教育2
+http://120.234.187.66:58686/rtp/239.11.0.35:1025
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="教育频道", 中国教育2
+http://120.234.187.66:58686/rtp/239.21.0.46:3524
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道", 中国教育4
+http://120.234.187.66:10086/rtp/239.11.0.176:1025
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道", 中国教育4
+http://120.234.187.66:10086/rtp/239.11.0.36:1025
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道", 中国教育4
+http://120.234.187.66:10086/rtp/239.21.0.142:3912
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道", 中国教育4
+http://120.234.187.66:10086/rtp/239.21.0.47:3528
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道", 中国教育4
+http://120.234.187.66:58686/rtp/239.11.0.176:1025
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道", 中国教育4
+http://120.234.187.66:58686/rtp/239.11.0.36:1025
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道", 中国教育4
+http://120.234.187.66:58686/rtp/239.21.0.142:3912
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="教育频道", 中国教育4
+http://120.234.187.66:58686/rtp/239.21.0.47:3528
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="教育频道", 早期教育
+http://120.234.187.66:10086/rtp/239.11.0.100:1025
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="教育频道", 早期教育
+http://120.234.187.66:10086/rtp/239.21.0.106:3764
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="教育频道", 早期教育
+http://120.234.187.66:58686/rtp/239.11.0.100:1025
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="教育频道", 早期教育
+http://120.234.187.66:58686/rtp/239.21.0.106:3764
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="其他频道", 现代教育
+http://120.234.187.66:10086/rtp/239.10.0.138:1025
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="其他频道", 现代教育
+http://120.234.187.66:10086/rtp/239.20.0.128:2054
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="其他频道", 现代教育
+http://120.234.187.66:10086/rtp/239.21.0.148:3936
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="其他频道", 现代教育
+http://120.234.187.66:58686/rtp/239.10.0.138:1025
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="其他频道", 现代教育
+http://120.234.187.66:58686/rtp/239.20.0.128:2054
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="其他频道", 现代教育
+http://120.234.187.66:58686/rtp/239.21.0.148:3936

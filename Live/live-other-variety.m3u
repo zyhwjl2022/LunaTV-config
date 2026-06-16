@@ -1,22 +1,88 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="热门综艺" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="央卫·备用", 热门综艺
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="NewTV频道", NewTV 超级综艺
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="newtv超级综艺" tvg-id="超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV频道", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="NewTV频道", NewTV超级综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="NewTV频道", NewTV超级综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://live.fanmingming.cn/tv/超级综艺.png" group-title="NewTV频道", 超级综艺
+http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV金牌综艺.png" group-title="NewTV频道", NewTV 金牌综艺
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="NewTV频道", 金牌综艺
+http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="newtv金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="NewTV频道", NewTV金牌综艺
+http://gslbserv.itv.cmvideo.cn/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV金牌综艺.png" group-title="NewTV频道", NewTV金牌综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="NewTV频道", 金牌综艺
+http://111.29.9.33:6610/000000001000/1000000004000026167/index.m3u8?channel-id=bestzb&Contentid=1000000004000026167&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="NewTV频道", 金牌综艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/岭南戏曲.png" group-title="娱乐综艺", 岭南戏曲
+http://szlive.grtn.cn/lnxq/sd/live.m3u8
+#EXTINF:-1 tvg-name="邳州综艺频道" group-title="中文-综艺", 邳州综艺频道
+http://live.plus.pznews.com/pzxwpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="成武综艺频道" group-title="中文-综艺", 成武综艺频道
+https://jsylivealone302.iqilu.com/live/chengwu_tv02/index.m3u8
+#EXTINF:-1 tvg-name="定陶综艺频道[1280*720]" group-title="中文-综艺", 定陶综艺频道[1280*720]
+https://jsylivealone302.iqilu.com/live/dingtao_tv02/index.m3u8
+#EXTINF:-1 tvg-name="鄄城综艺频道" group-title="中文-综艺", 鄄城综艺频道
+https://jsylivealone302.iqilu.com/live/juancheng_tv02/index.m3u8
+#EXTINF:-1 tvg-name="武城综艺影视" group-title="中文-综艺", 武城综艺影视
+https://jsylivealone302.iqilu.com/live/wucheng_tv02/index.m3u8
+#EXTINF:-1 tvg-name="郓城民生综艺" group-title="中文-综艺", 郓城民生综艺
+https://jsylivealone302.iqilu.com/live/yuncheng_tv02/index.m3u8
+#EXTINF:-1 tvg-name="招远综艺" group-title="中文-综艺", 招远综艺
+https://jsylivealone302.iqilu.com/zhaoyuan/zhaoyuan_tv02/index.m3u8
+#EXTINF:-1 tvg-name="东光综艺" group-title="中文-综艺", 东光综艺
+http://hbdg.chinashadt.com:1936/live/stream:dgzy.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="魏县综艺影视" group-title="中文-综艺", 魏县综艺影视
+https://jwcdnqx.hebyun.com.cn/live/wxdst/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="NEWTV超级综艺" tvg-logo="https://live.fanmingming.cn/tv/超级综艺.png" group-title="备用频道", 超级综艺
+http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-id="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="备用频道", 超级综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="NewTV超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="备用频道", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000025771&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="NewTV超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="备用频道", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000023658&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="NewTV超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="备用频道", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000268002&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="NewTV超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="备用频道", NewTV超级综艺
+http://111.29.9.34:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="NewTV超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="备用频道", NewTV超级综艺
+http://111.29.9.35:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="NEWTV超级综艺" tvg-logo="https://live.fanmingming.cn/tv/超级综艺.png" group-title="备用频道", 超级综艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYioXJd79dXZ_L0XAyn5Oqg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 热门综艺
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288011/index.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="热门综艺" tvg-id="YanG-1989" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="百事通", 热门综艺
 http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 热门综艺
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="http://n.ysyz.top:99/buyaolian/热门综艺.png" group-title="百事通", 热门综艺
+https://live.metshop.top/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1 tvg-name="KBC SBS 综艺" group-title="•韩国", KBC SBS 综艺
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="海看大片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海看大片.png" group-title="娱乐综艺" response-time="20ms", 海看大片
+http://123.129.70.178:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="魅力音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/魅力音乐.png" group-title="娱乐综艺" response-time="48ms", 魅力音乐
+http://125.43.244.40:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/岭南戏曲.png" group-title="娱乐综艺" response-time="70ms", 岭南戏曲
+http://49.234.31.101:7033/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="民視綜藝" tvg-id="民視綜藝" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="風雲試看臺灣頻道", 民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-name="綜藝大贏家" tvg-id="綜藝大贏家" group-title="風雲試看臺灣頻道", 綜藝大贏家
 http://iptv.4666888.xyz/iptv2A.php?id=65
-#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 最强综艺趴
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=最强综艺趴
-#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="综艺", 最强综艺趴
-http://sport.pendy.dpdns.org/migu/629942228?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="https://epg.112114.xyz/logo/最强综艺趴.png" group-title="综艺" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 最强综艺趴
-http://124.223.82.228:89/629942228
 #EXTINF:-1 tvg-name="NewTV金牌综艺FHD" group-title="中文-综艺", NewTV金牌综艺FHD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225755/index.m3u8?
-#EXTINF:-1 tvg-name="西安音乐综艺" group-title="中文-综艺", 西安音乐综艺
-http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 #EXTINF:-1 tvg-name="榆树综艺" group-title="中文-综艺", 榆树综艺
 http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1 tvg-name="河源综艺" group-title="中文-综艺", 河源综艺
+http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 #EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
 https://epg.pm/stream/a2c002707904f1b8dac7042184a485146de47b1e2502213e2df62d02f46c9e2c.m3u8
 #EXTINF:-1 tvg-name="[HD]澳視葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳視葡文
@@ -567,54 +633,36 @@ https://epg.pm/stream/53639aef01fdb8edbb11c5e7d5e99a665085ca077ff51181f19480c4d4
 https://epg.pm/stream/68815daf2c9e7c18524a10c0e354a9bc26e3a10104ff79504aadc6aca285e313.m3u8
 #EXTINF:-1 tvg-name="[SD]KMTV (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174626326588_74.png" group-title="綜藝", [SD]KMTV (576p)
 https://epg.pm/stream/b687be1b0ae55e49580a7ae42c5ce9e1974bc1bd4dbb6de6249cf90d663fc270.m3u8
-#EXTINF:-1 tvg-name="綜藝大集合" tvg-id="綜藝大集合" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3809_ofiii125_tv_20250729.png" group-title="綜藝大集合", 綜藝大集合
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii125
+#EXTINF:-1 tvg-name="綜藝大集合-FastTV飛速看" tvg-id="綜藝大集合-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live203.png" group-title="4GTV", 綜藝大集合-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/9e38c090a31a7f3c?token=tgJerryfeng
+#EXTINF:-1 tvg-name="綜藝新時代-FastTV飛速看" tvg-id="綜藝新時代-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live230.png" group-title="4GTV", 綜藝新時代-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/34a77e8d097803da?token=tgJerryfeng
+#EXTINF:-1 tvg-name="綜藝大贏家-FastTV飛速看" tvg-id="綜藝大贏家-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live011.png" group-title="4GTV", 綜藝大贏家-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/469fcb2e11fc16fe?token=tgJerryfeng
+#EXTINF:-1 tvg-name="ROCK綜藝娛樂" tvg-id="ROCK綜藝娛樂" tvg-logo="https://epg.yang-1989.eu.org/logo/RockEntertainment.png" group-title="MYTV", ROCK 綜藝娛樂
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CRTE&token=tgJerryfeng
 #EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-id="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝", ELTA娛樂
 http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8
 #EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-id="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝", ELTA娛樂
 http://220.135.64.124:5050/li-4gtv-4gtv070/index.m3u8
-#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝", 民視綜藝
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="4GTV", 民視綜藝
 http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8
-#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝", 民視綜藝
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="4GTV", 民視綜藝
 http://220.135.64.124:5050/li-4gtv-4gtv004/index.m3u8
-#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝", 民視綜藝
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="4GTV", 民視綜藝
 http://114.32.153.6:5051/4gtv-4gtv004/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝", 豬哥亮歌廳秀
-http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝", 豬哥亮歌廳秀
-http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝", 豬哥亮歌廳秀
-http://114.32.153.6:5051/4gtv-4gtv006/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-id="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝", Trace Urban
-http://220.135.64.124:5050/4gtv-4gtv082/index.m3u8
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-id="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝", Trace Urban
-http://220.135.64.124:5050/li-4gtv-4gtv082/index.m3u8
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-id="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝", TRACE Urban
-http://114.32.153.6:5051/4gtv-4gtv082/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="MTV Live HD 音樂頻道" tvg-id="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="音樂綜藝", MTV Live
 http://220.135.64.124:5050/4gtv-live025/index.m3u8
-#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTV Live HD 音樂頻道" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="音樂綜藝", MTV Live
-http://free.cnlive.club/channel/731620b3/index.m3u8
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝", MEZZO LIVE HD
-http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝", MEZZO LIVE HD
-http://220.135.64.124:5050/li-4gtv-4gtv083/index.m3u8
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝", Mezzo Live HD
-http://114.32.153.6:5051/4gtv-4gtv083/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-id="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝", CLASSICA 古典樂
-http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8
-#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-id="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝", CLASSICA 古典樂
-http://220.135.64.124:5050/li-4gtv-4gtv059/index.m3u8
-#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-id="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝", CLASSICA古典樂
-http://114.32.153.6:5051/4gtv-4gtv059/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="八大精彩台" tvg-id="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝", 八大精彩
-http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8
-#EXTINF:-1 tvg-name="八大精彩台" tvg-id="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝", 八大精彩
-http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8
-#EXTINF:-1 tvg-name="八大精彩台" tvg-id="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝", 八大精彩
-http://114.32.153.6:5051/4gtv-4gtv034/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="綜藝玩很大" tvg-id="綜藝玩很大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="歐飛點播", 綜藝玩很大
 http://220.135.64.124:5050/ofiii130/index.m3u8
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="咪咕视频", 最强综艺趴
+http://sport.pendy.dpdns.org/migu/629942228?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="粤语综艺" tvg-id="粤语综艺" tvg-logo="https://tv-res.pages.dev/logo/粤语综艺.png" group-title="💓专享源🅱️", 粤语综艺
+http://zzy789.xyz/douyu1.php?id=7919720
+#EXTINF:-1 tvg-name="欢乐综艺" tvg-id="欢乐综艺" tvg-logo="https://tv-res.pages.dev/logo/欢乐综艺.png" group-title="💓专享源🅱️", 欢乐综艺
+http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
+#EXTINF:-1 tvg-name="FTV综艺" tvg-id="FTV综艺" tvg-logo="https://tv-res.pages.dev/logo/FTV综艺.png" group-title="🍹定制P3P☕️", FTV综艺
+p3p://167.114.175.6:55331/63ebf41d000b6335e2eb595050b6303b
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-id="NewTV金牌综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV金牌综艺.png" group-title="📽️综艺直播", NewTV金牌综艺
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000026167&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-id="NewTV金牌综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV金牌综艺.png" group-title="📽️综艺直播", NewTV金牌综艺
@@ -675,591 +723,11 @@ http://81.70.10.196:35455/huya/23903164
 http://183.222.15.202:4321/rtp/239.11.0.152:5140
 #EXTINF:-1 tvg-name="NewTV-金牌综艺" tvg-id="NewTV-金牌综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-金牌综艺.png" group-title="数字频道", NewTV-金牌综艺
 http://183.220.107.138:4022/rtp/239.11.0.152:5140
-#EXTINF:-1 tvg-name="综艺文化" tvg-logo="https://logo.catvod.com/综艺文化.png" group-title="📺通用IPTV", 综艺文化
-http://36.135.118.195:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="综艺1211" tvg-logo="https://logo.catvod.com/综艺1211.png" group-title="🇷🇺俄罗斯", 综艺1211
-http://cdntv.online/high/ynemik5cl9/1211.mpeg
-#EXTINF:-1 tvg-name="综艺1246" tvg-logo="https://logo.catvod.com/综艺1246.png" group-title="🇷🇺俄罗斯", 综艺1246
-http://cdntv.online/high/ynemik5cl9/1246.mpeg
-#EXTINF:-1 tvg-name="综艺1278" tvg-logo="https://logo.catvod.com/综艺1278.png" group-title="🇷🇺俄罗斯", 综艺1278
-http://cdntv.online/high/ynemik5cl9/1278.mpeg
-#EXTINF:-1 tvg-name="综艺165" tvg-logo="https://logo.catvod.com/综艺165.png" group-title="🇷🇺俄罗斯", 综艺165
-http://cdntv.online/high/ynemik5cl9/1872.mpeg
-#EXTINF:-1 tvg-name="综艺1657" tvg-logo="https://logo.catvod.com/综艺1657.png" group-title="🇷🇺俄罗斯", 综艺1657
-http://cdntv.online/high/ynemik5cl9/1657.mpeg
-#EXTINF:-1 tvg-name="综艺31" tvg-logo="https://logo.catvod.com/综艺31.png" group-title="🇷🇺俄罗斯", 综艺31
-http://cdntv.online/high/ynemik5cl9/1738.mpeg
-#EXTINF:-1 tvg-name="综艺46" tvg-logo="https://logo.catvod.com/综艺46.png" group-title="🇷🇺俄罗斯", 综艺46
-http://cdntv.online/high/ynemik5cl9/1753.mpeg
-#EXTINF:-1 tvg-name="爆笑综艺" tvg-logo="https://logo.catvod.com/爆笑综艺.png" group-title="📺轮播", 爆笑综艺
-http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://svip.high25-playback.com/20250412/23503_e0eb3d5a/index.m3u8$第1集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://svip.high24-playback.com/20250413/24807_6c49d08d/index.m3u8$第2集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://svip.high25-playback.com/20250414/23698_32ce0810/index.m3u8$第3集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://vvip.high26-playback.com/20250419/4830_7e712eef/index.m3u8$第4集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://vvip.high26-playback.com/20250420/4959_0e64a7b0/index.m3u8$第5集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://cdn.yzzy27-play.com/20250421/217_63dc7ed1/index.m3u8$第6集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://cdn.yzzy27-play.com/20250426/940_8d6dc35e/index.m3u8$第7集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://svip.high25-playback.com/20250427/25200_b555275c/index.m3u8$第8集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://svip.high25-playback.com/20250428/25233_c5a4273e/index.m3u8$第9集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://svip.high25-playback.com/20250504/25784_48d086c2/index.m3u8$第10集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://svip.high25-playback.com/20250504/25781_11f9b53e/index.m3u8$第11集
-#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
-https://cdn.yzzy27-play.com/20250505/2205_06d5ae10/index.m3u8$第12集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://svip.high25-playback.com/20250424/24785_36c5d795/index.m3u8$第1集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://svip.high25-playback.com/20250424/24782_cfe8517a/index.m3u8$第2集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://svip.high25-playback.com/20250424/24783_30648060/index.m3u8$第3集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://svip.high25-playback.com/20250424/24784_587bc192/index.m3u8$第4集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://svip.high25-playback.com/20250425/25064_51d3f636/index.m3u8$第5集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://svip.high25-playback.com/20250501/25515_788719cc/index.m3u8$第6集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://svip.high25-playback.com/20250501/25516_902b2942/index.m3u8$第7集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://cdn.yzzy27-play.com/20250502/1919_8c8a58fa/index.m3u8$第8集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://cdn.yzzy27-play.com/20250502/1918_e74c0d42/index.m3u8$第9集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://vvip.high26-playback.com/20250504/5877_c3443361/index.m3u8$第10集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://cdn.yzzy27-play.com/20250504/2128_bd5af7cd/index.m3u8$第11集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://vvip.high26-playback.com/20250505/5954_2f0928c2/index.m3u8$第12集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://cdn.yzzy27-play.com/20250508/2482_f55cadb9/index.m3u8$第13集
-#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
-https://vvip.high26-playback.com/20250508/6245_c783eed3/index.m3u8$第14集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250329/2740_d902bb0f/index.m3u8$第1集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high24-playback.com/20250405/23733_8eeedc66/index.m3u8$第2集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high24-playback.com/20250405/23732_796e0358/index.m3u8$第3集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250406/3444_758be1f9/index.m3u8$第4集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250406/3445_09ba3f0d/index.m3u8$第5集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250407/3499_3ea2db50/index.m3u8$第6集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250408/3596_52c409f1/index.m3u8$第7集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250408/3597_b89c3096/index.m3u8$第8集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high25-playback.com/20250412/23583_1a840cbe/index.m3u8$第9集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high25-playback.com/20250412/23584_27554b4e/index.m3u8$第10集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high24-playback.com/20250413/24798_0aa983d2/index.m3u8$第11集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high24-playback.com/20250413/24799_eeba04a5/index.m3u8$第12集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high24-playback.com/20250414/24941_d8c2a05e/index.m3u8$第13集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high25-playback.com/20250415/23830_ec432e7c/index.m3u8$第14集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high25-playback.com/20250415/23831_6bbbbb2a/index.m3u8$第15集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250420/4872_02b5b45c/index.m3u8$第16集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250420/4873_945e01e4/index.m3u8$第17集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250420/4977_94bb077f/index.m3u8$第18集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250420/4978_10ff0b5e/index.m3u8$第19集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250421/5056_2654d1a3/index.m3u8$第20集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250422/5092_73d915c9/index.m3u8$第21集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250422/5093_197838c5/index.m3u8$第22集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://cdn.yzzy27-play.com/20250423/467_ab817c93/index.m3u8$第23集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://cdn.yzzy27-play.com/20250423/466_e836d813/index.m3u8$第24集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://cdn.yzzy27-play.com/20250427/966_4e0cb6fb/index.m3u8$第25集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://cdn.yzzy27-play.com/20250427/967_6cfe0e61/index.m3u8$第26集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250429/5543_a10a2663/index.m3u8$第27集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250429/5544_97785e05/index.m3u8$第28集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250430/5624_c460dc0f/index.m3u8$第29集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high25-playback.com/20250503/25758_7d108ef7/index.m3u8$第30集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://svip.high25-playback.com/20250503/25759_ba307c1f/index.m3u8$第31集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://cdn.yzzy27-play.com/20250504/2122_abdbeb4d/index.m3u8$第32集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://cdn.yzzy27-play.com/20250504/2123_5a1e3a5a/index.m3u8$第33集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250506/6029_7f3ad9c6/index.m3u8$第34集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250506/6030_3a24b25a/index.m3u8$第35集
-#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
-https://vvip.high26-playback.com/20250507/6121_03fcd68e/index.m3u8$第36集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://cdn.yzzy27-play.com/20250425/836_ab88b157/index.m3u8$第1集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://cdn.yzzy27-play.com/20250425/837_b0b183c2/index.m3u8$第2集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://cdn.yzzy27-play.com/20250425/838_f9028fae/index.m3u8$第3集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://vvip.high26-playback.com/20250426/5455_211b3925/index.m3u8$第4集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://cdn.yzzy27-play.com/20250428/1177_83f97f48/index.m3u8$第5集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://cdn.yzzy27-play.com/20250428/1178_7d771e0e/index.m3u8$第6集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://svip.high25-playback.com/20250502/25595_8ce77501/index.m3u8$第7集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://svip.high25-playback.com/20250502/25596_8cfedff8/index.m3u8$第8集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://svip.high25-playback.com/20250502/25597_c89723a4/index.m3u8$第9集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://vvip.high26-playback.com/20250503/5871_07bba581/index.m3u8$第10集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://vvip.high26-playback.com/20250503/5872_94f192de/index.m3u8$第11集
-#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
-https://vvip.high26-playback.com/20250505/5958_8fdd149f/index.m3u8$第12集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.yyzy-play.vip/20250228/25179_58869cab/index.m3u8$第1集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.yyzy-play.vip/20250228/25178_12ac4ab7/index.m3u8$第2集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250301/19454_0d3ed68f/index.m3u8$第3集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250301/19453_a7ec4dc3/index.m3u8$第4集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.yyzy-play.vip/20250302/25381_edce0e4b/index.m3u8$第5集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250307/19769_f2d22896/index.m3u8$第6集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250307/19768_71f31ee2/index.m3u8$第7集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250308/21280_f4915022/index.m3u8$第8集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250308/21279_d9abd6a9/index.m3u8$第9集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250309/19919_c26217ea/index.m3u8$第10集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250314/20295_c6745b57/index.m3u8$第11集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250314/20294_af4be601/index.m3u8$第12集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250315/20395_bfbba1cc/index.m3u8$第13集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250315/20394_50d4a1f5/index.m3u8$第14集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250316/20484_241bf351/index.m3u8$第15集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250321/21947_1c61eb27/index.m3u8$第16集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250321/21946_a3d8aaa4/index.m3u8$第17集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250322/22055_6f434ee7/index.m3u8$第18集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250322/22054_0dc27334/index.m3u8$第19集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://vvip.high26-playback.com/20250323/2202_c9a20e4b/index.m3u8$第20集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250328/22087_dd11ffd0/index.m3u8$第21集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250328/22086_04eda24f/index.m3u8$第22集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250329/22500_5d26faa3/index.m3u8$第23集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250329/22498_19da9ee7/index.m3u8$第24集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250330/22462_3cb78169/index.m3u8$第25集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high26-playback.com/20250404/3258_48584348/index.m3u8$第26集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high26-playback.com/20250404/3257_4ea83d95/index.m3u8$第27集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250405/23038_65d21a7a/index.m3u8$第28集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250405/23037_4c2aeb84/index.m3u8$第29集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250406/23102_e4237e37/index.m3u8$第30集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250411/23436_bd7ead76/index.m3u8$第31集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250411/23437_628454d2/index.m3u8$第32集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high24-playback.com/20250412/24513_92e4843a/index.m3u8$第33集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250412/23499_950a9f73/index.m3u8$第34集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250413/23643_75517096/index.m3u8$第35集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250418/24115_cf3064db/index.m3u8$第36集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250418/24137_c1474f10/index.m3u8$第37集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250419/24230_19e12b39/index.m3u8$第38集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250419/24231_cd2a3b18/index.m3u8$第39集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://vvip.high26-playback.com/20250420/4958_09a8a897/index.m3u8$第40集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://vvip.high26-playback.com/20250425/5320_3a2a9aef/index.m3u8$第41集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://vvip.high26-playback.com/20250425/5321_8da57fac/index.m3u8$第42集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://cdn.yzzy27-play.com/20250426/941_92262bf9/index.m3u8$第43集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250426/25154_d21555f0/index.m3u8$第44集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250427/25201_21c3a50a/index.m3u8$第45集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://svip.high25-playback.com/20250502/25593_0006dd05/index.m3u8$第46集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://cdn.yzzy27-play.com/20250502/1907_77369e37/index.m3u8$第47集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://cdn.yzzy27-play.com/20250503/2034_d198bd73/index.m3u8$第48集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://cdn.yzzy27-play.com/20250503/2035_2b0f658c/index.m3u8$第49集
-#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
-https://vvip.high26-playback.com/20250504/5905_148148d6/index.m3u8$第50集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250319/21823_2c09fda9/index.m3u8$第1集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250321/21933_483b1af7/index.m3u8$第2集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250321/21932_7f74b0c5/index.m3u8$第3集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250321/21931_5be50d17/index.m3u8$第4集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250323/2204_0b053057/index.m3u8$第5集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250326/22287_1c72a4ba/index.m3u8$第6集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250327/2543_55e93854/index.m3u8$第7集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250328/2610_b9871749/index.m3u8$第8集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250328/2609_6b29aac0/index.m3u8$第9集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250329/22339_4782b7d7/index.m3u8$第10集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250330/22464_ecc43c9c/index.m3u8$第11集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250403/22837_b162dd99/index.m3u8$第12集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250404/23388_fb0ffdce/index.m3u8$第13集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250406/23790_1b7daa72/index.m3u8$第14集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250409/3698_943aa0fc/index.m3u8$第15集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250410/24252_2f93b699/index.m3u8$第16集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250411/24328_588fad4e/index.m3u8$第17集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250411/24329_8f5f383c/index.m3u8$第18集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250412/24510_91a378e1/index.m3u8$第19集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high24-playback.com/20250413/24800_2e6d0571/index.m3u8$第20集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250417/4546_09def3eb/index.m3u8$第21集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250418/4696_b7d35509/index.m3u8$第22集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250418/4697_700fdb2b/index.m3u8$第23集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250420/4962_66bf858e/index.m3u8$第24集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://cdn.yzzy27-play.com/20250423/463_428fca9b/index.m3u8$第25集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://cdn.yzzy27-play.com/20250424/724_7f1171a7/index.m3u8$第26集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250425/5326_ac27b772/index.m3u8$第27集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250425/5327_d693d554/index.m3u8$第28集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://cdn.yzzy27-play.com/20250426/938_74bba227/index.m3u8$第29集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://cdn.yzzy27-play.com/20250427/1080_731c83db/index.m3u8$第30集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250428/25235_9d42d758/index.m3u8$第31集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250501/25514_4011b4f4/index.m3u8$第32集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250502/5824_b7f520a5/index.m3u8$第33集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://vvip.high26-playback.com/20250502/5825_c5a0ac0e/index.m3u8$第34集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://svip.high25-playback.com/20250504/25783_2fc0af0c/index.m3u8$第35集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://cdn.yzzy27-play.com/20250507/2405_b53477c2/index.m3u8$第36集
-#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
-https://cdn.yzzy27-play.com/20250508/2518_6ef80bb2/index.m3u8$第37集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://svip.high25-playback.com/20250418/24140_542b9ce5/index.m3u8$第1集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://svip.high25-playback.com/20250419/24240_ef239417/index.m3u8$第2集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://svip.high25-playback.com/20250423/24765_511a7678/index.m3u8$第3集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://cdn.yzzy27-play.com/20250425/754_872488f8/index.m3u8$第4集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://cdn.yzzy27-play.com/20250430/1446_8fb21ee7/index.m3u8$第5集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://vvip.high26-playback.com/20250501/5787_a32d7eea/index.m3u8$第6集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://vvip.high26-playback.com/20250502/5826_99f42c47/index.m3u8$第7集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://vvip.high26-playback.com/20250507/6122_8aa2c95d/index.m3u8$第8集
-#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
-https://cdn.yzzy27-play.com/20250508/2525_9407c826/index.m3u8$第9集
-#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
-https://cdn.yzzy27-play.com/20250426/894_4b025079/index.m3u8$第1集
-#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
-https://vvip.high26-playback.com/20250426/5454_107030ca/index.m3u8$第2集
-#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
-https://cdn.yzzy27-play.com/20250428/1176_a7d8ae45/index.m3u8$第3集
-#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
-https://vvip.high26-playback.com/20250503/5861_ccdf3864/index.m3u8$第4集
-#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
-https://vvip.high26-playback.com/20250503/5862_ecb287ff/index.m3u8$第5集
-#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
-https://cdn.yzzy27-play.com/20250503/2037_23d2e157/index.m3u8$第6集
-#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
-https://cdn.yzzy27-play.com/20250505/2216_5938b4d0/index.m3u8$第7集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250228/20809_763d44a3/index.m3u8$第1集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250228/20808_8e6ce52a/index.m3u8$第2集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250228/20807_12a1b464/index.m3u8$第3集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250228/20806_c34a2531/index.m3u8$第4集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250228/20805_fb274fc6/index.m3u8$第5集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250228/20804_1ad12745/index.m3u8$第6集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250301/19459_b3e1204e/index.m3u8$第7集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250307/19767_82cb9a38/index.m3u8$第8集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250307/19766_fe249c3c/index.m3u8$第9集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250308/21282_ddaf19a0/index.m3u8$第10集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250309/21335_7c13f3d8/index.m3u8$第11集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250314/21575_40c842f5/index.m3u8$第12集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250314/21574_be722bdc/index.m3u8$第13集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250314/21573_25bdc88b/index.m3u8$第14集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250314/21572_7cfea3ca/index.m3u8$第15集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250315/21644_69771c88/index.m3u8$第16集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250316/21712_9e93cd47/index.m3u8$第17集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250321/20937_870fbf61/index.m3u8$第18集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250321/20936_9730944c/index.m3u8$第19集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250321/20935_6c7237dc/index.m3u8$第20集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250321/20934_1a89f56d/index.m3u8$第21集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250322/21008_3953f1eb/index.m3u8$第22集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250325/22223_53d15a33/index.m3u8$第23集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250328/22101_f572acc9/index.m3u8$第24集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250328/22100_87733c80/index.m3u8$第25集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250328/22099_7c48627d/index.m3u8$第26集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250328/22098_58c8e9c0/index.m3u8$第27集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250328/22097_366c8531/index.m3u8$第28集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250329/22340_95fd0d1c/index.m3u8$第29集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250330/22565_84f79c8e/index.m3u8$第30集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high26-playback.com/20250404/3263_f8037f94/index.m3u8$第31集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high26-playback.com/20250404/3262_8a50bae2/index.m3u8$第32集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high26-playback.com/20250404/3265_f4334c13/index.m3u8$第33集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high26-playback.com/20250404/3264_f0eaf559/index.m3u8$第34集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250405/23040_97f59593/index.m3u8$第35集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250406/23103_6677753c/index.m3u8$第36集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250411/23442_c45bdeba/index.m3u8$第37集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250411/23443_f92f6317/index.m3u8$第38集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250411/23440_24664885/index.m3u8$第39集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250411/23441_220ef58e/index.m3u8$第40集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high24-playback.com/20250412/24514_e9c1f3f4/index.m3u8$第41集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250413/23647_210bcb6b/index.m3u8$第42集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://vvip.high26-playback.com/20250418/4702_84fdbc3a/index.m3u8$第43集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://vvip.high26-playback.com/20250418/4703_ac4395ad/index.m3u8$第44集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://vvip.high26-playback.com/20250418/4700_c4414e53/index.m3u8$第45集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://vvip.high26-playback.com/20250418/4701_a9ad5f28/index.m3u8$第46集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250419/24237_680c256f/index.m3u8$第47集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://vvip.high26-playback.com/20250420/4966_30d4e642/index.m3u8$第48集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250425/841_02a32ad2/index.m3u8$第49集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250425/842_fc3cf452/index.m3u8$第50集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250425/839_8f7d807e/index.m3u8$第51集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250425/840_fa83a11a/index.m3u8$第52集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://vvip.high26-playback.com/20250426/5457_618b0fff/index.m3u8$第53集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250427/1073_390e9825/index.m3u8$第54集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250502/1912_ff7d0f52/index.m3u8$第55集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250502/1913_c44799b0/index.m3u8$第56集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250502/1910_ab731488/index.m3u8$第57集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250502/1911_04df4d43/index.m3u8$第58集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://cdn.yzzy27-play.com/20250503/2036_f48c04ff/index.m3u8$第59集
-#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
-https://svip.high25-playback.com/20250504/25782_e9ef4cc2/index.m3u8$第60集
-#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
-https://svip.high24-playback.com/20250416/25425_6f910b36/index.m3u8$第1集
-#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
-https://vvip.high26-playback.com/20250419/4757_d8012652/index.m3u8$第2集
-#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
-https://cdn.yzzy27-play.com/20250421/225_d1c38a09/index.m3u8$第3集
-#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
-https://cdn.yzzy27-play.com/20250426/897_5705e116/index.m3u8$第4集
-#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
-https://cdn.yzzy27-play.com/20250428/1182_f4733064/index.m3u8$第5集
-#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
-https://vvip.high26-playback.com/20250503/5858_8336041a/index.m3u8$第6集
-#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
-https://cdn.yzzy27-play.com/20250505/2217_b5c01503/index.m3u8$第7集
-#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
-https://cdn.yzzy27-play.com/20250506/2290_1177967c/index.m3u8$第8集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250220/20067_6fd39051/index.m3u8$第1集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250221/20152_d6384040/index.m3u8$第2集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.yyzy-play.vip/20250222/24286_34ba6cd9/index.m3u8$第3集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.yyzy-play.vip/20250227/25085_a7819257/index.m3u8$第4集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250228/19341_7dea04e0/index.m3u8$第5集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250301/19442_81a67043/index.m3u8$第6集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250306/19709_74394b38/index.m3u8$第7集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250307/21210_325fe484/index.m3u8$第8集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250308/19842_65af3cd2/index.m3u8$第9集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250313/21486_c7c1bb53/index.m3u8$第10集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250314/21569_4dda998c/index.m3u8$第11集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250315/21639_b1fff8ff/index.m3u8$第12集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250316/20483_4b2f7c04/index.m3u8$第13集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250320/20760_eb57c2d0/index.m3u8$第14集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250321/22016_698076ed/index.m3u8$第15集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250321/20896_86bee9ca/index.m3u8$第16集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250322/22056_fa42e36a/index.m3u8$第17集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250327/21985_cb01350a/index.m3u8$第18集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://vvip.high26-playback.com/20250328/2622_6a584901/index.m3u8$第19集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://vvip.high26-playback.com/20250328/2611_2a3f0552/index.m3u8$第20集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250329/22337_964c9c30/index.m3u8$第21集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250403/22835_f8ed6ae9/index.m3u8$第22集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high26-playback.com/20250404/3261_95177e52/index.m3u8$第23集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250404/23381_eb72d013/index.m3u8$第24集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250405/23517_2343f39d/index.m3u8$第25集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250410/24253_dd8a3f5d/index.m3u8$第26集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250411/23438_15d81ef9/index.m3u8$第27集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://vvip.high26-playback.com/20250411/3929_79f69230/index.m3u8$第28集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high24-playback.com/20250412/24512_9324bc62/index.m3u8$第29集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://vvip.high26-playback.com/20250417/4547_3910d2e3/index.m3u8$第30集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://vvip.high26-playback.com/20250418/4695_5034a5d6/index.m3u8$第31集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://vvip.high26-playback.com/20250418/4693_1feb4cdd/index.m3u8$第32集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250419/24234_11037e6c/index.m3u8$第33集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250424/24776_863ae4a7/index.m3u8$第34集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://cdn.yzzy27-play.com/20250425/834_301ad0e3/index.m3u8$第35集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://vvip.high26-playback.com/20250425/5318_820a8f5c/index.m3u8$第36集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://vvip.high26-playback.com/20250426/5451_95a7e425/index.m3u8$第37集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://svip.high25-playback.com/20250501/25513_09007e0c/index.m3u8$第38集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://cdn.yzzy27-play.com/20250503/2033_a5a61717/index.m3u8$第39集
-#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
-https://cdn.yzzy27-play.com/20250508/2517_c5dc3e08/index.m3u8$第40集
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/爱综艺.png" group-title="其他频道", 爱综艺
+http://120.234.187.66:10086/rtp/239.10.0.16:1025
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/爱综艺.png" group-title="其他频道", 爱综艺
+http://120.234.187.66:10086/rtp/239.20.0.236:2270
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/爱综艺.png" group-title="其他频道", 爱综艺
+http://120.234.187.66:58686/rtp/239.10.0.16:1025
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/爱综艺.png" group-title="其他频道", 爱综艺
+http://120.234.187.66:58686/rtp/239.20.0.236:2270

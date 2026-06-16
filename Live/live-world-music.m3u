@@ -25,15 +25,13 @@ http://live.mycamtv.com/medium.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 #EXTINF:-1 tvg-name="MUSIC JAPAN" group-title="国际-音乐", MUSIC JAPAN
 http://122.155.180.8:5021/live/495
-#EXTINF:-1 tvg-name="Music Top" group-title="国际-音乐", Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-#EXTINF:-1 tvg-name="Music Top | HD" group-title="国际-音乐", Music Top | HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-name="SUPERMUSIC" tvg-id="SUPER Music" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/SUPER Music.png" group-title="Jack", SUPER Music
+https://rust.946985.filegear-sg.me/proxy/ca4b4e8292b735fd?token=tgJerryfeng
+#EXTINF:-1 tvg-name="SUPER Music" tvg-id="SUPER Music" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack", SUPER Music
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=SMUS&token=tgJerryfeng
 #EXTINF:-1 tvg-name="MyCamTV Asian (720p)" group-title="国际-音乐", MyCamTV Asian (720p)
 https://live.mycamtv.com/asian.m3u8
 #EXTINF:-1 tvg-name="MyCamTV Teen (720p)" group-title="国际-音乐", MyCamTV Teen (720p)
 http://live.mycamtv.com/teen.m3u8
 #EXTINF:-1 tvg-name="MyCamTV Young (720p)" group-title="国际-音乐", MyCamTV Young (720p)
 http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://logo.catvod.com/MTV.png" group-title="🗽smart", MTV
-http://212.102.60.231/MTV/index.m3u8

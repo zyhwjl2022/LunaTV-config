@@ -199,8 +199,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 tvg-name="Arirang TV (1080p)" tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News", Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Arirang TV HD" tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News", Arirang TV HD
+#EXTINF:-1 tvg-name="ARIRANG TV" tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News", Arirang TV HD
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1 tvg-name="ARIRANG TV" tvg-id="ArirangTV.kr@HD" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg" group-title="General;News", ArirangTV HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-name="Arirang TV UN (1080p)" tvg-id="ArirangUN.kr@SD" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News", Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Army TV (1080p)" tvg-id="ArmyTV.ua@SD" tvg-logo="https://i.imgur.com/pGByjbh.png" group-title="News", Army TV (1080p)
@@ -1135,6 +1137,8 @@ http://103.250.28.74:8000/play/a00v/index.m3u8
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News", Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News", Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-name="Sky News Arabia (1080p)" tvg-id="SkyNewsArabia.ae@HD" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News", Sky News Arabia (1080p)
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 tvg-name="Sky News Arabia (1080p) [Not 24/7]" tvg-id="SkyNewsArabia.ae@SD" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News", Sky News Arabia (1080p) [Not 24/7]
@@ -1455,6 +1459,24 @@ http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
 https://stream1.freetv.fun/0fdaf263d27132270fb8fe3e20c8741c90ce87d270e49bb0534f2a10806fae10.ctv
 #EXTINF:-1 tvg-name="RTM 1News" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/24/20181024155943280116_76.png" group-title="News" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [SD]rte news
 https://stream1.freetv.fun/d67b1b162356af1fe0893cb2f6d46af446e847ba0725f0f47da4c5b5cbf4ac21.ctv
+#EXTINF:-1 tvg-name="CBNNEWS" group-title="YouTube「P」", CBN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 tvg-name="NBCNEWS" group-title="YouTube「P」", NBC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-name="TBSNEWS" group-title="YouTube「P」", TBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1 tvg-name="ANNNEWS" group-title="YouTube「P」", ANN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 tvg-name="HTBNEWS" group-title="YouTube「P」", HTB NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 tvg-name="KBSNEWS" group-title="YouTube「P」", KBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+#EXTINF:-1 tvg-name="kansainews" group-title="YouTube「P」", KANSAI NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS24" group-title="•日本", 日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS24" group-title="•日本", 日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="218 News" group-title="国际-新闻", 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="NEWS 24" group-title="国际-新闻", NEWS 24
@@ -1463,11 +1485,15 @@ http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="News Center 7 (Ohio)" group-title="国际-新闻", News Center 7 (Ohio)
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:-1 tvg-name="CHANNEL NEWSASIA" tvg-id="CHANNEL NEWSASIA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" group-title="STAR", Channel News Asia HD
+https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=Mediacorp_CNA_DASH&token=tgJerryfeng
 #EXTINF:-1 tvg-name="🇯🇵日本日テレNEWS24" tvg-id="🇯🇵日本日テレNEWS24" tvg-logo="https://epg.112114.xyz/logo/🇯🇵日本日テレNEWS24.png" group-title="🌏全球台直播", 🇯🇵日本日テレNEWS24
 http://iptv.zkbhj.com/tv/url/go?id=729942d34e8518d7d5d61c380136549bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
-#EXTINF:-1 tvg-name="Maria Worldwide nudist" group-title="国际-新闻", Maria Worldwide nudist
-https://vip2.slbfsl.com/20230323/ldCJGLiX/index.m3u8
-#EXTINF:-1 tvg-name="SZDTMB-HOY TV" tvg-id="c02bfc43eb4dcbbc2a47f7b65fbd3b5f" tvg-logo="https://lax.efoxcloud.com:9981/imagecache/7?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU" group-title="国际-新闻" tvg-chno="77", SZDTMB-HOY TV
-https://lax.efoxcloud.com:9981/stream/channelid/1140599744?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU&profile=pass
 #EXTINF:-1 tvg-name="Weathernews (720p)" tvg-id="Weathernews.jp@SD" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Weather", Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-name="Maria Worldwide nudist" group-title="国际-新闻", Maria Worldwide nudist
+https://vip2.slbfsl.com/20230323/ldCJGLiX/index.m3u8
+#EXTINF:-1 tvg-name="Fox News Channel" tvg-id="Fox News Channel" tvg-logo="https://11.112114.xyz/logo/Fox News Channel.png" group-title="STAR", Fox News Channel
+http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="SZDTMB-HOY TV" tvg-id="c02bfc43eb4dcbbc2a47f7b65fbd3b5f" tvg-logo="https://lax.efoxcloud.com:9981/imagecache/7?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU" group-title="国际-新闻" tvg-chno="77", SZDTMB-HOY TV
+https://lax.efoxcloud.com:9981/stream/channelid/1140599744?auth=P.nzxNHp8-TpQaiafemiAzvHTgeU&profile=pass

@@ -1,6 +1,130 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
 http://111.22.153.159:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://home.wwang.pw:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="数字频道", 求索生活
+http://gslbserv.itv.cmvideo.cn/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="生活HD" group-title="中文-生活", 生活HD
+http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+#EXTINF:-1 tvg-name="成都都市生活" group-title="中文-生活", 成都都市生活
+http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/CDTV-3_4000.m3u8
+#EXTINF:-1 tvg-name="泸州公共生活频道" group-title="中文-生活", 泸州公共生活频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+#EXTINF:-1 tvg-name="金华盘安生活" group-title="中文-生活", 金华盘安生活
+http://pili-live-hls.panews.cn/panews/live3000149-0.m3u8
+#EXTINF:-1 tvg-name="丽水景宁文化旅游" group-title="中文-生活", 丽水景宁文化旅游
+http://pili-live-hls.jnbctv.com/jnlive/tv81-1537429639.m3u8
+#EXTINF:-1 tvg-name="宁波社会生活" group-title="中文-生活", 宁波社会生活
+http://live.cloud.nbtv.cn/live/98ef9dc4eb1a4259b7764ffc4a3ab241?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1 tvg-name="舟山公共生活" group-title="中文-生活", 舟山公共生活
+http://stream.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 tvg-name="舟山群岛旅游" group-title="中文-生活", 舟山群岛旅游
+http://stream.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1 tvg-name="舟山生活" group-title="中文-生活", 舟山生活
+http://live.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 tvg-name="蚌端口生活频道" group-title="中文-生活", 蚌端口生活频道
+http://stream.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="十堰经济旅游" group-title="其他", 十堰经济旅游
+http://p2bj.weizan.cn/351104/791122427715011838/live.m3u8
+#EXTINF:-1 tvg-name="洪湖生活频道" group-title="中文-生活", 洪湖生活频道
+http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUFM01.m3u8?auth_key=1672502399-0-0-69ddd1da2207155680ab702668a87438
+#EXTINF:-1 tvg-name="黄陂生活频道" group-title="中文-生活", 黄陂生活频道
+http://live.hptv.com.cn:10080/live/cctv9.m3u8
+#EXTINF:-1 tvg-name="江夏经济生活" group-title="中文-生活", 江夏经济生活
+http://59.175.226.142:280/gb28181/jjsh.m3u8
+#EXTINF:-1 tvg-name="呼和浩特都市生活" group-title="中文-生活", 呼和浩特都市生活
+http://cdnpull.0471tv.org.cn/live/test2.m3u8
+#EXTINF:-1 tvg-name="包头生活服务" group-title="中文-生活", 包头生活服务
+http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live
+#EXTINF:-1 tvg-name="梧州教育生活" group-title="中文-生活", 梧州教育生活
+http://live.wzrtv.cn/jysh1/sd/live.m3u8
+#EXTINF:-1 tvg-name="丰县生活娱乐" group-title="中文-生活", 丰县生活娱乐
+http://fengxian-hls-tv-yf.cm.jstv.com/live/fxshyl/online.m3u8
+#EXTINF:-1 tvg-name="贾汪旅游频道" group-title="中文-生活", 贾汪旅游频道
+http://jiawang-hls-tv-yf.cm.jstv.com/live/jwly/online.m3u8
+#EXTINF:-1 tvg-name="南通都市生活" group-title="中文-生活", 南通都市生活
+http://cm.wshls.homecdn.com/live/7cc7.m3u8
+#EXTINF:-1 tvg-name="如东生活服务" group-title="中文-生活", 如东生活服务
+http://rudong-hls-tv-yf.cm.jstv.com/live/rdshfw/online.m3u8
+#EXTINF:-1 tvg-name="睢宁生活教育" group-title="中文-生活", 睢宁生活教育
+http://suining-hls-tv-yf.cm.jstv.com/live/suiningsh/online.m3u8
+#EXTINF:-1 tvg-name="徐州经济生活" group-title="中文-生活", 徐州经济生活
+http://stream3.huaihai.tv/zhbnw/playlist.m3u8
+#EXTINF:-1 tvg-name="徐州生活" group-title="中文-生活", 徐州生活
+http://stream1.huaihai.tv/jjsh/playlist.m3u8
+#EXTINF:-1 tvg-name="昌邑经济生活" group-title="中文-生活", 昌邑经济生活
+https://jsylivealone302.iqilu.com/live/changyi_tv02.m3u8
+#EXTINF:-1 tvg-name="昌邑经济生活" group-title="中文-生活", 昌邑经济生活
+https://jsylivealone302.iqilu.com/live/changyi_tv02/index.m3u8
+#EXTINF:-1 tvg-name="茌平生活频道[1280*720]" group-title="中文-生活", 茌平生活频道[1280*720]
+https://jsylivealone302.iqilu.com/live/chiping_tv02/index.m3u8
+#EXTINF:-1 tvg-name="费县生活频道[1280*720]" group-title="中文-生活", 费县生活频道[1280*720]
+https://jsylivealone302.iqilu.com/live/feixian_tv02/index.m3u8
+#EXTINF:-1 tvg-name="福山区生活频道[720*576]" group-title="中文-生活", 福山区生活频道[720*576]
+https://jsylivealone302.iqilu.com/live/fushan_tv02/index.m3u8
+#EXTINF:-1 tvg-name="即墨生活服务" group-title="中文-生活", 即墨生活服务
+https://jsylivealone302.iqilu.com/live/jimo_tv02/index.m3u8
+#EXTINF:-1 tvg-name="临朐经济生活[786*576]" group-title="中文-生活", 临朐经济生活[786*576]
+https://jsylivealone302.iqilu.com/live/linqu_tv02/index.m3u8
+#EXTINF:-1 tvg-name="临沭生活频道" group-title="中文-生活", 临沭生活频道
+https://jsylivealone302.iqilu.com/live/linshu_tv02/index.m3u8
+#EXTINF:-1 tvg-name="临淄生活服务" group-title="中文-生活", 临淄生活服务
+https://jsylivealone302.iqilu.com/live/linzi_tv02/index.m3u8
+#EXTINF:-1 tvg-name="龙口市生活频道[720*406]" group-title="中文-生活", 龙口市生活频道[720*406]
+https://jsylivealone302.iqilu.com/live/longkou_tv02/index.m3u8
+#EXTINF:-1 tvg-name="乳山生活频道[640*480]" group-title="中文-生活", 乳山生活频道[640*480]
+https://jsylivealone302.iqilu.com/live/rushan_tv02/index.m3u8
+#EXTINF:-1 tvg-name="泗水文化生活" group-title="中文-生活", 泗水文化生活
+https://jsylivealone302.iqilu.com/live/sishui_tv02/index.m3u8
+#EXTINF:-1 tvg-name="潍坊二套经济生活" group-title="中文-生活", 潍坊二套经济生活
+http://stream.wfcmw.cn/2/sd/live.m3u8?_upt=5573adc41578381768
+#EXTINF:-1 tvg-name="兖州生活频道" group-title="中文-生活", 兖州生活频道
+https://jsylivealone302.iqilu.com/live/yanzhou_tv02/index.m3u8
+#EXTINF:-1 tvg-name="沂南温泉旅游" group-title="中文-生活", 沂南温泉旅游
+https://jsylivealone302.iqilu.com/live/yinan_tv02/index.m3u8
+#EXTINF:-1 tvg-name="沂源生活频道" group-title="中文-生活", 沂源生活频道
+https://jsylivealone302.iqilu.com/live/yiyuan_tv02/index.m3u8
+#EXTINF:-1 tvg-name="鱼台生活频道" group-title="中文-生活", 鱼台生活频道
+https://jsylivealone302.iqilu.com/live/yutai_tv01/index.m3u8
+#EXTINF:-1 tvg-name="长清生活频道" group-title="中文-生活", 长清生活频道
+https://jsylivealone302.iqilu.com/live/changqing_tv02/index.m3u8
+#EXTINF:-1 tvg-name="诸城生活娱乐" group-title="中文-生活", 诸城生活娱乐
+https://jsylivealone302.iqilu.com/live/zhucheng_tv02/index.m3u8
+#EXTINF:-1 tvg-name="朔州生活娱乐" group-title="中文-生活", 朔州生活娱乐
+http://stream.sxsztv.com/live2/sd/live.m3u8
+#EXTINF:-1 tvg-name="彭水文化旅游" group-title="中文-生活", 彭水文化旅游
+http://pengshuilive.cbg.cn/pengshui02.m3u8
+#EXTINF:-1 tvg-name="封丘城乡生活" group-title="中文-生活", 封丘城乡生活
+http://tvpull.dxhmt.cn:9081/tv/10727-2.m3u8
+#EXTINF:-1 tvg-name="周口经济生活" group-title="中文-生活", 周口经济生活
+http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8?DVR
+#EXTINF:-1 tvg-name="格尔木生活公共" group-title="中文-生活", 格尔木生活公共
+http://live.geermurmt.com/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="石河子经济生活" group-title="中文-生活", 石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-id="BBC Earth Lifestyle" group-title="GPT-记录", BBC Earth Lifestyle
+https://smt.goiptv.us.ci/bbclifestyle_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="Lifestyle&Fashion" tvg-id="Lifestyle&Fashion" group-title="GPT-印尼", Lifestyle&Fashion
+https://smt.goiptv.us.ci/Lifestyle/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Sunlife" tvg-id="Astro Sunlife" group-title="GPT-印度", Astro Sunlife
+https://smt.goiptv.us.ci/Sunlife/playlist.m3u8
+#EXTINF:-1 tvg-name="Jiangxi Economy & Life Channel" tvg-id="JiangxiEconomyLifeChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv3.jpg" group-title="Business", Jiangxi Economy & Life Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+#EXTINF:-1 tvg-name="Jilin City Channel" tvg-id="JilinCityChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jldspd.jpg" group-title="Lifestyle", Jilin City Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+#EXTINF:-1 tvg-name="Jilin Lifestyle Channel" tvg-id="JilinLifestyleChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jlshpd.jpg" group-title="Lifestyle", Jilin Lifestyle Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+#EXTINF:-1 tvg-name="Jilin Rural Channel" tvg-id="JilinRuralChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" group-title="Education;Lifestyle;Science", Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+#EXTINF:-1 tvg-name="QTV-2" tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="Lifestyle", QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 tvg-name="徐州經濟生活 (1080p)" tvg-id="XuzhouEconomicLifeChannel.cn@SD" group-title="Business", 徐州經濟生活 (1080p)
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-name="长沙女性 [Geo-blocked]" tvg-id="HunanWomensChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/csnxpd.jpg" group-title="Lifestyle", 长沙女性 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+#EXTINF:-1 tvg-name="圆点生活" group-title="LocalTVHD", 圆点生活
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
 #EXTINF:-1 tvg-name="离了之后发现怀孕了" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161051000027074883ozgxa2.jpg" group-title="生活杂谈", 离了之后发现怀孕了
 https://live.ottiptv.cc/bilibili/27074883
 #EXTINF:-1 tvg-name="咕咕嘎嘎" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161050001896298702o67qg4.jpg" group-title="生活杂谈", 咕咕嘎嘎
@@ -473,36 +597,60 @@ https://live.ottiptv.cc/bilibili/24560592
 https://live.ottiptv.cc/bilibili/31632100
 #EXTINF:-1 tvg-name="末日降临？我先降临（同人画画）" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06161055001863479057bb1h4l.jpg" group-title="手工绘画", 末日降临？我先降临（同人画画）
 https://live.ottiptv.cc/bilibili/1863479057
-#EXTINF:-1 tvg-name="Jiangxi Economy & Life Channel" tvg-id="JiangxiEconomyLifeChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv3.jpg" group-title="Business", Jiangxi Economy & Life Channel
-https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
-#EXTINF:-1 tvg-name="Jilin City Channel" tvg-id="JilinCityChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jldspd.jpg" group-title="Lifestyle", Jilin City Channel
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
-#EXTINF:-1 tvg-name="Jilin Lifestyle Channel" tvg-id="JilinLifestyleChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jlshpd.jpg" group-title="Lifestyle", Jilin Lifestyle Channel
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
-#EXTINF:-1 tvg-name="Jilin Rural Channel" tvg-id="JilinRuralChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" group-title="Education;Lifestyle;Science", Jilin Rural Channel
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
-#EXTINF:-1 tvg-name="QTV-2" tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="Lifestyle", QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-#EXTINF:-1 tvg-name="徐州經濟生活 (1080p)" tvg-id="XuzhouEconomicLifeChannel.cn@SD" group-title="Business", 徐州經濟生活 (1080p)
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-name="长沙女性 [Geo-blocked]" tvg-id="HunanWomensChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/csnxpd.jpg" group-title="Lifestyle", 长沙女性 [Geo-blocked]
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+#EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列", 求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://live.lizanyang.top/tv/求索生活.png" group-title="求索系列", 求索生活
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+#EXTINF:-1 tvg-name="KBS LIFE" group-title="•韩国", KBS LIFE
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-name="LifevisionTV" group-title="•杂货", LifevisionTV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Midpen Media Center Arts Issues and Lifestyles Channel 30" group-title="•杂货", Midpen Media Center Arts Issues and Lifestyles Channel 30
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="US | Better Life TV" group-title="•杂货", US | Better Life TV
+https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="大象的别样生活(上)" group-title="•动物世界", 大象的别样生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f4e6615b73ce42aa805767845425078a/1200.m3u8
+#EXTINF:-1 tvg-name="大象的别样生活(下)" group-title="•动物世界", 大象的别样生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f80446c8a43c4357af8680057ec1669f/1200.m3u8
+#EXTINF:-1 tvg-name="大象的秘密生活(上)" group-title="•动物世界", 大象的秘密生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f43884b4064750af230205752dbb63/1200.m3u8
+#EXTINF:-1 tvg-name="大象的秘密生活(下)" group-title="•动物世界", 大象的秘密生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/43e021f3a6dc4b6089c71afe80552fae/1200.m3u8
+#EXTINF:-1 tvg-name="大象与羊的快乐生活" group-title="•动物世界", 大象与羊的快乐生活
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b72e3a49fdd44f36915d6cc59aa0a113/1200.m3u8
+#EXTINF:-1 tvg-name="海鬣蜥的幸福生活" group-title="•动物世界", 海鬣蜥的幸福生活
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
+#EXTINF:-1 tvg-name="海豚的奇妙生活(上)" group-title="•动物世界", 海豚的奇妙生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30385b1caa214c9a8c6c53ef69ce7e18/1200.m3u8
+#EXTINF:-1 tvg-name="海豚的奇妙生活(下)" group-title="•动物世界", 海豚的奇妙生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
+#EXTINF:-1 tvg-name="美食的" group-title="•动物世界", 美食的
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9debd40527e34471bdfbe1212aa198d7/1200.m3u8
+#EXTINF:-1 tvg-name="潜水大师的岛上生活(上)" group-title="•动物世界", 潜水大师的岛上生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd88344f084b47c593388fdf6a8c443f/1200.m3u8
+#EXTINF:-1 tvg-name="潜水大师的岛上生活(下)" group-title="•动物世界", 潜水大师的岛上生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76332b54d8074b0fada76d081570d621/1200.m3u8
+#EXTINF:-1 tvg-name="狮群的家园生活" group-title="•动物世界", 狮群的家园生活
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
+#EXTINF:-1 tvg-name="棕熊的捕鱼生活(上)" group-title="•动物世界", 棕熊的捕鱼生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
+#EXTINF:-1 tvg-name="棕熊的捕鱼生活(下)" group-title="•动物世界", 棕熊的捕鱼生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
+#EXTINF:-1 tvg-name="iHOT爱美食" tvg-id="iHOT爱美食" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱美食.png" group-title="IHOT", iHOT爱美食
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="朱一旦的枯燥生活v" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="影视轮播", 朱一旦的枯燥生活v
 http://115.190.124.74/php/douyu.php?id=7907979&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://live.lizanyang.top/tv/求索生活.png" group-title="数字综合", 求索生活
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-name="美食汇" tvg-id="美食汇" tvg-logo="https://live.lizanyang.top/tv/美食汇.png" group-title="数字综合", 美食汇
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8
+#EXTINF:-1 tvg-name="保定生活健康" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/保定生活健康.png" group-title="其他频道" response-time="25ms", 保定生活健康
+http://121.19.134.160:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="韓流美食料理秀" tvg-id="韓流美食料理秀" group-title="風雲試看臺灣頻道", 韓流美食料理秀
 http://iptv.4666888.xyz/iptv2A.php?id=63
-#EXTINF:-1 tvg-name="求索生活" tvg-id="C07" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo4.png" group-title="数字", 求索生活
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CIBN时尚生活" group-title="中文-生活", CIBN时尚生活
 http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
 #EXTINF:-1 tvg-name="爱美食" group-title="中文-生活", 爱美食
 http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-name="奉化生活娱乐" group-title="中文-生活", 奉化生活娱乐
-http://stream.fhtv.net.cn/ylpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="开封生活图文" group-title="中文-生活", 开封生活图文
 http://117.158.206.60:9080/kaifeng/kftv2.m3u8
 #EXTINF:-1 tvg-name="兰州生活经济蓝光" group-title="中文-生活", 兰州生活经济蓝光
@@ -517,6 +665,8 @@ http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
 http://live.wifizs.cn/qdly/sd/live.m3u8
 #EXTINF:-1 tvg-name="周口经济生活" group-title="中文-生活", 周口经济生活
 http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
+#EXTINF:-1 tvg-name="徐州经济生活" group-title="中文-生活", 徐州经济生活
+http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 #EXTINF:-1 tvg-name="[HD]亞洲旅遊台@@2" tvg-id="2696" tvg-logo="https://files.3y1.xyz/media/images/channel/2018/03/11/large/20180311221333244935_31.png" group-title="其它", [HD]亞洲旅遊台@@2
 https://epg.pm/stream/999e71f971a4bdba3b152c3d0d1ff1b531a6aaccaa6234c3699976373844d7ca.m3u8
 #EXTINF:-1 tvg-name="[HD]亞洲旅遊[1280*720]" tvg-id="2696" tvg-logo="https://files.3y1.xyz/media/images/channel/2018/03/11/large/20180311221333244935_31.png" group-title="其它", [HD]亞洲旅遊[1280*720]
@@ -641,68 +791,82 @@ https://epg.pm/stream/3d669308eb8645cca4da9960e65bc5be9afb2929ec58e5a3d097801cab
 https://epg.pm/stream/1d0901b3e01ff632665e90f27b14325d60c07448ce15cd1b960606befb90184a.m3u8
 #EXTINF:-1 tvg-name="[BD]中华美食" tvg-id="2772" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509232404768545_27.jpg" group-title="其它", [BD]中华美食
 https://epg.pm/stream/b226d0f08bb69853a6f2fb204150333a46c797694a3ca6628f137153b04b0da6.m3u8
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊", 亞洲旅遊台
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv076
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊", 亞洲旅遊
+#EXTINF:-1 tvg-name="风尚生活[高清]" group-title="组播2", 风尚生活[高清]
+http://114.254.89.131:2222/rtp/239.3.1.114:8001
+#EXTINF:-1 tvg-name="生活时尚" tvg-id="1981" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="百视通", 生活时尚
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="機智校園生活-FastTV飛速看" tvg-id="機智校園生活-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live011.png" group-title="4GTV", 機智校園生活-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/416dfce373f63a32?token=tgJerryfeng
+#EXTINF:-1 tvg-name="民視健康美麗生活-FastTV飛速看" tvg-id="民視健康美麗生活-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live210.png" group-title="4GTV", 民視健康美麗生活-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/4f3312e19c6995c6?token=tgJerryfeng
+#EXTINF:-1 tvg-name="民視生活通-FastTV飛速看" tvg-id="民視生活通-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/消高FASTTV LOGO.png" group-title="4GTV", 民視生活通-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/962d859771954d02?token=tgJerryfeng
+#EXTINF:-1 tvg-name="韓流美食料理秀-FastTV飛速看" tvg-id="韓流美食料理秀-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live240.png" group-title="4GTV", 韓流美食料理秀-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/5662fd883c19e5d8?token=tgJerryfeng
+#EXTINF:-1 tvg-name="民視旅遊台" tvg-id="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="4GTV", 民視旅遊
+http://220.135.64.124:5050/litv-ftv07/index.m3u8
+#EXTINF:-1 tvg-name="民視旅遊台" tvg-id="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="4GTV", 民視旅遊
+http://220.135.64.124:5050/li-litv-ftv07/index.m3u8
+#EXTINF:-1 tvg-name="民視旅遊台" tvg-id="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="4GTV", 民視旅遊
+http://114.32.153.6:5051/litv-ftv07/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="4GTV", 亞洲旅遊
 http://220.135.64.124:5050/4gtv-4gtv076/index.m3u8
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊", 亞洲旅遊
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="4GTV", 亞洲旅遊
 http://220.135.64.124:5050/li-4gtv-4gtv076/index.m3u8
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊", 亞洲旅遊
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="4GTV", 亞洲旅遊
 http://220.135.64.124:5050/of-4gtv-4gtv076/index.m3u8
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊", 亞洲旅遊
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="4GTV", 亞洲旅遊
 http://114.32.153.6:5051/4gtv-4gtv076/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊", 亞洲旅遊
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="4GTV", 亞洲旅遊
 http://114.32.153.6:5051/of-4gtv-4gtv076/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="Smart知識台" tvg-id="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊", Smart知識台
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn19
+#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="4GTV", ELTA生活旅遊
+http://220.135.64.124:5050/4gtv-live120/index.m3u8
+#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="4GTV", 愛爾達生活旅遊台
+http://114.32.153.6:5051/4gtv-live120/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="Smart知識台" tvg-id="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊", Smart知識台
 http://220.135.64.124:5050/li-litv-longturn19/index.m3u8
 #EXTINF:-1 tvg-name="Smart知識台" tvg-id="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊", Smart知識台
 http://220.135.64.124:5050/litv-longturn19/index.m3u8
 #EXTINF:-1 tvg-name="SMART知識台" tvg-id="SMART知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊", SMART知識台
 http://114.32.153.6:5051/litv-xinchuang19/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="擁有超常技能的異世界流浪美食家" tvg-id="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="擁有超常技能的異世界流浪美食家", 擁有超常技能的異世界流浪美食家
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii160
-#EXTINF:-1 tvg-name="擁有超常技能的異世界流浪美食家" tvg-id="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="擁有超常技能的異世界流浪美食家", 擁有超常技能的異世界流浪美食家
+#EXTINF:-1 tvg-name="擁有超常技能的異世界流浪美食家" tvg-id="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="歐飛點播", 擁有超常技能的異世界流浪美食家
 http://220.135.64.124:5050/ofiii160/index.m3u8
-#EXTINF:-1 tvg-name="中國美食大探索" tvg-id="中國美食大探索" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3784_ofiii246_tv_20250626.png" group-title="中國美食大探索", 中國美食大探索
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii246
-#EXTINF:-1 tvg-name="中國旅遊大探索" tvg-id="中國旅遊大探索" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3813_ofiii247_tv_20250729.png" group-title="中國旅遊大探索", 中國旅遊大探索
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii247
-#EXTINF:-1 tvg-name="Global Trekker" tvg-id="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="生活旅遊", Global Trekker
-http://220.135.64.124:5050/4gtv-live112/index.m3u8
-#EXTINF:-1 tvg-name="Pet Club TV" tvg-id="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="生活旅遊", Pet Club TV
-http://220.135.64.124:5050/4gtv-live110/index.m3u8
-#EXTINF:-1 tvg-name="Pet Club TV" tvg-id="Pet Club TV" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/Pet Club TV.png" group-title="生活旅遊", Pet Club TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="民視旅遊台" tvg-id="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊", 民視旅遊
-http://220.135.64.124:5050/litv-ftv07/index.m3u8
-#EXTINF:-1 tvg-name="民視旅遊台" tvg-id="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊", 民視旅遊
-http://220.135.64.124:5050/li-litv-ftv07/index.m3u8
-#EXTINF:-1 tvg-name="民視旅遊台" tvg-id="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊", 民視旅遊
-http://114.32.153.6:5051/litv-ftv07/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="幸福空間居家台" tvg-id="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="生活旅遊", 幸福空間居家台
-http://220.135.64.124:5050/4gtv-live206/index.m3u8
-#EXTINF:-1 tvg-name="幸福空間居家台" tvg-id="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="生活旅遊", 幸福空間居家台
-http://114.32.153.6:5051/4gtv-4gtv064/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="生活旅遊", ELTA生活旅遊
-http://220.135.64.124:5050/4gtv-live120/index.m3u8
-#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="生活旅遊", 愛爾達生活旅遊台
-http://114.32.153.6:5051/4gtv-live120/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="LUXE TV Channel" tvg-id="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="生活旅遊", LUXE TV
-http://220.135.64.124:5050/4gtv-live121/index.m3u8
-#EXTINF:-1 tvg-name="LUXE TV Channel" tvg-id="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="生活旅遊", LUXE TV Channel
-http://114.32.153.6:5051/4gtv-live121/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="纪录频道|BBC Earth Lifestyle" tvg-id="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源", 纪录频道|BBC Earth Lifestyle
-https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
 #EXTINF:-1 tvg-name="印度尼西亚|Lifestyle&amp;Fashion" tvg-id="印度尼西亚|Lifestyle&amp;Fashion" tvg-logo="https://epg.112114.xyz/logo/印度尼西亚|LIFESTYLE&amp;FASHION.png" group-title="Smart☠️源", 印度尼西亚|Lifestyle&amp;Fashion
 https://smart.pendy.dpdns.org/Smart.php?id=Lifestyle
 #EXTINF:-1 tvg-name="印度|Astro Sunlife" tvg-id="印度|Astro Sunlife" tvg-logo="https://epg.112114.xyz/logo/印度|ASTROSUNLIFE.png" group-title="Smart☠️源", 印度|Astro Sunlife
 https://smart.pendy.dpdns.org/Smart.php?id=Sunlife
+#EXTINF:-1 tvg-name="纪录|亚洲美食" tvg-id="纪录|亚洲美食" tvg-logo="https://tv-res.pages.dev/logo/纪录|亚洲美食.png" group-title="💓优质个源", 纪录|亚洲美食
+http://free.cnlive.club/channel/4b914480/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|美食星球" tvg-id="纪录|美食星球" tvg-logo="https://tv-res.pages.dev/logo/纪录|美食星球.png" group-title="💓优质个源", 纪录|美食星球
+http://free.cnlive.club/channel/6272ba2c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|BBC Earth Lifestyle" tvg-id="纪录|BBC Earth Lifestyle" tvg-logo="https://tv-res.pages.dev/logo/纪录|BBC Earth Lifestyle.png" group-title="💓优质个源", 纪录|BBC Earth Lifestyle
+http://free.cnlive.club/channel/359a630b/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="纪录|亚洲旅游" tvg-id="纪录|亚洲旅游" tvg-logo="https://tv-res.pages.dev/logo/纪录|亚洲旅游.png" group-title="💓优质个源", 纪录|亚洲旅游
+http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="EYE旅游" tvg-id="EYE旅游" tvg-logo="https://tv-res.pages.dev/logo/EYE旅游.png" group-title="🍹定制P3P☕️", EYE旅游
+p3p://167.114.175.6:55331/64c105a500023b4e2333fd1453e42393
+#EXTINF:-1 tvg-name="EL生活英语" tvg-id="EL生活英语" tvg-logo="https://tv-res.pages.dev/logo/EL生活英语.png" group-title="🍹定制P3P☕️", EL生活英语
+p3p://167.114.175.6:55331/624888bb000b784ace507da37b7906ea
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-id="亚洲旅游" tvg-logo="https://tv-res.pages.dev/logo/亚洲旅游.png" group-title="🍹定制P3P☕️", 亚洲旅游
+p3p://167.114.175.6:55331/61e4f963000c710c55474e4e1e2273d9
+#EXTINF:-1 tvg-name="FTV旅游" tvg-id="FTV旅游" tvg-logo="https://tv-res.pages.dev/logo/FTV旅游.png" group-title="🍹定制P3P☕️", FTV旅游
+p3p://167.114.175.6:55331/63ebf4b70008a733e2edb2296e997eb6
 #EXTINF:-1 tvg-name="兰州旅游" group-title="其他", 兰州旅游
 http://61.178.227.57:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="十堰经济旅游" group-title="其他", 十堰经济旅游
 http://171.43.64.216:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="绵阳科教生活" tvg-logo="https://epg.112114.xyz/logo/绵阳科教生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 绵阳科教生活
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221228087/index.m3u8
+#EXTINF:-1 tvg-name="遂宁文化生活" tvg-logo="https://epg.112114.xyz/logo/遂宁文化生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 遂宁文化生活
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221228091/index.m3u8
+#EXTINF:-1 tvg-name="乐山文化生活" tvg-logo="https://epg.112114.xyz/logo/乐山文化生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 乐山文化生活
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221228083/index.m3u8
+#EXTINF:-1 tvg-name="雅安文化生活" tvg-logo="https://epg.112114.xyz/logo/雅安文化生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 雅安文化生活
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-name="巴中文旅生活" tvg-logo="https://epg.112114.xyz/logo/巴中文旅生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 巴中文旅生活
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221228088/index.m3u8
+#EXTINF:-1 tvg-name="内江科教生活" tvg-logo="https://epg.112114.xyz/logo/内江科教生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 内江科教生活
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221228089/index.m3u8
 #EXTINF:-1 tvg-name="大屁股婆婆的公共生活很奇怪" group-title="中文-生活", 大屁股婆婆的公共生活很奇怪
 https://vip2.slbfsl.com/20230408/XyjJT4b4/index.m3u8
 #EXTINF:-1 tvg-name="海岛生活1" group-title="中文-生活", 海岛生活1
@@ -717,18 +881,22 @@ https://vip2.slbfsl.com/20230119/Hpm1XQTP/index.m3u8
 https://t21.cdn2020.com/video/m3u8/2023/03/20/f2b1aa06/index.m3u8
 #EXTINF:-1 tvg-name="STAR-818 近親相姦生活-榎本美咲" group-title="中文-生活", STAR-818 近親相姦生活-榎本美咲
 https://t21.cdn2020.com/video/m3u8/2023/02/01/e8f68d51/index.m3u8
-#EXTINF:-1 tvg-name="绵阳科教生活" tvg-logo="https://epg.112114.xyz/logo/绵阳科教生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 绵阳科教生活
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221228087/index.m3u8
-#EXTINF:-1 tvg-name="遂宁文化生活" tvg-logo="https://epg.112114.xyz/logo/遂宁文化生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 遂宁文化生活
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221228091/index.m3u8
-#EXTINF:-1 tvg-name="乐山文化生活" tvg-logo="https://epg.112114.xyz/logo/乐山文化生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 乐山文化生活
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221228083/index.m3u8
-#EXTINF:-1 tvg-name="雅安文化生活" tvg-logo="https://epg.112114.xyz/logo/雅安文化生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 雅安文化生活
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-name="巴中文旅生活" tvg-logo="https://epg.112114.xyz/logo/巴中文旅生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 巴中文旅生活
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221228088/index.m3u8
-#EXTINF:-1 tvg-name="内江科教生活" tvg-logo="https://epg.112114.xyz/logo/内江科教生活.png" group-title="中文-生活" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 内江科教生活
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221228089/index.m3u8
+#EXTINF:-1 tvg-name="凤台文化生活" group-title="中文-生活", 凤台文化生活
+http://60.175.115.119:1935/live/wenhua/playlist.m3u8?zanhd
+#EXTINF:-1 tvg-name="含山影视生活" group-title="中文-生活", 含山影视生活
+http://223.241.197.199:1935/live/yingshi/playlist.m3u8
+#EXTINF:-1 tvg-name="呼伦贝尔文化旅游" group-title="中文-生活", 呼伦贝尔文化旅游
+https://live.hrtonline.cn/flv/live/live002.flv
+#EXTINF:-1 tvg-name="呼伦贝尔文化旅游" group-title="中文-生活", 呼伦贝尔文化旅游
+https://live.hrtonline.cn/hls/live002.m3u8
+#EXTINF:-1 tvg-name="江陵经济生活" group-title="中文-生活", 江陵经济生活
+http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=1672502399-0-0-e85888284622c2b687cad07f883626cc
+#EXTINF:-1 tvg-name="庆云生活" group-title="中文-生活", 庆云生活
+https://jsylivealone302.iqilu.com/qingyun/qingyun_tv02.m3u8
+#EXTINF:-1 tvg-name="孝昌生活频道" group-title="中文-生活", 孝昌生活频道
+http://xiaochang-live21.cjyun.org/10128/s10128-xcsh.m3u8?auth_key=1672502399-0-0-69b3682eb810b8d430b8a81bd9af8dcf
+#EXTINF:-1 tvg-name="银川生活" group-title="中文-生活", 银川生活
+http://www.ycen.com.cn/ycxw/sd/live.m3u8?zningxd
 #EXTINF:-1 tvg-name="SiTV-生活时尚" tvg-id="SiTV-生活时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-生活时尚.png" group-title="数字频道", SiTV-生活时尚
 http://116.233.67.80:8899/rtp/233.18.204.45:5140
 #EXTINF:-1 tvg-name="SiTV-生活时尚" tvg-id="SiTV-生活时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-生活时尚.png" group-title="数字频道", SiTV-生活时尚
@@ -755,11 +923,3 @@ http://39.77.21.53:4002/rtp/239.253.254.99:8000
 http://106.116.126.74:4022/rtp/239.254.201.166:6359
 #EXTINF:-1 tvg-name="🇫🇷法国RMC Life" tvg-logo="https://epg.112114.xyz/logo/🇫🇷法国RMC Life.png" group-title="🌏全球台直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 🇫🇷法国RMC Life
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
-#EXTINF:-1 tvg-name="武汉科技生活" tvg-logo="https://logo.catvod.com/武汉科技生活.png" group-title="☘️个人常看", 武汉科技生活
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632
-#EXTINF:-1 tvg-name="吉视生活" tvg-logo="https://logo.catvod.com/吉视生活.png" group-title="📺通用IPTV", 吉视生活
-http://36.135.118.195:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="KBS Life (480p)" tvg-logo="https://logo.catvod.com/KBS Life (480p).png" group-title="🇰🇷韩国", KBS Life (480p)
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 tvg-name="都市生活" tvg-logo="https://logo.catvod.com/都市生活.png" group-title="📺轮播", 都市生活
-http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8
