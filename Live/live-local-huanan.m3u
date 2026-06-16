@@ -1,291 +1,617 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
-http://r.jdshipin.com/sE5vO
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
-https://hk.188766.xyz/?migutoken=34467290b64f0850801479159893a4de&id=gd_gdzj&type=sz
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="广东珠江.png" group-title="地方-华南", 广东珠江
-http://111.29.9.33:6610/200000001898/460000089800010091/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://183.11.239.36:808/hls/83/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://163.177.122.75:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://home.wwang.pw:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://123.254.110.101:5000/2000000003000000033/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东珠江.png" group-title="地方-华南", 广东珠江
-http://iptv.0564.org:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
-https://cdn2.163189.xyz/163189/gdzj
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="http://10.1.0.25:5180/logo/广东珠江.png" group-title="地方-华南", 广东珠江
-http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="http://10.1.0.25:5180/logo/广东珠江.png" group-title="地方-华南", 广东珠江
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="中国|珠江台" tvg-id="珠江" tvg-logo="https://epg.112114.xyz/logo/珠江.png" group-title="地方-华南", 中国|珠江台
+https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+#EXTINF:-1 tvg-name="嘉佳卡通 (广东) (540p) [Not 24/7]" group-title="地方-华南", 嘉佳卡通 (广东) (540p) [Not 24/7]
+http://112.25.48.68/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="广东 Ⅰ 韶关公共台 (720p) [Not 24/7]" group-title="地方-华南", 广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+#EXTINF:-1 tvg-name="广东 Ⅰ 韶关综合台 (720p) [Not 24/7]" group-title="地方-华南", 广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://epg.112114.xyz/logo/广东4K超高清.png" group-title="地方-华南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 广东4K超高清
+http://192.151.150.154/live/gdtvs3.m3u8
+#EXTINF:-1 tvg-name="广东77" tvg-id="广东77" group-title="地方-华南", 广东77
+http://kbpull.kktv8.com/livekktv/160602265/playlist.m3u8
+#EXTINF:-1 tvg-name="广东佳嘉卡通" tvg-logo="https://logo.catvod.com/广东佳嘉卡通.png" group-title="地方-华南", 广东佳嘉卡通
+http://36.135.118.195:85/tsfile/live/0150_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://logo.catvod.com/广东公共.png" group-title="地方-华南", 广东公共
+http://171.38.107.33:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="地方-华南", 广东公共
+http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="地方-华南", 广东公共
+http://218.13.14.6:60050/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="广东公共高清" group-title="地方-华南", 广东公共高清
+http://120.238.84.45:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卡通" tvg-logo="https://logo.catvod.com/广东卡通.png" group-title="地方-华南", 广东卡通
+http://117.141.162.238:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卡通" tvg-logo="https://logo.catvod.com/广东卡通.png" group-title="地方-华南", 广东卡通
+http://171.38.107.33:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="地方-华南", 广东影视
+http://113.81.20.131:20443/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="地方-华南", 广东影视
+http://117.141.162.238:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="地方-华南", 广东影视
+http://119.32.12.17:2901/udp/224.1.100.11:11111
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方-华南", 广东影视
+http://120.234.187.66:10086/rtp/239.10.0.127:1025
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方-华南", 广东影视
+http://120.234.187.66:10086/rtp/239.11.0.79:1025
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方-华南", 广东影视
+http://120.234.187.66:10086/rtp/239.20.0.117:2032
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方-华南", 广东影视
+http://120.234.187.66:10086/rtp/239.21.0.85:3680
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="地方-华南", 广东影视
+http://171.38.107.33:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="地方-华南", 广东影视
+http://go.bkpcp.top/mg/gdys
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="地方-华南", 广东影视
+http://tvtj1.jxwltx.com:8003/live1762.m3u8
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="地方-华南", 广东影视
+https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://107.150.60.122/live/gdxwa.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="地方-华南", 广东新闻
+http://113.81.20.131:20443/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="地方-华南", 广东新闻
+http://117.141.162.238:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="地方-华南", 广东新闻
+http://119.32.12.17:2901/udp/224.1.100.5:11111
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://119.32.12.32:2901/udp/224.1.100.5:11111
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方-华南", 广东新闻
+http://120.234.187.66:10086/rtp/239.10.0.122:1025
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方-华南", 广东新闻
+http://120.234.187.66:10086/rtp/239.10.0.199:1025
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方-华南", 广东新闻
+http://120.234.187.66:10086/rtp/239.20.0.112:2022
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方-华南", 广东新闻
+http://120.234.187.66:10086/rtp/239.21.0.93:3712
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://120.238.84.45:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://121.11.160.7:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://125.89.163.44:8888/udp/239.77.0.173:5146
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="地方-华南", 广东新闻
+http://171.38.107.33:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://183.11.239.36:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://183.237.95.108:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://183.62.8.58:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://192.151.150.154/live/gdxwa.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
 http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="地方-华南", 广东新闻
+http://go.bkpcp.top/mg/gdxw
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8637&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="地方-华南", 广东新闻
+http://tvtj1.jxwltx.com:8003/live2825.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
 https://hk.188766.xyz/?migutoken=4254e1ca8dcef82514ec6ce2a8bd39e4&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
 https://hls-gateway.vpstv.net/streams/708873.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
-https://stream1.freetv.fun/yan-dong-xin-wen-27.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://live.ximalaya.com/radio-first-page-app/live/245/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-10.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-13.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-14.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-15.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-16.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-16.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-17.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-18.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-18.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-19.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-2.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-20.ctv
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
 https://stream1.freetv.fun/yan-dong-xin-wen-20.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://119.32.12.17:2901/udp/224.1.100.5:11111
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://119.125.104.73:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-https://hk.188766.xyz/?migutoken=214dbf3989784d885df65b0230002953&id=gd_gdxw&type=sz
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-https://hk.188766.xyz/?migutoken=965348d35335beb4244c46255c820ea8&id=gd_gdxw&type=sz
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-https://hk.188766.xyz/?migutoken=ce4c3bd7ca22aa7ec2af3deae13e351c&id=gd_gdxw&type=sz
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-https://hk.188766.xyz/?migutoken=766140f19f8c49bf278d553bb23aa7aa&id=gd_gdxw&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
-http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
-https://hk.188766.xyz/?migutoken=08f126f29a9e9334c492a23a0f40038f&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
-https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-21.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-22.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-23.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-24.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-24.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-25.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-25.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-27.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-4.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-5.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-6.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-7.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-8.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-8.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-9.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-gao-qing-1.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-1.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-2.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-3.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-4.m3u8
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-华南", 广东新闻
+https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.catvod.com/广东民生.png" group-title="地方-华南", 广东民生
+http://113.81.20.131:20443/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.catvod.com/广东民生.png" group-title="地方-华南", 广东民生
+http://117.141.162.238:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://live.fanmingming.cn/tv/广东民生.png" group-title="地方-华南", 广东民生
 http://119.32.12.17:2901/udp/224.1.100.4:11111
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东民生.png" group-title="地方-华南", 广东民生
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://119.32.12.32:2901/udp/224.1.100.4:11111
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方-华南", 广东民生
+http://120.234.187.66:10086/rtp/239.10.0.123:1025
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方-华南", 广东民生
+http://120.234.187.66:10086/rtp/239.11.0.80:1025
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方-华南", 广东民生
+http://120.234.187.66:10086/rtp/239.20.0.113:2024
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方-华南", 广东民生
+http://120.234.187.66:10086/rtp/239.21.0.86:3684
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://120.77.205.62:8087/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://120.77.205.62:8087/rtp/239.77.0.5:5146
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://121.11.160.7:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://125.89.163.44:8888/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://192.151.150.154/live/gdgg.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
+http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.catvod.com/广东民生.png" group-title="地方-华南", 广东民生
+http://go.bkpcp.top/mg/gdms
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1615&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1648&tk=a0c4f6cfaba3
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东民生.png" group-title="地方-华南", 广东民生
-http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东民生.png" group-title="地方-华南", 广东民生
-http://mzitv.cn:32/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东民生.png" group-title="地方-华南", 广东民生
-https://hk.188766.xyz/?migutoken=3b398c7bf11291e824490d68c4fd0990&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东民生.png" group-title="地方-华南", 广东民生
-https://hk.188766.xyz/?migutoken=872e0af7041d965bb4514e12c07e3300&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东民生.png" group-title="地方-华南", 广东民生
-https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东民生.png" group-title="地方-华南", 广东民生
-https://hk.188766.xyz/?migutoken=2d1d94242fcad2ee0d32730941761c52&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广东民生.png" group-title="地方-华南", 广东民生
-https://hk.188766.xyz/?migutoken=68ea540b8f8061af06537152b2998b81&id=gd_gdms&type=sz
-#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="http://10.1.0.25:5180/logo/广东民生.png" group-title="地方-华南", 广东民生
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://logo.catvod.com/广东民生.png" group-title="地方-华南", 广东民生
+http://tvtj1.jxwltx.com:8003/dfws.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
+https://hk.188766.xyz/?migutoken=08f126f29a9e9334c492a23a0f40038f&id=gd_gdms&type=sz
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-1.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-10.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-11.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-12.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-12.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-13.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-14.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-17.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-18.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-2.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-2.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-20.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
 https://stream1.freetv.fun/yan-dong-min-sheng-21.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-22.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-23.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-24.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-25.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-26.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-27.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-29.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-30.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-31.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-32.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-34.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-36.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-39.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-4.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-40.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://tv-res.pages.dev/logo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="http://10.1.0.25:5180/logo/广东民生.png" group-title="地方-华南", 广东民生
 https://t.freetv.fun/live/yan-dong-min-sheng-2.php
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="http://10.1.0.25:5180/logo/广东民生.png" group-title="地方-华南", 广东民生
 https://t.freetv.fun/live/yan-dong-min-sheng-3.php
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
-http://107.150.60.122/live/gxxw.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
-http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
-http://198.204.228.26/live/gxxw.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
-http://192.151.150.154/live/gxxw.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
-https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://222.218.159.183:8181/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://113.15.185.150:8181/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://222.217.230.195:8181/tsfile/live/1057_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://171.110.42.239:8181/tsfile/live/1057_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://171.110.42.238:8181/tsfile/live/1057_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://219.159.194.18:8181/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://113.15.184.196:8181/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西新闻.png" group-title="地方-华南", 广西新闻
-http://222.217.230.192:8181/tsfile/live/1057_1.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="http://10.1.0.25:5180/logo/广西新闻.png" group-title="地方-华南", 广西新闻
-https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
-http://198.204.228.26/live/gxgj.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://183.11.239.36:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="地方-华南", 广东民生
+https://ha.msbot.dpdns.org/4gtv_api.php?id=78
+#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiLin.png" group-title="地方-华南" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226161/10000100000000060000000001233339_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="78" zz-definition="HD", 广东民生
+rtp://239.3.1.240:8172
+#EXTINF:-1 tvg-name="广东潮州综合" group-title="地方-华南", 广东潮州综合
+http://dslive.grtn.cn/czzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="广东现代" tvg-logo="https://logo.catvod.com/广东现代.png" group-title="地方-华南", 广东现代
+http://tvtj1.jxwltx.com:8003/live3087.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://107.150.60.122/live/gdzja.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="广东珠江.png" group-title="地方-华南", 广东珠江
+http://111.29.9.33:6610/200000001898/460000089800010091/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="地方-华南", 广东珠江
+http://117.141.162.238:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://119.32.12.17:2901/udp/224.1.100.23:11111
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://119.32.12.32:2901/udp/224.1.100.23:11111
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方-华南", 广东珠江
+http://120.234.187.66:10086/rtp/239.10.0.121:1025
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方-华南", 广东珠江
+http://120.234.187.66:10086/rtp/239.10.0.62:1025
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方-华南", 广东珠江
+http://120.234.187.66:10086/rtp/239.10.0.63:1025
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方-华南", 广东珠江
+http://120.234.187.66:10086/rtp/239.20.0.111:2020
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方-华南", 广东珠江
+http://120.234.187.66:10086/rtp/239.20.0.63:3148
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方-华南", 广东珠江
+http://120.234.187.66:10086/rtp/239.20.0.64:3144
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://120.77.205.62:8087/rtp/239.77.0.1:5146
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://121.11.160.7:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://125.89.163.44:8888/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="地方-华南", 广东珠江
+http://171.38.107.33:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://183.11.239.36:808/hls/83/index.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="地方-华南", 广东珠江
+http://183.236.43.98:4111/udp/239.77.0.114:5146
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://183.62.8.58:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://192.151.150.154/live/gdzj.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://198.204.228.26/live/gdzj.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://219.144.190.2:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://36.105.100.208:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://38.75.136.137:98/gslb/dsdqbv/gdzj.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://67.220.71.199:2347/livehttpplay?channel_id=20144
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://bxtv.3a.ink/api.php?id=gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="http://10.1.0.25:5180/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="地方-华南", 广东珠江
+http://go.bkpcp.top/mg/gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://home.wwang.pw:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0724&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1463&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2277&tk=e640d0a1bf70
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6065&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6340&tk=f6cc1e0a0e1a
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7152&tk=b53028476470
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://live.xmcdn.com/live/252/64.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="地方-华南", 广东珠江
+http://tvtj1.jxwltx.com:8003/live2897.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://www.xzbn.site:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://cdn2.163189.xyz/163189/gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://hk.188766.xyz/?migutoken=34467290b64f0850801479159893a4de&id=gd_gdzj&type=sz
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://hls-gateway.vpstv.net/streams/476221.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://hls-gateway.vpstv.net/streams/709494.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png" group-title="地方-华南", 广东珠江
+https://rust.946985.filegear-sg.me/proxy/b6b1a192d11ff13f?token=tgJerryfeng
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/3e6c646d717a824425bca6f4f12c9091cc4725ab1afa8227b24b7a5bc6fcb019.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/468bff09871ed8a1eba7a539f461001a9683ac2cbb084ef2d52449c7f1a52478.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/5f12b986a77ebe5440c508c13895b3e7f8767b2a47c79f3f5fe948097e15337d.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/cd093c8b92ae68affb34b3b0f147bbdac575b4eee76ac0410e85d2777d808b6e.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-14.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-8.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-1.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-10.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-11.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-11.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-12.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-12.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-13.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-13.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-14.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-16.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-17.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-18.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-19.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-2.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-20.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-21.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-21.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-22.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-23.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-24.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-25.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-25.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-26.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-27.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-28.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-28.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-29.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-3.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-30.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-31.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-4.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-4.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-5.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-5.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-6.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-7.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-7.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-8.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-9.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-1.ctv
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-1.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-5.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing.m3u8
+#EXTINF:-1 tvg-name="广东珠江高清" group-title="地方-华南", 广东珠江高清
+http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东科教" tvg-logo="https://logo.catvod.com/广东科教.png" group-title="地方-华南", 广东科教
+http://117.141.162.238:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东科教" tvg-logo="https://logo.catvod.com/广东科教.png" group-title="地方-华南", 广东科教
+http://171.38.107.33:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.cn/tv/广东经济科教.png" group-title="地方-华南", 广东经济科教
+http://119.32.12.17:2901/udp/224.1.100.6:11111
+#EXTINF:-1 tvg-name="广东综艺4K" tvg-logo="https://logo.catvod.com/广东综艺4K.png" group-title="地方-华南", 广东综艺4K
+http://117.141.162.238:8181/tsfile/live/faacts/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
 http://107.150.60.122/live/gxgj.m3u8
 #EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
-http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
 http://192.151.150.154/live/gxgj.m3u8
 #EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
-https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西国际.png" group-title="地方-华南", 广西国际
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxgj
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西国际.png" group-title="地方-华南", 广西国际
+http://198.204.228.26/live/gxgj.m3u8
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
+http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="http://10.1.0.25:5180/logo/广西国际.png" group-title="地方-华南", 广西国际
 http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/广西国际.png" group-title="地方-华南", 广西国际
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
+https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="http://10.1.0.25:5180/logo/广西国际.png" group-title="地方-华南", 广西国际
 https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
-https://migu.188766.xyz/?migutoken=2795391bf2380a7870585be391603d6a&id=hn_jjpd&type=sz
-#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
-https://migu.188766.xyz/?migutoken=45ac9a110c797599551115731cf44df2&id=hn_jjpd&type=sz
-#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
-https://migu.188766.xyz/?migutoken=660a5548e95409c119145c54d487e47e&id=hn_jjpd&type=sz
-#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
-https://migu.188766.xyz/?migutoken=315ad4939096a91be5ce3462b2080323&id=hn_jjpd&type=sz
-#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
-https://migu.188766.xyz/?migutoken=4d8834d7ea1adc0f097aa6a031305918&id=hn_jjpd&type=sz
-#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="海南自贸.png" group-title="地方-华南", 海南自贸
-http://111.29.9.33:6610/000000001000/4600001000000000116/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南自贸.png" group-title="地方-华南", 海南自贸
-http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
-https://migu.188766.xyz/?migutoken=c9c9f8b653c1e1e8219e116f7e481879&id=hn_wlpd&type=sz
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
-https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
-https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
-https://migu.188766.xyz/?migutoken=dac1d4aae188058344c7dd4b136f975d&id=hn_wlpd&type=sz
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
-https://migu.188766.xyz/?migutoken=a5b4cdf3f9c93a7335e55a109404af67&id=hn_wlpd&type=sz
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="海南文旅.png" group-title="地方-华南", 海南文旅
-http://111.29.9.33:6610/000000001000/4600001000000000113/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南文旅.png" group-title="地方-华南", 海南文旅
-http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南文旅.png" group-title="地方-华南", 海南文旅
-https://t.freetv.fun/live/hai-nan-wen-lu-1.m3u8
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南文旅.png" group-title="地方-华南", 海南文旅
-https://t.freetv.fun/live/hai-nan-wen-lu-2.m3u8
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南文旅.png" group-title="地方-华南", 海南文旅
-https://t.freetv.fun/live/hai-nan-wen-lu-3.m3u8
-#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南文旅.png" group-title="地方-华南", 海南文旅
-https://t.freetv.fun/live/hai-nan-wen-lu.m3u8
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
-https://migu.188766.xyz/?migutoken=9b74a05ac3e7b51beecb305c9c7c22b4&id=hn_ggpd&type=sz
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
-https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
-https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
-https://migu.188766.xyz/?migutoken=a7038ebf14621b3c5b7d47281fa0ab4c&id=hn_ggpd&type=sz
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
-https://migu.188766.xyz/?migutoken=3a138924186d190af58e01219616242b&id=hn_ggpd&type=sz
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="海南公共.png" group-title="地方-华南", 海南公共
-http://111.29.9.33:6610/000000001000/460000100000000057/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南公共.png" group-title="地方-华南", 海南公共
-http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南公共.png" group-title="地方-华南", 海南公共
-http://150.255.149.33:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南公共.png" group-title="地方-华南", 海南公共
-https://t.freetv.fun/live/hai-nan-gong-gong-1.m3u8
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南公共.png" group-title="地方-华南", 海南公共
-https://t.freetv.fun/live/hai-nan-gong-gong-2.m3u8
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南公共.png" group-title="地方-华南", 海南公共
-https://t.freetv.fun/live/hai-nan-gong-gong-3.m3u8
-#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南公共.png" group-title="地方-华南", 海南公共
-https://t.freetv.fun/live/hai-nan-gong-gong.m3u8
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="地方-华南", 广东民生
-http://183.11.239.36:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiLin.png" group-title="地方-华南" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226161/10000100000000060000000001233339_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="78" zz-definition="HD", 广东民生
-rtp://239.3.1.240:8172
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="地方-华南", 广东民生
-https://ha.msbot.dpdns.org/4gtv_api.php?id=78
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://logo.catvod.com/广西影视.png" group-title="地方-华南", 广西影视
+http://36.136.38.87:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
+http://107.150.60.122/live/gxxw.m3u8
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
+http://192.151.150.154/live/gxxw.m3u8
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
+http://198.204.228.26/live/gxxw.m3u8
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
+http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
+https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="http://10.1.0.25:5180/logo/广西新闻.png" group-title="地方-华南", 广西新闻
+https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 #EXTINF:-1 tvg-name="广西桂林漓江景区" tvg-id="广西桂林漓江景区" tvg-logo="https://tb.zbds.top/logo/广西桂林漓江景区.png" group-title="地方-华南", 广西桂林漓江景区
 https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 tvg-name="广西玉林大容山莲花山顶" tvg-id="广西玉林大容山莲花山顶" tvg-logo="https://tb.zbds.top/logo/广西玉林大容山莲花山顶.png" group-title="地方-华南", 广西玉林大容山莲花山顶
 https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 tvg-name="广西综艺" tvg-logo="https://logo.catvod.com/广西综艺.png" group-title="地方-华南", 广西综艺
+http://36.136.38.87:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://logo.catvod.com/广西都市.png" group-title="地方-华南", 广西都市
+http://36.136.38.87:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 #EXTINF:-1 tvg-name="新海南" tvg-id="新海南" tvg-logo="新海南.png" group-title="地方-华南", 新海南
 http://111.29.9.33:6610/200000001898/460000089800010090/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="地方-华南", 广东公共
-http://218.13.14.6:60050/tsfile/live/1020_1.m3u8
-#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="地方-华南", 广东影视
-http://119.32.12.17:2901/udp/224.1.100.11:11111
-#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="地方-华南", 广东影视
-https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.cn/tv/广东经济科教.png" group-title="地方-华南", 广东经济科教
-http://119.32.12.17:2901/udp/224.1.100.6:11111
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="海南公共.png" group-title="地方-华南", 海南公共
+http://111.29.9.33:6610/000000001000/460000100000000057/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://logo.catvod.com/海南公共.png" group-title="地方-华南", 海南公共
+http://153.0.171.163:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$海南/三亚/联通
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南公共.png" group-title="地方-华南", 海南公共
+http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
+https://migu.188766.xyz/?migutoken=3a138924186d190af58e01219616242b&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
+https://migu.188766.xyz/?migutoken=9b74a05ac3e7b51beecb305c9c7c22b4&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
+https://migu.188766.xyz/?migutoken=a7038ebf14621b3c5b7d47281fa0ab4c&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
+https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
+https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
+#EXTINF:-1 tvg-name="海南影视" tvg-logo="https://logo.catvod.com/海南影视.png" group-title="地方-华南", 海南影视
+http://153.0.171.163:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$海南/三亚/联通
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="海南文旅.png" group-title="地方-华南", 海南文旅
+http://111.29.9.33:6610/000000001000/4600001000000000113/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南文旅.png" group-title="地方-华南", 海南文旅
+http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
+https://migu.188766.xyz/?migutoken=a5b4cdf3f9c93a7335e55a109404af67&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
+https://migu.188766.xyz/?migutoken=c9c9f8b653c1e1e8219e116f7e481879&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
+https://migu.188766.xyz/?migutoken=dac1d4aae188058344c7dd4b136f975d&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
+https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
+https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="海南自贸.png" group-title="地方-华南", 海南自贸
+http://111.29.9.33:6610/000000001000/4600001000000000116/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://logo.catvod.com/海南自贸.png" group-title="地方-华南", 海南自贸
+http://153.0.171.163:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$海南/三亚/联通
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南自贸.png" group-title="地方-华南", 海南自贸
+http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
+https://migu.188766.xyz/?migutoken=2795391bf2380a7870585be391603d6a&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
+https://migu.188766.xyz/?migutoken=315ad4939096a91be5ce3462b2080323&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
+https://migu.188766.xyz/?migutoken=45ac9a110c797599551115731cf44df2&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
+https://migu.188766.xyz/?migutoken=4d8834d7ea1adc0f097aa6a031305918&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
+https://migu.188766.xyz/?migutoken=660a5548e95409c119145c54d487e47e&id=hn_jjpd&type=sz
 #EXTINF:-1 tvg-name="珠江台" tvg-id="珠江台" group-title="地方-华南", 珠江台
 https://smart.dxjc.pp.ua/smart.php?id=zhujiang&token=tmxk
-#EXTINF:-1 tvg-name="[SD]广西国际 测试" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/27/large/20220527160856596479_90.jpg" group-title="地方-华南", [SD]广西国际 测试
-https://epg.pm/stream/44be6ac40d891b684c318bf629a682a8982d7f4072573909e2dcfe55d8a43637.m3u8
-#EXTINF:-1 tvg-name="[BD]广东新闻" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516230748167686_60.jpg" group-title="地方-华南", [BD]广东新闻
-https://epg.pm/stream/193f474f3d4b792d320c77b74c5067548341a84c72ca7e7b8e051531ab6ed21b.m3u8
-#EXTINF:-1 tvg-name="[BD]广东新闻@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516230748167686_60.jpg" group-title="地方-华南", [BD]广东新闻@@1
-https://epg.pm/stream/e56ebc5a58b4adde54216029fe0f4d866c72f4e1c74491b70f5bfc207e753a84.m3u8
-#EXTINF:-1 tvg-name="[SD]广东新闻" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516230748167686_60.jpg" group-title="地方-华南", [SD]广东新闻
-https://epg.pm/stream/c8902b2be573be03bfd8766f65102d6a68373281fe23dd18d90544166b58ec2e.m3u8
-#EXTINF:-1 tvg-name="[BD]广东少儿@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516225333445835_39.jpg" group-title="地方-华南", [BD]广东少儿@@2
-https://epg.pm/stream/aa2a2b7e849df4ce8c3d8046320f0c6a656d150fd90e0ec72c57fda5efbcf3e6.m3u8
-#EXTINF:-1 tvg-name="[SD]广东新闻高清" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516230748167686_60.jpg" group-title="地方-华南", [SD]广东新闻高清
-https://epg.pm/stream/2f957aa14be989ec2187c9dbe830894b0fa6f7ba885558ec81dd46c97ba5acf8.m3u8
-#EXTINF:-1 tvg-name="[SD]广东公共" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516223632655706_41.jpg" group-title="地方-华南", [SD]广东公共
-https://epg.pm/stream/43097cd4c4170cd02dea09d0aa7327053fd47c19ac87cad1e3a50cf80af9ed6e.m3u8
-#EXTINF:-1 tvg-name="[BD]广东少儿" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516225333445835_39.jpg" group-title="地方-华南", [BD]广东少儿
-https://epg.pm/stream/4e5d05aec5b2f35153a92ea8a9d9b64fc40572d9e25fed797b106cc96f8a6b30.m3u8
-#EXTINF:-1 tvg-name="[SD]广东影视高清" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516231120186844_61.jpg" group-title="地方-华南", [SD]广东影视高清
-https://epg.pm/stream/08db2fa6871d0e39df8d169ff4b11de4733d6c23b1f83c3403d76ecad613f77d.m3u8
-#EXTINF:-1 tvg-name="[BD]广东公共" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516223632655706_41.jpg" group-title="地方-华南", [BD]广东公共
-https://epg.pm/stream/bc63f4f78bb5233b708af71b1ee914f700732dfdcfe1f77d93648bf77569ae41.m3u8
-#EXTINF:-1 tvg-name="[BD]广东经济@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516224126509007_68.jpg" group-title="地方-华南", [BD]广东经济@@6
-https://epg.pm/stream/19a35536533e68c98aa63315c62ff7b3337a5bd53aa4182ca9345c700057be51.m3u8
-#EXTINF:-1 tvg-name="[SD]广东少儿高清" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516225333445835_39.jpg" group-title="地方-华南", [SD]广东少儿高清
-https://epg.pm/stream/2374e0ab94949a89b2c96bb67cf89fa24c047bf7e7ff348032659fb26e9eef4b.m3u8
-#EXTINF:-1 tvg-name="[BD]广东经济@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516224126509007_68.jpg" group-title="地方-华南", [BD]广东经济@@3
-https://epg.pm/stream/0440bbb9879dcc47e0ba356284ac6d3d9443678f253893a58f7ef93d20f652ee.m3u8
-#EXTINF:-1 tvg-name="[SD]广东经济科教高清" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516224126509007_68.jpg" group-title="地方-华南", [SD]广东经济科教高清
-https://epg.pm/stream/ecdaa7d0e13bd43ef506a3f374aa6a9672bdf3dd7f8a1cf05cbe332491551a63.m3u8
-#EXTINF:-1 tvg-name="[SD]广东国际" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521132906991904_66.jpg" group-title="地方-华南", [SD]广东国际
-https://epg.pm/stream/0cf5cfc797996827eeca0a5ff6e9f296a49e60225dce81af841cf9d329610fea.m3u8
-#EXTINF:-1 tvg-name="[BD]广东影视@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516231120186844_61.jpg" group-title="地方-华南", [BD]广东影视@@1
-https://epg.pm/stream/09681264630f9e71583ac8898c48c7a62ad3bc923174b729990c54280d0d247e.m3u8
-#EXTINF:-1 tvg-name="[BD]广东经济" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516224126509007_68.jpg" group-title="地方-华南", [BD]广东经济
-https://epg.pm/stream/780b32a57a081279650c64ad9855a55d382012a49a1a0ea761b7e655de0c8ba7.m3u8
-#EXTINF:-1 tvg-name="[SD]广西移动 测试" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/07/large/20211007155728209881_23.png" group-title="地方-华南", [SD]广西移动 测试
-https://epg.pm/stream/d6e3021a11032d3f2d9932fcfe14538e477daa6382ff796636eaad75030190f7.m3u8
-#EXTINF:-1 tvg-name="[BD]广西新闻" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/07/large/20211007153113076586_45.png" group-title="地方-华南", [BD]广西新闻
-https://epg.pm/stream/ed69976aec1fdb25035673fb75e4cfc268c34219c15cff5bde639bbdae937c4d.m3u8
-#EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
-https://epg.pm/stream/af9da2aec2c28db6a44df2714b1b7e827cab2ca1185a6fffcc517a9f5140764c.m3u8
-#EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
-https://epg.pm/stream/05b610699ef4acb57eea51432dcc22291e46e91d4f92af4e6ce6170b4c48c33c.m3u8
-#EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
-https://epg.pm/stream/40c2b023d625de7c823762e7ca7dec64b9a21dee8e8d2486d38be33dbee7f5e1.m3u8
-#EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
-https://epg.pm/stream/ad276d3465003696e7dfcee108621185e63b9a759e4b52c460931617c1dcf473.m3u8
-#EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
-https://epg.pm/stream/be8991066c6d9a11b7251032af7fff6ffd8391fb9ce2b9f282cf3dd5b6402797.m3u8
-#EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
-https://epg.pm/stream/4b3398c70efd13d0418542fe560ad68fe0d696f5c7ec5f71919e3db0fae9fcc3.m3u8
-#EXTINF:-1 tvg-name="[HD]广西新闻 高清测试" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/07/large/20211007153113076586_45.png" group-title="地方-华南", [HD]广西新闻 高清测试
-https://epg.pm/stream/15741cd0b80c5b0dce64c2dc9ad8185bf7c9c4f595bf987d1b0e360ed532c263.m3u8
-#EXTINF:-1 tvg-name="[SD]广西乐思购 测试" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033215986042_92.jpg" group-title="地方-华南", [SD]广西乐思购 测试
-https://epg.pm/stream/6d629c7db4d4896b398a9e1954c5cdb40411629a49c15f5220d086e5b9dc65d1.m3u8
-#EXTINF:-1 tvg-name="[HD]广东文化@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化@@1
-https://epg.pm/stream/5938e9337f59c2e05bd83ed13649857127ab5373933caf01da7e1d657df092e7.m3u8
-#EXTINF:-1 tvg-name="广东潮州综合" group-title="地方-华南", 广东潮州综合
-http://dslive.grtn.cn/czzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="中国|珠江台" tvg-id="珠江" tvg-logo="https://epg.112114.xyz/logo/珠江.png" group-title="地方-华南", 中国|珠江台
-https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-#EXTINF:-1 tvg-name="广东77" tvg-id="广东77" group-title="地方-华南", 广东77
-http://kbpull.kktv8.com/livekktv/160602265/playlist.m3u8
-#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://epg.112114.xyz/logo/广东4K超高清.png" group-title="地方-华南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 广东4K超高清
-http://192.151.150.154/live/gdtvs3.m3u8
-#EXTINF:-1 tvg-name="起风小果【广东粤语】" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/93/7f4ffecb33d852673e4c3d803c73fd_180_135.jpg?1674195442" group-title="地方-华南", 起风小果【广东粤语】
-http://107.173.156.246:81/live/huya/282746
-#EXTINF:-1 tvg-name="广西棋王陈建昌" tvg-logo="https://huyaimg.msstatic.com/avatar/1005/2a/6671d1ce15a4db2965e729077ac1cb_180_135.jpg?1597762004" group-title="地方-华南", 广西棋王陈建昌
-http://107.173.156.246:81/live/huya/21359045
+#EXTINF:-1 tvg-name="💚广东科教" tvg-logo="https://logo.catvod.com/💚广东科教.png" group-title="地方-华南", 💚广东科教
+http://113.81.20.131:20443/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="💚广西新闻" tvg-logo="https://logo.catvod.com/💚广西新闻.png" group-title="地方-华南", 💚广西新闻
+http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动

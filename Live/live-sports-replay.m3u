@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="[BD]体育赛事" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827022612388538_21.png" group-title="体育-轮播回放", [BD]体育赛事
-https://epg.pm/stream/f3dc1601bafdae23a4d9c2d5e96039f7a49214df7b0999540a368b20b46ed4f0.m3u8
-#EXTINF:-1 tvg-name="[BD]体育赛事" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827022612388538_21.png" group-title="体育-轮播回放", [BD]体育赛事
-https://epg.pm/stream/38cc6253f4b6749f9f1f9bffe56cdfa3f22e39c18b8fcbfdf213993c18e1cbdd.m3u8
-#EXTINF:-1 tvg-name="[BD]体育赛事@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827022612388538_21.png" group-title="体育-轮播回放", [BD]体育赛事@@3
-https://epg.pm/stream/e9fb9f6e95af7a83f888a9f76c5200587e13bc1488b534a2d89e51f3275cd63f.m3u8
-#EXTINF:-1 tvg-name="[BD]体育赛事@@5" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827022612388538_21.png" group-title="体育-轮播回放", [BD]体育赛事@@5
-https://epg.pm/stream/1e945f081ad1710981eded26e46aa307af2d41794187fc663e2ff4b713162e6e.m3u8
-#EXTINF:-1 tvg-name="火箭赛事专场" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/16/5783ae38214a99eff17f770a2203c8_180_135.jpg?1613828875" group-title="体育-轮播回放", 火箭赛事专场
-http://107.173.156.246:81/live/huya/880237
-#EXTINF:-1 tvg-name="虎牙CFHD赛事" tvg-logo="https://huyaimg.msstatic.com/avatar/1093/26/478f146b08827e0b2f12827d32a2da_180_135.jpg?1651587413" group-title="体育-轮播回放", 虎牙CFHD赛事
-http://107.173.156.246:81/live/huya/660106
-#EXTINF:-1 tvg-name="小涛赛事专场" tvg-logo="https://huyaimg.msstatic.com/avatar/1059/11/d1f3f348b8f853f1d1458a8f4ab747_180_135.jpg?1658456433" group-title="体育-轮播回放", 小涛赛事专场
-http://107.173.156.246:81/live/huya/19197511
 #EXTINF:-1 tvg-name="世界杯4K回放-韩国vs捷克" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d98u74069ip3a5i000000000040ihhf18" group-title="体育-轮播回放", 世界杯4K回放-韩国vs捷克
 http://82.156.243.185:34567/replay/4460938
+#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/体育赛事.png" group-title="体育-轮播回放", 体育赛事
+http://fnos.sunny2017.xyz:7788/udp/239.21.2.44:5002
+#EXTINF:-1 tvg-name="哔哩哔哩LOL赛事直播" tvg-logo="https://i2.hdslb.com/bfs/face/8a0da0973436f4a77f95ef1016e7223fd4255bbb.jpg" group-title="体育-轮播回放", 哔哩哔哩LOL赛事直播
+http://107.173.156.246:81/live/bilibili/8016907?line=first
+#EXTINF:-1 tvg-name="哔哩哔哩英雄联盟赛事" tvg-logo="https://i2.hdslb.com/bfs/face/544c89e68f2b1f12ffcbb8b3c062a3328e8692d9.jpg" group-title="体育-轮播回放", 哔哩哔哩英雄联盟赛事
+http://107.173.156.246:81/live/bilibili/7734200?line=first
+#EXTINF:-1 tvg-name="电竞赛事6" tvg-logo="https://i1.hdslb.com/bfs/face/30de8740d950211ac34cc0f1d88025ccb49fc1e5.jpg@240w_240h_1c_1s_!web-avatar-nav.avif" group-title="体育-轮播回放", 电竞赛事6
+http://107.173.156.246:81/live/bilibili/22532159?line=first

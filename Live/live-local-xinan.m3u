@@ -1,74 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="重庆新闻" tvg-id="重庆新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆新闻.png" group-title="地方-西南", 重庆新闻
-http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="重庆新闻" tvg-id="重庆新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/重庆新闻.png" group-title="地方-西南", 重庆新闻
-http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
-https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
-https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
-https://stream1.freetv.fun/si-chuan-ke-jiao-4.ctv
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://tb.zbds.top/logo/四川科教.png" group-title="地方-西南", 四川科教
-http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/四川科教.png" group-title="地方-西南", 四川科教
-https://t.freetv.fun/live/si-chuan-ke-jiao.m3u8
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://epg.112114.xyz/logo/四川科教.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川科教
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227936/index.m3u8
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
-http://182.135.66.163:1888/rtp/239.94.2.182:5140
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
-http://182.135.66.163:18888/rtp/239.94.2.182:5140
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南都市.png" group-title="地方-西南", 云南都市
-https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E5%8D%97%E9%83%BD%E5%B8%82&auth=666858
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynds.m3u8?t=1772574002&key=729d806f95ac905080b275dc65bbe431
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynds.m3u8?t=1772617854&key=d1a1f709c1e46109ecf68520084733b7
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynds.m3u8?t=1772660450&key=be798adac670a9953d05a864ca6499ae
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynds.m3u8?t=1772704559&key=8a3cd77dac33268fe10b9a4d50c389bd
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynds.m3u8?t=1772746968&key=0ab95c115282049970e1020af13e5f2b
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynds.m3u8?t=1772790592&key=a81f6d25cf3cbceec1a56e06fffc4071
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynds.m3u8?t=1772832962&key=267a67a07bdae1f0709a813f2501759a
-#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南都市.png" group-title="地方-西南", 云南都市
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynds.m3u8?t=1772876173&key=dc1aa4d8f850dd212dfc7d7b4a6111fe
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E5%8D%97%E5%A8%B1%E4%B9%90&auth=666858
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772574002&key=d0cc5703b6c93d32e22db1363a7ef688
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772617854&key=8ece6b836cf43ba8f96bc5144b8e85db
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772660450&key=7589c0a9c4471b0c0a50b06091a65ccd
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772704559&key=500e9379f8bc37b3dc5de3df0d909a76
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772746968&key=f50ab13364bc913eb6d33daa9e4709a7
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772790592&key=dbea1af6709c74a75db9520f7fc5342a
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772832962&key=5aa1fe65cd1385a00b8ad017b982696a
-#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南娱乐.png" group-title="地方-西南", 云南娱乐
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynyl.m3u8?t=1772876173&key=f54d3ecd6b35bfd4bbd2346a16398b3e
+#EXTINF:-1 tvg-name="云南 Ⅰ 文山公共台 (1080p)" group-title="地方-西南", 云南 Ⅰ 文山公共台 (1080p)
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
+#EXTINF:-1 tvg-name="云南 Ⅰ 文山综合台 (1080p) [Not 24/7]" group-title="地方-西南", 云南 Ⅰ 文山综合台 (1080p) [Not 24/7]
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 tvg-name="云南丽江公共台" group-title="地方-西南", 云南丽江公共台
+http://hwzbout.yunshicloud.com/mj1170/06qk26.m3u8
 #EXTINF:-1 tvg-name="云南丽江玉龙雪山" tvg-id="云南丽江玉龙雪山" tvg-logo="https://tb.zbds.top/logo/云南丽江玉龙雪山.png" group-title="地方-西南", 云南丽江玉龙雪山
 https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 #EXTINF:-1 tvg-name="云南丽江蓝月谷" tvg-id="云南丽江蓝月谷" tvg-logo="https://tb.zbds.top/logo/云南丽江蓝月谷.png" group-title="地方-西南", 云南丽江蓝月谷
 https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 tvg-name="云南云南娱乐台" group-title="地方-西南", 云南云南娱乐台
+http://edge1.yntv.cn/channels/yntv/ynyl/m3u8:sd
 #EXTINF:-1 tvg-name="云南大理崇圣寺三塔中景" tvg-id="云南大理崇圣寺三塔中景" tvg-logo="https://tb.zbds.top/logo/云南大理崇圣寺三塔中景.png" group-title="地方-西南", 云南大理崇圣寺三塔中景
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 #EXTINF:-1 tvg-name="云南大理崇圣寺三塔远景" tvg-id="云南大理崇圣寺三塔远景" tvg-logo="https://tb.zbds.top/logo/云南大理崇圣寺三塔远景.png" group-title="地方-西南", 云南大理崇圣寺三塔远景
 https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南娱乐.png" group-title="地方-西南", 云南娱乐
+https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+#EXTINF:-1 tvg-name="云南娱乐" tvg-id="云南娱乐" tvg-logo="https://logo.catvod.com/云南娱乐.png" group-title="地方-西南", 云南娱乐
+https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8$官网线路
+#EXTINF:-1 tvg-name="云南康旅" tvg-logo="https://logo.catvod.com/云南康旅.png" group-title="地方-西南", 云南康旅
+https://hwapi.yntv.net/62hdvf/227q43.m3u8$官网线路
+#EXTINF:-1 tvg-name="云南影视" tvg-logo="https://logo.catvod.com/云南影视.png" group-title="地方-西南", 云南影视
+https://hwapi.yntv.net/62hdvf/utrat7.m3u8$官网线路
+#EXTINF:-1 tvg-name="云南普洱综合台" group-title="地方-西南", 云南普洱综合台
+http://hwzbout.yunshicloud.com/701aec/orx377.m3u8
+#EXTINF:-1 tvg-name="云南楚雄公共台" group-title="地方-西南", 云南楚雄公共台
+http://hwzbout.yunshicloud.com/gbqei5/12661u.m3u8
+#EXTINF:-1 tvg-name="云南西双版纳一" group-title="地方-西南", 云南西双版纳一
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 tvg-name="云南西双版纳二" group-title="地方-西南", 云南西双版纳二
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 tvg-name="云南迪庆综合台" group-title="地方-西南", 云南迪庆综合台
+http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="云南都市" tvg-id="云南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南都市.png" group-title="地方-西南", 云南都市
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+#EXTINF:-1 tvg-name="云南马关电视台" group-title="地方-西南", 云南马关电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
+#EXTINF:-1 tvg-name="云南麻栗坡电视" group-title="地方-西南", 云南麻栗坡电视
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 tvg-name="剑网三重庆张学友" tvg-logo="https://i1.hdslb.com/bfs/face/4c18d6a1ce0343b0ce76e634ffdd6a483232108e.jpg" group-title="地方-西南", 剑网三重庆张学友
+http://107.173.156.246:81/live/bilibili/1501486?line=first
+#EXTINF:-1 tvg-name="四川 Ⅰ 四川影视台 (720p) [Not 24/7]" group-title="地方-西南", 四川 Ⅰ 四川影视台 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
+#EXTINF:-1 tvg-name="四川 Ⅰ 四川新闻台 (720p) [Not 24/7]" group-title="地方-西南", 四川 Ⅰ 四川新闻台 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
+#EXTINF:-1 tvg-name="四川 Ⅰ 巴中综合台 (1080p) [Not 24/7]" group-title="地方-西南", 四川 Ⅰ 巴中综合台 (1080p) [Not 24/7]
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
+#EXTINF:-1 tvg-name="四川 Ⅰ 星空购物台 (720p) [Not 24/7]" group-title="地方-西南", 四川 Ⅰ 星空购物台 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
+#EXTINF:-1 tvg-name="四川 Ⅰ 达州公共台 (720p) [Not 24/7]" group-title="地方-西南", 四川 Ⅰ 达州公共台 (720p) [Not 24/7]
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
+#EXTINF:-1 tvg-name="四川 Ⅰ 达州综合台 (720p) [Not 24/7]" group-title="地方-西南", 四川 Ⅰ 达州综合台 (720p) [Not 24/7]
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
+#EXTINF:-1 tvg-name="四川乡村" tvg-id="四川乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川乡村.png" group-title="地方-西南", 四川乡村
+http://182.135.66.163:1888/rtp/239.94.2.183:5140
+#EXTINF:-1 tvg-name="四川乡村" tvg-id="四川乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川乡村.png" group-title="地方-西南", 四川乡村
+http://182.135.66.163:18888/rtp/239.94.2.183:5140
+#EXTINF:-1 tvg-name="四川乡村" tvg-id="四川乡村" tvg-logo="https://epg.112114.xyz/logo/四川乡村.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川乡村
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
+#EXTINF:-1 tvg-name="四川乡村频道高清" group-title="地方-西南", 四川乡村频道高清
+http://182.140.125.47:808/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="四川公共" tvg-logo="https://logo.catvod.com/四川公共.png" group-title="地方-西南", 四川公共
+http://183.220.20.17:4321/udp/239.11.0.4:5140$四川/成都/移动
+#EXTINF:-1 tvg-name="四川公共 (720p)" group-title="地方-西南", 四川公共 (720p)
+http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
+#EXTINF:-1 tvg-name="四川公共乡村" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan6.png" group-title="地方-西南", 四川公共乡村
+http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+#EXTINF:-1 tvg-name="四川公共乡村" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan6.png" group-title="地方-西南", 四川公共乡村
+http://wouu.net:9977/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-name="四川四姑娘山隆珠措" tvg-id="四川四姑娘山隆珠措" tvg-logo="https://tb.zbds.top/logo/四川四姑娘山隆珠措.png" group-title="地方-西南", 四川四姑娘山隆珠措
 https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 tvg-name="四川妇女" tvg-logo="https://logo.catvod.com/四川妇女.png" group-title="地方-西南", 四川妇女
+http://183.220.20.17:4321/udp/239.11.0.8:5140$四川/成都/移动
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="地方-西南", 四川妇女儿童
+http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="地方-西南", 四川妇女儿童
+http://wouu.net:9977/udp/239.93.0.219:5140
+#EXTINF:-1 tvg-name="四川妇女儿童 (720p) [Not 24/7]" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="地方-西南", 四川妇女儿童 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 #EXTINF:-1 tvg-name="四川峨眉山云海日出" tvg-id="四川峨眉山云海日出" tvg-logo="https://tb.zbds.top/logo/四川峨眉山云海日出.png" group-title="地方-西南", 四川峨眉山云海日出
 https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 #EXTINF:-1 tvg-name="四川峨眉山普贤菩萨铜像" tvg-id="四川峨眉山普贤菩萨铜像" tvg-logo="https://tb.zbds.top/logo/四川峨眉山普贤菩萨铜像.png" group-title="地方-西南", 四川峨眉山普贤菩萨铜像
@@ -77,149 +87,113 @@ https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
 #EXTINF:-1 tvg-name="四川峨眉山远眺贡嘎雪山" tvg-id="四川峨眉山远眺贡嘎雪山" tvg-logo="https://tb.zbds.top/logo/四川峨眉山远眺贡嘎雪山.png" group-title="地方-西南", 四川峨眉山远眺贡嘎雪山
 https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-#EXTINF:-1 tvg-name="贵州省兴义市万峰林" tvg-id="贵州省兴义市万峰林" tvg-logo="https://tb.zbds.top/logo/贵州省兴义市万峰林.png" group-title="地方-西南", 贵州省兴义市万峰林
-https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
-#EXTINF:-1 tvg-name="鬼吹灯之云南虫谷" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="地方-西南", 鬼吹灯之云南虫谷
-https://live.ottiptv.cc/huya/11352898
-#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan3.png" group-title="地方-西南", 四川新闻
-http://wouu.net:9977/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan3.png" group-title="地方-西南", 四川新闻
-http://scgctvshow.sctv.com/sdlive/sctv4/1.m3u8
-#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://epg.112114.xyz/logo/四川新闻.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川新闻
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227411/index.m3u8
-#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川新闻.png" group-title="地方-西南", 四川新闻
-http://182.135.66.163:1888/rtp/239.94.2.178:5140
-#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川新闻.png" group-title="地方-西南", 四川新闻
-http://182.135.66.163:18888/rtp/239.94.2.178:5140
-#EXTINF:-1 tvg-name="四川影视文艺" tvg-id="四川影视文艺" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan4.png" group-title="地方-西南", 四川影视文艺
-http://wouu.net:9977/udp/239.93.0.166:5140
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.xyz/logo/四川峨眉电影.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川峨眉电影
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉电影1" group-title="地方-西南", 四川峨眉电影1
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 tvg-name="四川广安新闻综合" tvg-logo="http://cc.118138.xyz/tvlogo/四川广安新闻综合.png" group-title="地方-西南", 四川广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://logo.catvod.com/四川影视.png" group-title="地方-西南", 四川影视
+http://183.220.20.17:4321/udp/239.11.0.77:5140$四川/成都/移动
+#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://epg.112114.xyz/logo/四川影视.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川影视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227409/index.m3u8
+#EXTINF:-1 tvg-name="四川影视文化" group-title="地方-西南", 四川影视文化
+http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-id="四川影视文艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川影视文艺.png" group-title="地方-西南", 四川影视文艺
 http://182.135.66.163:1888/rtp/239.94.2.179:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-id="四川影视文艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川影视文艺.png" group-title="地方-西南", 四川影视文艺
 http://182.135.66.163:18888/rtp/239.94.2.179:5140
-#EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan1.png" group-title="地方-西南", 四川经济
-http://wouu.net:9977/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan1.png" group-title="地方-西南", 四川经济
-http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://epg.112114.xyz/logo/四川经济.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川经济
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227415/index.m3u8
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-id="四川影视文艺" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan4.png" group-title="地方-西南", 四川影视文艺
+http://wouu.net:9977/udp/239.93.0.166:5140
+#EXTINF:-1 tvg-name="四川文化" tvg-logo="https://logo.catvod.com/四川文化.png" group-title="地方-西南", 四川文化
+http://183.220.20.17:4321/udp/239.11.0.3:5140$四川/成都/移动
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan2.png" group-title="地方-西南", 四川文化旅游
+http://wouu.net:9977/udp/239.93.1.102:5140
+#EXTINF:-1 tvg-name="四川文化旅游HD" group-title="地方-西南", 四川文化旅游HD
+http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+#EXTINF:-1 tvg-name="四川文旅" tvg-logo="https://epg.112114.xyz/logo/四川文旅.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川文旅
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
+#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川新闻.png" group-title="地方-西南", 四川新闻
+http://182.135.66.163:1888/rtp/239.94.2.178:5140
+#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川新闻.png" group-title="地方-西南", 四川新闻
+http://182.135.66.163:18888/rtp/239.94.2.178:5140
+#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://logo.catvod.com/四川新闻.png" group-title="地方-西南", 四川新闻
+http://183.220.20.17:4321/udp/239.11.0.5:5140$四川/成都/移动
+#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://epg.112114.xyz/logo/四川新闻.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川新闻
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227411/index.m3u8
+#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan3.png" group-title="地方-西南", 四川新闻
+http://scgctvshow.sctv.com/sdlive/sctv4/1.m3u8
+#EXTINF:-1 tvg-name="四川新闻" tvg-id="四川新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan3.png" group-title="地方-西南", 四川新闻
+http://wouu.net:9977/udp/239.93.0.47:5140
+#EXTINF:-1 tvg-name="四川新闻频道HD" group-title="地方-西南", 四川新闻频道HD
+http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
+http://182.135.66.163:1888/rtp/239.94.2.182:5140
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
+http://182.135.66.163:18888/rtp/239.94.2.182:5140
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://tb.zbds.top/logo/四川科教.png" group-title="地方-西南", 四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://logo.catvod.com/四川科教.png" group-title="地方-西南", 四川科教
+http://183.220.20.17:4321/udp/239.11.0.194:5140$四川/成都/移动
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://epg.112114.xyz/logo/四川科教.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川科教
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227936/index.m3u8
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
+https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
+https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
+#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川科教.png" group-title="地方-西南", 四川科教
+https://stream1.freetv.fun/si-chuan-ke-jiao-4.ctv
 #EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川经济.png" group-title="地方-西南", 四川经济
 http://182.135.66.163:1888/rtp/239.94.2.176:5140
 #EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川经济.png" group-title="地方-西南", 四川经济
 http://182.135.66.163:18888/rtp/239.94.2.176:5140
-#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan2.png" group-title="地方-西南", 四川文化旅游
-http://wouu.net:9977/udp/239.93.1.102:5140
-#EXTINF:-1 tvg-name="四川公共乡村" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan6.png" group-title="地方-西南", 四川公共乡村
-http://wouu.net:9977/udp/239.93.0.52:5140
-#EXTINF:-1 tvg-name="四川公共乡村" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan6.png" group-title="地方-西南", 四川公共乡村
-http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="地方-西南", 四川妇女儿童
-http://wouu.net:9977/udp/239.93.0.219:5140
-#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="地方-西南", 四川妇女儿童
-http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-#EXTINF:-1 tvg-name="四川妇女儿童 (720p) [Not 24/7]" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="地方-西南", 四川妇女儿童 (720p) [Not 24/7]
-http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
-#EXTINF:-1 tvg-name="四川广安新闻综合" tvg-logo="http://cc.118138.xyz/tvlogo/四川广安新闻综合.png" group-title="地方-西南", 四川广安新闻综合
-http://live1.gatv.com.cn:85/live/XWZH.m3u8
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
-http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
-http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
-http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
-http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
-http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
-http://183.230.184.51:65500/tntv1.m3u8
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
-http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.xyz/logo/重庆汽摩.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 重庆汽摩
-http://120.76.248.139/live/bfgd/4200000168.m3u8
-#EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/贵州移动电视.png" group-title="地方-西南", 贵州移动电视
-http://47.108.20.161:8866/guizhou/guizhou.php?id=gzyd
-#EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/贵州移动电视.png" group-title="地方-西南", 贵州移动电视
-http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772574002&key=9c3a6c576b399ef92c4b297cc93bd672
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772617854&key=576b9a9ff38c5b8c6bd661a8ea8a06d9
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772660450&key=b64ff59b209ad6c645f254225e2c4895
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772704559&key=2e52e59020901252bce8cfc4f3011e4c
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772746968&key=73ff82914380d65490765e076b0877fc
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772790592&key=89cbd64fb181e8b94832ba1f6fc474b1
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772832962&key=17b8ba5caf5020bedc8ab089490bc9f6
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772876173&key=b1aa3cc34a9003497e8d7eaa3bc66150
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772918916&key=e779b50b47b7d594d97682db85ddd5b7
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云南少儿.png" group-title="地方-西南", 云南少儿
-https://live-cdn-v01.lalifeier.eu.org/yntv/ynse.m3u8?t=1772962609&key=69a734675a3ee07852d61cd55b45615f
-#EXTINF:-1 tvg-name="[BD]重庆社会与法" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152050187099_64.png" group-title="地方-西南", [BD]重庆社会与法
-https://epg.pm/stream/efe55279f0a3615874068a7afefb3919ada9bca19e4dbe3d8b3d778e5d2da843.m3u8
-#EXTINF:-1 tvg-name="[BD]四川科教" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/28/large/20220528221105613593_11.jpg" group-title="地方-西南", [BD]四川科教
-https://epg.pm/stream/1860bdbc0f46d6c3acd8d9011e1874f6228fc82063e27602bb1513d0062b4e20.m3u8
-#EXTINF:-1 tvg-name="[BD]四川科教@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/28/large/20220528221105613593_11.jpg" group-title="地方-西南", [BD]四川科教@@4
-https://epg.pm/stream/3e9b103c35636ccd5ddb1effbf21855979ce24da2b6633f8829de506757e6e08.m3u8
-#EXTINF:-1 tvg-name="[BD]重庆移动" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/28/large/20220528102722470814_79.jpg" group-title="地方-西南", [BD]重庆移动
-https://epg.pm/stream/b6b3bfea09a81af34a47e0eb331b5707d804ee3770f453b07162629e3f3a95fd.m3u8
-#EXTINF:-1 tvg-name="四川峨眉电影1" group-title="地方-西南", 四川峨眉电影1
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-name="四川文化旅游HD" group-title="地方-西南", 四川文化旅游HD
-http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-#EXTINF:-1 tvg-name="四川新闻频道HD" group-title="地方-西南", 四川新闻频道HD
-http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
-#EXTINF:-1 tvg-name="四川影视文化" group-title="地方-西南", 四川影视文化
-http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://logo.catvod.com/四川经济.png" group-title="地方-西南", 四川经济
+http://183.220.20.17:4321/udp/239.11.0.2:5140$四川/成都/移动
+#EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://epg.112114.xyz/logo/四川经济.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川经济
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227415/index.m3u8
+#EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan1.png" group-title="地方-西南", 四川经济
+http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+#EXTINF:-1 tvg-name="四川经济" tvg-id="四川经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan1.png" group-title="地方-西南", 四川经济
+http://wouu.net:9977/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="西藏影视文化" tvg-id="西藏影视文化" group-title="地方-西南", 西藏影视文化
+http://php.jdshipin.com:8880/xztv.php?id=ys
 #EXTINF:-1 tvg-name="西藏藏语" tvg-logo="https://epg.112114.xyz/logo/西藏藏语.png" group-title="地方-西南", 西藏藏语
 http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 #EXTINF:-1 tvg-name="西藏藏语" tvg-logo="https://epg.112114.xyz/logo/西藏藏语.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 西藏藏语
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227129/index.m3u8
-#EXTINF:-1 tvg-name="云南楚雄公共台" group-title="地方-西南", 云南楚雄公共台
-http://hwzbout.yunshicloud.com/gbqei5/12661u.m3u8
-#EXTINF:-1 tvg-name="云南迪庆综合台" group-title="地方-西南", 云南迪庆综合台
-http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="云南丽江公共台" group-title="地方-西南", 云南丽江公共台
-http://hwzbout.yunshicloud.com/mj1170/06qk26.m3u8
-#EXTINF:-1 tvg-name="云南麻栗坡电视" group-title="地方-西南", 云南麻栗坡电视
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
-#EXTINF:-1 tvg-name="云南马关电视台" group-title="地方-西南", 云南马关电视台
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
-#EXTINF:-1 tvg-name="云南普洱综合台" group-title="地方-西南", 云南普洱综合台
-http://hwzbout.yunshicloud.com/701aec/orx377.m3u8
-#EXTINF:-1 tvg-name="云南西双版纳二" group-title="地方-西南", 云南西双版纳二
-http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
-#EXTINF:-1 tvg-name="云南西双版纳一" group-title="地方-西南", 云南西双版纳一
-http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 tvg-name="云南云南娱乐台" group-title="地方-西南", 云南云南娱乐台
-http://edge1.yntv.cn/channels/yntv/ynyl/m3u8:sd
-#EXTINF:-1 tvg-name="重庆万盛综合台" group-title="地方-西南", 重庆万盛综合台
-http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="重庆万州影视台" group-title="地方-西南", 重庆万州影视台
-http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 tvg-name="西藏影视文化" tvg-id="西藏影视文化" group-title="地方-西南", 西藏影视文化
-http://php.jdshipin.com:8880/xztv.php?id=ys
-#EXTINF:-1 tvg-name="四川乡村" tvg-id="四川乡村" tvg-logo="https://epg.112114.xyz/logo/四川乡村.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川乡村
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
-#EXTINF:-1 tvg-name="四川乡村" tvg-id="四川乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川乡村.png" group-title="地方-西南", 四川乡村
-http://182.135.66.163:1888/rtp/239.94.2.183:5140
-#EXTINF:-1 tvg-name="四川乡村" tvg-id="四川乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川乡村.png" group-title="地方-西南", 四川乡村
-http://182.135.66.163:18888/rtp/239.94.2.183:5140
-#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://epg.112114.xyz/logo/四川影视.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川影视
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227409/index.m3u8
-#EXTINF:-1 tvg-name="四川文旅" tvg-logo="https://epg.112114.xyz/logo/四川文旅.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川文旅
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
-#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://epg.112114.xyz/logo/四川峨眉电影.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 四川峨眉电影
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
-#EXTINF:-1 tvg-name="AzZ丶四川宝器" tvg-logo="https://huyaimg.msstatic.com/avatar/1021/de/96be903f4f32650945a5a62665d8cd_180_135.jpg?1644921302" group-title="地方-西南", AzZ丶四川宝器
-http://107.173.156.246:81/live/huya/10453684
 #EXTINF:-1 tvg-name="贵州天元围棋" tvg-logo="https://epg.112114.xyz/logo/贵州天元围棋.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 贵州天元围棋
 http://120.76.248.139/live/bfgd/4200000144.m3u8
 #EXTINF:-1 tvg-name="贵州摄影频道" tvg-logo="https://epg.112114.xyz/logo/贵州摄影频道.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 贵州摄影频道
 http://120.76.248.139/live/bfgd/4200000222.m3u8
+#EXTINF:-1 tvg-name="贵州省兴义市万峰林" tvg-id="贵州省兴义市万峰林" tvg-logo="https://tb.zbds.top/logo/贵州省兴义市万峰林.png" group-title="地方-西南", 贵州省兴义市万峰林
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 tvg-name="重庆万盛综合台" group-title="地方-西南", 重庆万盛综合台
+http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://logo.catvod.com/重庆娱乐.png" group-title="地方-西南", 重庆娱乐
+http://124.162.85.150:4022/udp/225.0.4.194:7980
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://logo.catvod.com/重庆少儿.png" group-title="地方-西南", 重庆少儿
+http://124.162.85.150:4022/udp/225.0.4.191:7980
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://logo.catvod.com/重庆新农村.png" group-title="地方-西南", 重庆新农村
+http://124.162.85.150:4022/udp/225.0.4.189:7980
+#EXTINF:-1 tvg-name="重庆新闻" tvg-id="重庆新闻" tvg-logo="https://logo.catvod.com/重庆新闻.png" group-title="地方-西南", 重庆新闻
+http://124.162.85.150:4022/udp/225.0.4.188:7980
+#EXTINF:-1 tvg-name="重庆新闻" tvg-id="重庆新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆新闻.png" group-title="地方-西南", 重庆新闻
+http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://logo.catvod.com/重庆时尚生活.png" group-title="地方-西南", 重庆时尚生活
+http://124.162.85.150:4022/udp/225.0.4.196:7980
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.112114.xyz/logo/重庆汽摩.png" group-title="地方-西南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 重庆汽摩
+http://120.76.248.139/live/bfgd/4200000168.m3u8
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://logo.catvod.com/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
+http://124.162.85.150:4022/udp/225.0.4.195:7980
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆汽摩.png" group-title="地方-西南", 重庆汽摩
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000313#
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://logo.catvod.com/重庆社会与法.png" group-title="地方-西南", 重庆社会与法
+http://124.162.85.150:4022/udp/225.0.4.190:7980
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://logo.catvod.com/重庆科教.png" group-title="地方-西南", 重庆科教
+http://124.162.85.150:4022/udp/225.0.4.193:7980
+#EXTINF:-1 tvg-name="鬼吹灯之云南虫谷" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="地方-西南", 鬼吹灯之云南虫谷
+https://live.ottiptv.cc/huya/11352898
+#EXTINF:-1 tvg-name="💚云南都市" tvg-logo="https://logo.catvod.com/💚云南都市.png" group-title="地方-西南", 💚云南都市
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8$官网线路
+#EXTINF:-1 tvg-name="💚重庆影视" tvg-logo="https://logo.catvod.com/💚重庆影视.png" group-title="地方-西南", 💚重庆影视
+http://124.162.85.150:4022/udp/225.0.4.192:7980$重庆联通

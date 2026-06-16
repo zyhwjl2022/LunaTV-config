@@ -1,9 +1,33 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="A2i Religion (720p) [Not 24/7]" tvg-id="A2iReligion.sn@SD" tvg-logo="https://i.imgur.com/54WrwyN.jpg" group-title="国际-宗教", A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Christian Youth Channel (CYC) (1080p)" tvg-id="ChristianYouthChannelCYC.us@SD" tvg-logo="https://i.imgur.com/61eV77C.png" group-title="国际-宗教", Christian Youth Channel (CYC) (1080p)
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Christmas 365" group-title="国际-宗教", Christmas 365
+https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8
+#EXTINF:-1 tvg-name="Elevation Church (1080p)" group-title="国际-宗教", Elevation Church (1080p)
+https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="GREAT! romance (1080p)" tvg-id="GREATromance.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="国际-宗教", GREAT! romance (1080p)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-name="[SD]Islam Channel (576p) [Not 24/7]" tvg-id="3687" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173714318605_97.png" group-title="国际-宗教", [SD]Islam Channel (576p) [Not 24/7]
-https://epg.pm/stream/1943c365ac1b863a893c4817b6826cf662579a783114a64f3b2262879ff4d8a2.m3u8
-#EXTINF:-1 tvg-name="[BD]Christian Youth Channel" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174038918186_33.png" group-title="国际-宗教", [BD]Christian Youth Channel
-https://epg.pm/stream/dea8b36b09731fde414d72fc480b5a679cf3d401de11cd13a868a9b336015a99.m3u8
-#EXTINF:-1 tvg-name="[BD]Christian Youth Channel" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174038918186_33.png" group-title="国际-宗教", [BD]Christian Youth Channel
-https://epg.pm/stream/5fcd162df1e8862dfaffdd07a16dc58e6b07e47148fa6e9e248749ca505533b3.m3u8
+#EXTINF:-1 tvg-name="GSG TV (720p)" tvg-id="GSGTV.sv@SD" tvg-logo="https://i.imgur.com/8fZnNu0.png" group-title="国际-宗教", GSG TV (720p)
+https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Maná Church Online (1080p) [Not 24/7]" tvg-id="ManaChurchOnline.pt@SD" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="国际-宗教", Maná Church Online (1080p) [Not 24/7]
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="国际-宗教", Merry Christmas from Viafree
+https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
+#EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="国际-宗教", Merry Christmas from Viafree
+https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
+#EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="国际-宗教", Merry Christmas from Viafree
+https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
+#EXTINF:-1 tvg-name="Nidae AlIslam Radio (1080p)" tvg-id="NidaeAlIslamRadio.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png" group-title="国际-宗教", Nidae AlIslam Radio (1080p)
+https://aloula-redirect.vercel.app/14/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Christmas tutto l'anno" group-title="国际-宗教", Pluto TV Christmas tutto l'anno
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+#EXTINF:-1 tvg-name="RTV Islam (1080p)" tvg-id="RTVIslam.ch@SD" tvg-logo="https://i.ibb.co/LSJqLJw/RTV-LOGO.png" group-title="国际-宗教", RTV Islam (1080p)
+https://protokolldns.xyz/rtvislamweb554/index.m3u8
+#EXTINF:-1 tvg-name="Radio Tele Full Gospel" tvg-id="RadioTeleFullGospel.ht@SD" tvg-logo="https://i.imgur.com/WbwIp9y.jpeg" group-title="国际-宗教", Radio Tele Full Gospel
+https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+#EXTINF:-1 tvg-name="Shine Star TV (720p) [Not 24/7]" tvg-id="ShineStarTV.pk@SD" tvg-logo="https://i.imgur.com/I3lTIeN.png" group-title="国际-宗教", Shine Star TV (720p) [Not 24/7]
+https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
+#EXTINF:-1 tvg-name="XITE Christian Hits (1080p)" group-title="国际-宗教", XITE Christian Hits (1080p)
+https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
