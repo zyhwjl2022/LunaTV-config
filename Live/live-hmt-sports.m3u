@@ -1,98 +1,100 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=":Šport (1080p)" tvg-id="Sport.sk@SD" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="港台-体育", :Šport (1080p)
+#EXTINF:-1 tvg-name=":Šport" tvg-id="Sport.sk@SD" tvg-logo="https://i.imgur.com/oAtcxNZ.png" group-title="港台-体育", :Šport
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="A24 (720p)" tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36", A24 (720p)
+#EXTINF:-1 tvg-name="A24" tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36", A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-#EXTINF:-1 tvg-name="ACI Sport TV (1080p)" tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="港台-体育", ACI Sport TV (1080p)
+#EXTINF:-1 tvg-name="ACI Sport TV" tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="港台-体育", ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 (1080p)" tvg-id="ArenaSport1.ba@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 1 (1080p)
-https://nl1.nghk.ai/ArenaSport1BH/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 (1080p)" tvg-id="ArenaSport1.rs@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 1 (1080p)
-https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 (720p)" tvg-id="ArenaSport1.hr@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 1 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 1" tvg-id="ArenaSport1.hr@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 1
 https://nl1.nghk.ai/AS1HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 1 Premium (720p)" tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 1 Premium (720p)
+#EXTINF:-1 tvg-name="Arena Sport 1" tvg-id="ArenaSport1.ba@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 1
+https://nl1.nghk.ai/ArenaSport1BH/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1" tvg-id="ArenaSport1.rs@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 1
+https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 1 Premium
 https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 10 (720p)" tvg-id="ArenaSport10.hr@SD" tvg-logo="https://i.imgur.com/oMiS7D3.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 10 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 10" tvg-id="ArenaSport10.hr@SD" tvg-logo="https://i.imgur.com/oMiS7D3.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 10
 https://nl1.nghk.ai/AS10HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 10 (720p)" tvg-id="ArenaSport10.rs@SD" tvg-logo="https://i.imgur.com/oMiS7D3.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 10 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 10" tvg-id="ArenaSport10.rs@SD" tvg-logo="https://i.imgur.com/oMiS7D3.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 10
 https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 2 (1080p)" tvg-id="ArenaSport2.ba@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 2 (1080p)
-https://nl1.nghk.ai/ArenaSport2BH/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 2 (1080p)" tvg-id="ArenaSport2.rs@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 2 (1080p)
-https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 2 (720p)" tvg-id="ArenaSport2.hr@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 2 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 2" tvg-id="ArenaSport2.hr@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 2
 https://nl1.nghk.ai/AS2HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 2 Premium (1080p)" tvg-id="ArenaSport2Premium.rs@SD" tvg-logo="https://i.imgur.com/ztOmQ7P.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 2 Premium (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 2" tvg-id="ArenaSport2.ba@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 2
+https://nl1.nghk.ai/ArenaSport2BH/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2" tvg-id="ArenaSport2.rs@SD" tvg-logo="https://i.imgur.com/aqlECBj.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 2
+https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2 Premium" tvg-id="ArenaSport2Premium.rs@SD" tvg-logo="https://i.imgur.com/ztOmQ7P.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 2 Premium
 https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 3 (1080p)" tvg-id="ArenaSport3.hr@SD" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 3 (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 3" tvg-id="ArenaSport3.hr@SD" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 3
 https://nl1.nghk.ai/AS3HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 3 (720p)" tvg-id="ArenaSport3.ba@SD" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 3 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 3" tvg-id="ArenaSport3.ba@SD" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 3
 https://nl1.nghk.ai/ArenaSport3BH/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 3 (720p)" tvg-id="ArenaSport3.rs@SD" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 3 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 3" tvg-id="ArenaSport3.rs@SD" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 3
 https://nl1.nghk.ai/ArenaSport3HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 3 Premium (1080p)" tvg-id="ArenaSport3Premium.rs@SD" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 3 Premium (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 3 Premium" tvg-id="ArenaSport3Premium.rs@SD" tvg-logo="https://i.imgur.com/gpqemLf.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 3 Premium
 https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 4 (1080p)" tvg-id="ArenaSport4.hr@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 4 (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 4" tvg-id="ArenaSport4.hr@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 4
 https://nl1.nghk.ai/AS4HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 4 (1080p)" tvg-id="ArenaSport4.ba@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 4 (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 4" tvg-id="ArenaSport4.ba@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 4
 https://nl1.nghk.ai/ArenaSport4BH/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 4 (1080p)" tvg-id="ArenaSport4.rs@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 4 (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 4" tvg-id="ArenaSport4.rs@SD" tvg-logo="https://i.imgur.com/h1XhGkz.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 4
 https://nl1.nghk.ai/ArenaSport4HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 4 Premium (1080p)" tvg-id="ArenaSport4Premium.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 4 Premium (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 4 Premium" tvg-id="ArenaSport4Premium.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 4 Premium
 https://nl1.nghk.ai/SK1SRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 5 (1080p)" tvg-id="ArenaSport5.rs@SD" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 5 (1080p)
-https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 5 (720p)" tvg-id="ArenaSport5.hr@SD" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 5 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 5" tvg-id="ArenaSport5.hr@SD" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 5
 https://nl1.nghk.ai/AS5HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 5 BH (1080p)" tvg-id="ArenaSport5BH.ba@HD" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 5 BH (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 5" tvg-id="ArenaSport5.rs@SD" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 5
+https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5 BH" tvg-id="ArenaSport5BH.ba@HD" tvg-logo="https://i.imgur.com/036qMgu.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 5 BH
 https://nl1.nghk.ai/ArenaSport5BH/index.m3u8
 #EXTINF:-1 tvg-name="Arena Sport 5 Premium" tvg-id="ArenaSport5Premium.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 5 Premium
 https://nl1.nghk.ai/SK2SRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 6 (1080p)" tvg-id="ArenaSport6.rs@SD" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 6 (1080p)
-https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 6 (720p)" tvg-id="ArenaSport6.hr@SD" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 6 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 6" tvg-id="ArenaSport6.hr@SD" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 6
 https://nl1.nghk.ai/AS6HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 7 (720p)" tvg-id="ArenaSport7.hr@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 7 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 6" tvg-id="ArenaSport6.rs@SD" tvg-logo="https://i.imgur.com/Z5PE4vx.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 6
+https://nl1.nghk.ai/ArenaSport6HD/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 7" tvg-id="ArenaSport7.hr@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 7
 https://nl1.nghk.ai/AS7HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 7 (720p)" tvg-id="ArenaSport7.rs@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 7 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 7" tvg-id="ArenaSport7.rs@SD" tvg-logo="https://i.imgur.com/0fgvOrR.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 7
 https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 8 (1080p)" tvg-id="ArenaSport8.hr@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 8 (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 8" tvg-id="ArenaSport8.hr@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 8
 https://nl1.nghk.ai/AS8HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 8 (720p)" tvg-id="ArenaSport8.rs@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 8 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 8" tvg-id="ArenaSport8.rs@SD" tvg-logo="https://i.imgur.com/Wk9dr78.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 8
 https://nl1.nghk.ai/ArenaSport8HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 9 (1080p)" tvg-id="ArenaSport9.hr@SD" tvg-logo="https://i.imgur.com/riMTqTu.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 9 (1080p)
+#EXTINF:-1 tvg-name="Arena Sport 9" tvg-id="ArenaSport9.hr@SD" tvg-logo="https://i.imgur.com/riMTqTu.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 9
 https://nl1.nghk.ai/AS9HRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport 9 (720p)" tvg-id="ArenaSport9.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 9 (720p)
+#EXTINF:-1 tvg-name="Arena Sport 9" tvg-id="ArenaSport9.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport 9
 https://nl1.nghk.ai/ArenaSport9HD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport Adrenalin (1080p)" tvg-id="ArenaSportAdrenalin.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport Adrenalin (1080p)
+#EXTINF:-1 tvg-name="Arena Sport Adrenalin" tvg-id="ArenaSportAdrenalin.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport Adrenalin
 https://nl1.nghk.ai/SK3SRHD/index.m3u8
-#EXTINF:-1 tvg-name="Arena Sport Tenis (720p)" tvg-id="ArenaSportTenis.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport Tenis (720p)
+#EXTINF:-1 tvg-name="Arena Sport Tenis" tvg-id="ArenaSportTenis.rs@SD" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Arena Sport Tenis
 https://nl1.nghk.ai/SK4SRHD/index.m3u8
 #EXTINF:-1 tvg-name="Auto Motor Sport" group-title="港台-体育", Auto Motor Sport
 https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
-#EXTINF:-1 tvg-name="BEIN_SPORTS" tvg-logo="https://logo.catvod.com/BEIN_SPORTS.png" group-title="港台-体育", BEIN_SPORTS
+#EXTINF:-1 tvg-name="BEIN SPORTS" tvg-logo="https://logo.catvod.com/BEIN_SPORTS.png" group-title="港台-体育", BEIN SPORTS
 https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV%E4%BD%93%E8%82%B2.png" group-title="港台-体育", BTV体育
+http://110.40.170.5:8889/fu16/live_typd.php?id=9
 #EXTINF:-1 tvg-name="Bahrain Sport" group-title="港台-体育", Bahrain Sport
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
-#EXTINF:-1 tvg-name="Bahrain Sports 2 (720p) [Not 24/7]" tvg-id="BahrainSports2.bh@SD" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="港台-体育", Bahrain Sports 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="Bahrain Sports 2" tvg-id="BahrainSports2.bh@SD" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="港台-体育", Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-name="CBS Sports Golazo Network (720p)" tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="港台-体育", CBS Sports Golazo Network (720p)
-https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
-#EXTINF:-1 tvg-name="CBS_SPORTS" tvg-logo="https://logo.catvod.com/CBS_SPORTS.png" group-title="港台-体育", CBS_SPORTS
+#EXTINF:-1 tvg-name="CBS SPORTS" tvg-logo="https://logo.catvod.com/CBS_SPORTS.png" group-title="港台-体育", CBS SPORTS
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="Digi Sport 1 HD" tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Digi Sport 1 HD
-https://dokagents.site/live/digisport1/mono.m3u8
-#EXTINF:-1 tvg-name="Digi Sport 2 HD" tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Digi Sport 2 HD
-https://dokagents.site/live/digisport2/mono.m3u8
-#EXTINF:-1 tvg-name="Digi Sport 3 HD" tvg-id="DigiSport3.ro@HD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Digi Sport 3 HD
-https://dokagents.site/live/digisport3/mono.m3u8
+#EXTINF:-1 tvg-name="CBS Sports Golazo Network" tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="港台-体育", CBS Sports Golazo Network
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
 #EXTINF:-1 tvg-name="Digi Sport 4" tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3", Digi Sport 4
 https://dokagents.site/live/digisport4/mono.m3u8
-#EXTINF:-1 tvg-name="DirecTV Sports (1080p)" tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="港台-体育", DirecTV Sports (1080p)
+#EXTINF:-1 tvg-name="DirecTV Sports" tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="港台-体育", DirecTV Sports
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-name="Dubai Sports" group-title="港台-体育", Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="港台-体育", Dubai Sports
+https://epg.pm/stream/2811aa5428e6591c37cd1643a07e32b9822ae5ac2e0beb1c80d8c0d1d342577d.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="港台-体育", Dubai Sports
+https://epg.pm/stream/e7c9aeab84fe21ae29be19712d8b48a3ec0fc99cef2f454446b9ac4a839782b6.m3u8
+#EXTINF:-1 tvg-name="Dubai Sports" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="港台-体育", Dubai Sports
+https://epg.pm/stream/f01c5b5e1570471713c64ce4a09234cab49763a983df347e321e454eece17110.m3u8
 #EXTINF:-1 tvg-name="ELTA體育1台" tvg-id="ELTA體育1台" tvg-logo="https://tv-res.pages.dev/logo/ELTA體育1台.png" group-title="港台-体育", ELTA體育1台
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 tvg-name="ELTA體育2台" tvg-id="ELTA體育2台" tvg-logo="https://tv-res.pages.dev/logo/ELTA體育2台.png" group-title="港台-体育", ELTA體育2台
@@ -101,467 +103,299 @@ http://108.181.20.197/livehttpplay?channel_id=20107
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 #EXTINF:-1 tvg-name="ELTA體育2台" tvg-id="ELTA體育2台" tvg-logo="https://tv-res.pages.dev/logo/ELTA體育2台.png" group-title="港台-体育", ELTA體育2台
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 tvg-name="Esport3 (1080p) [Geo-blocked]" tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="港台-体育", Esport3 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="Esport3" tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="港台-体育", Esport3
 https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-name="Esport3 (1080p) [Not 24/7]" tvg-id="Esport3.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="港台-体育", Esport3 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Esport3" tvg-id="Esport3.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="港台-体育", Esport3
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-name="FOX Sports (1080p) [Geo-blocked]" group-title="港台-体育", FOX Sports (1080p) [Geo-blocked]
-https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Sports (720p)" tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="港台-体育", Fox Sports (720p)
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
-#EXTINF:-1 tvg-name="Fox Sports (720p)" tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="港台-体育", Fox Sports (720p)
-https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 1" tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="港台-体育", Fox Sports 1
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-id="FoxSports1" tvg-logo="https://11.112114.xyz/logo/Fox Sports 1.png" group-title="港台-体育", Fox Sports 1
 https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 1 (1280p)" tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="港台-体育", Fox Sports 1 (1280p)
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="GINX Esports TV" tvg-id="GINXEsportsTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png" group-title="港台-体育", GINX Esports TV
-http://114.32.153.6:5051/4gtv-4gtv053/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="GINX Esports TV" tvg-id="GINXEsportsTV" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="港台-体育", GINX Esports TV
-https://rust.946985.filegear-sg.me/proxy/1cdb2919c8a8c825?token=tgJerryfeng
-#EXTINF:-1 tvg-name="GINX Esports TV" tvg-id="179" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="港台-体育", GINX Esports TV
-https://ha.msbot.dpdns.org/4gtv_api.php?id=179
 #EXTINF:-1 tvg-name="Getwin Sports運動台" tvg-id="GetwinSports運動台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/getwin頻道LOGO.png" group-title="港台-体育", Getwin Sports運動台
 http://114.32.153.6:5051/4gtv-4gtv035/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="Getwin Sports運動台" tvg-id="93" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/getwin頻道LOGO.png" group-title="港台-体育", Getwin Sports運動台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=93
-#EXTINF:-1 tvg-name="Horizon Sports (720p)" tvg-id="HorizonSports.us@SD" tvg-logo="https://i.imgur.com/w2JzGSy.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", Horizon Sports (720p)
+#EXTINF:-1 tvg-name="Horizon Sports" tvg-id="HorizonSports.us@SD" tvg-logo="https://i.imgur.com/w2JzGSy.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", Horizon Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254
-#EXTINF:-1 tvg-name="KSA Sports 1 (1080p)" tvg-id="KSASports1.sa@SD" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="港台-体育", KSA Sports 1 (1080p)
+#EXTINF:-1 tvg-name="KSA Sports 1" tvg-id="KSASports1.sa@SD" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="港台-体育", KSA Sports 1
 https://aloula-redirect.vercel.app/9/playlist.m3u8
-#EXTINF:-1 tvg-name="KTV Sport (1080p)" tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="港台-体育", KTV Sport (1080p)
+#EXTINF:-1 tvg-name="KSA Sports 1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/11/13/large/20211113231338268967_68.png" group-title="港台-体育", KSA Sports 1
+https://epg.pm/stream/ed13e466d3252f588a95a58d9673b4de0c798120ce66b5511729f0bc65729588.m3u8
+#EXTINF:-1 tvg-name="KTV Sport" tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="港台-体育", KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="KTV Sport Plus (1080p)" tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="港台-体育", KTV Sport Plus (1080p)
+#EXTINF:-1 tvg-name="KTV Sport Plus" tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="港台-体育", KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="MEGOGO Sport [Geo-blocked]" tvg-id="MEGOGOSport.ua@SD" tvg-logo="https://i.imgur.com/5JmT4mW.png" group-title="港台-体育", MEGOGO Sport [Geo-blocked]
+#EXTINF:-1 tvg-name="MEGOGO Sport" tvg-id="MEGOGOSport.ua@SD" tvg-logo="https://i.imgur.com/5JmT4mW.png" group-title="港台-体育", MEGOGO Sport
 http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8
-#EXTINF:-1 tvg-name="More Than Sports TV (1080p)" tvg-id="MoreThanSportsTV.de@SD" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="港台-体育", More Than Sports TV (1080p)
+#EXTINF:-1 tvg-name="More Than Sports TV" tvg-id="MoreThanSportsTV.de@SD" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="港台-体育", More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-name="NBC Sports NOW (1080p)" tvg-id="NBCSportsNOW.us@SD" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="港台-体育", NBC Sports NOW (1080p)
+#EXTINF:-1 tvg-name="NBC Sports NOW" tvg-id="NBCSportsNOW.us@SD" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="港台-体育", NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-name="Nova TV (1080p)" tvg-id="NovaTV.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="港台-体育", Nova TV (1080p)
+#EXTINF:-1 tvg-name="NewTV 精品体育" group-title="港台-体育", NewTV 精品体育
+http://111.12.102.68:6610/PLTV/77777777/224/3221225724/index.m3u8?
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-id="精品体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV精品体育.png" group-title="港台-体育", NewTV 精品体育
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-id="精品体育" tvg-logo="https://epg.112114.xyz/logo/NewTV精品体育.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV 精品体育
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000014634&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-id="精品体育" tvg-logo="https://epg.112114.xyz/logo/NewTV精品体育.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV 精品体育
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6460382139625130259&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/184a9052988977254ab4cc74bb49baf1d82bf9b5b777f441db6bb962c43f2d31.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/2f319745ad9cdb921b0918660634c55b626513d5239c8ff08003863ecc4f6d74.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/3b419a7f394959290adcedbdc4a9908ede966e8240c973bb1c7171ac59cddaba.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/51e94aea8b6fa61df65c8e88b7b03a58b0de15151cba1c3b30c31f5ed6db943f.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/548604a05f1e96e76ad54fb6f9fa80cbfbc82a3c014c8c9fe81669de5e83c125.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/549827bb0388c2f0a927f3fd76aaa2631023c7e50aebbd2a9753cefcf29966ff.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/5e0195d5332b7ad33c1612460c7f9ecd3cffd7e88d402ed83caa29265e90e94a.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/7e5a3a085a8f52937a333210d1b17f615f43bb84622381989363a2f69dd48224.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/8a1141f13ba7db3696ea9cc795a5cc42ea0ed28e1535a115a1bf928578db42ea.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/944c3176b558adfc0b4ab26327a9540612b55d7685f2c3c02d28245a896e5496.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/b34a8388908112b2eb6253b39d50173cd62ca4e5569a6a6b11562ed4ada00aff.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/c8f20cf35db205fbfccf7ab178b892d211f57c3c7fe1054c21bd5571e9d59cff.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/d35fbec5ce38ec60d3fca1c72bd838a6005d8a70e90724a5ec57024e85dcf63f.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/dcfd0793c06a8b5a5764de5cbd9c5e19662e8738772230575c8dc9a2d08dc46d.m3u8
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="港台-体育", NewTV 精品体育
+https://epg.pm/stream/ef8793cbf692ca34b5d786b90d98d778f0ea31fd510a810e395cb1985dfaebb4.m3u8codeyj
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-id="NewTV-精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-精品体育.png" group-title="港台-体育", NewTV 精品体育
+https://live.264788.xyz/channel/newtvjingpintiyu?streamid=53f79016c385f5c91cedaba25c3b0559&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="NewTV 精品体育" tvg-id="NewTV-精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-精品体育.png" group-title="港台-体育", NewTV 精品体育
+https://live.264788.xyz/channel/newtvjingpintiyu?streamid=c6d38d114b6ac7088f9600529f26f47a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="Nova TV" tvg-id="NovaTV.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="港台-体育", Nova TV
 https://str.gledamsport.com/proxy.php?c=nova&path=mono.m3u8&type=playlist
-#EXTINF:-1 tvg-name="Oman Sports TV (1080p) [Not 24/7]" tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="港台-体育", Oman Sports TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Oman Sports TV" tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="港台-体育", Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport 1 (1080p) [Not 24/7]" tvg-id="PolsatSport1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" group-title="港台-体育", Polsat Sport 1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Polsat Sport 1" tvg-id="PolsatSport1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" group-title="港台-体育", Polsat Sport 1
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7296/index.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport 2 (1080p) [Not 24/7]" tvg-id="PolsatSport2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png" group-title="港台-体育", Polsat Sport 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Polsat Sport 2" tvg-id="PolsatSport2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png" group-title="港台-体育", Polsat Sport 2
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7310/index.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport 3 (1080p) [Not 24/7]" tvg-id="PolsatSport3.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png" group-title="港台-体育", Polsat Sport 3 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Polsat Sport 3" tvg-id="PolsatSport3.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png" group-title="港台-体育", Polsat Sport 3
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7303/index.m3u8
-#EXTINF:-1 tvg-name="Powersports World (1080p)" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", Powersports World (1080p)
+#EXTINF:-1 tvg-name="Powersports World" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", Powersports World
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powersports-world/pwrsp.m3u8?ads.vf=6Tj0ccfKg3S
-#EXTINF:-1 tvg-name="RACER International (1080p)" tvg-id="RACERInternational.pl@FAST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="港台-体育", RACER International (1080p)
+#EXTINF:-1 tvg-name="RACER International" tvg-id="RACERInternational.pl@FAST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="港台-体育", RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-name="Racer Network (1080p)" tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="港台-体育", Racer Network (1080p)
+#EXTINF:-1 tvg-name="Racer Network" tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="港台-体育", Racer Network
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Turrialba TV Sports (720p)" tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="港台-体育" http-referrer="https://iblups.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36", Radio Turrialba TV Sports (720p)
+#EXTINF:-1 tvg-name="Radio Turrialba TV Sports" tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="港台-体育" http-referrer="https://iblups.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36", Radio Turrialba TV Sports
 https://sc2.escuela4.com/live/92974f62a8d5e5caf8f6d1c98fe9b2615f2238c5.m3u8
 #EXTINF:-1 tvg-name="S Sport" tvg-id="SSport.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="港台-体育", S Sport
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="Sharjah Sports (1080p) [Geo-blocked]" tvg-id="SharjahSports.ae@SD" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="港台-体育", Sharjah Sports (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="Sharjah Sports" tvg-id="SharjahSports.ae@SD" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="港台-体育", Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Football" tvg-id="SkySportsFootball" tvg-logo="https://11.112114.xyz/logo/Sky Sports Football.png" group-title="港台-体育", Sky Sports Football
 https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-id="SkySportsPremierLeague" tvg-logo="https://11.112114.xyz/logo/Sky Sports Premier League.png" group-title="港台-体育", Sky Sports Premier League
 https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186604.ts
-#EXTINF:-1 tvg-name="SporTV (1280p)" tvg-id="SporTV.br@SD" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="港台-体育", SporTV (1280p)
+#EXTINF:-1 tvg-name="SporTV" tvg-id="SporTV.br@SD" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="港台-体育", SporTV
 https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 tvg-name="Sport" tvg-id="Sport.uz@SD" tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="港台-体育", Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sportitalia Motori (720p) [Geo-blocked]" tvg-id="SportitaliaMotori.it@SD" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="港台-体育", Sportitalia Motori (720p) [Geo-blocked]
+#EXTINF:-1 tvg-name="Sportitalia Motori" tvg-id="SportitaliaMotori.it@SD" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="港台-体育", Sportitalia Motori
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sports First TV (1080p)" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", Sports First TV (1080p)
+#EXTINF:-1 tvg-name="Sports First TV" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", Sports First TV
 https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8?ads.vf=IqoHUzAjl6S
-#EXTINF:-1 tvg-name="SportsGrid (1080p)" tvg-id="SportsGrid.us@SD" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", SportsGrid (1080p)
+#EXTINF:-1 tvg-name="SportsGrid" tvg-id="SportsGrid.us@SD" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", SportsGrid
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8?ads.vf=8ukz5gCI8vu
-#EXTINF:-1 tvg-name="SportsTVPlus (1080p)" tvg-id="SportsTVPlus.us@SD" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", SportsTVPlus (1080p)
+#EXTINF:-1 tvg-name="SportsTVPlus" tvg-id="SportsTVPlus.us@SD" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", SportsTVPlus
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
-#EXTINF:-1 tvg-name="Stadium (720p)" tvg-id="Stadium.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png" group-title="港台-体育", Stadium (720p)
-https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Suspilne. Sport" tvg-id="SuspilneSport.ua@SD" tvg-logo="https://i.imgur.com/16IhU0M.png" group-title="港台-体育", Suspilne. Sport
 https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?21yo=0&e=1783247457&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=jPS6nYqNZLDECF8uSDa74g
-#EXTINF:-1 tvg-name="Swerve Combat (1080p)" tvg-id="SwerveSports.us@SD" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", Swerve Combat (1080p)
+#EXTINF:-1 tvg-name="Swerve Combat" tvg-id="SwerveSports.us@SD" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", Swerve Combat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8?ads.vf=NuHTMeglt2e
-#EXTINF:-1 tvg-name="Swerve Combat (1080p)" tvg-id="SwerveSports.us@SD" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="港台-体育", Swerve Combat (1080p)
+#EXTINF:-1 tvg-name="Swerve Combat" tvg-id="SwerveSports.us@SD" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="港台-体育", Swerve Combat
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Sports Ch. 93 (720p)" tvg-id="TDMSports.mo@SD" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="港台-体育", TDM Sports Ch. 93 (720p)
+#EXTINF:-1 tvg-name="TDM Sports Ch. 93" tvg-id="TDMSports.mo@SD" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="港台-体育", TDM Sports Ch. 93
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="港台-体育", TRACE Sport Stars
-http://114.32.153.6:5051/4gtv-4gtv077/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="港台-体育", TRACE Sport Stars
-http://220.135.64.124:5050/4gtv-4gtv077/index.m3u8
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="港台-体育", TRACE Sport Stars
-http://220.135.64.124:5050/li-4gtv-4gtv077/index.m3u8
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="港台-体育", TRACE Sport Stars
-https://rust.946985.filegear-sg.me/proxy/7df3b5c5c9bd0d3e?token=tgJerryfeng
-#EXTINF:-1 tvg-name="TV BRICS Portuguese (1080p)" tvg-id="TVBRICSPortuguese.br@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="港台-体育", TV BRICS Portuguese (1080p)
+#EXTINF:-1 tvg-name="TV BRICS Portuguese" tvg-id="TVBRICSPortuguese.br@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="港台-体育", TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" tvg-id="TVRSport.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" group-title="港台-体育", TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-name="TVRI Sport (720p)" tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="港台-体育", TVRI Sport (720p)
+#EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="港台-体育", TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-name="Tigo Sports (1080p)" tvg-id="TigoSports.gt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="港台-体育", Tigo Sports (1080p)
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
-#EXTINF:-1 tvg-name="Tigo Sports (720p)" tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="港台-体育", Tigo Sports (720p)
-https://live.enhdtv.com:8081/8160/index.m3u8
-#EXTINF:-1 tvg-name="Tigo Sports TV El Salvador (720p) [Geo-blocked]" tvg-id="TigoSports.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="港台-体育", Tigo Sports TV El Salvador (720p) [Geo-blocked]
+#EXTINF:-1 tvg-name="Tigo Sports TV El Salvador" tvg-id="TigoSports.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="港台-体育", Tigo Sports TV El Salvador
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 #EXTINF:-1 tvg-name="Tigo Sports+" tvg-id="TigoSportsPlus.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="港台-体育", Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-name="TyC Sports (1080p)" tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="港台-体育", TyC Sports (1080p)
+#EXTINF:-1 tvg-name="TyC Sports" tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="港台-体育", TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-name="TyC Sports USA" tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="港台-体育", TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-name="W14DK-D 14.5 All Sports Television Network" tvg-id="W14DKD145.us@SD" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="港台-体育", W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Willow Sports (1080p)" tvg-id="WillowSports.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="港台-体育", Willow Sports (1080p)
+#EXTINF:-1 tvg-name="Willow Sports" tvg-id="WillowSports.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="港台-体育", Willow Sports
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-#EXTINF:-1 tvg-name="Willow Sports (1080p)" tvg-id="WillowSports.us@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="港台-体育", Willow Sports (1080p)
+#EXTINF:-1 tvg-name="Willow Sports" tvg-id="WillowSports.us@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="港台-体育", Willow Sports
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
-#EXTINF:-1 tvg-name="Women's Sports Network (1080p)" tvg-id="WomensSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="港台-体育", Women's Sports Network (1080p)
+#EXTINF:-1 tvg-name="Women's Sports Network" tvg-id="WomensSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="港台-体育", Women's Sports Network
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
-#EXTINF:-1 tvg-name="World of Freesports (1080p)" tvg-id="WorldofFreesports.de@Poland" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="港台-体育", World of Freesports (1080p)
+#EXTINF:-1 tvg-name="World of Freesports" tvg-id="WorldofFreesports.de@Poland" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="港台-体育", World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-name="World of Freesports (1080p)" tvg-id="WorldofFreesports.de@SD" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="港台-体育", World of Freesports (1080p)
+#EXTINF:-1 tvg-name="World of Freesports" tvg-id="WorldofFreesports.de@SD" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="港台-体育", World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Yahoo! Sports Network (1080p)" group-title="港台-体育", Yahoo! Sports Network (1080p)
+#EXTINF:-1 tvg-name="Yahoo! Sports Network" group-title="港台-体育", Yahoo! Sports Network
 https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
-#EXTINF:-1 tvg-name="[BD]eleven sports 1" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [BD]eleven sports 1
-https://stream1.freetv.fun/294c40dd087f23576b2cc889c27c27791b33bebc29d24c48b35286779dc58880.ctv
-#EXTINF:-1 tvg-name="[BD]eleven sports 2" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [BD]eleven sports 2
-https://stream1.freetv.fun/6328bc8bcf4485ea3aa65d85769f766e374de3ef2cc8b6587128dd5145d5c1de.ctv
-#EXTINF:-1 tvg-name="[BD]eleven sports 3" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [BD]eleven sports 3
-https://stream1.freetv.fun/c81fb7aa67fee114718f41f85b386cc294f41bb6dddb2a299bf5174ed2a59572.ctv
-#EXTINF:-1 tvg-name="[BD]elta体育1" tvg-id="457243" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [BD]elta体育1
-https://stream1.freetv.fun/9d85100089b103dd329b3a82f615ba3baf96e9ee785ac251b6a2494061644a64.m3u8
-#EXTINF:-1 tvg-name="[BD]elta体育1" tvg-id="457243" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [BD]elta体育1
-https://stream1.freetv.fun/efb73c13f6747d50eecbb28c55a33427cb36a0f0037f285237b56f6e252e4e27.m3u8
-#EXTINF:-1 tvg-name="[HD]now sports" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="港台-体育" tvg-country="香港" tvg-language="國語", [HD]now sports
-https://stream1.freetv.fun/6336e39ca6ef0fdc4569ea67bd5c78529a2521baa0f93d5dce32d2836b97a71a.ctv
-#EXTINF:-1 tvg-name="[HD]prime" tvg-logo="https://epg.pw/media/images/channel/2022/04/17/large/20220417233413534041_33.jpg" group-title="港台-体育" tvg-country="香港" tvg-language="粵語", [HD]prime
-https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
-#EXTINF:-1 tvg-name="[VGA]delta tv" tvg-id="457246" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [VGA]delta tv
-https://stream1.freetv.fun/1a8af234f3f251464bf680633e348eb6d051897aa1bede24cd85425aa9cbe46f.m3u8
-#EXTINF:-1 tvg-name="[VGA]delta tv" tvg-id="457246" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [VGA]delta tv
-https://stream1.freetv.fun/5f56fd510fa5a452dee263ca849faea760869a16bb26588a171ff364f1854384.m3u8
-#EXTINF:-1 tvg-name="[VGA]delta tv" tvg-id="457246" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [VGA]delta tv
-https://stream1.freetv.fun/af94afe188d865e3b9abd37e8dcf9c142e358e3db1172f2a1f11a6a23b90f3c4.m3u8
-#EXTINF:-1 tvg-name="[VGA]緯來體育" tvg-id="456575" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", [VGA]緯來體育
-rtmp://f13h.mine.nu:1935/sat/tv721
-#EXTINF:-1 tvg-name="beIN SPORTS Xtra en Español (1080p)" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", beIN SPORTS Xtra en Español (1080p)
+#EXTINF:-1 tvg-name="beIN SPORTS Xtra en Español" group-title="港台-体育" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0", beIN SPORTS Xtra en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.vf=SylQdpcCl2O
-#EXTINF:-1 tvg-name="fubo Sports Network (1080p)" tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="港台-体育", fubo Sports Network (1080p)
+#EXTINF:-1 tvg-name="eleven sports 1" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", eleven sports 1
+https://stream1.freetv.fun/294c40dd087f23576b2cc889c27c27791b33bebc29d24c48b35286779dc58880.ctv
+#EXTINF:-1 tvg-name="eleven sports 2" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", eleven sports 2
+https://stream1.freetv.fun/6328bc8bcf4485ea3aa65d85769f766e374de3ef2cc8b6587128dd5145d5c1de.ctv
+#EXTINF:-1 tvg-name="eleven sports 3" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", eleven sports 3
+https://stream1.freetv.fun/c81fb7aa67fee114718f41f85b386cc294f41bb6dddb2a299bf5174ed2a59572.ctv
+#EXTINF:-1 tvg-name="elta体育1" tvg-id="457243" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", elta体育1
+https://stream1.freetv.fun/9d85100089b103dd329b3a82f615ba3baf96e9ee785ac251b6a2494061644a64.m3u8
+#EXTINF:-1 tvg-name="elta体育1" tvg-id="457243" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", elta体育1
+https://stream1.freetv.fun/efb73c13f6747d50eecbb28c55a33427cb36a0f0037f285237b56f6e252e4e27.m3u8
+#EXTINF:-1 tvg-name="fubo Sports Network" tvg-id="FuboSportsNetwork.us@SD" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="港台-体育", fubo Sports Network
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="now sports" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="港台-体育" tvg-country="香港" tvg-language="國語", now sports
+https://stream1.freetv.fun/6336e39ca6ef0fdc4569ea67bd5c78529a2521baa0f93d5dce32d2836b97a71a.ctv
+#EXTINF:-1 tvg-name="prime" tvg-logo="https://epg.pw/media/images/channel/2022/04/17/large/20220417233413534041_33.jpg" group-title="港台-体育" tvg-country="香港" tvg-language="粵語", prime
+https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
 #EXTINF:-1 tvg-name="viju+ Sport" tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="港台-体育", viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ČT Sport (720p)" tvg-id="CTSport.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="港台-体育", ČT Sport (720p)
+#EXTINF:-1 tvg-name="ČT Sport" tvg-id="CTSport.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="港台-体育", ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-name="УТРК Спорт (480p) [Not 24/7]" tvg-id="Sport.kg@SD" tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="港台-体育", УТРК Спорт (480p) [Not 24/7]
+#EXTINF:-1 tvg-name="УТРК Спорт" tvg-id="Sport.kg@SD" tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="港台-体育", УТРК Спорт
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
-#EXTINF:-1 tvg-name="「虎牙」第五人格" tvg-logo="https://epg.yang-1989.eu.org/logo/虎牙.png" group-title="港台-体育", 「虎牙」第五人格
-https://cdn-3.ttvb.eu.org/huya/idvesports
 #EXTINF:-1 tvg-name="上海五星体育" tvg-id="上海五星体育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/上海五星体育.png" group-title="港台-体育", 上海五星体育
 http://114.95.212.57:4022/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-name="上视东方影视" tvg-id="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 上视东方影视
-http://124.223.82.228:89/617290047
-#EXTINF:-1 tvg-name="上视东方影视" tvg-id="上视东方影视" tvg-logo="https://tv-res.pages.dev/logo/上视东方影视.png" group-title="港台-体育", 上视东方影视
-http://43.251.226.89:8080/play/58.m3u8
-#EXTINF:-1 tvg-name="上视东方影视" tvg-id="上视东方影视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg" group-title="港台-体育", 上视东方影视
-http://sport.pendy.dpdns.org/migu/617290047?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="中国移动“新动力量”宣讲报告会" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/523/202404171403_1713333779827_H169_1080.jpg" group-title="港台-体育", 中国移动“新动力量”宣讲报告会
 http://sport.pendy.dpdns.org/migu/713589837?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="五星体育 (720p)" group-title="港台-体育", 五星体育 (720p)
-http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
-#EXTINF:-1 tvg-name="优漫卡通频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/553/202104022139_5100186455_H169_1080.jpg" group-title="港台-体育", 优漫卡通频道
-http://sport.pendy.dpdns.org/migu/626064703?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="体育休闲" tvg-id="26" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="港台-体育" channel-number="26" zz-definition="HD", 体育休闲
-rtp://239.3.1.243:8000
-#EXTINF:-1 tvg-name="体育休闲频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/554/202104022139_5100186459_H169_1080.jpg" group-title="港台-体育", 体育休闲频道
-http://sport.pendy.dpdns.org/migu/626064707?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="体育频道|爱尔达体育2台" tvg-id="爱尔达体育2" tvg-logo="https://logo.catvod.com/爱尔达体育2.png" group-title="港台-体育", 体育频道|爱尔达体育2台
-http://free.cnlive.club/channel/n6cd87de/index.m3u8
-#EXTINF:-1 tvg-name="体育频道|爱尔达体育2台" tvg-id="爱尔达体育2" tvg-logo="https://tv-res.pages.dev/logo/爱尔达体育2.png" group-title="港台-体育", 体育频道|爱尔达体育2台
-http://iptv12k.com:35461/live/test167/12345/1220.m3u8
-#EXTINF:-1 tvg-name="体育频道|爱尔达体育2台" tvg-id="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="港台-体育", 体育频道|爱尔达体育2台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-#EXTINF:-1 tvg-name="体育频道|爱尔达体育2台" tvg-id="爱尔达体育2" tvg-logo="https://tv-res.pages.dev/logo/爱尔达体育2.png" group-title="港台-体育", 体育频道|爱尔达体育2台
-p3p://167.114.175.6:55331/623a8d8d0001570d97b3c11a65640b68
-#EXTINF:-1 tvg-name="体育频道|爱尔达体育3台" tvg-id="爱尔达体育3" tvg-logo="https://logo.catvod.com/爱尔达体育3.png" group-title="港台-体育", 体育频道|爱尔达体育3台
-http://free.cnlive.club/channel/n6cd87bf/index.m3u8
-#EXTINF:-1 tvg-name="体育频道|爱尔达体育3台" tvg-id="爱尔达体育3" tvg-logo="https://tv-res.pages.dev/logo/爱尔达体育3.png" group-title="港台-体育", 体育频道|爱尔达体育3台
-http://iptv12k.com:35461/live/test167/12345/1219.m3u8
-#EXTINF:-1 tvg-name="体育频道|爱尔达体育3台" tvg-id="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="港台-体育", 体育频道|爱尔达体育3台
-https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-#EXTINF:-1 tvg-name="体育频道|爱尔达体育3台" tvg-id="爱尔达体育3" tvg-logo="https://tv-res.pages.dev/logo/爱尔达体育3.png" group-title="港台-体育", 体育频道|爱尔达体育3台
-p3p://167.114.175.6:55331/622e99e60004026169046fd918be6ed7
-#EXTINF:-1 tvg-name="公共新闻频道" tvg-logo="https://epg.112114.xyz/logo/公共新闻频道.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 公共新闻频道
-http://124.223.82.228:89/626064693
-#EXTINF:-1 tvg-name="公共新闻频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/520/202104022138_5100186429_H169_1080.jpg" group-title="港台-体育", 公共新闻频道
-http://sport.pendy.dpdns.org/migu/626064693?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="军事迷必看大片" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202406101432_1718000751139_H169_1080.jpg" group-title="港台-体育", 军事迷必看大片
 http://sport.pendy.dpdns.org/migu/617432318?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="北京体育休闲" tvg-id="北京体育休闲" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京体育休闲.png" group-title="港台-体育", 北京体育休闲
-http://1.202.10.117:8888/udp/225.1.8.23:8002
 #EXTINF:-1 tvg-name="北京体育广播" tvg-id="北京体育广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京体育广播.png" group-title="港台-体育" radio="true", 北京体育广播
 https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
 #EXTINF:-1 tvg-name="华语乐坛最强音" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/462/658/202403281542_1711611714236_H169_1080.jpg" group-title="港台-体育", 华语乐坛最强音
 http://sport.pendy.dpdns.org/migu/707671890?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="南京十八频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/864/202307121658_1689146982273_H169_1080.jpg" group-title="港台-体育", 南京十八频道
-http://sport.pendy.dpdns.org/migu/838151753?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="南京教科频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/865/202307121700_1689146721503_H169_1080.jpg" group-title="港台-体育", 南京教科频道
-http://sport.pendy.dpdns.org/migu/838153729?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="南京新闻综合频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/863/202307121521_1689144286039_H169_1080.jpg" group-title="港台-体育", 南京新闻综合频道
-http://sport.pendy.dpdns.org/migu/838109047?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="南方影视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg" group-title="港台-体育", 南方影视
-http://sport.pendy.dpdns.org/migu/614961829?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="博斯运动 1" tvg-id="台湾|博斯运动1" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动1.png" group-title="港台-体育", 博斯运动 1
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
+#EXTINF:-1 tvg-name="博斯运动 1" tvg-id="博斯运动1" tvg-logo="https://tv-res.pages.dev/logo/博斯运动1.png" group-title="港台-体育", 博斯运动 1
+p3p://167.114.175.6:55331/61f02576000b2c0a80eb0552388d145e
+#EXTINF:-1 tvg-name="博斯运动 2" tvg-id="台湾|博斯运动2" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动2.png" group-title="港台-体育", 博斯运动 2
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
+#EXTINF:-1 tvg-name="博斯运动 2" tvg-id="博斯运动2" tvg-logo="https://tv-res.pages.dev/logo/博斯运动2.png" group-title="港台-体育", 博斯运动 2
+p3p://167.114.175.6:55331/62639c49000784a03813882a6f5c7e5d
 #EXTINF:-1 tvg-name="博斯运动一台" tvg-id="博斯运动一台" group-title="港台-体育", 博斯运动一台
 https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
 #EXTINF:-1 tvg-name="博斯运动二台" tvg-id="博斯运动二台" group-title="港台-体育", 博斯运动二台
 https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/发现之旅.png" group-title="港台-体育", 发现之旅
-http://113.24.136.82:8082/udp/239.1.1.103:8103
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="http://cc.118138.xyz/tvlogo/发现之旅.png" group-title="港台-体育", 发现之旅
-http://115.190.105.236:1234/624878970
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="港台-体育", 发现之旅
-http://120.234.187.66:10086/rtp/239.11.0.182:1025
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="港台-体育", 发现之旅
-http://120.234.187.66:10086/rtp/239.21.0.151:3948
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://logo.catvod.com/发现之旅.png" group-title="港台-体育", 发现之旅
-http://36.135.118.195:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://logo.catvod.com/发现之旅.png" group-title="港台-体育", 发现之旅
-http://36.135.118.195:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$福建联通酒店
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="港台-体育", 发现之旅
-http://sport.pendy.dpdns.org/migu/624878970?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="台湾|博斯运动 1" tvg-id="台湾|博斯运动1" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动1.png" group-title="港台-体育", 台湾|博斯运动 1
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-#EXTINF:-1 tvg-name="台湾|博斯运动 2" tvg-id="台湾|博斯运动2" tvg-logo="https://epg.112114.xyz/logo/台湾|博斯运动2.png" group-title="港台-体育", 台湾|博斯运动 2
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-#EXTINF:-1 tvg-name="台湾|爱尔达影剧台" tvg-id="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="港台-体育", 台湾|爱尔达影剧台
-https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-#EXTINF:-1 tvg-name="台湾|爱尔达影剧台" tvg-id="爱尔达影剧" tvg-logo="https://tv-res.pages.dev/logo/爱尔达影剧.png" group-title="港台-体育", 台湾|爱尔达影剧台
-p3p://167.114.175.6:55331/644f91780000980d6808346f494d7ec1
-#EXTINF:-1 tvg-name="台湾|爱尔达综合台" tvg-id="爱尔达综合" tvg-logo="https://logo.catvod.com/爱尔达综合.png" group-title="港台-体育", 台湾|爱尔达综合台
-http://free.cnlive.club/channel/n20929de1/index.m3u8
-#EXTINF:-1 tvg-name="台湾|爱尔达综合台" tvg-id="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="港台-体育", 台湾|爱尔达综合台
-https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-#EXTINF:-1 tvg-name="台湾|爱尔达综合台" tvg-id="爱尔达综合" tvg-logo="https://tv-res.pages.dev/logo/爱尔达综合.png" group-title="港台-体育", 台湾|爱尔达综合台
-p3p://167.114.175.6:55331/644f9341000c1001680f3089032174aa
-#EXTINF:-1 tvg-name="台湾|纬来日本台" tvg-id="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="港台-体育", 台湾|纬来日本台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-#EXTINF:-1 tvg-name="台湾|纬来精彩" tvg-id="台湾|纬来精彩" tvg-logo="https://epg.112114.xyz/logo/台湾|纬来精彩.png" group-title="港台-体育", 台湾|纬来精彩
-https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-#EXTINF:-1 tvg-name="台湾|纬来综合台" tvg-id="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="港台-体育", 台湾|纬来综合台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-id="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="港台-体育", 博斯高球二台
+http://114.32.153.6:5051/litv-xinchuang06/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-id="494" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="港台-体育", 博斯高球二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=494
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-id="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="港台-体育", 博斯高球二台
+https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
+#EXTINF:-1 tvg-name="博斯高球台" tvg-id="博斯高球一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="港台-体育", 博斯高球台
+http://114.32.153.6:5051/litv-xinchuang05/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="博斯高球台" tvg-id="264" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="港台-体育", 博斯高球台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=264
+#EXTINF:-1 tvg-name="博斯高球台" tvg-id="486" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="港台-体育", 博斯高球台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=486
+#EXTINF:-1 tvg-name="博斯高球台" tvg-id="博斯高球一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="港台-体育", 博斯高球台
+https://yeslivetv.com/twiptv/litv-longturn05/index.m3u8
 #EXTINF:-1 tvg-name="周杰伦现场" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/230/666/202407291311_1722229753453_H169_1080.jpg" group-title="港台-体育", 周杰伦现场
 http://sport.pendy.dpdns.org/migu/625133682?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="咪咕汇盛典轮播" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/162/202504031100_1743649196497_H169_1080.jpg" group-title="港台-体育", 咪咕汇盛典轮播
 http://sport.pendy.dpdns.org/migu/939773601?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/357/202104022141_5102012616_H169_1080.jpg" group-title="港台-体育", 宿迁新闻综合
-http://sport.pendy.dpdns.org/migu/639731832?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/368/202104022141_5102012620_H169_1080.jpg" group-title="港台-体育", 徐州新闻综合
-http://sport.pendy.dpdns.org/migu/639731747?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="港台-体育", 愛爾達生活旅遊台
-http://114.32.153.6:5051/4gtv-live120/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="港台-体育", 愛爾達生活旅遊台
-http://220.135.64.124:5050/4gtv-live120/index.m3u8
-#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="愛爾達生活旅遊台" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-live120_mobile.png" group-title="港台-体育", 愛爾達生活旅遊台
-https://rust.946985.filegear-sg.me/proxy/8ec105bbc9483047?token=tgJerryfeng
-#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-id="237" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="港台-体育", 愛爾達生活旅遊台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=237
-#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://epg.112114.xyz/logo/新片放映厅.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 新片放映厅
-http://124.223.82.228:89/619495952
-#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="港台-体育", 新片放映厅
-http://sport.pendy.dpdns.org/migu/619495952?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-id="咪咕体育" tvg-logo="https://epg.yang-1989.eu.org/logo/咪咕.png" group-title="港台-体育", 晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="智林體育台" tvg-id="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="港台-体育", 智林體育台
-http://114.32.153.6:5051/4gtv-4gtv101/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="智林體育台" tvg-id="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="港台-体育", 智林體育台
-http://220.135.64.124:5050/4gtv-4gtv101/index.m3u8
-#EXTINF:-1 tvg-name="智林體育台" tvg-id="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="港台-体育", 智林體育台
-http://220.135.64.124:5050/li-4gtv-4gtv101/index.m3u8
-#EXTINF:-1 tvg-name="智林體育台" tvg-id="智林體育台" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="港台-体育", 智林體育台
-https://rust.946985.filegear-sg.me/proxy/13ebcbfcc2752bf5?token=tgJerryfeng
-#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://epg.112114.xyz/logo/最强综艺趴.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 最强综艺趴
-http://124.223.82.228:89/629942228
-#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="港台-体育", 最强综艺趴
-http://sport.pendy.dpdns.org/migu/629942228?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="欧美体育" tvg-id="欧美体育" group-title="港台-体育", 欧美体育
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://logo.catvod.com/江苏国际.png" group-title="港台-体育", 江苏国际
-http://153.3.11.138:9003/hls/22/index.m3u8$江苏南京联通
-#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/577/202104022139_5100186482_HSJ720H.jpg" group-title="港台-体育", 江苏国际
-http://sport.pendy.dpdns.org/migu/626064674?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://logo.catvod.com/江苏国际.png" group-title="港台-体育", 江苏国际
-http://www.dsk.cc/jstv/jstv.php?id=jsgj&m.m3u8
-#EXTINF:-1 tvg-name="江苏城市频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/508/202104022138_5100186409_H169_1080.jpg" group-title="港台-体育", 江苏城市频道
-http://sport.pendy.dpdns.org/migu/626064714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="江苏影视频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/517/202104022138_5100186424_H169_1080.jpg" group-title="港台-体育", 江苏影视频道
-http://sport.pendy.dpdns.org/migu/626064697?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="江苏综艺频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/513/202104022039_5100186420_H169_1080.jpg" group-title="港台-体育", 江苏综艺频道
-http://sport.pendy.dpdns.org/migu/626065193?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/354/202104071213_5102012615_H169_1080.jpg" group-title="港台-体育", 泰州新闻综合
-http://sport.pendy.dpdns.org/migu/639731818?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="愛爾達寵物運動台" tvg-id="愛爾達寵物運動台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv070_mobile.png" group-title="港台-体育", 愛爾達寵物運動台
+http://114.32.153.6:5051/4gtv-4gtv070/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="愛爾達寵物運動台" tvg-id="19" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/頻道LOGO去背.png" group-title="港台-体育", 愛爾達寵物運動台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=19
+#EXTINF:-1 tvg-name="智林體育台" tvg-id="58" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="港台-体育", 智林體育台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=58
+#EXTINF:-1 tvg-name="澳門體育" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="港台-体育", 澳門體育
+https://epg.pm/stream/c3c30c83f3c77b20a11e447a3a94dc98bff7c72d386d4c86d4ae3a999e7c1faf.m3u8
+#EXTINF:-1 tvg-name="澳門體育 live3" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="港台-体育", 澳門體育 live3
+https://epg.pm/stream/3e0b4041c92c03089494b0c321bb9b3322b75778d7d5123320210d7a5b267bbc.m3u8
 #EXTINF:-1 tvg-name="澳门体育" tvg-id="澳门体育" tvg-logo="https://tv-res.pages.dev/logo/澳门体育.png" group-title="港台-体育", 澳门体育
 http://43.251.226.89:8080/play/902.m3u8
+#EXTINF:-1 tvg-name="澳门体育" tvg-id="澳门体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门体育.png" group-title="港台-体育", 澳门体育
+http://45.192.97.170:8880/play/910.m3u8
 #EXTINF:-1 tvg-name="澳门体育" tvg-id="澳门体育" tvg-logo="https://live.fanmingming.cn/tv/澳门体育.png" group-title="港台-体育", 澳门体育
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳门体育" tvg-id="澳门体育" tvg-logo="https://epg.112114.xyz/logo/澳门体育.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 澳门体育
 https://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 tvg-name="澳门体育" tvg-id="澳门体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png" group-title="港台-体育", 澳门体育
-https://rust.946985.filegear-sg.me/proxy/0e5bf5d02d350f69?token=tgJerryfeng
-#EXTINF:-1 tvg-name="熊猫频道1" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/699/202209211759_2200200699_H169_1080.jpg" group-title="港台-体育", 熊猫频道1
-http://sport.pendy.dpdns.org/migu/608933610?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道10" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/937/202209211800_2200192937_H169_1080.jpg" group-title="港台-体育", 熊猫频道10
-http://sport.pendy.dpdns.org/migu/609169285?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道2" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/717/202209211759_2200200717_H169_1080.jpg" group-title="港台-体育", 熊猫频道2
-http://sport.pendy.dpdns.org/migu/608933640?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道3" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/738/202209211759_2200200738_H169_1080.jpg" group-title="港台-体育", 熊猫频道3
-http://sport.pendy.dpdns.org/migu/608934619?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道4" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/771/202209211800_2200200771_H169_1080.jpg" group-title="港台-体育", 熊猫频道4
-http://sport.pendy.dpdns.org/migu/608934721?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道5" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/791/202209211800_2200200791_H169_1080.jpg" group-title="港台-体育", 熊猫频道5
-http://sport.pendy.dpdns.org/migu/608935104?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道6" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/817/202209211800_2200200817_H169_1080.jpg" group-title="港台-体育", 熊猫频道6
-http://sport.pendy.dpdns.org/migu/608935797?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道7" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/831/202209211800_2200192831_H169_1080.jpg" group-title="港台-体育", 熊猫频道7
-http://sport.pendy.dpdns.org/migu/609169286?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道8" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/881/202209211800_2200192881_H169_1080.jpg" group-title="港台-体育", 熊猫频道8
-http://sport.pendy.dpdns.org/migu/609169287?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="熊猫频道9" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/899/202209211800_2200192899_H169_1080.jpg" group-title="港台-体育", 熊猫频道9
-http://sport.pendy.dpdns.org/migu/609169226?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-id="爱尔达体育1台" tvg-logo="https://tvlogo-282.pages.dev/logos/TW/愛爾達體育1台.png" group-title="港台-体育", 爱尔达体育1台
-https://rust.946985.filegear-sg.me/proxy/4c6d75d6262f7731?token=tgJerryfeng
-#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-id="爱尔达体育1台" tvg-logo="https://tvlogo-282.pages.dev/logos/TW/愛爾達體育1台.png" group-title="港台-体育", 爱尔达体育1台
-https://rust.946985.filegear-sg.me/proxy/701a42d1c04617bf?token=tgJerryfeng
 #EXTINF:-1 tvg-name="爱尔达体育1台" tvg-id="爱尔达体育1台" group-title="港台-体育", 爱尔达体育1台
 https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
-#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-id="爱尔达体育2台" tvg-logo="https://tvlogo-282.pages.dev/logos/TW/愛爾達體育2台.png" group-title="港台-体育", 爱尔达体育2台
-https://rust.946985.filegear-sg.me/proxy/359550b3b615a75a?token=tgJerryfeng
 #EXTINF:-1 tvg-name="爱尔达体育2台" tvg-id="爱尔达体育2台" group-title="港台-体育", 爱尔达体育2台
 https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
-#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-id="爱尔达体育3台" tvg-logo="https://tvlogo-282.pages.dev/logos/TW/愛爾達體育3台.png" group-title="港台-体育", 爱尔达体育3台
-https://rust.946985.filegear-sg.me/proxy/da4db452524a4f1f?token=tgJerryfeng
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-id="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="港台-体育", 爱尔达体育2台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 #EXTINF:-1 tvg-name="爱尔达体育3台" tvg-id="爱尔达体育3台" group-title="港台-体育", 爱尔达体育3台
 https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
-#EXTINF:-1 tvg-name="爱尔达体育4台" tvg-id="爱尔达体育4台" tvg-logo="https://tvlogo-282.pages.dev/logos/TW/愛爾達體育4台.png" group-title="港台-体育", 爱尔达体育4台
-https://rust.946985.filegear-sg.me/proxy/c6b8a07376f932a6?token=tgJerryfeng
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-id="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="港台-体育", 爱尔达体育3台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-name="爱尔达体育4台" tvg-id="爱尔达体育4台" group-title="港台-体育", 爱尔达体育4台
 https://smart.dxjc.pp.ua/smart.php?id=eltasports4_twn&token=tmxk
 #EXTINF:-1 tvg-name="爱尔达影剧台" tvg-id="爱尔达影剧台" group-title="港台-体育", 爱尔达影剧台
 https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
+#EXTINF:-1 tvg-name="爱尔达影剧台" tvg-id="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="港台-体育", 爱尔达影剧台
+https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
 #EXTINF:-1 tvg-name="爱尔达综合台" tvg-id="爱尔达综合台" group-title="港台-体育", 爱尔达综合台
 https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
+#EXTINF:-1 tvg-name="爱尔达综合台" tvg-id="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="港台-体育", 爱尔达综合台
+https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
+#EXTINF:-1 tvg-name="緯來體育" tvg-id="緯來體育" tvg-logo="https://tv-res.pages.dev/logo/緯來體育.png" group-title="港台-体育", 緯來體育
+http://live4play.uk/livehttpplay?channel_id=20120
+#EXTINF:-1 tvg-name="緯來體育" tvg-id="緯來體育" tvg-logo="https://tv-res.pages.dev/logo/緯來體育.png" group-title="港台-体育", 緯來體育
+rtmp://60.248.77.83/sat/tv721
+#EXTINF:-1 tvg-name="緯來體育" tvg-id="456575" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="港台-体育" tvg-country="台灣" tvg-language="國語", 緯來體育
+rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-name="红色轮播台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/527/202407181250_1721278183765_H169_1080.jpg" group-title="港台-体育", 红色轮播台
 http://sport.pendy.dpdns.org/migu/713600957?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="纬来日本台" tvg-id="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="港台-体育", 纬来日本台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 #EXTINF:-1 tvg-name="纬来精彩" tvg-id="纬来精彩" tvg-logo="https://logo.catvod.com/纬来精彩.png" group-title="港台-体育", 纬来精彩
 http://free.cnlive.club/channel/581c2f1a/index.m3u8
 #EXTINF:-1 tvg-name="纬来精彩" tvg-id="纬来精彩" tvg-logo="https://tv-res.pages.dev/logo/纬来精彩.png" group-title="港台-体育", 纬来精彩
 https://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
+#EXTINF:-1 tvg-name="纬来精彩" tvg-id="台湾|纬来精彩" tvg-logo="https://epg.112114.xyz/logo/台湾|纬来精彩.png" group-title="港台-体育", 纬来精彩
+https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
 #EXTINF:-1 tvg-name="纬来精彩" tvg-id="纬来精彩" tvg-logo="https://tv-res.pages.dev/logo/纬来精彩.png" group-title="港台-体育", 纬来精彩
 p3p://167.114.175.6:55331/623a875d0001a53e979b95b628874e82
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="港台-体育", 经典动画大集合
-http://sport.pendy.dpdns.org/migu/629942219?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://epg.112114.xyz/logo/经典香港电影.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 经典香港电影
-http://124.223.82.228:89/625703337
-#EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202308221005_1692669894186_H169_1080.jpg" group-title="港台-体育", 经典香港电影
-http://sport.pendy.dpdns.org/migu/625703337?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="纬来综合台" tvg-id="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="港台-体育", 纬来综合台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+#EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="https://epg.112114.xyz/logo/超级体育.png" group-title="港台-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 超级体育
+http://111.29.9.33:6610/000000001000/1000000004000007755/index.m3u8?channel-id=bestzb&Contentid=1000000004000007755&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://tv-res.pages.dev/logo/超级体育.png" group-title="港台-体育", 超级体育
+http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/超级体育.png" group-title="港台-体育", 超级体育
+http://45.192.97.170:8880/play/1848.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/超级体育.png" group-title="港台-体育", 超级体育
+http://45.192.97.170:8880/play/3792.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/超级体育.png" group-title="港台-体育", 超级体育
+http://45.192.97.170:8880/play/3918.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="http://49.233.180.193:5678/data/icon/BESTV超级体育.png" group-title="港台-体育", 超级体育
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/qcsj8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/超级体育.png" group-title="港台-体育", 超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级体育.png" group-title="港台-体育", 超级体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000009204&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级体育.png" group-title="港台-体育", 超级体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000009601&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="超级体育" tvg-id="NewTV超级体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级体育.png" group-title="港台-体育", 超级体育
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000007755&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="迪拜体育" tvg-id="迪拜体育" group-title="港台-体育", 迪拜体育
+#EXTINF:-1 tvg-name="超级体育" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/超级体育.png" group-title="港台-体育", 超级体育
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8$LR•IPV6
+#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://tv-res.pages.dev/logo/超级体育.png" group-title="港台-体育", 超级体育
+http://feiyang.ak47s.top:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://tv-res.pages.dev/logo/超级体育.png" group-title="港台-体育", 超级体育
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0078&tk=a0c4f6cfaba3
+#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://tv-res.pages.dev/logo/超级体育.png" group-title="港台-体育", 超级体育
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3188&tk=23a9aca1f79f
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509003758988110_54.png" group-title="港台-体育", 超级体育
+https://epg.pm/stream/3eec47f3f0931daa53a3085df457a9039ae44493ff8027f0163d5a9962145c39.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509003758988110_54.png" group-title="港台-体育", 超级体育
+https://epg.pm/stream/fb3aa2120e8e88b4b46ed5893a436800e45e42bf94fdc9d29356b55e80f39cb5.m3u8
+#EXTINF:-1 tvg-name="迪拜体育2" tvg-id="迪拜体育2" tvg-logo="https://tv-res.pages.dev/logo/迪拜体育2.png" group-title="港台-体育", 迪拜体育2
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="金色剧场" tvg-logo="https://logo.catvod.com/金色剧场.png" group-title="港台-体育", 金色剧场
 http://m.061899.xyz/mg/jsjc
@@ -569,5 +403,3 @@ http://m.061899.xyz/mg/jsjc
 http://sport.pendy.dpdns.org/migu/713591450?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="高清大片" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="港台-体育", 高清大片
 http://sport.pendy.dpdns.org/migu/629943678?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="🇸🇦沙特阿拉伯Dubai Sports 3" tvg-id="🇸🇦沙特阿拉伯DubaiSports3" group-title="港台-体育", 🇸🇦沙特阿拉伯Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
