@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CINEMAWORLD" tvg-id="CinemaWorld" tvg-logo="https://live.fanmingming.com/tv/CINEMAWORLD.png" group-title="国际-影视", CINEMAWORLD
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="国际-影视", Cinema World
-http://220.135.64.124:5050/4gtv-live069/index.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="CinemaWorld" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-live069_mobile.png" group-title="国际-影视", CinemaWorld
-https://rust.946985.filegear-sg.me/proxy/a5e67cc0596baa69?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Cinema World" tvg-id="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="国际-影视", Cinema World
-http://114.32.153.6:5051/4gtv-live069/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="CINEMAX.png" group-title="国际-影视", CINEMAX
+http://117.114.153.26:8182/hls/TV00000000000000000109@HHZT.m3u8
+#EXTINF:-1 tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="CINEMAX.png" group-title="国际-影视", CINEMAX
+https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+#EXTINF:-1 tvg-name="CINEMAX" tvg-id="Cinemax" tvg-logo="CINEMAX.png" group-title="国际-影视", CINEMAX
+https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+#EXTINF:-1 tvg-name="CINEMAX" tvg-id="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/Cinemax.png" group-title="国际-影视" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="70s Cinema" tvg-id="70sCinema.us@SD" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="国际-影视", 70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 #EXTINF:-1 tvg-name="Afra Film" tvg-id="AfraFilm.ir@SD" group-title="国际-影视", Afra Film
@@ -73,6 +73,8 @@ https://metafilmhls.wns.live/hls/stream.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-name="My Cinema Europe" tvg-id="MyCinemaEurope.ch@SD" tvg-logo="https://epg.112114.xyz/logo/My Cinema Europe.png" group-title="国际-影视" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", My Cinema Europe
 https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+#EXTINF:-1 tvg-name="My Cinema Europe" tvg-id="MyCinemaEurope.ch@SD" tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="国际-影视", My Cinema Europe
+https://cdn12.178.indevs.in/163189/mce
 #EXTINF:-1 tvg-name="Persiana Cinema" tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="国际-影视", Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Cinema Italiano" tvg-id="PlutoTVCinemaItaliano.us@Italy" tvg-logo="https://i.imgur.com/w3lUi4t.png" group-title="国际-影视", Pluto TV Cinema Italiano
@@ -118,28 +120,18 @@ http://103.72.101.252:8080/live/413.m3u8
 #EXTINF:-1 tvg-name="Zee Cinemalu HD (1080p)" tvg-id="ZeeCinemalu.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540" group-title="国际-影视", Zee Cinemalu HD (1080p)
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-id="ZeeCinemaHD" group-title="国际-影视", Zee Cinema HD
-https://smt.goiptv.us.ci/Zeecinemahd/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-id="ZeeCinemaHD" group-title="国际-影视", Zee Cinema HD
 https://smart.dxjc.pp.ua/smart.php?id=Zeecinemahd&token=tmxk
-#EXTINF:-1 tvg-name="Icon Film Channel" group-title="国际-影视", Icon Film Channel
-https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Anime (720p)" tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="国际-影视", FilmRise Anime (720p)
-https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-name="Mr. Bean Animated (1080p)" tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="国际-影视", Mr. Bean Animated (1080p)
-https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Sci-Fi" tvg-id="PlutoTVScifiSeries.us@UK" tvg-logo="https://i.imgur.com/Ubj8sEU.png" group-title="国际-影视", Pluto TV Séries Sci-Fi
-https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-name="[HD]CINEMAX" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]CINEMAX
 https://epg.pm/stream/01e9492bcd01738feb471020b3f033e5f688abafb6dbfc4ea45988c9551bd272.m3u8
-#EXTINF:-1 tvg-name="[HD]CINEMAX HD" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]CINEMAX HD
+#EXTINF:-1 tvg-name="[HD]CINEMAX" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]CINEMAX
 https://epg.pm/stream/7b57657aa5e09a49601da29ad659f470011873ca415bcc98510ffed8e62ee1a5.m3u8
-#EXTINF:-1 tvg-name="[HD]Cinemax" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]Cinemax
+#EXTINF:-1 tvg-name="[HD]CINEMAX" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]CINEMAX
 https://epg.pm/stream/8a4f86a973f0b7a8e000128cfa4617820ab7091af730220f695748067d35633e.m3u8
-#EXTINF:-1 tvg-name="[BD]Cinemax@@1" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [BD]Cinemax@@1
+#EXTINF:-1 tvg-name="[HD]CINEMAX" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]CINEMAX
 https://epg.pm/stream/f74b673fea7f9740afef4cf9cfc72794601a6b94bc190e56b4c08bc5a0d31f5e.m3u8
-#EXTINF:-1 tvg-name="[HD]CINEMAX HD" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]CINEMAX HD
+#EXTINF:-1 tvg-name="[HD]CINEMAX" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]CINEMAX
 https://epg.pm/stream/160188dd5cabca3c2038b86c58d1b575f185a81057b405b3b92bac1cc6fb3e6e.m3u8
-#EXTINF:-1 tvg-name="[HD]Cinemax@@1" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]Cinemax@@1
+#EXTINF:-1 tvg-name="[HD]CINEMAX" tvg-id="3077" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/10/29/large/20171029231536415059_20.png" group-title="国际-影视", [HD]CINEMAX
 https://epg.pm/stream/9a98cf82d8b96fd1dc50eced7cc0dccbe1b3aa95289c6ea1b8674486a84c285c.m3u8
 #EXTINF:-1 tvg-name="[SD]CINEMA WORLD" tvg-id="2846" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/24/large/20161224232256709196_74.jpg" group-title="国际-影视", [SD]CINEMA WORLD
 https://epg.pm/stream/d881f52bc66bb8902b02b343814502291eba1518e3f8084efaacbc51786aa991.m3u8
@@ -147,6 +139,12 @@ https://epg.pm/stream/d881f52bc66bb8902b02b343814502291eba1518e3f8084efaacbc5178
 https://epg.pm/stream/b9aad8c57066160084da26e86ecb034f7ebdf545df994e7e72c9c833cb82dc9e.m3u8
 #EXTINF:-1 tvg-name="[HD]Film+ (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174103482024_93.png" group-title="国际-影视", [HD]Film+ (720p) [Not 24/7]
 https://epg.pm/stream/19b13dece28e925bd179a541edecd08baf0153a386167f3e6c8cb610b81300ea.m3u8
+#EXTINF:-1 tvg-name="Cinema World" tvg-id="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="国际-影视", Cinema World
+http://220.135.64.124:5050/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-name="Cinema World" tvg-id="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="国际-影视", Cinema World
+http://114.32.153.6:5051/4gtv-live069/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="Cinema World" tvg-id="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="国际-影视", Cinema World
+https://cdn12.178.indevs.in/163189/cinemaworld
 #EXTINF:-1 tvg-name="CineMan ExExEx" group-title="国际-影视", CineMan ExExEx
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/20089/index.m3u8
 #EXTINF:-1 tvg-name="Lust Cinema" group-title="国际-影视", Lust Cinema

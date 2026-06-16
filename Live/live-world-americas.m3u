@@ -7,114 +7,24 @@ http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-name="Online TV Nusantara (720p) [Not 24/7]" tvg-id="OnlineTVNusantara.id@SD" tvg-logo="https://i.imgur.com/E9CCIpP.jpg" group-title="国际-美洲", Online TV Nusantara (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
-#EXTINF:-1 tvg-name="STADIUM" tvg-logo="https://epg.112114.xyz/logo/STADIUM.png" group-title="国际-美洲", Stadium
-https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-#EXTINF:-1 tvg-name="STADIUM" tvg-logo="https://epg.112114.xyz/logo/STADIUM.png" group-title="国际-美洲" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", STADIUM
-https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
 #EXTINF:-1 tvg-name="American Horrors (480p)" tvg-id="AmericanHorrors.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="国际-美洲", American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-name="De Pelicula Latin America" tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="国际-美洲", De Pelicula Latin America
 http://181.119.93.83:8000/play/a1jw/index.m3u8
 #EXTINF:-1 tvg-name="Persiana Latino" tvg-id="PersianaLatino.fr@SD" group-title="国际-美洲", Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://epg.112114.xyz/logo/STADIUM.png" group-title="国际-美洲", Stadium
+https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://epg.112114.xyz/logo/STADIUM.png" group-title="国际-美洲" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", Stadium
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
 #EXTINF:-1 tvg-name="NTD TV Canada" tvg-id="NTDTVCanada.us@East" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="国际-美洲", NTD TV Canada
 https://live.ntdtv.com/mllive860/playlist.m3u8
 #EXTINF:-1 tvg-name="NTD TV Canada West" tvg-id="NTDTVCanada.us@West" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="国际-美洲", NTD TV Canada West
 https://live.ntdtv.com/cwlive220/playlist.m3u8
-#EXTINF:-1 tvg-name="「CA」 CanadaOne" group-title="国际-美洲", 「CA」 CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="国际-美洲", Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-name="Disney XD" tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="国际-美洲", Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-name="HBO 2" tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际-美洲", HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="国际-美洲", National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 tvg-name="CMT" group-title="国际-美洲", CMT
-http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-name="WE TV" tvg-logo="https://epg.112114.xyz/logo/WE TV.png" group-title="国际-美洲", WE TV
-http://23.237.104.106:8080/USA_WE_TV/mpegts
 #EXTINF:-1 tvg-name="TVS Boxing (360p)" tvg-id="TVSBoxing.us@SD" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="国际-美洲", TVS Boxing (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-name="TVS Turbo (360p)" tvg-id="TVSTurbo.us@SD" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="国际-美洲", TVS Turbo (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-name="3ABN Canada (720p)" tvg-id="3ABNCanada.ca@SD" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="国际-美洲", 3ABN Canada (720p)
-https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1 tvg-name="America’s Funniest Home Videos (1080p)" tvg-id="AFV.us@SD" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="国际-美洲", America’s Funniest Home Videos (1080p)
-https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="America's Test Kitchen (1080p) [Geo-blocked]" tvg-id="AmericasTestKitchen.us@SD" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="国际-美洲", America's Test Kitchen (1080p) [Geo-blocked]
-https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
-#EXTINF:-1 tvg-name="Camera Smile (480p)" tvg-id="CameraSmileTV.us@SD" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="国际-美洲", Camera Smile (480p)
-https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
-#EXTINF:-1 tvg-name="Celebrity Scene TV (720p)" tvg-id="CelebritySceneTV.us@SD" tvg-logo="https://i.imgur.com/n36jriB.png" group-title="国际-美洲", Celebrity Scene TV (720p)
-https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
-#EXTINF:-1 tvg-name="Chef Champion (720p) [Not 24/7]" tvg-id="ChefChampion.us@SD" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="国际-美洲", Chef Champion (720p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
-#EXTINF:-1 tvg-name="EWTN Canada (720p)" tvg-id="EWTN.us@Canada" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="国际-美洲", EWTN Canada (720p)
-https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Fazal TV (1080p)" tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="国际-美洲", Fazal TV (1080p)
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Flowers TV USA" tvg-id="FlowersTVUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="国际-美洲", Flowers TV USA
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:-1 tvg-name="GH Canada TV" tvg-id="GHCanadaTV.ca@SD" group-title="国际-美洲", GH Canada TV
-https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
-#EXTINF:-1 tvg-name="Go USA TV (720p)" tvg-id="GoUSATV.us@SD" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="国际-美洲", Go USA TV (720p)
-https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Hope Channel Inter-America English (1080p)" tvg-id="HopeChannelInterAmericaEnglish.us@SD" tvg-logo="https://i.imgur.com/wzvgAch.png" group-title="国际-美洲", Hope Channel Inter-America English (1080p)
-https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8
-#EXTINF:-1 tvg-name="Hope Channel North America (1080p)" tvg-id="HopeChannelNorthAmerica.us@SD" tvg-logo="https://i.imgur.com/2qXqajS.png" group-title="国际-美洲", Hope Channel North America (1080p)
-https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]" tvg-id="CBXFTDT.ca@SD" tvg-logo="https://i.imgur.com/xN4Valg.png" group-title="国际-美洲", Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
-#EXTINF:-1 tvg-name="Latino Channel TV (1080p)" tvg-id="LatinoChannelTV.us@HD" tvg-logo="https://i.imgur.com/FcLIOGp.png" group-title="国际-美洲", Latino Channel TV (1080p)
-https://cdn.vegasplus.us/vegas/latch/playlist.m3u8
-#EXTINF:-1 tvg-name="LoveWorld USA (720p)" tvg-id="LoveWorldUSA.ng@SD" group-title="国际-美洲", LoveWorld USA (720p)
-https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Mad Dog and Merrill (540p) [Not 24/7]" tvg-id="MadDogandMerrill.us@SD" tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="国际-美洲", Mad Dog and Merrill (540p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
-#EXTINF:-1 tvg-name="MBC America (1080p)" tvg-id="MBCAmerica.us@SD" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="国际-美洲", MBC America (1080p)
-https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon (1080p)" tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="国际-美洲", Nickelodeon (1080p)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-name="Qausain TV (720p)" tvg-id="QausainTV.ng@SD" tvg-logo="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" group-title="国际-美洲", Qausain TV (720p)
-https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
-#EXTINF:-1 tvg-name="Real America's Voice (1080p)" tvg-id="RealAmericasVoice.us@SD" tvg-logo="https://i.imgur.com/l7tmTjX.png" group-title="国际-美洲", Real America's Voice (1080p)
-https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
-#EXTINF:-1 tvg-name="Shalom World (1080p)" tvg-id="ShalomWorld.us@NorthAmerica" tvg-logo="https://i.imgur.com/wnNd3b8.png" group-title="国际-美洲", Shalom World (1080p)
-https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Starz (1080p)" tvg-id="Starz.us@East" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="国际-美洲", Starz (1080p)
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 tvg-name="Swamiji TV American (1080p) [Not 24/7]" tvg-id="SwamijiTVAmerican.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="国际-美洲", Swamiji TV American (1080p) [Not 24/7]
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="The Pet Collective International (720p)" tvg-id="ThePetCollective.us@Mexico" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="国际-美洲", The Pet Collective International (720p)
-https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TVS Family Channel (360p)" tvg-id="TVSFamilyChannel.us@SD" tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="国际-美洲", TVS Family Channel (360p)
-https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-name="TVS Hi Tops (720p)" tvg-id="TVSHiTops.us@SD" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="国际-美洲", TVS Hi Tops (720p)
-https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
-#EXTINF:-1 tvg-name="TVS Hollywood History (582p)" tvg-id="TVSHollywoodHistory.us@SD" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="国际-美洲", TVS Hollywood History (582p)
-https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 tvg-name="TVS Mainstreet (360p) [Not 24/7]" tvg-id="TVSMainstreet.us@SD" tvg-logo="https://i.imgur.com/N9nQpnP.png" group-title="国际-美洲", TVS Mainstreet (360p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 tvg-name="TVS Nostalgia (472p)" tvg-id="TVSNostalgia.us@SD" tvg-logo="https://i.imgur.com/q72FCCQ.png" group-title="国际-美洲", TVS Nostalgia (472p)
-https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
-#EXTINF:-1 tvg-name="TVS Tally Ho (360p)" tvg-id="TVSTallyHo.us@SD" tvg-logo="https://i.imgur.com/JlFwnDD.png" group-title="国际-美洲", TVS Tally Ho (360p)
-https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
-#EXTINF:-1 tvg-name="TVS Tavern (480p)" tvg-id="TVSTavern.us@SD" tvg-logo="https://i.imgur.com/3GTIs4j.png" group-title="国际-美洲", TVS Tavern (480p)
-https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-name="TVSConsumerDirect (720p)" tvg-id="TVSConsumerDirect.us@SD" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="国际-美洲", TVSConsumerDirect (720p)
-https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
-#EXTINF:-1 tvg-name="Vevo Latino (1080p)" tvg-id="VevoLatino.us@SD" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="国际-美洲", Vevo Latino (1080p)
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="WGN-DT1 (720p)" tvg-id="WGNDT1.us@SD" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="国际-美洲", WGN-DT1 (720p)
-http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1 tvg-name="YTA TV" tvg-id="YTATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/YouToo_America_logo.png" group-title="国际-美洲", YTA TV
-https://yta.unitedteleports.tv/hls/YTA.m3u8
-#EXTINF:-1 tvg-name="Zee TV Canada (1080p)" tvg-id="ZeeTVCanada.ca@SD" tvg-logo="https://i.imgur.com/mARKUZ9.png" group-title="国际-美洲", Zee TV Canada (1080p)
-https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
-#EXTINF:-1 tvg-name="American Horrors" group-title="国际-美洲", American Horrors
-http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-name="[HD]American Horrors" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/eab10aa65f5fa86b5a7d6b102e071862.jpg" group-title="国际-美洲", [HD]American Horrors
 https://epg.pm/stream/1dba4a203b5d6ea0b5748cae3e6ff2e0835246c51bebf3b7907cb205859e75b6.m3u8
 #EXTINF:-1 tvg-name="[BD]MBC 1 USA (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174534575127_73.png" group-title="国际-美洲", [BD]MBC 1 USA (1080p)
@@ -123,10 +33,14 @@ https://epg.pm/stream/fd370d7f9bb47aef3a4ab9742c8b273bb8d5a98e98e7cd15d3b0ed4688
 https://epg.pm/stream/9cfcdd3e8435c5db40737290150ad89d04b19d702d6104072875debe0577a0a0.m3u8
 #EXTINF:-1 tvg-name="[VGA]TV9 Nusantara (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163809830170_51.png" group-title="国际-美洲", [VGA]TV9 Nusantara (720p)
 https://epg.pm/stream/907971c5ee44f5214860724a0ebf56bcaedafe8e1862895e4c76ba38df85afab.m3u8
+#EXTINF:-1 tvg-name="American Horrors" group-title="国际-美洲", American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-name="fuse" tvg-logo="https://epg.112114.xyz/logo/fuse.png" group-title="国际-美洲" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://epg.112114.xyz/logo/E!.png" group-title="国际-美洲" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", E!
 http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-name="WE TV" tvg-logo="https://epg.112114.xyz/logo/WE TV.png" group-title="国际-美洲" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", WE TV
+http://23.237.104.106:8080/USA_WE_TV/mpegts
 #EXTINF:-1 tvg-name="Team USA TV" tvg-logo="https://epg.112114.xyz/logo/Team USA TV.png" group-title="国际-美洲" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", Team USA TV
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist360P.m3u8
 #EXTINF:-1 tvg-name="Naughty America" group-title="国际-美洲", Naughty America

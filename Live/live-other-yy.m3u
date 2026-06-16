@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
-http://207.56.13.146:81/cdnlive/fyyy.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
 https://hls-gateway.vpstv.net/streams/708858.m3u8
@@ -9,30 +7,40 @@ https://hls-gateway.vpstv.net/streams/708858.m3u8
 http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 #EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
 http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
-#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="中文-直播平台", CCTV-风云音乐
-http://dassby.qqff.top:99/live/风云音乐/index.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云音乐.png" group-title="中文-直播平台", CCTV-风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
 http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
-#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云音乐.png" group-title="中文-直播平台" response-time="88ms", 风云音乐
-http://49.234.31.101:7033/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
 #EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
 http://107.150.60.122/live/fyyy.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="中文-直播平台", CCTV-风云音乐
-rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
-#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
-http://121.230.171.192:8000/rtp/239.49.1.68:6000
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-id="风云音乐" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV风云音乐.png" group-title="中文-直播平台", CCTV风云音乐
-http://1.83.163.63:8888/rtp/239.111.205.69:5140
-#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
-http://120.238.84.45:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-风云音乐" tvg-id="风云音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云音乐.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-风云音乐
-http://192.151.150.154/live/fyyy.m3u8
-#EXTINF:-1 tvg-name="CCTV-风云音乐" tvg-id="风云音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云音乐.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
 http://173.208.212.130:8181/720p/fyyy.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://192.151.150.154/live/fyyy.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://hmfs.f3322.net:3388/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://rihou.cc:555/cqyx.php?id=fyyy
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://163.177.122.71:9901/tsfile/live/1097_1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://163.177.122.122:9901/tsfile/live/1097_1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://112.234.21.109:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://119.125.104.73:9901/tsfile/live/1096_1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://iptv.kakacq.com:8888/rtsp/118.212.169.134/PLTV/88888888/224/3221227226/10000100000000060000000000680078_0.smil
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV风云音乐.png" group-title="中文-直播平台", 风云音乐
+http://1.83.163.63:8888/rtp/239.111.205.69:5140
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云音乐.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 风云音乐
+http://207.56.13.146:81/cdnlive/fyyy.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
 http://113.119.25.7:58888/udp/239.253.43.6:5146
 #EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="中文-直播平台", 风云音乐
@@ -67,14 +75,18 @@ https://stream1.freetv.fun/jing-dian-dian-ying-9.ctv
 https://stream1.freetv.fun/jing-dian-dian-ying-8.ctv
 #EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典电影.png" group-title="中文-直播平台", 经典电影
 https://stream1.freetv.fun/jing-dian-dian-ying-15.ctv
-#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/经典电影.png" group-title="中文-直播平台" response-time="80ms", 经典电影
-http://113.25.252.226:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典电影.png" group-title="中文-直播平台", 经典电影
-http://183.222.15.202:4321/rtp/239.10.0.122:5140
-#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典电影.png" group-title="中文-直播平台", 经典电影
-http://223.86.170.98:4500/rtp/239.10.0.122:5140
-#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典电影.png" group-title="中文-直播平台", 经典电影
-http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/经典电影.png" group-title="中文-直播平台", 经典电影
+http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/经典电影.png" group-title="中文-直播平台", 经典电影
+https://ali.hlspull.yximgs.com/live/asdfg32522.flv
+#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/经典电影.png" group-title="中文-直播平台", 经典电影
+http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_2000p.m3u8
+#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/经典电影.png" group-title="中文-直播平台", 经典电影
+http://171.108.239.79:8181/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/经典电影.png" group-title="中文-直播平台", 经典电影
+http://119.125.104.73:9901/tsfile/live/1045_1.m3u8
+#EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/经典电影.png" group-title="中文-直播平台", 经典电影
+http://113.25.252.226:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://epg.112114.xyz/logo/经典电影.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 经典电影
 https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
 #EXTINF:-1 tvg-name="经典电影" tvg-id="经典电影" tvg-logo="https://epg.112114.xyz/logo/经典电影.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 经典电影
@@ -83,8 +95,10 @@ https://kbpull.kktv8.com/livekktv/99350550/playlist.m3u8
 https://down-hls.qxiu.com/live/453135/index.m3u8
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-id="IPTV经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="中文-直播平台", IPTV经典电影
 http://43.138.0.72:35455/yy/1382754187
-#EXTINF:-1 tvg-name="IPTV经典电影" tvg-id="IPTV经典电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/IPTV经典电影.png" group-title="中文-直播平台" response-time="28ms", IPTV经典电影
-http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="IPTV经典电影" tvg-id="IPTV经典电影" tvg-logo="https://11.112114.xyz/logo/IPTV经典电影.png" group-title="中文-直播平台", IPTV经典电影
+http://114.244.117.90:1314/rtp/239.3.1.195:9024
+#EXTINF:-1 tvg-name="IPTV经典电影" tvg-id="IPTV经典电影" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/IPTV经典电影.png" group-title="中文-直播平台", IPTV经典电影
+http://123.129.70.178:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
 https://migu.188766.xyz/?migutoken=103d22404add9b90cd72174eb1a0108b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
@@ -96,37 +110,33 @@ https://migu.188766.xyz/?migutoken=f4d62cd1f8775b1b837f4232f1051f36&id=%E5%BF%AB
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
 https://migu.188766.xyz/?migutoken=396182b2a9b61dca2daded3fc6f62311&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://home.wwang.pw:35455/itv/5000000011000031206.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
 http://drive.mxmy.net:8888/udp/239.3.1.164:8001
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://gslbserv.itv.cmvideo.cn/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="http://49.233.180.193:5678/data/icon/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/klcd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="http://49.233.180.193:5678/data/icon/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://115.190.124.74/php/hundf.php?id=218&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.lizanyang.top/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://180.165.21.206:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/快乐垂钓.png" group-title="中文-直播平台" response-time="14ms", 快乐垂钓
-http://121.19.134.119:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/317/202512290851_1766567876635_H32_1080.webp" group-title="中文-直播平台" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 快乐垂钓
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=快乐垂钓
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=202601270802078f460ae231e742adb82f18c9484452eb&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260127080207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260127080207&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e7b2af54bc3f0e65bb5db3d747256cd3
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://home.wwang.pw:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2026012720020660adde32d5774be49a5bae9b5001a2a7&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260127200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260127200206&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=997483385447eab63998a60935542dbe
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/KLCDMPP360.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://222.173.108.238:352/tsfile/live/0118_1.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://58.46.29.253:9999/tsfile/live/1116_1.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://115.150.63.77:9902/tsfile/live/0001_42.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://113.195.4.227:9901/tsfile/live/1042_1.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=20260128040207cba86e7632ab4d5dbc6b40b23d50f4f1&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260128040207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260128040207&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=88531a2c6715927b6d8381d5fc599c4f
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
 http://1.202.10.117:8888/udp/225.1.8.71:8002
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
 http://8.138.7.223/tv/mgtv.php?id=218
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://36.158.75.239:8088/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
-http://36.158.75.249:8088/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 快乐垂钓
 https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓 8M" tvg-id="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓 8M
-https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 快乐垂钓
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227965/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="中文-直播平台", 快乐垂钓
@@ -161,10 +171,26 @@ https://tv.iill.top/migu/xdm&token=2276b9830bd9e6d7f4858f72fe6095ad7d4eeb9d25164
 https://migu.188766.xyz/?migutoken=fa7fab5af3b2b0fca5c12c94accfd524&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="中文-直播平台", 新动漫
 https://migu.188766.xyz/?migutoken=b6723923245d1a7b8f0a16fa0e1850e7&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
-#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://live.fanmingming.cn/tv/新动漫.png" group-title="中文-直播平台", 新动漫
-http://nas.hssvm.com:8888/udp/225.1.1.216:5002
-#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="中文-直播平台" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 新动漫
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=2026012722020740c35a94c9a945018fb70c56f83a913b&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260127220207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=218.28.233.106&SecurityKey=20260127220207&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=33d53bc4f6e41e03bbb2d44c6aa02685
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://113.195.4.227:9901/tsfile/live/1051_1.m3u8
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=202601280602082d5b3c516bca461ea16e795009b225e8&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260128060208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=218.28.233.106&SecurityKey=20260128060208&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b0e31f803a3864f092fe5564ac148ec8
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=20260128180207b99fa47632374cddadcbaa56790d057f&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260128180207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=218.28.233.106&SecurityKey=20260128180207&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=20708aef53893692e024ed63ad61c09d
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=202601290602084fdb1e8e30834ccc9000f88bf7762589&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260129060208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=218.28.233.106&SecurityKey=20260129060208&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=58cb8e4baf8c3d7ef39346e227fb50eb
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=202601291802080b3102eea7644ca8a8a67cf7ff9c0ea0&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260129180208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=218.28.233.106&SecurityKey=20260129180208&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=22e4c4e44b5b113f5ea4b4b8e8082e0d
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=20260130060208862ba75c57524481ae677ca21aea2313&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260130060208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=218.28.233.106&SecurityKey=20260130060208&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5565df573daf69d6effdd502c4fddf97
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=20260130180208b6b3fa58b0ef446d8269ad876d296b78&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260130180208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=218.28.233.106&SecurityKey=20260130180208&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a6d7da8d8364154ea578ee459eb8165
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新动漫.png" group-title="中文-直播平台", 新动漫
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=202601310602088bc0642b64e14929bda6cff0f987879f&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260131060208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=218.28.233.106&SecurityKey=20260131060208&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=844db4b27996558ced2eae4936917e26
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="中文-直播平台", 新动漫
 http://219.156.95.119:4022/rtp/225.1.4.212:1265
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="中文-直播平台", 新动漫
@@ -177,88 +203,102 @@ http://106.59.3.141:55555/rtp/239.200.201.32:4120
 http://120.76.248.139/live/bfgd/4200000140.m3u8
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="中文-直播平台", 蜡笔小新
 https://live.ottiptv.cc/bilibili/30837590
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/蜡笔小新.png" group-title="中文-直播平台", 蜡笔小新
-http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 蜡笔小新
-http://115.190.124.74/php/huya.php?id=11352970&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 蜡笔小新
-https://isus.cc/php/huya.php?id=11352970
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="中文-直播平台", 蜡笔小新
-http://43.251.226.110:8880/play/1470.m3u8
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/蜡笔小新.png" group-title="中文-直播平台", 蜡笔小新
+http://www.douzhicloud.site:35455/bilibili/30837590
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="中文-直播平台", 蜡笔小新
 http://81.70.10.196:35455/huya/11352970
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 蜡笔小新
+https://live.ottiptv.cc/huya/11352970
 #EXTINF:-1 tvg-name="音乐现场" tvg-id="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="中文-直播平台", 音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
 https://live.ottiptv.cc/yy/28265277
-#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="中文-直播平台", 鹿鼎记
-http://1.94.31.214:35455/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://www.douzhicloud.site:35455/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://120.77.28.4:8648/yy.php?id=1382704650
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://www.xzbn.site:35455/yy/28265277
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://live.nctv.top/huya.php?id=23865080
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://www.xzbn.site:35455/huya/23865080
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://2.itv.nctv.top:54321/yy/382704650
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://live.nctv.top/douyu.php?id=12128227
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://www.xzbn.site:35455/douyu/12128227
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+http://alist.xicp.fun:35455/yy/28265277#https://live.metshop.top/huya/23865080#https://live.metshop.top/yy/28265277#https://lunbo.freetv.top/yy/1382736920
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿鼎记.png" group-title="中文-直播平台", 鹿鼎记
+https://live.metshop.top/yy/28265277
 #EXTINF:-1 tvg-name="仙剑奇侠传" tvg-id="仙剑奇侠传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/仙剑奇侠传.png" group-title="中文-直播平台", 仙剑奇侠传
 https://live.ottiptv.cc/yy/1382749903
-#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-id="仙剑奇侠传" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/仙剑奇侠传.png" group-title="中文-直播平台", 仙剑奇侠传
-http://1.94.31.214:35455/yy/1382749903
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-id="仙剑奇侠传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/仙剑奇侠传.png" group-title="中文-直播平台", 仙剑奇侠传
+http://www.douzhicloud.site:35455/yy/1382749903
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-id="仙剑奇侠传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/仙剑奇侠传.png" group-title="中文-直播平台", 仙剑奇侠传
+http://120.77.28.4:8648/yy.php?id=1382749903
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-id="仙剑奇侠传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/仙剑奇侠传.png" group-title="中文-直播平台", 仙剑奇侠传
+https://live.metshop.top/yy/1382749903
 #EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/水浒传.png" group-title="中文-直播平台", 水浒传
 http://www.clmy.cc:35455/yy/1353873252
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://43.251.226.89:8080/play/2087.m3u8
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://43.251.226.89:8080/play/1562.m3u8
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://43.251.226.89:8080/play/1967.m3u8
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://www.douzhicloud.site:35455/yy/1353852605
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://h.20191209.xyz:25888/yy/1353852605
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://8.155.43.98:35455/huya/26355860
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://222.186.39.21:35466/huya/26355860
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://39.153.130.167:35455/huya/26355860
+#EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/水浒传.png" group-title="中文-直播平台", 水浒传
+http://live.ottiptv.cc/huya/26355860
 #EXTINF:-1 tvg-name="水浒传" tvg-id="水浒传" tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/358da156c5ee4f87a22ef90b134e399d.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 水浒传
 https://live.ottiptv.cc/yy/1353873252
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-id="新白娘子传奇" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新白娘子传奇.png" group-title="中文-直播平台", 新白娘子传奇
 https://live.ottiptv.cc/yy/1354490667
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-id="新白娘子传奇" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/新白娘子传奇.png" group-title="中文-直播平台", 新白娘子传奇
-http://1.94.31.214:35455/yy/1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-id="新白娘子传奇" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新白娘子传奇.png" group-title="中文-直播平台", 新白娘子传奇
+http://www.douzhicloud.site:35455/yy/1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-id="新白娘子传奇" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新白娘子传奇.png" group-title="中文-直播平台", 新白娘子传奇
+http://120.77.28.4:8648/yy.php?id=1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-id="新白娘子传奇" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新白娘子传奇.png" group-title="中文-直播平台", 新白娘子传奇
+http://alist.xicp.fun:35455/yy/1354490667#https://live.metshop.top/yy/1354490667#http://43.138.170.29:35455/yy/1354930969
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-id="新白娘子传奇" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新白娘子传奇.png" group-title="中文-直播平台", 新白娘子传奇
+https://www.goodiptv.club/yy/1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-id="新白娘子传奇" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新白娘子传奇.png" group-title="中文-直播平台", 新白娘子传奇
+https://live.metshop.top/yy/1354490667
 #EXTINF:-1 tvg-name="月牙泉" tvg-id="月牙泉" tvg-logo="https://tb.zbds.top/logo/月牙泉.png" group-title="中文-直播平台", 月牙泉
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
 #EXTINF:-1 tvg-name="鸣沙山" tvg-id="鸣沙山" tvg-logo="https://tb.zbds.top/logo/鸣沙山.png" group-title="中文-直播平台", 鸣沙山
 https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-#EXTINF:-1 tvg-name="「B站」热门赛事" tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="中文-直播平台", 「B站」热门赛事
-http://dns.yiandrive.com:15907/bilibili/10
-#EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="中文-直播平台", 灌篮高手
-http://1.94.31.214:35455/yy/1382735626
 #EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="中文-直播平台", 灌篮高手
 https://live.ottiptv.cc/yy/1382735626
-#EXTINF:-1 tvg-name="灌篮高手" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 灌篮高手
-http://cfss.cc/cdn/yy/514674.m3u8
-#EXTINF:-1 tvg-name="变形金刚合集" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="中文-直播平台", 变形金刚合集
-http://1.94.31.214:35455/yy/1382736803
-#EXTINF:-1 tvg-name="末日电影合集" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="中文-直播平台", 末日电影合集
-http://1.94.31.214:35455/yy/1354889019
-#EXTINF:-1 tvg-name="末日电影合集" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="中文-直播平台", 末日电影合集
-https://live.ottiptv.cc/yy/1354889019
-#EXTINF:-1 tvg-name="少年包青天第一部" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="中文-直播平台", 少年包青天第一部
-http://1.94.31.214:35455/yy/1356043677
 #EXTINF:-1 tvg-name="少年包青天第一部" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="中文-直播平台", 少年包青天第一部
 https://live.ottiptv.cc/yy/1356043677
-#EXTINF:-1 tvg-name="少年包青天第三部" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="中文-直播平台", 少年包青天第三部
-http://1.94.31.214:35455/yy/1382736814
 #EXTINF:-1 tvg-name="少年包青天第三部" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天3.png" group-title="中文-直播平台", 少年包青天第三部
 https://live.ottiptv.cc/yy/1382736814
 #EXTINF:-1 tvg-name="少年包青天第三部" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64be1961fef11f0828fa814f.png?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 少年包青天第三部
 https://live.ottiptv.cc/yy/1382851540
-#EXTINF:-1 tvg-name="神探狄仁杰第二部" tvg-id="神探狄仁杰第二部" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰2.png" group-title="中文-直播平台", 神探狄仁杰第二部
-http://1.94.31.214:35455/yy/1382851146
-#EXTINF:-1 tvg-name="神探狄仁杰第二部" tvg-id="神探狄仁杰第二部" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰2.png" group-title="中文-直播平台", 神探狄仁杰第二部
-https://goodiptv.club/douyu/6027991
-#EXTINF:-1 tvg-name="伪装者" tvg-id="伪装者" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="中文-直播平台", 伪装者
-http://1.94.31.214:35455/yy/1354936244
 #EXTINF:-1 tvg-name="伪装者" tvg-id="伪装者" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="中文-直播平台", 伪装者
 https://live.ottiptv.cc/yy/1354936244
 #EXTINF:-1 tvg-name="伪装者" tvg-id="伪装者" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7bd8fef11f0828fa8312.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 伪装者
 https://live.ottiptv.cc/yy/1382851593
-#EXTINF:-1 tvg-name="西游记后传" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="中文-直播平台", 西游记后传
-http://1.94.31.214:35455/yy/1353392400
 #EXTINF:-1 tvg-name="西游记后传" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="中文-直播平台", 西游记后传
 https://live.ottiptv.cc/yy/1353392400
 #EXTINF:-1 tvg-name="西游记后传" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/YmM5NjBlNmMtZTYyYy00Y2U4LWJmOTAtZTk4NmYzMDk2YWZk.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 西游记后传
 https://live.ottiptv.cc/yy/1382736846
-#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png" group-title="中文-直播平台", 隋唐英雄传
-http://1.94.31.214:35455/yy/1352475619
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png" group-title="中文-直播平台", 隋唐英雄传
 https://live.ottiptv.cc/yy/1352475619
-#EXTINF:-1 tvg-name="我是特种兵之利刃出鞘" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="中文-直播平台", 我是特种兵之利刃出鞘
-http://1.94.31.214:35455/yy/37999586
 #EXTINF:-1 tvg-name="我是特种兵之利刃出鞘" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="中文-直播平台", 我是特种兵之利刃出鞘
 https://live.ottiptv.cc/yy/37999586
-#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="中文-直播平台", 狂飙
-http://1.94.31.214:35455/yy/1355142167
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="中文-直播平台", 狂飙
 https://live.ottiptv.cc/yy/1355142167
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/403SA5EdHW4Lxqx8vg1x2P.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 狂飙
@@ -269,639 +309,105 @@ https://live.ottiptv.cc/yy/21881901
 https://live.ottiptv.cc/yy/1354926650
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7c1efef11f0828fa8313.png?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 父母爱情
 https://live.ottiptv.cc/yy/1382851594
+#EXTINF:-1 tvg-name="欢乐颂" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="中文-直播平台", 欢乐颂
+https://live.ottiptv.cc/yy/1382735624
 #EXTINF:-1 tvg-name="谈判专家" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="中文-直播平台", 谈判专家
 https://live.ottiptv.cc/yy/1382735560
+#EXTINF:-1 tvg-name="「B站」热门赛事" tvg-logo="https://epg.yang-1989.eu.org/logo/哔哩哔哩.png" group-title="中文-直播平台", 「B站」热门赛事
+http://dns.yiandrive.com:15907/bilibili/10
 #EXTINF:-1 tvg-name="中国交通" tvg-id="79" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226173/10000100000000060000000001341044_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="79" zz-definition="HD", 中国交通
 rtp://239.3.1.188:8001
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="79" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="中文-直播平台", Mezzo Live HD
+#EXTINF:-1 tvg-name="中国交通" tvg-id="79" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="中文-直播平台", 中国交通
 https://ha.msbot.dpdns.org/4gtv_api.php?id=79
-#EXTINF:-1 tvg-name="金鹰纪实高清" tvg-id="77" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYingJiShi.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226050/10000100000000060000000000384062_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="77" zz-definition="HD", 金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-id="77" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYingJiShi.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226050/10000100000000060000000000384062_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="77" zz-definition="HD", 金鹰纪实
 rtp://239.3.1.58:8156
 #EXTINF:-1 tvg-name="证券服务" tvg-id="80" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="80" zz-definition="HD", 证券服务
 rtp://239.3.1.24:8001
-#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-id="80" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="中文-直播平台", CLASSICA 古典樂
+#EXTINF:-1 tvg-name="证券服务" tvg-id="80" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="中文-直播平台", 证券服务
 https://ha.msbot.dpdns.org/4gtv_api.php?id=80
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="69" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiGuangChangWu.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226164/10000100000000060000000001464351_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="69" zz-definition="HD", 睛彩广场舞
 rtp://239.3.1.128:8001
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="69" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="中文-直播平台", 金鹰卡通
-http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="時尚運動X" tvg-id="69" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="中文-直播平台", 時尚運動X
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="69" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="中文-直播平台", 睛彩广场舞
 https://ha.msbot.dpdns.org/4gtv_api.php?id=69
 #EXTINF:-1 tvg-name="城市剧场" tvg-id="351" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226037/10000100000000060000000000285839_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="351" zz-definition="HD", 城市剧场
 rtp://239.3.1.67:4120
-#EXTINF:-1 tvg-name="城市剧场" tvg-id="351" group-title="中文-直播平台", 城市剧场
-http://183.222.15.202:4321/rtp/239.10.0.124:5140
-#EXTINF:-1 tvg-name="城市剧场" tvg-id="351" group-title="中文-直播平台", 城市剧场
-http://223.86.170.98:4500/rtp/239.10.0.124:5140
 #EXTINF:-1 tvg-name="军旅剧场" tvg-id="352" tvg-logo="军旅剧场.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226007/10000100000000060000000000285639_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="352" zz-definition="HD", 军旅剧场
 rtp://239.3.1.68:4120
 #EXTINF:-1 tvg-name="古装剧场" tvg-id="353" tvg-logo="古装剧场.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226012/10000100000000060000000000285640_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="353" zz-definition="HD", 古装剧场
 rtp://239.3.1.69:4120
-#EXTINF:-1 tvg-name="精选" tvg-id="358" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226018/10000100000000060000000000285646_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="358" zz-definition="HD", 精选高清
+#EXTINF:-1 tvg-name="精选高清" tvg-id="358" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226018/10000100000000060000000000285646_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="358" zz-definition="HD", 精选高清
 rtp://239.3.1.74:4120
-#EXTINF:-1 tvg-name="武侠剧场" tvg-id="374" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226041/10000100000000060000000000286228_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="374" zz-definition="HD", 武侠剧场
-rtp://239.3.1.90:4120
-#EXTINF:-1 tvg-name="武侠剧场" tvg-id="374" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 武侠剧场
-http://115.190.124.74/php/douyu.php?id=9285904&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="武侠剧场" tvg-id="374" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 武侠剧场
-http://183.222.15.202:4321/rtp/239.10.0.133:5140
-#EXTINF:-1 tvg-name="武侠剧场" tvg-id="374" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 武侠剧场
-http://223.86.170.98:4500/rtp/239.10.0.133:5140
 #EXTINF:-1 tvg-name="喜剧影院" tvg-id="375" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226044/10000100000000060000000000286227_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="375" zz-definition="HD", 喜剧影院
 rtp://239.3.1.91:4120
-#EXTINF:-1 tvg-name="喜剧影院" tvg-id="375" group-title="中文-直播平台", 喜剧影院
-http://183.222.15.202:4321/rtp/239.10.0.132:5140
-#EXTINF:-1 tvg-name="喜剧影院" tvg-id="375" group-title="中文-直播平台", 喜剧影院
-http://223.86.170.98:4500/rtp/239.10.0.132:5140
-#EXTINF:-1 tvg-name="全家有智慧-FastTV飛速看" tvg-id="375" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live209.png" group-title="中文-直播平台", 全家有智慧-FastTV飛速看
+#EXTINF:-1 tvg-name="喜剧影院" tvg-id="375" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live209.png" group-title="中文-直播平台", 喜剧影院
 https://ha.msbot.dpdns.org/4gtv_api.php?id=375
-#EXTINF:-1 tvg-name="动作影院" tvg-id="376" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226039/10000100000000060000000000286226_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="376" zz-definition="HD", ,动作影院
+#EXTINF:-1 tvg-name=",动作影院" tvg-id="376" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226039/10000100000000060000000000286226_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="376" zz-definition="HD", ,动作影院
 rtp://239.3.1.92:4120
-#EXTINF:-1 tvg-name="民視健康美麗生活-FastTV飛速看" tvg-id="376" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live210.png" group-title="中文-直播平台", 民視健康美麗生活-FastTV飛速看
+#EXTINF:-1 tvg-name=",动作影院" tvg-id="376" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live210.png" group-title="中文-直播平台", ,动作影院
 https://ha.msbot.dpdns.org/4gtv_api.php?id=376
 #EXTINF:-1 tvg-name="家庭影院" tvg-id="377" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226034/10000100000000060000000000285685_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="377" zz-definition="HD", 家庭影院
 rtp://239.3.1.93:4120
-#EXTINF:-1 tvg-name="家庭影院" tvg-id="377" group-title="中文-直播平台", 家庭影院
-http://183.222.15.202:4321/rtp/239.10.0.127:5140
-#EXTINF:-1 tvg-name="家庭影院" tvg-id="377" group-title="中文-直播平台", 家庭影院
-http://223.86.170.98:4500/rtp/239.10.0.127:5140
-#EXTINF:-1 tvg-name="姊妹亮起來-FastTV飛速看" tvg-id="377" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live211.png" group-title="中文-直播平台", 姊妹亮起來-FastTV飛速看
+#EXTINF:-1 tvg-name="家庭影院" tvg-id="377" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live211.png" group-title="中文-直播平台", 家庭影院
 https://ha.msbot.dpdns.org/4gtv_api.php?id=377
-#EXTINF:-1 tvg-name="星影" tvg-id="378" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226029/10000100000000060000000000285686_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="378" zz-definition="HD", 星影高清
+#EXTINF:-1 tvg-name="星影高清" tvg-id="378" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226029/10000100000000060000000000285686_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="378" zz-definition="HD", 星影高清
 rtp://239.3.1.94:4120
-#EXTINF:-1 tvg-name="娛樂百分百-FastTV飛速看" tvg-id="378" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live212.png" group-title="中文-直播平台", 娛樂百分百-FastTV飛速看
+#EXTINF:-1 tvg-name="星影高清" tvg-id="378" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live212.png" group-title="中文-直播平台", 星影高清
 https://ha.msbot.dpdns.org/4gtv_api.php?id=378
-#EXTINF:-1 tvg-name="光影" tvg-id="368" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226028/10000100000000060000000000285656_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="368" zz-definition="HD", 光影高清
+#EXTINF:-1 tvg-name="光影高清" tvg-id="368" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226028/10000100000000060000000000285656_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="368" zz-definition="HD", 光影高清
 rtp://239.3.1.84:4120
 #EXTINF:-1 tvg-name="经典电影" tvg-id="203" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典电影.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225857/10000100000000060000000000025082_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="203" zz-definition="HD", 经典电影
 rtp://239.3.1.195:9024
 #EXTINF:-1 tvg-name="热播剧场" tvg-id="202" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225855/10000100000000060000000000025078_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="202" zz-definition="HD", 热播剧场
 rtp://239.3.1.194:9020
-#EXTINF:-1 tvg-name="經典卡通台" tvg-id="202" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="中文-直播平台", 經典卡通台
+#EXTINF:-1 tvg-name="热播剧场" tvg-id="202" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="中文-直播平台", 热播剧场
 https://ha.msbot.dpdns.org/4gtv_api.php?id=202
 #EXTINF:-1 tvg-name="魅力时尚" tvg-id="204" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225850/10000100000000060000000000025079_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="204" zz-definition="HD", 魅力时尚
 rtp://239.3.1.196:9012
-#EXTINF:-1 tvg-name="精選動漫台" tvg-id="204" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="中文-直播平台", 精選動漫台
+#EXTINF:-1 tvg-name="魅力时尚" tvg-id="204" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="中文-直播平台", 魅力时尚
 https://ha.msbot.dpdns.org/4gtv_api.php?id=204
-#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://www.xn--rgv465a.top/tvlogo/少儿动画.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225859/10000100000000060000000000025083_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="207" zz-definition="HD", 少儿动画
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225859/10000100000000060000000000025083_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="207" zz-definition="HD", 少儿动画
 rtp://239.3.1.199:9000
-#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://www.xn--rgv465a.top/tvlogo/少儿动画.png" group-title="中文-直播平台", 少儿动画
-http://120.238.84.45:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="动画" tvg-id="364" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226024/10000100000000060000000000285652_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="364" zz-definition="HD", 动画高清
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://121.24.98.127:8090/hls/105/index.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://183.66.15.146:60901/tsfile/live/0140_2.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://183.66.13.82:60033/tsfile/live/0140_2.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://171.110.42.239:8181/tsfile/live/1072_1.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://222.217.230.192:8181/tsfile/live/1072_1.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://163.177.122.122:9901/tsfile/live/1042_1.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://163.177.122.71:9901/tsfile/live/1042_1.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://222.217.230.193:8181/tsfile/live/1072_1.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-id="207" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/少儿动画.png" group-title="中文-直播平台", 少儿动画
+http://222.217.230.195:8181/tsfile/live/1072_1.m3u8
+#EXTINF:-1 tvg-name="动画高清" tvg-id="364" group-title="中文-直播平台" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226024/10000100000000060000000000285652_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="364" zz-definition="HD", 动画高清
 rtp://239.3.1.80:4120
-#EXTINF:-1 tvg-name="南京音乐广播" tvg-logo="http://live.cooltv.top/logo/njyygb.png" group-title="中文-直播平台", 南京音乐广播
-http://hls.njgb.com/live_hls/4/playlist.m3u8
-#EXTINF:-1 tvg-name="LOL 全球总决赛「S13」" group-title="中文-直播平台", LOL 全球总决赛「S13」
-https://tv.iill.top//bilibili/10
-#EXTINF:-1 tvg-name="楚天广播" tvg-logo="https://live.fanmingming.com/radio/楚天广播.png" group-title="中文-直播平台", 楚天广播
+#EXTINF:-1 tvg-name="济公游记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/济公游记.png" group-title="中文-直播平台", 济公游记
+http://120.77.28.4:8648/yy.php?id=1355265814
+#EXTINF:-1 tvg-name="济公游记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/济公游记.png" group-title="中文-直播平台", 济公游记
+http://alist.xicp.fun:35455/yy/1355265814#http://43.138.170.29:35455/yy/1355265814
+#EXTINF:-1 tvg-name="济公游记" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/济公游记.png" group-title="中文-直播平台", 济公游记
+https://www.goodiptv.club/yy/1355265814
+#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/24H国漫热播.png" group-title="中文-直播平台", 24H国漫热播
+https://www.goodiptv.club/yy/1353937086
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/经典动漫.png" group-title="中文-直播平台", 经典动漫
+https://www.goodiptv.club/yy/22777075
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/经典动漫.png" group-title="中文-直播平台", 经典动漫
+https://www.goodiptv.club/yy/24180320
+#EXTINF:-1 tvg-name="楚天音乐广播" tvg-logo="https://suxiaoming.codeberg.page/iptv/logo/radio/local/hb/楚天音乐广播.png" group-title="中文-直播平台", 楚天音乐广播
 https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
-#EXTINF:-1 tvg-name="武汉广播" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="中文-直播平台", 武汉广播
-http://stream.appwuhan.com/yypdzb/sd/live.m3u8
-#EXTINF:-1 tvg-name="「轮播」成龙" group-title="中文-直播平台", 「轮播」成龙
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
-#EXTINF:-1 tvg-name="「轮播」电影•1" group-title="中文-直播平台", 「轮播」电影•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
-#EXTINF:-1 tvg-name="林正英•1" group-title="中文-直播平台", 林正英•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-#EXTINF:-1 tvg-name="林正英•2" group-title="中文-直播平台", 林正英•2
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
-#EXTINF:-1 tvg-name="「欧美」电影•1" group-title="中文-直播平台", 「欧美」电影•1
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
-#EXTINF:-1 tvg-name="火影剧场" tvg-id="火影剧场" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 火影剧场
-http://cfss.cc/cdn/yy/1459675153.m3u8
-#EXTINF:-1 tvg-name="侏罗纪世界" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 侏罗纪世界
-http://cfss.cc/cdn/yy/1382736851.m3u8
-#EXTINF:-1 tvg-name="Tank-三国恋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Tank-三国恋
-http://115.190.124.74/php/gqyy.php?id=Tank-三国恋&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Tank-千年泪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Tank-千年泪
-http://115.190.124.74/php/gqyy.php?id=Tank-千年泪&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-蜗牛+七里香" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-蜗牛+七里香
-http://115.190.124.74/php/gqyy.php?id=周杰伦-蜗牛七里香&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="任贤齐-伤心太平洋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 任贤齐-伤心太平洋
-http://115.190.124.74/php/gqyy.php?id=任贤齐-伤心太平洋&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-退后" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-退后
-http://115.190.124.74/php/gqyy.php?id=周杰伦-退后&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-少年吔安啦" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-少年吔安啦
-http://115.190.124.74/php/gqyy.php?id=伍佰-少年吔安啦&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-Last_Dance" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-Last_Dance
-http://115.190.124.74/php/gqyy.php?id=伍佰-LastDance&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="林宥嘉-说谎" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 林宥嘉-说谎
-http://115.190.124.74/php/gqyy.php?id=林宥嘉-说谎&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-与你到永久" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-与你到永久
-http://115.190.124.74/php/gqyy.php?id=伍佰-与你到永久&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="梅艳芳_陈奕迅-有心人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 梅艳芳_陈奕迅-有心人
-http://115.190.124.74/php/gqyy.php?id=梅艳芳_陈奕迅-有心人&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-再度重相逢" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-再度重相逢
-http://115.190.124.74/php/gqyy.php?id=伍佰-再度重相逢&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-冰雨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-冰雨
-http://115.190.124.74/php/gqyy.php?id=伍佰-冰雨&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="潘玮柏-双人舞" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 潘玮柏-双人舞
-http://115.190.124.74/php/gqyy.php?id=潘玮柏-双人舞&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="许嵩-宿敌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 许嵩-宿敌
-http://115.190.124.74/php/gqyy.php?id=许嵩-宿敌&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-挪威的森林" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-挪威的森林
-http://115.190.124.74/php/gqyy.php?id=伍佰-挪威的森林&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-晚风" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-晚风
-http://115.190.124.74/php/gqyy.php?id=伍佰-晚风&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-浪人情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-浪人情歌
-http://115.190.124.74/php/gqyy.php?id=伍佰-浪人情歌&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="李荣浩-乌梅子酱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 李荣浩-乌梅子酱
-http://115.190.124.74/php/gqyy.php?id=李荣浩-乌梅子酱&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-爱上别人是快乐的事" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-爱上别人是快乐的事
-http://115.190.124.74/php/gqyy.php?id=伍佰-爱上别人是快乐的事&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="郁可唯-路过人间" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 郁可唯-路过人间
-http://115.190.124.74/php/gqyy.php?id=郁可唯-路过人间&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-爱你一万年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-爱你一万年
-http://115.190.124.74/php/gqyy.php?id=伍佰-爱你一万年&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-爱情的尽头" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-爱情的尽头
-http://115.190.124.74/php/gqyy.php?id=伍佰-爱情的尽头&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-牵挂" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-牵挂
-http://115.190.124.74/php/gqyy.php?id=伍佰-牵挂&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈奕迅-人来人往" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈奕迅-人来人往
-http://115.190.124.74/php/gqyy.php?id=陈奕迅-人来人往&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-突然的自我" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-突然的自我
-http://115.190.124.74/php/gqyy.php?id=伍佰-突然的自我&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-纯真年代" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-纯真年代
-http://115.190.124.74/php/gqyy.php?id=伍佰-纯真年代&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-继续堕落" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-继续堕落
-http://115.190.124.74/php/gqyy.php?id=伍佰-继续堕落&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-背叛" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-背叛
-http://115.190.124.74/php/gqyy.php?id=伍佰-背叛&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-稻香" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-稻香
-http://115.190.124.74/php/gqyy.php?id=周杰伦-稻香&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈奕迅-十年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈奕迅-十年
-http://115.190.124.74/php/gqyy.php?id=陈奕迅-十年&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="信乐团-死了都要爱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 信乐团-死了都要爱
-http://115.190.124.74/php/gqyy.php?id=信乐团-死了都要爱&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-菊花台" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-菊花台
-http://115.190.124.74/php/gqyy.php?id=周杰伦-菊花台&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈奕迅-十面埋伏" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈奕迅-十面埋伏
-http://115.190.124.74/php/gqyy.php?id=陈奕迅-十面埋伏&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-一路向北" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-一路向北
-http://115.190.124.74/php/gqyy.php?id=周杰伦-一路向北&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈奕迅-明年今日" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈奕迅-明年今日
-http://115.190.124.74/php/gqyy.php?id=陈奕迅-明年今日&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-不爱我就拉倒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-不爱我就拉倒
-http://115.190.124.74/php/gqyy.php?id=周杰伦-不爱我就拉倒&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈奕迅-淘汰" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈奕迅-淘汰
-http://115.190.124.74/php/gqyy.php?id=陈奕迅-淘汰&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-乔克叔叔" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-乔克叔叔
-http://115.190.124.74/php/gqyy.php?id=周杰伦-乔克叔叔&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-你好吗" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-你好吗
-http://115.190.124.74/php/gqyy.php?id=周杰伦-你好吗&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈奕迅-爱情转移" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈奕迅-爱情转移
-http://115.190.124.74/php/gqyy.php?id=陈奕迅-爱情转移&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-半岛铁盒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-半岛铁盒
-http://115.190.124.74/php/gqyy.php?id=周杰伦-半岛铁盒&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-发如雪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-发如雪
-http://115.190.124.74/php/gqyy.php?id=周杰伦-发如雪&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈小春-独家记忆" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈小春-独家记忆
-http://115.190.124.74/php/gqyy.php?id=陈小春-独家记忆&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-回到过去" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-回到过去
-http://115.190.124.74/php/gqyy.php?id=周杰伦-回到过去&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-夜曲" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-夜曲
-http://115.190.124.74/php/gqyy.php?id=周杰伦-夜曲&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-彩虹" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-彩虹
-http://115.190.124.74/php/gqyy.php?id=周杰伦-彩虹&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-心雨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-心雨
-http://115.190.124.74/php/gqyy.php?id=周杰伦-心雨&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-我不配" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-我不配
-http://115.190.124.74/php/gqyy.php?id=周杰伦-我不配&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-最长的电影mp4" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-最长的电影mp4
-http://115.190.124.74/php/gqyy.php?id=周杰伦-最长的电影mp4&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-爱在西元前" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-爱在西元前
-http://115.190.124.74/php/gqyy.php?id=周杰伦-爱在西元前&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-魔术先生" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-魔术先生
-http://115.190.124.74/php/gqyy.php?id=周杰伦-魔术先生&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="孙燕姿-遇见" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 孙燕姿-遇见
-http://115.190.124.74/php/gqyy.php?id=孙燕姿-遇见&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="庾澄庆-情非得已" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 庾澄庆-情非得已
-http://115.190.124.74/php/gqyy.php?id=庾澄庆-情非得已&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈奕迅-K歌之王-粤语版" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈奕迅-K歌之王-粤语版
-http://115.190.124.74/php/gqyy.php?id=陈奕迅-K歌之王-粤语版&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="任贤齐-春天花会开" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 任贤齐-春天花会开
-http://115.190.124.74/php/gqyy.php?id=任贤齐-春天花会开&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="泰坦尼克号-我心永恒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 泰坦尼克号-我心永恒
-http://115.190.124.74/php/gqyy.php?id=泰坦尼克号-我心永恒&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="兔子舞" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 兔子舞
-http://115.190.124.74/php/gqyy.php?id=兔子舞&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王菲-匆匆那年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王菲-匆匆那年
-http://115.190.124.74/php/gqyy.php?id=王菲-匆匆那年&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王一佳-有风无风皆自由" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王一佳-有风无风皆自由
-http://115.190.124.74/php/gqyy.php?id=王一佳-有风无风皆自由&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="游鸿明-白色恋人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 游鸿明-白色恋人
-http://115.190.124.74/php/gqyy.php?id=游鸿明-白色恋人&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="梁静茹-勇气" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 梁静茹-勇气
-http://115.190.124.74/php/gqyy.php?id=梁静茹-勇气&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="罗文-甄妮-铁血丹心" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 罗文-甄妮-铁血丹心
-http://115.190.124.74/php/gqyy.php?id=罗文-甄妮-铁血丹心&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="莫文蔚-盛夏的果实" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 莫文蔚-盛夏的果实
-http://115.190.124.74/php/gqyy.php?id=莫文蔚-盛夏的果实&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="任贤齐-小雪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 任贤齐-小雪
-http://115.190.124.74/php/gqyy.php?id=任贤齐-小雪&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="灯叔-恰逢那年你明媚" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 灯叔-恰逢那年你明媚
-http://115.190.124.74/php/gqyy.php?id=灯叔-恰逢那年你明媚&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="文夫-背着风流泪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 文夫-背着风流泪
-http://115.190.124.74/php/gqyy.php?id=文夫-背着风流泪&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="谷村新司-星" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 谷村新司-星
-http://115.190.124.74/php/gqyy.php?id=谷村新司-星&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="杨千嬅-可惜我是水瓶座" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 杨千嬅-可惜我是水瓶座
-http://115.190.124.74/php/gqyy.php?id=杨千嬅-可惜我是水瓶座&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="任素汐-胡广生" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 任素汐-胡广生
-http://115.190.124.74/php/gqyy.php?id=任素汐-胡广生&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="曹磊-车站" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 曹磊-车站
-http://115.190.124.74/php/gqyy.php?id=曹磊-车站&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈慧娴-傻女" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈慧娴-傻女
-http://115.190.124.74/php/gqyy.php?id=陈慧娴-傻女&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="程响-可能" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 程响-可能
-http://115.190.124.74/php/gqyy.php?id=程响-可能&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="方大同-红豆" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 方大同-红豆
-http://115.190.124.74/php/gqyy.php?id=方大同-红豆&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="光良-童话" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 光良-童话
-http://115.190.124.74/php/gqyy.php?id=光良-童话&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="皇后乐队-波西米亚狂想曲" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 皇后乐队-波西米亚狂想曲
-http://115.190.124.74/php/gqyy.php?id=皇后乐队-波西米亚狂想曲&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="姜育恒-梅花三弄" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 姜育恒-梅花三弄
-http://115.190.124.74/php/gqyy.php?id=姜育恒-梅花三弄&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="梁静茹-情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 梁静茹-情歌
-http://115.190.124.74/php/gqyy.php?id=梁静茹-情歌&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="林俊杰-我们的爱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 林俊杰-我们的爱
-http://115.190.124.74/php/gqyy.php?id=林俊杰-我们的爱&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="林子祥-男儿当自强" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 林子祥-男儿当自强
-http://115.190.124.74/php/gqyy.php?id=林子祥-男儿当自强&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="柳爽-漠河舞厅" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 柳爽-漠河舞厅
-http://115.190.124.74/php/gqyy.php?id=柳爽-漠河舞厅&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="罗文-尘缘" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 罗文-尘缘
-http://115.190.124.74/php/gqyy.php?id=罗文-尘缘&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="罗文-黄昏" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 罗文-黄昏
-http://115.190.124.74/php/gqyy.php?id=罗文-黄昏&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="吕方-老情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 吕方-老情歌
-http://115.190.124.74/php/gqyy.php?id=吕方-老情歌&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="吕方-每段路" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 吕方-每段路
-http://115.190.124.74/php/gqyy.php?id=吕方-每段路&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="吕方-流浪花" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 吕方-流浪花
-http://115.190.124.74/php/gqyy.php?id=吕方-流浪花&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="马句-一生啊" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 马句-一生啊
-http://115.190.124.74/php/gqyy.php?id=马句-一生啊&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="吕方-朋友别哭" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 吕方-朋友别哭
-http://115.190.124.74/php/gqyy.php?id=吕方-朋友别哭&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="梅艳芳-夕阳之歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 梅艳芳-夕阳之歌
-http://115.190.124.74/php/gqyy.php?id=梅艳芳-夕阳之歌&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="女声版-你的样子" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 女声版-你的样子
-http://115.190.124.74/php/gqyy.php?id=女声版-你的样子&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="祁隆-问佛" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 祁隆-问佛
-http://115.190.124.74/php/gqyy.php?id=祁隆-问佛&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="任贤齐-心太软" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 任贤齐-心太软
-http://115.190.124.74/php/gqyy.php?id=任贤齐-心太软&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陶喆-Susan说" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陶喆-Susan说
-http://115.190.124.74/php/gqyy.php?id=陶喆-Susan说&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王菲-爱与痛的边缘" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王菲-爱与痛的边缘
-http://115.190.124.74/php/gqyy.php?id=王菲-爱与痛的边缘&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王菲-我也不想这样" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王菲-我也不想这样
-http://115.190.124.74/php/gqyy.php?id=王菲-我也不想这样&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王杰-红尘有你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王杰-红尘有你
-http://115.190.124.74/php/gqyy.php?id=王杰-红尘有你&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王杰-忘记你不如忘记自己" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王杰-忘记你不如忘记自己
-http://115.190.124.74/php/gqyy.php?id=王杰-忘记你不如忘记自己&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王杰-忘了你忘了我" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王杰-忘了你忘了我
-http://115.190.124.74/php/gqyy.php?id=王杰-忘了你忘了我&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="小璐-平凡日子里的挣扎" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 小璐-平凡日子里的挣扎
-http://115.190.124.74/php/gqyy.php?id=小璐-平凡日子里的挣扎&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="谢安琪-钟无艳" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 谢安琪-钟无艳
-http://115.190.124.74/php/gqyy.php?id=谢安琪-钟无艳&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="许巍-曾经的你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 许巍-曾经的你
-http://115.190.124.74/php/gqyy.php?id=许巍-曾经的你&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="许巍-故乡" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 许巍-故乡
-http://115.190.124.74/php/gqyy.php?id=许巍-故乡&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="薛凯琪-苏州河" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 薛凯琪-苏州河
-http://115.190.124.74/php/gqyy.php?id=薛凯琪-苏州河&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="杨千嬅-少女的祈祷" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 杨千嬅-少女的祈祷
-http://115.190.124.74/php/gqyy.php?id=杨千嬅-少女的祈祷&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="杨千嬅-野孩子" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 杨千嬅-野孩子
-http://115.190.124.74/php/gqyy.php?id=杨千嬅-野孩子&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="印第安神曲-泪痕之外" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 印第安神曲-泪痕之外
-http://115.190.124.74/php/gqyy.php?id=印第安神曲-泪痕之外&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张国荣-当年情" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张国荣-当年情
-http://115.190.124.74/php/gqyy.php?id=张国荣-当年情&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="赵雷-南方姑娘" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 赵雷-南方姑娘
-http://115.190.124.74/php/gqyy.php?id=赵雷-南方姑娘&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="郑中基-绝口不提爱你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 郑中基-绝口不提爱你
-http://115.190.124.74/php/gqyy.php?id=郑中基-绝口不提爱你&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="郑中基-无赖" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 郑中基-无赖
-http://115.190.124.74/php/gqyy.php?id=郑中基-无赖&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周华健-爱江山更爱美人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周华健-爱江山更爱美人
-http://115.190.124.74/php/gqyy.php?id=周华健-爱江山更爱美人&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周华健-刀剑如梦" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周华健-刀剑如梦
-http://115.190.124.74/php/gqyy.php?id=周华健-刀剑如梦&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周华健-忘忧草" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周华健-忘忧草
-http://115.190.124.74/php/gqyy.php?id=周华健-忘忧草&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周杰伦-开不了口" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周杰伦-开不了口
-http://115.190.124.74/php/gqyy.php?id=周杰伦-开不了口&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="胡夏-那些年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 胡夏-那些年
-http://115.190.124.74/php/gqyy.php?id=胡夏-那些年&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-如果这都不算爱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-如果这都不算爱
-http://115.190.124.74/php/gqyy.php?id=张学友-如果这都不算爱&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-吻别" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-吻别
-http://115.190.124.74/php/gqyy.php?id=张学友-吻别&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-爱是永恒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-爱是永恒
-http://115.190.124.74/php/gqyy.php?id=张学友-爱是永恒&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-慢慢" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-慢慢
-http://115.190.124.74/php/gqyy.php?id=张学友-慢慢&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-李香兰" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-李香兰
-http://115.190.124.74/php/gqyy.php?id=张学友-李香兰&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-她来听我的演唱会" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-她来听我的演唱会
-http://115.190.124.74/php/gqyy.php?id=张学友-她来听我的演唱会&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-你的名字我的姓氏" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-你的名字我的姓氏
-http://115.190.124.74/php/gqyy.php?id=张学友-你的名字我的姓氏&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-忘记你我做不到" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-忘记你我做不到
-http://115.190.124.74/php/gqyy.php?id=张学友-忘记你我做不到&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-我真的受伤了" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-我真的受伤了
-http://115.190.124.74/php/gqyy.php?id=张学友-我真的受伤了&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-想和你去吹吹风" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-想和你去吹吹风
-http://115.190.124.74/php/gqyy.php?id=张学友-想和你去吹吹风&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-遥远的她" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-遥远的她
-http://115.190.124.74/php/gqyy.php?id=张学友-遥远的她&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-心如刀割" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-心如刀割
-http://115.190.124.74/php/gqyy.php?id=张学友-心如刀割&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="杜德伟-情人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 杜德伟-情人
-http://115.190.124.74/php/gqyy.php?id=杜德伟-情人&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="黄品源-海浪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 黄品源-海浪
-http://115.190.124.74/php/gqyy.php?id=黄品源-海浪&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="游鸿明-爱我的人和我爱的人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 游鸿明-爱我的人和我爱的人
-http://115.190.124.74/php/gqyy.php?id=游鸿明-爱我的人和我爱的人&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="刀郎-手心里的温柔" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 刀郎-手心里的温柔
-http://115.190.124.74/php/gqyy.php?id=刀郎-手心里的温柔&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="咩咩爱睡懒觉-情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 咩咩爱睡懒觉-情歌
-http://115.190.124.74/php/gqyy.php?id=咩咩爱睡懒觉-情歌&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="咩咩爱睡懒觉-路过人间" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 咩咩爱睡懒觉-路过人间
-http://115.190.124.74/php/gqyy.php?id=咩咩爱睡懒觉-路过人间&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="咩咩爱睡懒觉-嘉宾" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 咩咩爱睡懒觉-嘉宾
-http://115.190.124.74/php/gqyy.php?id=咩咩爱睡懒觉-嘉宾&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="5566-我难过" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 5566-我难过
-http://115.190.124.74/php/gqyy.php?id=5566-我难过&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="F4-流星雨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", F4-流星雨
-http://115.190.124.74/php/gqyy.php?id=F4-流星雨&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="F4-第一时间" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", F4-第一时间
-http://115.190.124.74/php/gqyy.php?id=F4-第一时间&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="陈奕迅-富士山下" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 陈奕迅-富士山下
-http://115.190.124.74/php/gqyy.php?id=陈奕迅-富士山下&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="隔壁老樊-这一生关于你的风景" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 隔壁老樊-这一生关于你的风景
-http://115.190.124.74/php/gqyy.php?id=隔壁老樊-这一生关于你的风景&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="郭峰-移情别恋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 郭峰-移情别恋
-http://115.190.124.74/php/gqyy.php?id=郭峰-移情别恋&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="刘若英-当爱在靠近" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 刘若英-当爱在靠近
-http://115.190.124.74/php/gqyy.php?id=刘若英-当爱在靠近&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="沙宝亮-暗香" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 沙宝亮-暗香
-http://115.190.124.74/php/gqyy.php?id=沙宝亮-暗香&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="伍佰-泪桥" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 伍佰-泪桥
-http://115.190.124.74/php/gqyy.php?id=伍佰-泪桥&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张雨生-口是心非" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张雨生-口是心非
-http://115.190.124.74/php/gqyy.php?id=张雨生-口是心非&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张慧清-问情" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张慧清-问情
-http://115.190.124.74/php/gqyy.php?id=张慧清-问情&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="郑智化-水手" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 郑智化-水手
-http://115.190.124.74/php/gqyy.php?id=郑智化-水手&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周传雄-青花" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周传雄-青花
-http://115.190.124.74/php/gqyy.php?id=周传雄-青花&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周傳雄-今宵酒醒何處" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周傳雄-今宵酒醒何處
-http://115.190.124.74/php/gqyy.php?id=周傳雄-今宵酒醒何處&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-大地" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-大地
-http://115.190.124.74/php/gqyy.php?id=Beyond-大地&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-光辉岁月" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-光辉岁月
-http://115.190.124.74/php/gqyy.php?id=Beyond-光辉岁月&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-灰色轨迹" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-灰色轨迹
-http://115.190.124.74/php/gqyy.php?id=Beyond-灰色轨迹&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-旧日的足迹" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-旧日的足迹
-http://115.190.124.74/php/gqyy.php?id=Beyond-旧日的足迹&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-冷雨夜" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-冷雨夜
-http://115.190.124.74/php/gqyy.php?id=Beyond-冷雨夜&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-是错也再不分" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-是错也再不分
-http://115.190.124.74/php/gqyy.php?id=Beyond-是错也再不分&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-谁伴我闯荡" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-谁伴我闯荡
-http://115.190.124.74/php/gqyy.php?id=Beyond-谁伴我闯荡&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-再见理想" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-再见理想
-http://115.190.124.74/php/gqyy.php?id=Beyond-再见理想&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Beyond-真的爱你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Beyond-真的爱你
-http://115.190.124.74/php/gqyy.php?id=Beyond-真的爱你&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="动力火车-第一滴泪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 动力火车-第一滴泪
-http://115.190.124.74/php/gqyy.php?id=动力火车-第一滴泪&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="动力火车-无情的情书" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 动力火车-无情的情书
-http://115.190.124.74/php/gqyy.php?id=动力火车-无情的情书&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="动力火车-忠孝东路走九遍" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 动力火车-忠孝东路走九遍
-http://115.190.124.74/php/gqyy.php?id=动力火车-忠孝东路走九遍&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="刘德华老电影-追梦人" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 刘德华老电影-追梦人
-http://115.190.124.74/php/gqyy.php?id=刘德华老电影-追梦人&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="朴树-平凡之路" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 朴树-平凡之路
-http://115.190.124.74/php/gqyy.php?id=朴树-平凡之路&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="韦伦-换到千般恨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 韦伦-换到千般恨
-http://115.190.124.74/php/gqyy.php?id=韦伦-换到千般恨&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="辛晓琪-味道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 辛晓琪-味道
-http://115.190.124.74/php/gqyy.php?id=辛晓琪-味道&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="许飞-父亲写的散文诗" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 许飞-父亲写的散文诗
-http://115.190.124.74/php/gqyy.php?id=许飞-父亲写的散文诗&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张韶涵-破茧" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张韶涵-破茧
-http://115.190.124.74/php/gqyy.php?id=张韶涵-破茧&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周华健-其实不想走" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周华健-其实不想走
-http://115.190.124.74/php/gqyy.php?id=周华健-其实不想走&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="阿黛尔-Hello" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 阿黛尔-Hello
-http://115.190.124.74/php/gqyy.php?id=阿黛尔-Hello&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="难却" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 难却
-http://115.190.124.74/php/gqyy.php?id=难却&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="别问我是谁-王馨平" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 别问我是谁-王馨平
-http://115.190.124.74/php/gqyy.php?id=别问我是谁-王馨平&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="海伦-桥边姑娘" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 海伦-桥边姑娘
-http://115.190.124.74/php/gqyy.php?id=海伦-桥边姑娘&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="海伦-游山恋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 海伦-游山恋
-http://115.190.124.74/php/gqyy.php?id=海伦-游山恋&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="就是南方凯-离别开出花" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 就是南方凯-离别开出花
-http://115.190.124.74/php/gqyy.php?id=就是南方凯-离别开出花&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="梅花三弄-姜育恒" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 梅花三弄-姜育恒
-http://115.190.124.74/php/gqyy.php?id=梅花三弄-姜育恒&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="彭佳慧-相见恨晚" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 彭佳慧-相见恨晚
-http://115.190.124.74/php/gqyy.php?id=彭佳慧-相见恨晚&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="任然-飞鸟和蝉" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 任然-飞鸟和蝉
-http://115.190.124.74/php/gqyy.php?id=任然-飞鸟和蝉&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="魏佳艺-我来人间一趟" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 魏佳艺-我来人间一趟
-http://115.190.124.74/php/gqyy.php?id=魏佳艺-我来人间一趟&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="云朵-我的楼兰" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 云朵-我的楼兰
-http://115.190.124.74/php/gqyy.php?id=云朵-我的楼兰&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="纯享版-钢铁洪流进行曲" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 纯享版-钢铁洪流进行曲
-http://115.190.124.74/php/gqyy.php?id=纯享版-钢铁洪流进行曲&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="Vaniah维-探窗" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", Vaniah维-探窗
-http://115.190.124.74/php/gqyy.php?id=Vaniah维-探窗&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="金润吉-迟来的爱" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 金润吉-迟来的爱
-http://115.190.124.74/php/gqyy.php?id=金润吉-迟来的爱&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="刘德华-冰雨" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 刘德华-冰雨
-http://115.190.124.74/php/gqyy.php?id=刘德华-冰雨&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="孟庭苇-谁的眼泪在飞" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 孟庭苇-谁的眼泪在飞
-http://115.190.124.74/php/gqyy.php?id=孟庭苇-谁的眼泪在飞&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="童安格-其实你不懂我的心" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 童安格-其实你不懂我的心
-http://115.190.124.74/php/gqyy.php?id=童安格-其实你不懂我的心&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张宇&amp;彭羚-囚鸟" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张宇&amp;彭羚-囚鸟
-http://115.190.124.74/php/gqyy.php?id=张宇&彭羚-囚鸟&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="李健-有生之年（庆余年2片头曲）" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 李健-有生之年（庆余年2片头曲）
-http://115.190.124.74/php/gqyy.php?id=李健-有生之年（庆余年2片头曲）&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周深-借过一下（庆余年2片尾曲）" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周深-借过一下（庆余年2片尾曲）
-http://115.190.124.74/php/gqyy.php?id=周深-借过一下（庆余年2片尾曲）&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="郭有才-诺言" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 郭有才-诺言
-http://115.190.124.74/php/gqyy.php?id=郭有才-诺言&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="邓超-电台情歌" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 邓超-电台情歌
-http://115.190.124.74/php/gqyy.php?id=邓超-电台情歌&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王菲-从你的全世界路过" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王菲-从你的全世界路过
-http://115.190.124.74/php/gqyy.php?id=王菲-从你的全世界路过&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="岳云鹏-西楼儿女" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 岳云鹏-西楼儿女
-http://115.190.124.74/php/gqyy.php?id=岳云鹏-西楼儿女&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="鹿先森乐队-春风十里" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 鹿先森乐队-春风十里
-http://115.190.124.74/php/gqyy.php?id=鹿先森乐队-春风十里&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="我找来全国的美女可你们只想看猴子" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 我找来全国的美女可你们只想看猴子
-http://115.190.124.74/php/gqyy.php?id=我找来全国的美女可你们只想看猴子&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="刘德华-今天" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 刘德华-今天
-http://115.190.124.74/php/gqyy.php?id=刘德华-今天&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="草蜢-半点心" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 草蜢-半点心
-http://115.190.124.74/php/gqyy.php?id=草蜢-半点心&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="老鹰乐队-加州旅馆" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 老鹰乐队-加州旅馆
-http://115.190.124.74/php/gqyy.php?id=老鹰乐队-加州旅馆&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="丹正母子版" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 丹正母子版
-http://115.190.124.74/php/gqyy.php?id=丹正母子版&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周深-听见下雨的声音" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周深-听见下雨的声音
-http://115.190.124.74/php/gqyy.php?id=周深-听见下雨的声音&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张真-我被青春撞了一下腰" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张真-我被青春撞了一下腰
-http://115.190.124.74/php/gqyy.php?id=张真-我被青春撞了一下腰&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="罗嘉良-当爱情走到尽头" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 罗嘉良-当爱情走到尽头
-http://115.190.124.74/php/gqyy.php?id=罗嘉良-当爱情走到尽头&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="罗嘉良-说天说地说空虚" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 罗嘉良-说天说地说空虚
-http://115.190.124.74/php/gqyy.php?id=罗嘉良-说天说地说空虚&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="王杰-梦全是你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 王杰-梦全是你
-http://115.190.124.74/php/gqyy.php?id=王杰-梦全是你&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="刘若英-后来" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 刘若英-后来
-http://115.190.124.74/php/gqyy.php?id=刘若英-后来&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张学友-离开以后" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张学友-离开以后
-http://115.190.124.74/php/gqyy.php?id=张学友-离开以后&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张国荣-怪你过分美丽" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张国荣-怪你过分美丽
-http://115.190.124.74/php/gqyy.php?id=张国荣-怪你过分美丽&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张信哲-宽容" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张信哲-宽容
-http://115.190.124.74/php/gqyy.php?id=张信哲-宽容&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张信哲-不要对他说" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张信哲-不要对他说
-http://115.190.124.74/php/gqyy.php?id=张信哲-不要对他说&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="张信哲-用情" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 张信哲-用情
-http://115.190.124.74/php/gqyy.php?id=张信哲-用情&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="薛之谦-我好像在哪见过你" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 薛之谦-我好像在哪见过你
-http://115.190.124.74/php/gqyy.php?id=薛之谦-我好像在哪见过你&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="凡(翻唱)-莉莉安" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 凡(翻唱)-莉莉安
-http://115.190.124.74/php/gqyy.php?id=凡(翻唱)-莉莉安&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="萨顶顶-左手指月" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 萨顶顶-左手指月
-http://115.190.124.74/php/gqyy.php?id=萨顶顶-左手指月&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="游鸿明-一天一万年" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 游鸿明-一天一万年
-http://115.190.124.74/php/gqyy.php?id=游鸿明-一天一万年&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="许嵩-断桥残雪" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 许嵩-断桥残雪
-http://115.190.124.74/php/gqyy.php?id=许嵩-断桥残雪&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="周传雄-黄昏" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 周传雄-黄昏
-http://115.190.124.74/php/gqyy.php?id=周传雄-黄昏&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="谭晶-康美之恋" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 谭晶-康美之恋
-http://115.190.124.74/php/gqyy.php?id=谭晶-康美之恋&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="谭艳-光明" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 谭艳-光明
-http://115.190.124.74/php/gqyy.php?id=谭艳-光明&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="维吾尔语影视" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 维吾尔语影视
-http://115.190.124.74/php/xjdf.php?id=wyys&token=TNpaxGTsdp
-#EXTINF:-1 tvg-name="淮阴影视频道" group-title="中文-直播平台", 淮阴影视频道
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8
-#EXTINF:-1 tvg-name="突泉综合频道" group-title="中文-直播平台", 突泉综合频道
-http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live163886991032759.m3u8
 #EXTINF:-1 tvg-name="印度|Sony Yay Tamil" tvg-id="印度|SonyYayTamil" tvg-logo="https://epg.112114.xyz/logo/印度|SONYYAYTAMIL.png" group-title="中文-直播平台", 印度|Sony Yay Tamil
 https://smart.pendy.dpdns.org/Smart.php?id=sonyyaytam_raj
-#EXTINF:-1 tvg-name="(1993)逃学威龙3" group-title="中文-直播平台", (1993)逃学威龙3
-https://v1.suonizy-youku.com/202308/20/pRdC1myyEE2/video/index.m3u8#https://v1.suonizy-youku.com/202308/20/pRdC1myyEE2/video/original/hls/index.m3u8
-#EXTINF:-1 tvg-name="1930年代经典电影" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/451vxK7phMnDh1Ao6nYGaJ.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 1930年代经典电影
-http://43.251.226.110:8880/play/860.m3u8
-#EXTINF:-1 tvg-name="1930年代经典电影" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/451vxK7phMnDh1Ao6nYGaJ.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 1930年代经典电影
-https://live.ottiptv.cc/yy/1356363815
-#EXTINF:-1 tvg-name="安安电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 安安电视剧
-https://live.ottiptv.cc/yy/1414817779
-#EXTINF:-1 tvg-name="赵本山《超清版》" tvg-logo="http://emyfs.bs2cdn.yy.com/M2YzYTUxMWQtMzlhNS00NjAyLWJiYWItYzhjZDk4OTI1OGYx.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 赵本山《超清版》
-http://43.251.226.110:8880/play/800.m3u8
-#EXTINF:-1 tvg-name="赵本山《超清版》" tvg-logo="http://emyfs.bs2cdn.yy.com/M2YzYTUxMWQtMzlhNS00NjAyLWJiYWItYzhjZDk4OTI1OGYx.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 赵本山《超清版》
-https://live.ottiptv.cc/yy/1382683959
-#EXTINF:-1 tvg-name="大秧歌~24h经典好剧" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/6Bn1rlWamwWY19kM04mewk.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 大秧歌~24h经典好剧
-http://43.251.226.110:8880/play/825.m3u8
-#EXTINF:-1 tvg-name="大秧歌~24h经典好剧" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/6Bn1rlWamwWY19kM04mewk.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 大秧歌~24h经典好剧
-https://live.ottiptv.cc/yy/1354744544
-#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="http://emyfs.bs2cdn.yy.com/ZTlhNDIzZmItMGQ2Ny00YzczLTk1YjUtZDBlZmNlODU4NjZh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 炊事班的故事III
-http://43.251.226.110:8880/play/890.m3u8
-#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="http://emyfs.bs2cdn.yy.com/ZTlhNDIzZmItMGQ2Ny00YzczLTk1YjUtZDBlZmNlODU4NjZh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 炊事班的故事III
-https://live.ottiptv.cc/yy/1382736716
-#EXTINF:-1 tvg-name="进来 陪你看电视" tvg-logo="http://emyfs.bs2cdn.yy.com/MDNhNTVkYTgtODNhNi00Yjc4LTljZDQtYmY3MjcxZmJiYTVl.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 进来 陪你看电视
-http://43.251.226.110:8880/play/922.m3u8
-#EXTINF:-1 tvg-name="进来 陪你看电视" tvg-logo="http://emyfs.bs2cdn.yy.com/MDNhNTVkYTgtODNhNi00Yjc4LTljZDQtYmY3MjcxZmJiYTVl.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 进来 陪你看电视
-https://live.ottiptv.cc/yy/1353518742
-#EXTINF:-1 tvg-name="24小时循环播电视剧" tvg-logo="http://emyfs.bs2cdn.yy.com/ai/OTUyZWNiY2ItY2VlMC00ZDgxLWEwOGQtNjY4ZmUyZThmNWZh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 24小时循环播电视剧
-http://43.251.226.110:8880/play/936.m3u8
-#EXTINF:-1 tvg-name="24小时循环播电视剧" tvg-logo="http://emyfs.bs2cdn.yy.com/ai/OTUyZWNiY2ItY2VlMC00ZDgxLWEwOGQtNjY4ZmUyZThmNWZh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 24小时循环播电视剧
-https://live.ottiptv.cc/yy/53320802
-#EXTINF:-1 tvg-name="新白娘子传奇-女神赵雅芝" tvg-logo="http://emyfs.bs2cdn.yy.com/NGNjYjc2NGUtNDA2ZS00ZmQ5LTlmNTgtZDY4MDM1ODNmNTc0.png?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 新白娘子传奇-女神赵雅芝
-http://43.251.226.110:8880/play/943.m3u8
-#EXTINF:-1 tvg-name="新白娘子传奇-女神赵雅芝" tvg-logo="http://emyfs.bs2cdn.yy.com/NGNjYjc2NGUtNDA2ZS00ZmQ5LTlmNTgtZDY4MDM1ODNmNTc0.png?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 新白娘子传奇-女神赵雅芝
-https://live.ottiptv.cc/yy/1354930969
-#EXTINF:-1 tvg-name="我的前半生" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/NmNkYjdkZTktODBjOC00ZWFlLTlmZTQtZTQyMTE1Y2Y3Nzk5.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 我的前半生
-http://43.251.226.110:8880/play/976.m3u8
-#EXTINF:-1 tvg-name="我的前半生" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/NmNkYjdkZTktODBjOC00ZWFlLTlmZTQtZTQyMTE1Y2Y3Nzk5.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 我的前半生
-https://live.ottiptv.cc/yy/1382735564
-#EXTINF:-1 tvg-name="仙剑奇侠传-神仙姐姐驾到" tvg-logo="http://emyfs.bs2cdn.yy.com/Y2RiYTJhNmMtMzEzNC00N2M4LTlmN2YtODNiY2MzNzRiMWRj.png?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 仙剑奇侠传-神仙姐姐驾到
-http://43.251.226.110:8880/play/983.m3u8
-#EXTINF:-1 tvg-name="大汉贤后卫子夫" tvg-logo="http://emyfs.bs2cdn.yy.com/NGViNGZkODAtMjMwZC00NmRiLTkxMGYtYjEwZGI1ZTQ4MzEw.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 大汉贤后卫子夫
-http://43.251.226.110:8880/play/996.m3u8
-#EXTINF:-1 tvg-name="大汉贤后卫子夫" tvg-logo="http://emyfs.bs2cdn.yy.com/NGViNGZkODAtMjMwZC00NmRiLTkxMGYtYjEwZGI1ZTQ4MzEw.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 大汉贤后卫子夫
-https://live.ottiptv.cc/yy/1382735569
-#EXTINF:-1 tvg-name="本山选谁上-喜剧人选拔" tvg-logo="http://emyfs.bs2cdn.yy.com/MjM2ZmQwZGMtYjQyOC00OGY3LTgxZjgtZDJhNjBkMGJkYjA4.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 本山选谁上-喜剧人选拔
-http://43.251.226.110:8880/play/1132.m3u8
-#EXTINF:-1 tvg-name="本山选谁上-喜剧人选拔" tvg-logo="http://emyfs.bs2cdn.yy.com/MjM2ZmQwZGMtYjQyOC00OGY3LTgxZjgtZDJhNjBkMGJkYjA4.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 本山选谁上-喜剧人选拔
-https://live.ottiptv.cc/yy/1382749878
-#EXTINF:-1 tvg-name="什么会让你快乐" tvg-logo="http://emyfs.bs2cdn.yy.com/ZWYyMzAzOWUtZWE5NS00NWMzLTk2YzEtZGYzOTJjZjQzNGIz.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 什么会让你快乐
-http://43.251.226.110:8880/play/1152.m3u8
-#EXTINF:-1 tvg-name="什么会让你快乐" tvg-logo="http://emyfs.bs2cdn.yy.com/ZWYyMzAzOWUtZWE5NS00NWMzLTk2YzEtZGYzOTJjZjQzNGIz.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 什么会让你快乐
-https://live.ottiptv.cc/yy/54886912
-#EXTINF:-1 tvg-name="福贵" tvg-logo="http://emyfs.bs2cdn.yy.com/M2Q4MmZmNzItZDUzNC00ZDJjLTgyMzUtNjUzZmE3ODU5ZWQy.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 福贵
-http://43.251.226.110:8880/play/1177.m3u8
-#EXTINF:-1 tvg-name="福贵" tvg-logo="http://emyfs.bs2cdn.yy.com/M2Q4MmZmNzItZDUzNC00ZDJjLTgyMzUtNjUzZmE3ODU5ZWQy.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 福贵
-https://live.ottiptv.cc/yy/1354926537
-#EXTINF:-1 tvg-name="施公奇案2-欧阳震华" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/6530ce7822d8c07be4dfe93d.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 施公奇案2-欧阳震华
-http://43.251.226.110:8880/play/1192.m3u8
-#EXTINF:-1 tvg-name="施公奇案2-欧阳震华" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/6530ce7822d8c07be4dfe93d.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 施公奇案2-欧阳震华
-https://live.ottiptv.cc/yy/1382736824
-#EXTINF:-1 tvg-name="时代剧，黄土高天" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/3IZKlM9wzJZcG3Yda9d1ja.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 时代剧，黄土高天
-http://43.251.226.110:8880/play/1201.m3u8
-#EXTINF:-1 tvg-name="时代剧，黄土高天" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/3IZKlM9wzJZcG3Yda9d1ja.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 时代剧，黄土高天
-https://live.ottiptv.cc/yy/1414864180
-#EXTINF:-1 tvg-name="经典传奇2018" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/3tvr0Xt9QeF9cGDShQmfCO.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 经典传奇2018
-http://43.251.226.110:8880/play/1321.m3u8
-#EXTINF:-1 tvg-name="经典传奇2018" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/3tvr0Xt9QeF9cGDShQmfCO.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 经典传奇2018
-https://live.ottiptv.cc/yy/1382745189
-#EXTINF:-1 tvg-name="经典传奇2018" tvg-logo="http://emyfs.bs2cdn.yy.com/offlineIndividuationCover/6PRUfCqHHBtXZIQFw5NJaI.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 经典传奇2018
-https://live.ottiptv.cc/yy/1382745184
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/   .png" group-title="中文-直播平台", 娱乐消遣   不喜勿喷
-https://live.ottiptv.cc/yy/47200573
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ .png" group-title="中文-直播平台", 超清鬼片 港片
-https://live.ottiptv.cc/yy/1335509613
-#EXTINF:-1 tvg-name="笑声传奇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 笑声传奇
-https://live.ottiptv.cc/yy/1382736880
-#EXTINF:-1 tvg-name="笑声传奇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 笑声传奇
-http://43.251.226.110:8880/play/1001.m3u8
-#EXTINF:-1 tvg-name="编辑部的故事" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 编辑部的故事
-https://live.ottiptv.cc/yy/1354936120
-#EXTINF:-1 tvg-name="编辑部的故事" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 编辑部的故事
-http://43.251.226.110:8880/play/1025.m3u8
-#EXTINF:-1 tvg-name="热播完美世界" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 热播完美世界
-https://live.ottiptv.cc/yy/25444932
-#EXTINF:-1 tvg-name="生存大战，尽显人性" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 生存大战，尽显人性
-https://live.ottiptv.cc/yy/1414864186
-#EXTINF:-1 tvg-name="生存大战，尽显人性" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 生存大战，尽显人性
-http://43.251.226.110:8880/play/1143.m3u8
-#EXTINF:-1 tvg-name="小爽东北菇凉，求守护" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-直播平台", 小爽东北菇凉，求守护
-https://live.ottiptv.cc/yy/1382609850
-#EXTINF:-1 tvg-name="的直播间" group-title="中文-直播平台", 的直播间
-http://43.251.226.110:8880/play/1255.m3u8
-#EXTINF:-1 tvg-name="梨园戏曲" tvg-id="梨园戏曲" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 梨园戏曲
+#EXTINF:-1 tvg-name="梨园戏曲" tvg-id="梨园戏曲" tvg-logo="https://epg.112114.xyz/logo/梨园戏曲.png" group-title="中文-直播平台", 梨园戏曲
 https://migu.188766.xyz/?migutoken=2993298f7b139ad24b680d321029ea6d&id=梨园频道&type=yy
-#EXTINF:-1 tvg-name="梨园戏曲" tvg-id="梨园戏曲" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-直播平台", 梨园戏曲
+#EXTINF:-1 tvg-name="梨园戏曲" tvg-id="梨园戏曲" tvg-logo="https://epg.112114.xyz/logo/梨园戏曲.png" group-title="中文-直播平台", 梨园戏曲
 http://150.158.10.195:80/dxxw.php?id=hnly
 #EXTINF:-1 tvg-name="实况中国慢直播" tvg-id="实况中国慢直播" group-title="中文-直播平台", 实况中国慢直播
 https://live.iill.top/bilibili/26351451
@@ -917,6 +423,8 @@ http://dxa.yiandrive.com:39319/bilibili/1786569378
 http://dxa.yiandrive.com:39319/bilibili/1713541205
 #EXTINF:-1 tvg-name="娱乐抢先看" tvg-id="娱乐抢先看" group-title="中文-直播平台", 娱乐抢先看
 http://cfss.cc/cdn/yy/1509085223.m3u8
+#EXTINF:-1 tvg-name="火影剧场" tvg-id="火影剧场" group-title="中文-直播平台", 火影剧场
+http://cfss.cc/cdn/yy/1459675153.m3u8
 #EXTINF:-1 tvg-name="好声音剧场" tvg-id="好声音剧场" group-title="中文-直播平台", 好声音剧场
 http://cfss.cc/cdn/yy/991.m3u8
 #EXTINF:-1 tvg-name="Y剧院" tvg-id="Y剧院" group-title="中文-直播平台", Y剧院
@@ -1027,34 +535,6 @@ https://new-live.jnyyoa.com/notlive/8649962.m3u8
 https://kbpull.kktv8.com/livekktv/160325111/playlist.m3u8
 #EXTINF:-1 tvg-name="风筝" tvg-id="风筝" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/NWI0ODc1NDQtNDBkNC00YjZhLThhOTEtNDEyZDIwYTczMjU1.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 风筝
 https://live.ottiptv.cc/yy/1382828770
-#EXTINF:-1 tvg-name="廚神明星秀-FastTV飛速看" tvg-id="廚神明星秀-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live226.png" group-title="中文-直播平台", 廚神明星秀-FastTV飛速看
-https://rust.946985.filegear-sg.me/proxy/a09e1ff282f7393e?token=tgJerryfeng
-#EXTINF:-1 tvg-name="AsiaFM 亚洲粤语台" tvg-logo="http://live.cooltv.top/logo/asiayy.png" group-title="中文-直播平台", AsiaFM 亚洲粤语台
-http://yyt.asiafm.net:8000/asiafm
-#EXTINF:-1 tvg-name="南宁交通音乐广播" tvg-logo="http://live.cooltv.top/logo/nnjtyygb.png" group-title="中文-直播平台", 南宁交通音乐广播
-http://hls.nntv.cn/nnradio/FM1074.m3u8
-#EXTINF:-1 tvg-name="益阳之声" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/益阳之声.png" group-title="中文-直播平台", 益阳之声
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm997.m3u8
-#EXTINF:-1 tvg-name="益阳交通频道·汽车881" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/益阳交通频道.png" group-title="中文-直播平台", 益阳交通频道·汽车881
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm881.m3u8
-#EXTINF:-1 tvg-name="中广新闻网" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/中广新闻网.png" group-title="中文-直播平台", 中广新闻网
-http://n12.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 tvg-name="苏州音乐广播" tvg-logo="http://live.cooltv.top/logo/szyygb.png" group-title="中文-直播平台", 苏州音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=697
-#EXTINF:-1 tvg-name="唐山音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/唐山音乐广播.PNG" group-title="中文-直播平台", 唐山音乐广播
-http://live.cooltv.top/tv/ts.php?id=yygb
-#EXTINF:-1 tvg-name="开封音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/kfyy.png" group-title="中文-直播平台", 开封音乐广播
-http://live.dxhmt.cn:9081/gb/10200-4.m3u8
-#EXTINF:-1 tvg-name="绵阳科技生活广播" tvg-logo="http://live.cooltv.top/logo/myyygb.png" group-title="中文-直播平台", 绵阳科技生活广播
-http://live.sctvcloud.com/live/myradioyy/playlist.m3u8
-#EXTINF:-1 tvg-name="扬州经济音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/扬州经济音乐广播.png" group-title="中文-直播平台", 扬州经济音乐广播
-http://live.cooltv.top/tv/yz.php?id=jjyy
-#EXTINF:-1 tvg-name="太原音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/太原音乐广播.png" group-title="中文-直播平台", 太原音乐广播
-http://live.cooltv.top/tv/tide.php?id=tyyygb
-#EXTINF:-1 tvg-name="石家庄音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/石家庄音乐广播.PNG" group-title="中文-直播平台", 石家庄音乐广播
-http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
-#EXTINF:-1 tvg-name="中山Hapyy Radio 888" tvg-id="中山HapyyRadio888" tvg-logo="https://img-ossimg-qn.ajmide.com/program/channel-1HsBwG_329x329.png" group-title="中文-直播平台", 中山Hapyy Radio 888
-https://rscdn-qn-i.ajmide.com/r_2191/2191.m3u8
 #EXTINF:-1 tvg-name="1905电影网流金岁月" tvg-logo="https://epg.112114.xyz/logo/1905电影网流金岁月.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 1905电影网流金岁月
 http://129.211.14.102:25000/1905.php?t=1&id=LIVEOYY31H24H48NE&token=www.9kds.com
 #EXTINF:-1 tvg-name="主播阿呆" tvg-logo="https://epg.112114.xyz/logo/主播阿呆.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 主播阿呆
@@ -1075,8 +555,12 @@ https://t21.cdn2020.com/video/m3u8/2023/04/06/d6c1a6ef/index.m3u8
 https://vip4.ddyunbo.com/20191112/aKyYPZ4O/index.m3u8
 #EXTINF:-1 tvg-name="MSD-041/JK主播的迷奸餐" group-title="中文-直播平台", MSD-041/JK主播的迷奸餐
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/rc/ka/e6/z9/64b8001bb54a44818761fcfdf29b22db.m3u8?
-#EXTINF:-1 tvg-name="大愛電視台" tvg-id="大愛電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="中文-直播平台", 大愛電視
+#EXTINF:-1 tvg-name="大愛電視" tvg-id="大愛電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="中文-直播平台", 大愛電視
 http://114.32.153.6:5051/4gtv-live007/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="三立綜合台" tvg-id="三立綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="中文-直播平台", 三立綜合台
+http://114.32.153.6:5051/4gtv-live207/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="尼克兒童頻道" tvg-id="尼克兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="中文-直播平台", 尼克兒童頻道
+http://114.32.153.6:5051/4gtv-live105/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
 #EXTINF:-1 tvg-name="超精彩武打场景" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/65fd5da99c5c9f2b4f75771a.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 超精彩武打场景
 https://live.ottiptv.cc/yy/1354936131
 #EXTINF:-1 tvg-name="夏洛特烦恼-国内电影-喜剧" tvg-logo="http://emyfs.bs2cdn.yy.com/NjJmMWE1NjgtMWJlZS00OTI1LWEzMzQtZTIwODRhNTg3YmVm.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 夏洛特烦恼-国内电影-喜剧
@@ -1101,18 +585,24 @@ https://live.ottiptv.cc/yy/1382735541
 https://live.ottiptv.cc/yy/1382736873
 #EXTINF:-1 tvg-name="宫心计-港剧-古装" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/lRM6hBTFCGSjKM8dvn88S.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 宫心计-港剧-古装
 https://live.ottiptv.cc/yy/1354933540
+#EXTINF:-1 tvg-name="新白娘子传奇-女神赵雅芝" tvg-logo="http://emyfs.bs2cdn.yy.com/NGNjYjc2NGUtNDA2ZS00ZmQ5LTlmNTgtZDY4MDM1ODNmNTc0.png?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 新白娘子传奇-女神赵雅芝
+https://live.ottiptv.cc/yy/1354930969
 #EXTINF:-1 tvg-name="情满四合院" tvg-logo="http://emyfs.bs2cdn.yy.com/NmU1OTkzM2UtZWM3MC00MWExLWE1ZTMtMWU2NGRjNTg3MzYx.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 情满四合院
 https://live.ottiptv.cc/yy/1382736848
 #EXTINF:-1 tvg-name="情满四合院" tvg-logo="http://emyfs.bs2cdn.yy.com/offlineIndividuationCover/14GFwHpMqkzlLsK6HfuLOX.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 情满四合院
 https://live.ottiptv.cc/yy/1382851524
 #EXTINF:-1 tvg-name="熊出没之探险日记S1-国漫" tvg-logo="http://emyfs.bs2cdn.yy.com/MTY5YTVhYmItMTc2Yi00ZDUzLTgyODUtZWNjMDIxOThmYWVh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 熊出没之探险日记S1-国漫
 https://live.ottiptv.cc/yy/1354930977
+#EXTINF:-1 tvg-name="我的前半生" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/NmNkYjdkZTktODBjOC00ZWFlLTlmZTQtZTQyMTE1Y2Y3Nzk5.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 我的前半生
+https://live.ottiptv.cc/yy/1382735564
 #EXTINF:-1 tvg-name="爆笑小品大合集" tvg-logo="http://emyfs.bs2cdn.yy.com/N2E5YTk3M2EtZDQxZS00MDVkLWJjYmItMzM2OTdmZTVjMWE5.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 爆笑小品大合集
 https://live.ottiptv.cc/yy/1382736821
 #EXTINF:-1 tvg-name="超精彩！系列动作电影" tvg-logo="http://emyfs.bs2cdn.yy.com/MWE0NTE4YzgtZTkxNy00YWYxLTljMDAtYjY5YzQxNzAzZGFh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 超精彩！系列动作电影
 https://live.ottiptv.cc/yy/1382745096
 #EXTINF:-1 tvg-name="你的回忆有我吗" tvg-logo="http://emyfs.bs2cdn.yy.com/YjQ1NDg1ZDUtNGM5OS00NGYwLWE0MzMtZDEzN2NkZTQ3NTNl.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 你的回忆有我吗
 https://live.ottiptv.cc/yy/1354889024
+#EXTINF:-1 tvg-name="福贵" tvg-logo="http://emyfs.bs2cdn.yy.com/M2Q4MmZmNzItZDUzNC00ZDJjLTgyMzUtNjUzZmE3ODU5ZWQy.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 福贵
+https://live.ottiptv.cc/yy/1354926537
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="http://emyfs.bs2cdn.yy.com/Njg4M2Y3NjgtYWFkMi00ZDU1LTliOTktYWE0YTFmNTU2Y2E1.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 宰相刘罗锅
 https://live.ottiptv.cc/yy/1382745191
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="http://emyfs.bs2cdn.yy.com/offlineIndividuationCover/DaiTlaSSNTvy0iyBEXsRa.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 宰相刘罗锅
@@ -1125,6 +615,8 @@ https://live.ottiptv.cc/yy/1382745089
 https://live.ottiptv.cc/yy/1382735544
 #EXTINF:-1 tvg-name="魔幻手机" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c23682fef11f0828fac629.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 魔幻手机
 https://live.ottiptv.cc/yy/1382851541
+#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="http://emyfs.bs2cdn.yy.com/ZTlhNDIzZmItMGQ2Ny00YzczLTk1YjUtZDBlZmNlODU4NjZh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 炊事班的故事III
+https://live.ottiptv.cc/yy/1382736716
 #EXTINF:-1 tvg-name="粟裕大将-影视" tvg-logo="http://emyfs.bs2cdn.yy.com/ZjU1YjA2MmQtOTRmNy00ZTZlLTg3MTgtYTI1MGUwNzZkY2Ix.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 粟裕大将-影视
 https://live.ottiptv.cc/yy/1354926542
 #EXTINF:-1 tvg-name="这部剧你居然没看过？" tvg-logo="http://emyfs.bs2cdn.yy.com/MTJlYTQzY2ItNWNiYS00OTM3LTllZGEtZWJlODU4YmViNmI0.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 这部剧你居然没看过？
@@ -1171,6 +663,8 @@ https://live.ottiptv.cc/yy/1382736876
 https://live.ottiptv.cc/yy/1382749890
 #EXTINF:-1 tvg-name="野山鹰-影视剧" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/NTMzMzJmZmItMjBiYy00NTEwLWI4YWUtNjAwMTZhZjE2OTA5.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 野山鹰-影视剧
 https://live.ottiptv.cc/yy/1354932395
+#EXTINF:-1 tvg-name="大汉贤后卫子夫" tvg-logo="http://emyfs.bs2cdn.yy.com/NGViNGZkODAtMjMwZC00NmRiLTkxMGYtYjEwZGI1ZTQ4MzEw.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 大汉贤后卫子夫
+https://live.ottiptv.cc/yy/1382735569
 #EXTINF:-1 tvg-name="史诗级科幻电影-阿凡达" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/5qRy6nLC9ZGPLOEHod7mm0.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 史诗级科幻电影-阿凡达
 https://live.ottiptv.cc/yy/1382735577
 #EXTINF:-1 tvg-name="小朋友可爱到家了" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/4pw5v86EhPiUtZlp3h4OGN.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 小朋友可爱到家了
@@ -1337,6 +831,8 @@ https://live.ottiptv.cc/yy/1382736720
 https://live.ottiptv.cc/yy/1454859415
 #EXTINF:-1 tvg-name="本山快乐营1" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/MWU3MDQwY2ItN2JjNy00YmJmLTlkOTYtNDM1ZDg3ZmZjMGMw.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 本山快乐营1
 https://live.ottiptv.cc/yy/1354936209
+#EXTINF:-1 tvg-name="施公奇案2-欧阳震华" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/6530ce7822d8c07be4dfe93d.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 施公奇案2-欧阳震华
+https://live.ottiptv.cc/yy/1382736824
 #EXTINF:-1 tvg-name="少年包青天美黑之旅" tvg-logo="http://emyfs.bs2cdn.yy.com/NDI0MDY5NjgtOGM2Yi00NDgzLWI0NmMtZTMwZWRmYzkyOGJi.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 少年包青天美黑之旅
 https://live.ottiptv.cc/yy/1354936141
 #EXTINF:-1 tvg-name="妖神记之黑狱篇" tvg-logo="http://emyfs.bs2cdn.yy.com/ZDVkNzJiOWYtMzA0OS00NjUyLWE5NmItM2M3MzQwODVmYWEw.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 妖神记之黑狱篇
@@ -1553,6 +1049,10 @@ https://live.ottiptv.cc/yy/1382736841
 https://live.ottiptv.cc/yy/1354932426
 #EXTINF:-1 tvg-name="硬核使命" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/7fxhCNy85HND2SGCdgohTi.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 硬核使命
 https://live.ottiptv.cc/yy/1354936122
+#EXTINF:-1 tvg-name="经典传奇2018" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/3tvr0Xt9QeF9cGDShQmfCO.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 经典传奇2018
+https://live.ottiptv.cc/yy/1382745189
+#EXTINF:-1 tvg-name="经典传奇2018" tvg-logo="http://emyfs.bs2cdn.yy.com/offlineIndividuationCover/6PRUfCqHHBtXZIQFw5NJaI.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 经典传奇2018
+https://live.ottiptv.cc/yy/1382745184
 #EXTINF:-1 tvg-name="重启" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/5ES8MrajWK6s0ao7T2ZEFE.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 重启
 https://live.ottiptv.cc/yy/1354888736
 #EXTINF:-1 tvg-name="唐门双雄战神犼" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/6fEEDSbofi6pc2yuYOvfkF.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 唐门双雄战神犼
@@ -1631,6 +1131,8 @@ https://live.ottiptv.cc/yy/1382736913
 https://live.ottiptv.cc/yy/1382736853
 #EXTINF:-1 tvg-name="拳战闸北！" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/3bs8dDNdpgAZ9LqUI6ZVz2.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 拳战闸北！
 https://live.ottiptv.cc/yy/1382749910
+#EXTINF:-1 tvg-name="本山选谁上-喜剧人选拔" tvg-logo="http://emyfs.bs2cdn.yy.com/MjM2ZmQwZGMtYjQyOC00OGY3LTgxZjgtZDJhNjBkMGJkYjA4.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 本山选谁上-喜剧人选拔
+https://live.ottiptv.cc/yy/1382749878
 #EXTINF:-1 tvg-name="暗战幽灵毒枭" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/2lpWAu3wdaZdCvaUwqQ0SJ.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 暗战幽灵毒枭
 https://live.ottiptv.cc/yy/1382745099
 #EXTINF:-1 tvg-name="奇门异人出世" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/1YHeVWkEscblfiRwAByNOb.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 奇门异人出世
@@ -1689,14 +1191,20 @@ https://live.ottiptv.cc/yy/1355171357
 https://live.ottiptv.cc/yy/1353753252
 #EXTINF:-1 tvg-name="没大哥求VP" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/5mHWAURUzXIJ8QLpojeZsF.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 没大哥求VP
 https://live.ottiptv.cc/yy/1351537467
+#EXTINF:-1 tvg-name="大秧歌~24h经典好剧" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/6Bn1rlWamwWY19kM04mewk.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 大秧歌~24h经典好剧
+https://live.ottiptv.cc/yy/1354744544
 #EXTINF:-1 tvg-name="鹿鼎记-高清全集" tvg-logo="http://emyfs.bs2cdn.yy.com/ai/YTMzZDg2MGItMDQ4NS00MzE1LTljNjAtOGZjMmE2MjBkNjhj.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 鹿鼎记-高清全集
 https://live.ottiptv.cc/yy/1382704650
 #EXTINF:-1 tvg-name="经典电影 港片枪战" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/76fdIoIQNQKpdR9FOScD6M.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 经典电影 港片枪战
 https://live.ottiptv.cc/yy/1355076627
 #EXTINF:-1 tvg-name="精彩动漫" tvg-logo="http://zonemin.bs2dl.yy.com/group16/M00/ec19e7b720a34d39b4196ed11f6ec496.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 精彩动漫
 https://live.ottiptv.cc/yy/1420843376
+#EXTINF:-1 tvg-name="赵本山《超清版》" tvg-logo="http://emyfs.bs2cdn.yy.com/M2YzYTUxMWQtMzlhNS00NjAyLWJiYWItYzhjZDk4OTI1OGYx.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 赵本山《超清版》
+https://live.ottiptv.cc/yy/1382683959
 #EXTINF:-1 tvg-name="国漫动漫" tvg-logo="http://emyfs.bs2cdn.yy.com/ai/ZTRkMjBlZDQtNzc0Yi00Y2U3LTliMTgtNmVjMDIxODhiNjgz.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 国漫动漫
 https://live.ottiptv.cc/yy/1354768828
+#EXTINF:-1 tvg-name="24小时循环播电视剧" tvg-logo="http://emyfs.bs2cdn.yy.com/ai/OTUyZWNiY2ItY2VlMC00ZDgxLWEwOGQtNjY4ZmUyZThmNWZh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 24小时循环播电视剧
+https://live.ottiptv.cc/yy/53320802
 #EXTINF:-1 tvg-name="《武林外传》武侠" tvg-logo="http://screenshot-storage.yy.com/screenshot/1394000563_b4521405-0435-4020-85a9-0d35233813f9.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="中文-直播平台", 《武林外传》武侠
 https://live.ottiptv.cc/yy/1394000563
 #EXTINF:-1 tvg-name="五号特工组和平ff" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/6oNb6HA1k5lWGLOtgV95oQ.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 五号特工组和平ff
@@ -1705,6 +1213,8 @@ https://live.ottiptv.cc/yy/1414967772
 https://live.ottiptv.cc/yy/1356212303
 #EXTINF:-1 tvg-name="和你不见不散" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/45VTlw3SJyGc6PgPKsW0wv.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 和你不见不散
 https://live.ottiptv.cc/yy/1355635293
+#EXTINF:-1 tvg-name="进来 陪你看电视" tvg-logo="http://emyfs.bs2cdn.yy.com/MDNhNTVkYTgtODNhNi00Yjc4LTljZDQtYmY3MjcxZmJiYTVl.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 进来 陪你看电视
+https://live.ottiptv.cc/yy/1353518742
 #EXTINF:-1 tvg-name="惊恐盗暮鬼怪" tvg-logo="https://ai-oss.yystatic.com/cover_cut/20230717/6b1d3818c141383a8ca21562465c933c.jpg?imageview/4/0/w/400/h/500" group-title="中文-直播平台", 惊恐盗暮鬼怪
 https://live.ottiptv.cc/yy/1382749525
 #EXTINF:-1 tvg-name="好先生" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/6Ycfl9hu2JsC4hlcCXwGS0.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 好先生
@@ -1713,8 +1223,14 @@ https://live.ottiptv.cc/yy/79382500
 https://live.ottiptv.cc/yy/1459675153
 #EXTINF:-1 tvg-name="24h唐朝诡实录1234" tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/AkO1yW8iCYvjv2MLHaUXM.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 24h唐朝诡实录1234
 https://live.ottiptv.cc/yy/1353913646
+#EXTINF:-1 tvg-name="什么会让你快乐" tvg-logo="http://emyfs.bs2cdn.yy.com/ZWYyMzAzOWUtZWE5NS00NWMzLTk2YzEtZGYzOTJjZjQzNGIz.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 什么会让你快乐
+https://live.ottiptv.cc/yy/54886912
 #EXTINF:-1 tvg-name="8090.电影一哥" tvg-logo="http://zonemin.bs2dl.yy.com/group16/M00/20ba7142481d4c2d99d59c231f8b1072.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 8090.电影一哥
 https://live.ottiptv.cc/yy/29197808
+#EXTINF:-1 tvg-name="时代剧，黄土高天" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/3IZKlM9wzJZcG3Yda9d1ja.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 时代剧，黄土高天
+https://live.ottiptv.cc/yy/1414864180
+#EXTINF:-1 tvg-name="1930年代经典电影" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/451vxK7phMnDh1Ao6nYGaJ.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 1930年代经典电影
+https://live.ottiptv.cc/yy/1356363815
 #EXTINF:-1 tvg-name="欧美配音电影！！！" tvg-logo="http://screenshot-storage.yy.com/screenshot/1354693629_2651718170_aff3c7be-e96f-4144-8c93-6381a2ac2565.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="中文-直播平台", 欧美配音电影！！！
 https://live.ottiptv.cc/yy/1354693629
 #EXTINF:-1 tvg-name="战狼7吴京退役" tvg-logo="http://screenshot-storage.yy.com/screenshot/1382773714_4ff3d36c-f28e-4eb8-8414-fec9c48405cf.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="中文-直播平台", 战狼7吴京退役
@@ -1737,8 +1253,6 @@ https://live.ottiptv.cc/yy/1382720905
 https://live.ottiptv.cc/yy/1382750627
 #EXTINF:-1 tvg-name="360°环绕音效" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/6551e91242c73a743684c433.jpg?imageview/4/0/w/400/h/500/q/80" group-title="中文-直播平台", 360°环绕音效
 https://live.ottiptv.cc/yy/1382874523
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="http://live.cooltv.top/logo/cnrmusicradio.png" group-title="中文-直播平台", 音乐之声
-https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-name="更新时间2026.4.19" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.4.19.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 更新时间2026.4.19
 https://v23-3.kwaicdn.com/upic/2026/04/21/23/BMjAyNjA0MjEyMzIyMDRfODcyNTIzNjQ4XzE5Mzc2MTYzMzk2NF8wXzM=_b_Bfd04ff5966f2e747b5ca14139e08f92b.mp4?pkey=AAUBA9ojEOo8KjJTYuYYiml0W3je4PI5sV4q7B2wByQIJIPCtPiwjWOlA73yYfbtPHY9cbOnW8k32sOJ6wvaxHqbtIbsarW1MQOn_3ytSWT7NN09DDAl9yW-KfXusi-kUww&tag=1-1776817759-unknown-0-yt9p83xagd-fff9d16d77b4df05&clientCacheKey=3xkag6pd9x3zze4_b.mp4&di=JAiCIAEoJXDdlpGM48YQWw==&bp=10004&kwai-not-alloc=40&tt=b&ss=vps
 #EXTINF:-1 tvg-name="云来如此" tvg-logo="https://epg.112114.xyz/logo/云来如此.png" group-title="中文-直播平台" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 云来如此
