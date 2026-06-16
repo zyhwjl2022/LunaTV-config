@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Genius Go Go Go" tvg-id="GeniusGoGoGo" tvg-logo="https://i.imgur.com/GGdnGqH.png" group-title="国际-娱乐", Genius Go Go Go
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-name="ET Mall 60" tvg-id="ETMall60" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="国际-娱乐", ET Mall 60
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 tvg-name="NU" tvg-id="NU" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="国际-娱乐", NU
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+#EXTINF:-1 tvg-name="NU2" tvg-id="NU2" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="国际-娱乐", NU2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+#EXTINF:-1 tvg-name="JP1" tvg-id="JP1" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="国际-娱乐", JP1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1 tvg-name="KPop" tvg-id="KPop" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="国际-娱乐", KPop
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 tvg-name="3Cat Exclusiu 1 (1080p) [Geo-blocked]" tvg-id="3CatExclusiu1.es@SD" tvg-logo="https://i.imgur.com/YQvLPT1.png" group-title="国际-娱乐", 3Cat Exclusiu 1 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 #EXTINF:-1 tvg-name="3Cat Exclusiu 2 (1080p) [Geo-blocked]" tvg-id="3CatExclusiu2.es@SD" tvg-logo="https://i.imgur.com/YQvLPT1.png" group-title="国际-娱乐", 3Cat Exclusiu 2 (1080p) [Geo-blocked]
@@ -173,6 +185,20 @@ https://v2.catcast.tv/content/38128/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем КиноЭкшен [Not 24/7]" tvg-id="CityEdenKinoAction.ru@HD" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="国际-娱乐", Сити Эдем КиноЭкшен [Not 24/7]
 https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-id="RockEntertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="国际-娱乐", Rock Entertainment
+https://smt.goiptv.us.ci/Rockentertain/playlist.m3u8
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-id="RockEntertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="国际-娱乐", Rock Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCKEntertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="国际-娱乐", ROCK Entertainment
+http://220.135.64.124:5050/4gtv-live080/index.m3u8
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCKEntertainment" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-live080_mobile.png" group-title="国际-娱乐", ROCK Entertainment
+https://rust.946985.filegear-sg.me/proxy/43f348f6e20bc683?token=tgJerryfeng
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCKEntertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="国际-娱乐", ROCK Entertainment
+http://114.32.153.6:5051/4gtv-live080/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="Entertain" tvg-id="Entertain" group-title="国际-娱乐", Entertain
+https://smt.goiptv.us.ci/Entertain/playlist.m3u8
+#EXTINF:-1 tvg-name="Entertain" tvg-id="Entertain" group-title="国际-娱乐", Entertain
+https://smart.dxjc.pp.ua/smart.php?id=Entertain&token=tmxk
 #EXTINF:-1 tvg-name="Love Nature (1080p)" tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="国际-娱乐", Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-name="New TV Comprehensive" tvg-id="NewTVComprehensive.id@SD" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wz2sim1e/landscape_carousel_xxhdpi.webp" group-title="国际-娱乐" http-referrer="maxstream.tv/tv-channels", New TV Comprehensive
@@ -183,6 +209,60 @@ https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd
 #EXTINF:-1 tvg-name="Tech Storm (720p) [Geo-blocked]" tvg-id="TechStorm.sg@SD" tvg-logo="https://i.imgur.com/fAprFBJ.png" group-title="国际-娱乐", Tech Storm (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#EXTINF:-1 tvg-name="ASTROAWANI" group-title="国际-娱乐", ASTRO AWANI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1 tvg-name="INDIATODAY" group-title="国际-娱乐", INDIA TODAY
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 tvg-name="123goLIVE" group-title="国际-娱乐", 123 GO LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 tvg-name="Music Top" group-title="国际-娱乐", Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-name="Music Top" group-title="国际-娱乐", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 tvg-name="Eclectic24" tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square" group-title="国际-娱乐", Eclectic24
+https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+#EXTINF:-1 tvg-name="VOCALO" tvg-logo="https://i1.wp.com/vocalo.org/wp-content/uploads/2017/01/black_teal_square.png?resize=170%2C170&ssl=1" group-title="国际-娱乐", VOCALO
+https://stream.wbez.org/vocalolinear
+#EXTINF:-1 tvg-name="「DE」 Baden TV" group-title="国际-娱乐", 「DE」 Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-name="「KH」 Persiana Documentary" group-title="国际-娱乐", 「KH」 Persiana Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV Asia Live Event" group-title="国际-娱乐", Bloomberg TV Asia Live Event
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-name="30A Investment Pitch" group-title="国际-娱乐", 30A Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="88 Stereo" tvg-id="88stereo.cr" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="国际-娱乐", 88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="88 Stereo" tvg-id="88stereo.cr" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="国际-娱乐", 88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-name="Access Sacramento Channel 17" tvg-id="AccessSacramentoChannel17.us@SD" tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="国际-娱乐", Access Sacramento Channel 17
+https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Access Sacramento Channel 17" tvg-id="AccessSacramentoChannel17.us@SD" tvg-logo="https://i.imgur.com/j0UC4ke.png" group-title="国际-娱乐", Access Sacramento Channel 17
+https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 tvg-name="Access Sacramento Channel 18" group-title="国际-娱乐", Access Sacramento Channel 18
+https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Entertainment TV:Charge" group-title="国际-娱乐", Entertainment TV:Charge
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Midpen Media Center Arts Issues and Lifestyles Channel 30" group-title="国际-娱乐", Midpen Media Center Arts Issues and Lifestyles Channel 30
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Midpen Media Center Diversity and Culture Channel 75" group-title="国际-娱乐", Midpen Media Center Diversity and Culture Channel 75
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Midpen Media Center Government etc Channel 26" group-title="国际-娱乐", Midpen Media Center Government etc Channel 26
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Midpen Media Center Government etc Channel 29" group-title="国际-娱乐", Midpen Media Center Government etc Channel 29
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="TBD" group-title="国际-娱乐", TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Tierramia TV" group-title="国际-娱乐", Tierramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="US | Albany | CBS 6 WRGB" group-title="国际-娱乐", US | Albany | CBS 6 WRGB
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="WJLA" group-title="国际-娱乐", WJLA
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="RT Documentary" group-title="国际-娱乐", RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://epg.112114.xyz/logo/Comedy Central.png" group-title="国际-娱乐", Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-name="Equidia (1080p)" tvg-id="Equidia.fr@SD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="国际-娱乐", Equidia (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-name="Lacrosse TV (720p)" tvg-id="LacrosseTV.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj" group-title="国际-娱乐", Lacrosse TV (720p)
@@ -193,16 +273,204 @@ https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
 #EXTINF:-1 tvg-name="VITAL Drive" tvg-id="VitalDrive.ru@HD" tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="国际-娱乐", VITAL Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-name="Rock Entertainment" tvg-id="RockEntertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="国际-娱乐", Rock Entertainment
-https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCKEntertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="国际-娱乐", ROCK Entertainment
-http://220.135.64.124:5050/4gtv-live080/index.m3u8
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCKEntertainment" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-live080_mobile.png" group-title="国际-娱乐", ROCK Entertainment
-https://rust.946985.filegear-sg.me/proxy/43f348f6e20bc683?token=tgJerryfeng
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCKEntertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="国际-娱乐", ROCK Entertainment
-http://114.32.153.6:5051/4gtv-live080/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="Entertain" tvg-id="Entertain" group-title="国际-娱乐", Entertain
-https://smart.dxjc.pp.ua/smart.php?id=Entertain&token=tmxk
+#EXTINF:-1 tvg-name="30A Investment Pitch (720p)" tvg-id="30AInvestmentPitch.us@SD" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="国际-娱乐", 30A Investment Pitch (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 tvg-name="30A Ridiculous TV (720p)" tvg-id="30ARidiculousTV.us@SD" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="国际-娱乐", 30A Ridiculous TV (720p)
+https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:-1 tvg-name="30A The Beach Show (720p)" tvg-id="30ATheBeachShow.us@SD" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="国际-娱乐", 30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 tvg-name="ABC Entertains (720p)" tvg-id="ABCEntertains.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" group-title="国际-娱乐", ABC Entertains (720p)
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-name="Access Media Productions Channel (720p)" tvg-id="AMP1.us@SD" tvg-logo="https://i.imgur.com/3ZhrthD.png" group-title="国际-娱乐", Access Media Productions Channel (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
+#EXTINF:-1 tvg-name="Access Media Productions Community Channel (720p)" tvg-id="AMP2.us@SD" tvg-logo="https://i.imgur.com/nfur3FR.png" group-title="国际-娱乐", Access Media Productions Community Channel (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
+#EXTINF:-1 tvg-name="Access Media Productions Marina TV (720p)" tvg-id="TheCityofMarina.us@SD" tvg-logo="https://i.imgur.com/ldyanxN.png" group-title="国际-娱乐", Access Media Productions Marina TV (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
+#EXTINF:-1 tvg-name="Access Media Productions Peninsula Channel (720p)" tvg-id="ThePeninsulaChannel.us@SD" tvg-logo="https://i.imgur.com/Ybp6YKD.png" group-title="国际-娱乐", Access Media Productions Peninsula Channel (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
+#EXTINF:-1 tvg-name="ACTV" tvg-id="ACTV.us@SD" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="国际-娱乐", ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+#EXTINF:-1 tvg-name="Afrobeats (1080p)" tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="国际-娱乐", Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-name="Akaku 53 (Hawaii) (1080p)" tvg-id="Akaku53.us@SD" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel53-147x150-square.png" group-title="国际-娱乐", Akaku 53 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1 tvg-name="Akaku 54 (Hawaii) (1080p)" tvg-id="Akaku54.us@SD" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel54-147x150-square.png" group-title="国际-娱乐", Akaku 54 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1 tvg-name="Akaku 55 (Hawaii) (1080p)" tvg-id="Akaku55.us@SD" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel55-147x150-square.png" group-title="国际-娱乐", Akaku 55 (Hawaii) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 tvg-name="Anger Management Channel (1080p)" tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="国际-娱乐", Anger Management Channel (1080p)
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="ATXN1 (1080p)" tvg-id="ATXN1.us@SD" tvg-logo="https://i.imgur.com/tSMtDlz.png" group-title="国际-娱乐", ATXN1 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
+#EXTINF:-1 tvg-name="ATXN3 (1080p)" tvg-id="ATXN3.us@SD" tvg-logo="https://i.imgur.com/tSMtDlz.png" group-title="国际-娱乐", ATXN3 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
+#EXTINF:-1 tvg-name="Ayeneh TV" tvg-id="AyenehTV.us@SD" tvg-logo="https://i.imgur.com/F0AevIQ.png" group-title="国际-娱乐", Ayeneh TV
+https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomfield Access Government TV (480p)" tvg-id="BATVGovernmentTV.us@SD" tvg-logo="https://i.imgur.com/VPGIfVh.png" group-title="国际-娱乐", Bloomfield Access Government TV (480p)
+https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-name="Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)" tvg-id="CVCEducation.us@SD" tvg-logo="https://i.imgur.com/tUgEAUJ.png" group-title="国际-娱乐", Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
+#EXTINF:-1 tvg-name="Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)" tvg-id="CVCGovernment.us@SD" tvg-logo="https://i.imgur.com/qLJhNhq.png" group-title="国际-娱乐", Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
+#EXTINF:-1 tvg-name="Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)" tvg-id="CVCPublic.us@SD" tvg-logo="https://i.imgur.com/KiTtkBQ.png" group-title="国际-娱乐", Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
+#EXTINF:-1 tvg-name="BUTV10 (Boston University) (1080p) [Not 24/7]" tvg-id="BUTV10.us@SD" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="国际-娱乐", BUTV10 (Boston University) (1080p) [Not 24/7]
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-name="Champaign Government Television (CGTV) (Champaign IL) (720p)" tvg-id="CGTV.us@SD" tvg-logo="https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg" group-title="国际-娱乐", Champaign Government Television (CGTV) (Champaign IL) (720p)
+https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-name="Channel 9 Adelaide (720p) [Geo-blocked]" tvg-id="Channel9.au@Adelaide" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="国际-娱乐", Channel 9 Adelaide (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-name="Channel 9 Brisbane (720p) [Geo-blocked]" tvg-id="Channel9.au@Brisbane" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="国际-娱乐", Channel 9 Brisbane (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-name="Channel 9 Perth (720p) [Geo-blocked]" tvg-id="Channel9.au@Perth" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="国际-娱乐", Channel 9 Perth (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-name="Channel 9 Sydney (720p) [Geo-blocked]" tvg-id="Channel9.au@Sydney" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="国际-娱乐", Channel 9 Sydney (720p) [Geo-blocked]
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-name="Channel 10 (720p)" tvg-id="Channel10.us@SD" tvg-logo="https://spcity.org/ImageRepository/Document?documentID=4246" group-title="国际-娱乐", Channel 10 (720p)
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
+#EXTINF:-1 tvg-name="Chef Roc Show (720p) [Not 24/7]" tvg-id="ChefRocShow.us@SD" tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="国际-娱乐", Chef Roc Show (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-name="Chosen TV English (360p)" tvg-id="ChosenTVEnglish.ng@SD" group-title="国际-娱乐", Chosen TV English (360p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" tvg-id="ClassicArtsShowcase.us@SD" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="国际-娱乐", Classic Arts Showcase (720p)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-name="Comedy Central Animation" tvg-id="ComedyCentralAnimation.us@SD" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="国际-娱乐", Comedy Central Animation
+https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+#EXTINF:-1 tvg-name="Comedy Central Pluto TV" tvg-id="ComedyCentralPlutoTV.us@US" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="国际-娱乐", Comedy Central Pluto TV
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 tvg-name="DD Urdu (720p)" tvg-id="DDUrdu.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png" group-title="国际-娱乐", DD Urdu (720p)
+https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1 tvg-name="Documentary+ (1080p)" tvg-id="DocumentaryPlus.us@US" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="国际-娱乐", Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Documentary+ International (1080p)" tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="国际-娱乐", Documentary+ International (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Entrepreneur TV [Geo-blocked]" tvg-id="EntrepreneurTV.us@SD" tvg-logo="https://i.imgur.com/isRfHYZ.png" group-title="国际-娱乐", Entrepreneur TV [Geo-blocked]
+https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ET Now (720p)" tvg-id="ETNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png" group-title="国际-娱乐", ET Now (720p)
+https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+#EXTINF:-1 tvg-name="Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]" tvg-id="CityofFairfieldChannel26.us@SD" tvg-logo="https://i.imgur.com/fiqaiUe.png" group-title="国际-娱乐", Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked]
+https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-name="Folketinget (1080p) [Not 24/7]" tvg-id="TVfromtheDanishParliament.dk@SD" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="国际-娱乐", Folketinget (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-name="Fresno CMAC 3 Government Channel (720p)" tvg-id="CMAC3.us@SD" tvg-logo="https://i.imgur.com/ToZzguz.png" group-title="国际-娱乐", Fresno CMAC 3 Government Channel (720p)
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-name="Game Show Central (720p)" tvg-id="GameShowCentral.us@SD" tvg-logo="https://i.imgur.com/Uuc5h1s.png" group-title="国际-娱乐", Game Show Central (720p)
+https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
+#EXTINF:-1 tvg-name="GNF TV (576p)" tvg-id="GNFTV.za@SD" tvg-logo="https://i.imgur.com/vCB7u0e.png" group-title="国际-娱乐", GNF TV (576p)
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Go2Travel (1080p)" tvg-id="Go2Travel.us@SD" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="国际-娱乐", Go2Travel (1080p)
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="GTV (540p)" tvg-id="GTV.gh@SD" tvg-logo="https://i.imgur.com/5cFLWKO.png" group-title="国际-娱乐" http-referrer="https://liveghanatv.com/", GTV (540p)
+https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Gugudde TV (480p)" tvg-id="GuguddeTV.ug@SD" tvg-logo="https://i.imgur.com/XEakc6Q.png" group-title="国际-娱乐", Gugudde TV (480p)
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+#EXTINF:-1 tvg-name="Gusto TV (1080p)" tvg-id="GustoTV.ca@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gusto_TV.png" group-title="国际-娱乐", Gusto TV (1080p)
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Hi Dost! (720p)" tvg-id="HiDost.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="国际-娱乐", Hi Dost! (720p)
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1 tvg-name="Iris [Geo-blocked]" tvg-id="Iris.it@SD" tvg-logo="https://i.imgur.com/ZLnSLh4.png" group-title="国际-娱乐", Iris [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1 tvg-name="It Is Written TV (1080p)" tvg-id="ItIsWrittenTV.us@SD" tvg-logo="https://i.imgur.com/0jgzoSF.png" group-title="国际-娱乐", It Is Written TV (1080p)
+https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
+#EXTINF:-1 tvg-name="Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)" tvg-id="G10TV.us@SD" tvg-logo="https://i.imgur.com/5VPgAxB.jpg" group-title="国际-娱乐", Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
+https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-name="Jewelry Television (720p)" tvg-id="JewelryTV.us@SD" tvg-logo="https://i.imgur.com/mBcwks7.png" group-title="国际-娱乐", Jewelry Television (720p)
+https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
+#EXTINF:-1 tvg-name="K Content by CJ ENM (1080p)" tvg-id="KContentbyCJENM.us@SD" tvg-logo="https://i.imgur.com/lRy231d.png" group-title="国际-娱乐", K Content by CJ ENM (1080p)
+https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Kingsview TV (1080p)" tvg-id="KingsviewTV.ng@SD" tvg-logo="https://i.imgur.com/py1XOXX.png" group-title="国际-娱乐", Kingsview TV (1080p)
+https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Lakewood CityTV (720p)" tvg-id="CityTVLakewood.us@SD" tvg-logo="https://i.imgur.com/e1shzv9.png" group-title="国际-娱乐", Lakewood CityTV (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
+#EXTINF:-1 tvg-name="LHCAZTV" tvg-id="LakeHavasuCity4.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" group-title="国际-娱乐", LHCAZTV
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K (2160p) [Geo-blocked]" tvg-id="LoveNature.ca@4K" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="国际-娱乐", Love Nature 4K (2160p) [Geo-blocked]
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-name="Love Pets (1080p)" tvg-id="LovePets.ca@US" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="国际-娱乐", Love Pets (1080p)
+https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC (1080p)" tvg-id="MBC.uk@HD" tvg-logo="https://mybingechannel.co.uk/wp-content/uploads/2023/02/mbc-logo-for-website.png" group-title="国际-娱乐", MBC (1080p)
+https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
+#EXTINF:-1 tvg-name="Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)" tvg-id="MidpenMediaCenterChannel30.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="国际-娱乐", Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Midpen Media Center Diversity and Culture Channel 75 (720p)" tvg-id="MidpenMediaCenterChannel75.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="国际-娱乐", Midpen Media Center Diversity and Culture Channel 75 (720p)
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Midpen Media Center Government etc Channel 26 (720p)" tvg-id="MidpenMediaCenterChannel26.us@SD" tvg-logo="https://i.imgur.com/aX1GkCD.png" group-title="国际-娱乐", Midpen Media Center Government etc Channel 26 (720p)
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Midpen Media Center Government etc Channel 29 (720p)" tvg-id="MidpenMediaCenterChannel29.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="国际-娱乐", Midpen Media Center Government etc Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+#EXTINF:-1 tvg-name="MMC TV USA (720p)" tvg-id="MMCTVUSA.us@SD" tvg-logo="https://i.imgur.com/0MwrSYE.png" group-title="国际-娱乐", MMC TV USA (720p)
+https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MyZen TV (1080p)" tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="国际-娱乐", MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-name="NACTV" tvg-id="NACTV.ca@SD" tvg-logo="https://i.imgur.com/FzM95rH.png" group-title="国际-娱乐", NACTV
+https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
+#EXTINF:-1 tvg-name="Nashua GTV Channel 16 Nashua NH (720p)" tvg-id="GovernmentTV16.us@SD" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="国际-娱乐", Nashua GTV Channel 16 Nashua NH (720p)
+https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Natick Government Channel (720p)" tvg-id="NatickGovernmentChannel.us@SD" tvg-logo="https://i.imgur.com/eA2WSXa.png" group-title="国际-娱乐", Natick Government Channel (720p)
+https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="NTA International (576p) [Not 24/7]" tvg-id="NTAInternational.ng@SD" tvg-logo="https://i.imgur.com/mN8j8CR.png" group-title="国际-娱乐", NTA International (576p) [Not 24/7]
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-name="Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)" tvg-id="KOCTChannel19.us@SD" tvg-logo="https://i.imgur.com/6C71KwP.png" group-title="国际-娱乐", Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)
+https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+#EXTINF:-1 tvg-name="Parliament TV (1080p)" tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="国际-娱乐", Parliament TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-name="PBS Kids Eastern/Central (720p)" tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="国际-娱乐", PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Game Shows" tvg-id="PlutoTVGameShows.us@SD" tvg-logo="https://i.imgur.com/JXZEg2e.png" group-title="国际-娱乐", Pluto TV Game Shows
+https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
+#EXTINF:-1 tvg-name="Pop (1080p)" tvg-id="Pop.uk@SD" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="国际-娱乐", Pop (1080p)
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 tvg-name="Qazaqstan International (1080p)" tvg-id="QazaqstanInternational.kz@SD" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="国际-娱乐", Qazaqstan International (1080p)
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Fx Net (720p)" tvg-id="RadioFxNet.ro@HD" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="国际-娱乐", Radio Fx Net (720p)
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1 tvg-name="ROCK Entertainment (720p)" tvg-id="ROCKEntertainment.sg@SD" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="国际-娱乐" http-referrer="maxstream.tv/tv-channels", ROCK Entertainment (720p)
+http://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
+#EXTINF:-1 tvg-name="Rocky Hill Government Access Channel 16 (480p)" tvg-id="RockyHillChannel16.us@SD" tvg-logo="https://i.imgur.com/2ZDcH2L.png" group-title="国际-娱乐", Rocky Hill Government Access Channel 16 (480p)
+https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
+#EXTINF:-1 tvg-name="RT Documentary English (1080p) [Geo-blocked]" tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="国际-娱乐", RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="Sansad TV 2" tvg-id="SansadTV2.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" group-title="国际-娱乐", Sansad TV 2
+https://cdn-2.pishow.tv/live/39/master.m3u8
+#EXTINF:-1 tvg-name="Santa Maria Community Television Government Channel (720p)" tvg-id="SMCTVChannel23.us@SD" tvg-logo="https://i.imgur.com/J2SKPoY.png" group-title="国际-娱乐", Santa Maria Community Television Government Channel (720p)
+https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="SFGovTV San Francisco The Government Channel (720p)" tvg-id="SFGovTV.us@SD" tvg-logo="https://i.imgur.com/uYXuwmV.png" group-title="国际-娱乐", SFGovTV San Francisco The Government Channel (720p)
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
+#EXTINF:-1 tvg-name="Superscreen TV (412p)" tvg-id="SuperscreenTV.ng@SD" tvg-logo="https://i.imgur.com/uTNmSWE.png" group-title="国际-娱乐", Superscreen TV (412p)
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-name="Talkin Live Classics TV (480p)" tvg-id="TalkinLiveClassicsTV.us@SD" tvg-logo="https://play-lh.googleusercontent.com/qt4POaxei89y6DP7sRJlRNv-yo4jlG3HuVO2Jb54Rf6T7aJ-j7RLG2z4aY9YrU5d0Q=w240-h480-rw" group-title="国际-娱乐", Talkin Live Classics TV (480p)
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-name="The Andy Griffith Show" tvg-id="TheAndyGriffithShow.us@SD" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="国际-娱乐", The Andy Griffith Show
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:-1 tvg-name="The Carol Burnett Show (1080p)" tvg-id="TheCarolBurnettShow.us@SD" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="国际-娱乐", The Carol Burnett Show (1080p)
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Chat Show Channel (1080p)" tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="国际-娱乐", The Chat Show Channel (1080p)
+https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="The Graham Norton Show (1080p)" tvg-id="TheGrahamNortonShow.uk@SD" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="国际-娱乐", The Graham Norton Show (1080p)
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Johnny Carson Show (720p)" tvg-id="JohnnyCarsonTV.us@SD" tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="国际-娱乐", The Johnny Carson Show (720p)
+https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
+#EXTINF:-1 tvg-name="The Parliamentary Channel (720p) [Not 24/7]" tvg-id="TheParliamentaryChannel.bs@SD" tvg-logo="https://i.imgur.com/ZQagV0x.png" group-title="国际-娱乐", The Parliamentary Channel (720p) [Not 24/7]
+https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
+#EXTINF:-1 tvg-name="Thornton Government Access Channel 17 (Thornton CO) (1080p)" tvg-id="Thornton8.us@SD" tvg-logo="https://i.imgur.com/C013OWn.png" group-title="国际-娱乐", Thornton Government Access Channel 17 (Thornton CO) (1080p)
+https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-name="TJC (1080p)" tvg-id="TJC.uk@SD" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="国际-娱乐", TJC (1080p)
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-name="Travel+Adventure (1080p)" tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="国际-娱乐", Travel+Adventure (1080p)
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+#EXTINF:-1 tvg-name="TV3 (540p)" tvg-id="TV3.gh@SD" tvg-logo="https://i.imgur.com/8t967Hq.png" group-title="国际-娱乐" http-referrer="https://liveghanatv.com/", TV3 (540p)
+https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Unidentified (1080p)" tvg-id="Unidentified.us@SD" tvg-logo="https://i.imgur.com/naYszow.jpg" group-title="国际-娱乐", Unidentified (1080p)
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="United TV (540p)" tvg-id="UnitedTV.gh@SD" tvg-logo="https://i.imgur.com/2isM8xd.png" group-title="国际-娱乐" http-referrer="https://liveghanatv.com/", United TV (540p)
+https://g2qd3exjy7an-hls-live.5centscdn.com/utvgha/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Waffi TV (240p)" tvg-id="WaffiTV.ng@SD" tvg-logo="https://i.imgur.com/3uEuzVH.jpeg" group-title="国际-娱乐", Waffi TV (240p)
+https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="WFTT-DT1" tvg-id="WFTTTV621.us@HD" tvg-logo="https://i.imgur.com/HFmkjiR.png" group-title="国际-娱乐", WFTT-DT1
+https://stream-tampa.scientology.org/master.m3u8
+#EXTINF:-1 tvg-name="ZenLIFE by Stingray" tvg-id="ZenLIFEbyStingray.ca@HD" tvg-logo="https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg" group-title="国际-娱乐", ZenLIFE by Stingray
+https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8
 #EXTINF:-1 tvg-name="[HD]30A Investment Pitch (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="国际-娱乐", [HD]30A Investment Pitch (720p)
 https://epg.pm/stream/7f044254927f45cc5cffae12c619a8eb62574ae1925c369598f54430cf09e564.m3u8
 #EXTINF:-1 tvg-name="[HD]30A The Beach Show (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="国际-娱乐", [HD]30A The Beach Show (720p)
@@ -215,22 +483,44 @@ https://epg.pm/stream/a31774c31d0104158d168ee61176a5e62af9e2785fc75fed0cde138794
 https://epg.pm/stream/718b8c05d60f9ac96d63bfab67d8475d77318d2b65064f97c0ce8311be7b56af.m3u8
 #EXTINF:-1 tvg-name="[VGA]5TV (Corrientes) (480p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174815022322_18.png" group-title="国际-娱乐", [VGA]5TV (Corrientes) (480p) [Not 24/7]
 https://epg.pm/stream/bec855491891c1600c67da0feec84de0c7d82a2ae1a8bb8701b97f33c86c2f4f.m3u8
-#EXTINF:-1 tvg-name="GOODTV" tvg-id="GOODTV" group-title="国际-娱乐", GOODTV
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-name="THAINGUYENTV" tvg-logo="https://epg.112114.xyz/logo/THAINGUYENTV.png" group-title="国际-娱乐", THAINGUYENTV
+https://liveh34.vtvprime.vn/hls/THAINGUYENTV/03.m3u8
+#EXTINF:-1 tvg-name="Canale 7" tvg-logo="https://i.imgur.com/9cuOLCn.png" group-title="国际-娱乐", Canale 7
+http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-name="Reggio Tv" tvg-logo="https://i.imgur.com/merrg2C.png" group-title="国际-娱乐", Reggio Tv
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rete Veneta" tvg-logo="https://i.imgur.com/cInhQFp.png" group-title="国际-娱乐", Rete Veneta
+http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1 tvg-name="Set Tv Cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="国际-娱乐", Set Tv Cilento
+https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1 tvg-name="Supertv" tvg-logo="https://i.imgur.com/7gUZcEh.png" group-title="国际-娱乐", Supertv
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-name="Tele Pavia" tvg-logo="https://i.imgur.com/YVodo4T.png" group-title="国际-娱乐", Tele Pavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 tvg-name="Tele Quattro Trieste" tvg-logo="https://i.imgur.com/MFxQxve.png" group-title="国际-娱乐", Tele Quattro Trieste
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleleonessa" tvg-logo="https://i.imgur.com/jq3etlV.png" group-title="国际-娱乐", Teleleonessa
+http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
+#EXTINF:-1 tvg-name="Tvrs Tv" tvg-logo="https://i.imgur.com/6p7hTmY.jpg" group-title="国际-娱乐", Tvrs Tv
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+#EXTINF:-1 tvg-name="HUNGYENTV" tvg-logo="https://epg.112114.xyz/logo/HUNGYENTV.png" group-title="国际-娱乐", HUNGYENTV
+https://liveh12.vtvprime.vn/hls/HUNGYENTV/03.m3u8
 #EXTINF:-1 tvg-name="GOODTV" tvg-id="GOODTV" group-title="国际-娱乐", GOODTV
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-娱乐", GOOD2
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-娱乐", GOOD2
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-娱乐" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", GOOD2
-http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="TED Talks" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/tedtalks.png" group-title="国际-娱乐", TED Talks
+http://tunein.streamguys1.com/TEDTalks
+#EXTINF:-1 tvg-name="Panda Show Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" group-title="国际-娱乐", Panda Show Radio
+https://tunein.streamguys1.com/pandashowradio
+#EXTINF:-1 tvg-name="Ai FM" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/aifm.png" group-title="国际-娱乐", Ai FM
+https://23693.live.streamtheworld.com/AI_FMAAC.aac
+#EXTINF:-1 tvg-name="Melody" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/melody.png" group-title="国际-娱乐", Melody
+https://astro3.rastream.com/melody
+#EXTINF:-1 tvg-name="VOA Global English" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="国际-娱乐", VOA Global English
+http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 #EXTINF:-1 tvg-name="DD Kisan" tvg-logo="https://epg.112114.xyz/logo/DD Kisan.png" group-title="国际-娱乐" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", DD Kisan
 https://cdn-6.pishow.tv/live/9/master.m3u8
 #EXTINF:-1 tvg-name="Chithiram" tvg-logo="https://epg.112114.xyz/logo/Chithiram.png" group-title="国际-娱乐" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", Chithiram
 https://cdn-6.pishow.tv/live/1243/master.m3u8
-#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://epg.112114.xyz/logo/Comedy Central.png" group-title="国际-娱乐" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-name="🔞 Penthouse" group-title="国际-娱乐", 🔞 Penthouse
 http://146.59.54.163/353/index.m3u8
 #EXTINF:-1 tvg-name="cento x cento" group-title="国际-娱乐", cento x cento
@@ -265,15 +555,3 @@ https://cdn.99998888.cc/event/9ead166e-ab40-390e-9359-fec0823bc6e5?prefix=https:
 https://cdn.99998888.cc/event/17038490-24ac-3ccc-a926-13fec0856c59?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Chequia v. Sudáfrica" group-title="国际-娱乐", Chequia v. Sudáfrica_2026-06-18 23:40:00_1781797200000
 https://cdn.99998888.cc/event/83c21fd6-4c18-3c73-9a0d-c08269d2541c?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="ET Mall 60" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/ET Mall 60.png" group-title="国际-娱乐", ET Mall 60
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 tvg-name="Genius Go Go Go" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/Genius Go Go Go.png" group-title="国际-娱乐", Genius Go Go Go
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-name="JP1" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/JP1.png" group-title="国际-娱乐", JP1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 tvg-name="KPop" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/KPop.png" group-title="国际-娱乐", KPop
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-name="NU" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/NU.png" group-title="国际-娱乐", NU
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 tvg-name="NU2" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/NU2.png" group-title="国际-娱乐", NU2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8

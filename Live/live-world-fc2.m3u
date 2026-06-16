@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="https://epg.pw/media/images/channel/2024/10/18/large/20241018015520001285_15.png" group-title="国际-FC2" tvg-country="Malaysia" tvg-language="English", [HD]Astro Badminton 2 *tv
-https://stream1.freetv.fun/5de6f5959c51613983a566f7215c076239b9f2df509caec8f3fc22cbb9aef1fb.ctv
 #EXTINF:-1 tvg-name="DuckDucks" tvg-logo="https://huyaimg.msstatic.com/avatar/1099/31/e71f37214b5eddb134b5ba7fc21346_180_135.jpg?1721374924" group-title="国际-FC2", DuckDucks
 https://live.ottiptv.cc/huya/29982670
 #EXTINF:-1 tvg-name="SKI TV (1080p) [Not 24/7]" tvg-id="SKITV.ch@SD" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="国际-FC2", SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 tvg-name="Channel 200 (540p)" tvg-id="Channel200.nz@SD" tvg-logo="https://i.imgur.com/gAebu4q.png" group-title="国际-FC2", Channel 200 (540p)
+https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-name="Freebie TV (720p) [Not 24/7]" tvg-id="FreebieTV.us@SD" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="国际-FC2", Freebie TV (720p) [Not 24/7]
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+#EXTINF:-1 tvg-name="Kordia TV (1080p)" tvg-id="KordiaTV.nz@SD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="国际-FC2", Kordia TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-name="PixL TV" tvg-id="PixLTV.us@SD" tvg-logo="https://i.imgur.com/ysRh3Nl.png" group-title="国际-FC2", PixL TV
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-name="[SD]ZDF" tvg-id="5680" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173803574550_82.png" group-title="国际-FC2", [SD]ZDF
 https://epg.pm/stream/586310ca1bf5544f45246b1e1d673d85f4dfc2679f383604b3cce18d973af8dd.m3u8
 #EXTINF:-1 tvg-name="[BD]MBC 3 USA (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174712187028_74.png" group-title="国际-FC2", [BD]MBC 3 USA (1080p)
@@ -51,10 +57,16 @@ https://epg.pm/stream/0a14849a1db837fbe029b2078bc3fc40c6dd01109f272cfb6a66fef8c0
 https://epg.pm/stream/84bc25fa264fb240b89a5e8540c2de88afc2b09692d5402f38c41e9ae43a7c6a.m3u8
 #EXTINF:-1 tvg-name="[HD]DA NANG 1" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/21/large/20151121162549183169_32.jpg" group-title="国际-FC2", [HD]DA NANG 1
 https://epg.pm/stream/d3492a2a6fc2e0bf91a412582512765d1d6f0dfe61705c8f369d6929332c27ff.m3u8
+#EXTINF:-1 tvg-name="[HD]DA NANG 1" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/21/large/20151121162549183169_32.jpg" group-title="国际-FC2", [HD]DA NANG 1
+https://epg.pm/stream/9054755fde3d1a5e10601f848da8126bed7a939c88fd90759564964dd36c897d.m3u8
 #EXTINF:-1 tvg-name="[BD]RAN1" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/12/02/large/20151202094740625920_81.jpg" group-title="国际-FC2", [BD]RAN1
 https://epg.pm/stream/d2b1c227ce0666069873dc7edcae65dc79628a1bc6af003ef0bfc2f3a93fad6b.m3u8
 #EXTINF:-1 tvg-name="[HD]TOKYO MX2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="国际-FC2", [HD]TOKYO MX2
 https://epg.pm/stream/5862e7532141b137fbb897044f0d02641704a7b47abfe9d24d238dffc207dfe8.m3u8
+#EXTINF:-1 tvg-name="[HD]Tokyo MX 2" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/12/12/large/20211212021031598077_51.png" group-title="国际-FC2", [HD]Tokyo MX 2
+https://epg.pm/stream/531c37b29c8c7153062c0cb7ded25d4d3738e5147c062682cd335d35d618b70f.m3u8
+#EXTINF:-1 tvg-name="[HD]Tokyo MX2" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/12/12/large/20211212021031598077_51.png" group-title="国际-FC2", [HD]Tokyo MX2
+https://epg.pm/stream/8706d61c7266890e0e4fb4d392fb43c5d5d5cccd0923b0990c146b02ce0bb6e9.m3u8
 #EXTINF:-1 tvg-name="[BD]BesTV@@10" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509003758988110_54.png" group-title="国际-FC2", [BD]BesTV@@10
 https://epg.pm/stream/2c766e5027f674b3f402c5ca2e9e994d88885fc2c0d82a83b2210bd41c0cd683.m3u8
 #EXTINF:-1 tvg-name="[BD]Telenord 8 (1080p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/11/13/large/20211113231317866233_71.png" group-title="国际-FC2", [BD]Telenord 8 (1080p) [Not 24/7]
@@ -65,8 +77,6 @@ https://epg.pm/stream/f29576a74074fb89b1a17a300c402fa6f877b7d66003f9c84fc2c54d45
 https://epg.pm/stream/03f8fd0c4d0578ae119ac767a03d9db5cfe7fc22c18403c3cff00d67e4e9049c.m3u8
 #EXTINF:-1 tvg-name="[HD]NBS한국농업방송" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/25/20170325214012527241_92.jpg" group-title="国际-FC2", [HD]NBS한국농업방송
 https://epg.pm/stream/62a20411105a750bd27f8286634afc2caeeb28db5f993b166df2c7fe7d94c51a.m3u8
-#EXTINF:-1 tvg-name="[VGA]EBS 2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163811067957_34.png" group-title="国际-FC2", [VGA]EBS 2
-https://epg.pm/stream/5912bfc25b976cd2b1488fc49330b1a03d3f9009513d9da0542b13615be48537.m3u8
 #EXTINF:-1 tvg-name="[SD]CJB SBS" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/27/large/20220527020413827819_81.png" group-title="国际-FC2", [SD]CJB SBS
 https://epg.pm/stream/a059671290832dc0f6a114b2864f49d85206d0fb52e003fc21abb2f57435a701.php
 #EXTINF:-1 tvg-name="[HD]Boston 25 News (WFXT)" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/11/13/large/20211113231452667453_27.png" group-title="国际-FC2", [HD]Boston 25 News (WFXT)
@@ -173,3 +183,5 @@ https://vip1.slbfsl.com/20220818/1PfbFWpI/index.m3u8
 https://aosikazy12.com/20221002/sFXVhLWH/index.m3u8
 #EXTINF:-1 tvg-name="FC2PPV-1273728" group-title="国际-FC2", FC2PPV-1273728
 https://aosikazy12.com/20221002/Iicmd4ok/index.m3u8
+#EXTINF:-1 tvg-name="【Shroud】" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/a2/e5b5c4950aa46774b8b3f04644fc24_180_135.jpg?1659535201" group-title="国际-FC2", 【Shroud】
+http://107.173.156.246:81/live/huya/593575

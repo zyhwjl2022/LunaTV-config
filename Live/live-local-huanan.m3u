@@ -1,44 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="地方-华南", 广东民生
-http://183.11.239.36:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://live.fanmingming.cn/tv/广东民生.png" group-title="地方-华南", 广东民生
-http://119.32.12.17:2901/udp/224.1.100.4:11111
-#EXTINF:-1 tvg-name="吉林卫视高清" tvg-id="78" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiLin.png" group-title="地方-华南" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226161/10000100000000060000000001233339_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="78" zz-definition="HD", 吉林卫视
-rtp://239.3.1.240:8172
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-id="78" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="地方-华南", TRACE Urban
-https://ha.msbot.dpdns.org/4gtv_api.php?id=78
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方-华南", 广东民生
-http://120.234.187.66:10086/rtp/239.10.0.123:1025
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方-华南", 广东民生
-http://120.234.187.66:10086/rtp/239.11.0.80:1025
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方-华南", 广东民生
-http://120.234.187.66:10086/rtp/239.20.0.113:2024
-#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方-华南", 广东民生
-http://120.234.187.66:10086/rtp/239.21.0.86:3684
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://tb.zbds.top/logo/广西国际.png" group-title="地方-华南", 广西国际
-https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
-http://198.204.228.26/live/gxgj.m3u8
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
-http://107.150.60.122/live/gxgj.m3u8
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
-http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
-http://192.151.150.154/live/gxgj.m3u8
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="http://10.1.0.25:5180/logo/广西国际.png" group-title="地方-华南", 广西国际
-http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
-#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="http://10.1.0.25:5180/logo/广西国际.png" group-title="地方-华南", 广西国际
-https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-#EXTINF:-1 tvg-name="广西桂林漓江景区" tvg-id="广西桂林漓江景区" tvg-logo="https://tb.zbds.top/logo/广西桂林漓江景区.png" group-title="地方-华南", 广西桂林漓江景区
-https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
-#EXTINF:-1 tvg-name="广西玉林大容山莲花山顶" tvg-id="广西玉林大容山莲花山顶" tvg-logo="https://tb.zbds.top/logo/广西玉林大容山莲花山顶.png" group-title="地方-华南", 广西玉林大容山莲花山顶
-https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
 https://hk.188766.xyz/?migutoken=34467290b64f0850801479159893a4de&id=gd_gdzj&type=sz
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="广东珠江.png" group-title="地方-华南", 广东珠江
+http://111.29.9.33:6610/200000001898/460000089800010091/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="http://49.233.180.193:5678/data/icon/广东珠江.png" group-title="地方-华南", 广东珠江
+http://115.190.124.74/php/gddx.php?id=广东珠江&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="http://49.233.180.193:5678/data/icon/广东珠江.png" group-title="地方-华南", 广东珠江
+http://115.190.124.74/php/vip.php?id=19&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东珠江.png" group-title="地方-华南" response-time="116ms", 广东珠江
+http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png" group-title="地方-华南", 广东珠江
+https://rust.946985.filegear-sg.me/proxy/b6b1a192d11ff13f?token=tgJerryfeng
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://183.62.8.58:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://219.144.190.2:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-华南", 广东珠江
+http://183.237.246.14:9952/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="http://10.1.0.25:5180/logo/广东珠江.png" group-title="地方-华南", 广东珠江
 http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="http://10.1.0.25:5180/logo/广东珠江.png" group-title="地方-华南", 广东珠江
@@ -55,18 +41,16 @@ https://stream1.freetv.fun/yan-dong-xin-wen-27.ctv
 https://stream1.freetv.fun/yan-dong-xin-wen-20.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="地方-华南", 广东新闻
 http://119.32.12.17:2901/udp/224.1.100.5:11111
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="http://49.233.180.193:5678/data/icon/广东新闻.png" group-title="地方-华南", 广东新闻
+http://115.190.124.74/php/gddx.php?id=广东新闻&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东新闻.png" group-title="地方-华南" response-time="116ms", 广东新闻
+http://120.198.95.220:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
 http://183.62.8.58:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
 http://120.238.84.45:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://120.234.187.66:10086/rtp/239.10.0.122:1025
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://120.234.187.66:10086/rtp/239.10.0.199:1025
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://120.234.187.66:10086/rtp/239.20.0.112:2022
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方-华南", 广东新闻
-http://120.234.187.66:10086/rtp/239.21.0.93:3712
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-华南", 广东新闻
+http://183.237.246.14:9952/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
 http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
@@ -77,6 +61,10 @@ https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-华南", 广东民生
 https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://live.fanmingming.cn/tv/广东民生.png" group-title="地方-华南", 广东民生
+http://119.32.12.17:2901/udp/224.1.100.4:11111
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="http://49.233.180.193:5678/data/icon/广东民生.png" group-title="地方-华南", 广东民生
+http://115.190.124.74/php/gddx.php?id=广东民生&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="http://10.1.0.25:5180/logo/广东民生.png" group-title="地方-华南", 广东民生
 https://stream1.freetv.fun/yan-dong-min-sheng-21.ctv
 #EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="http://10.1.0.25:5180/logo/广东民生.png" group-title="地方-华南", 广东民生
@@ -93,8 +81,26 @@ http://198.204.228.26/live/gxxw.m3u8
 http://192.151.150.154/live/gxxw.m3u8
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
 https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西新闻.png" group-title="地方-华南" response-time="55ms", 广西新闻
+http://36.136.38.87:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-华南", 广西新闻
+http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="http://10.1.0.25:5180/logo/广西新闻.png" group-title="地方-华南", 广西新闻
 https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
+http://198.204.228.26/live/gxgj.m3u8
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
+http://107.150.60.122/live/gxgj.m3u8
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
+http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
+http://192.151.150.154/live/gxgj.m3u8
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-华南", 广西国际
+https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="http://10.1.0.25:5180/logo/广西国际.png" group-title="地方-华南", 广西国际
+http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
+#EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="http://10.1.0.25:5180/logo/广西国际.png" group-title="地方-华南", 广西国际
+https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 #EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
 https://migu.188766.xyz/?migutoken=2795391bf2380a7870585be391603d6a&id=hn_jjpd&type=sz
 #EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
@@ -105,8 +111,16 @@ https://migu.188766.xyz/?migutoken=660a5548e95409c119145c54d487e47e&id=hn_jjpd&t
 https://migu.188766.xyz/?migutoken=315ad4939096a91be5ce3462b2080323&id=hn_jjpd&type=sz
 #EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南自贸.png" group-title="地方-华南", 海南自贸
 https://migu.188766.xyz/?migutoken=4d8834d7ea1adc0f097aa6a031305918&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="海南自贸.png" group-title="地方-华南", 海南自贸
+http://111.29.9.33:6610/000000001000/4600001000000000116/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hainan/Hainan6.png" group-title="地方-华南", 海南自贸
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 #EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南自贸.png" group-title="地方-华南", 海南自贸
 http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="地方-华南", 海南自贸
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="海南自贸" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="地方-华南", 海南自贸
+https://tv1288.xyz/hainantv.php?proxy=1&id=jjpd
 #EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
 https://migu.188766.xyz/?migutoken=c9c9f8b653c1e1e8219e116f7e481879&id=hn_wlpd&type=sz
 #EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
@@ -117,8 +131,16 @@ https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
 https://migu.188766.xyz/?migutoken=dac1d4aae188058344c7dd4b136f975d&id=hn_wlpd&type=sz
 #EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南文旅.png" group-title="地方-华南", 海南文旅
 https://migu.188766.xyz/?migutoken=a5b4cdf3f9c93a7335e55a109404af67&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="海南文旅.png" group-title="地方-华南", 海南文旅
+http://111.29.9.33:6610/000000001000/4600001000000000113/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://live.fanmingming.cn/tv/海南文旅.png" group-title="地方-华南", 海南文旅
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 #EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南文旅.png" group-title="地方-华南", 海南文旅
 http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="地方-华南", 海南文旅
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="地方-华南", 海南文旅
+https://tv1288.xyz/hainantv.php?proxy=1&id=wlpd
 #EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
 https://migu.188766.xyz/?migutoken=9b74a05ac3e7b51beecb305c9c7c22b4&id=hn_ggpd&type=sz
 #EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
@@ -129,26 +151,108 @@ https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
 https://migu.188766.xyz/?migutoken=a7038ebf14621b3c5b7d47281fa0ab4c&id=hn_ggpd&type=sz
 #EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南公共.png" group-title="地方-华南", 海南公共
 https://migu.188766.xyz/?migutoken=3a138924186d190af58e01219616242b&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="海南公共.png" group-title="地方-华南", 海南公共
+http://111.29.9.33:6610/000000001000/460000100000000057/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://live.fanmingming.cn/tv/海南公共.png" group-title="地方-华南", 海南公共
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 #EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南公共.png" group-title="地方-华南", 海南公共
 http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="地方-华南", 海南公共
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
+#EXTINF:-1 tvg-name="海南公共" tvg-id="海南公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="地方-华南", 海南公共
+https://tv1288.xyz/hainantv.php?proxy=1&id=ggpd
+#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="地方-华南", 广东民生
+http://183.11.239.36:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视高清" tvg-id="78" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiLin.png" group-title="地方-华南" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226161/10000100000000060000000001233339_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="78" zz-definition="HD", 吉林卫视
+rtp://239.3.1.240:8172
+#EXTINF:-1 tvg-name="TRACE Urban" tvg-id="78" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="地方-华南", TRACE Urban
+https://ha.msbot.dpdns.org/4gtv_api.php?id=78
+#EXTINF:-1 tvg-name="广西桂林漓江景区" tvg-id="广西桂林漓江景区" tvg-logo="https://tb.zbds.top/logo/广西桂林漓江景区.png" group-title="地方-华南", 广西桂林漓江景区
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 tvg-name="广西玉林大容山莲花山顶" tvg-id="广西玉林大容山莲花山顶" tvg-logo="https://tb.zbds.top/logo/广西玉林大容山莲花山顶.png" group-title="地方-华南", 广西玉林大容山莲花山顶
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 tvg-name="新海南" tvg-id="新海南" tvg-logo="新海南.png" group-title="地方-华南", 新海南
+http://111.29.9.33:6610/200000001898/460000089800010090/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="珠江台" tvg-id="珠江台" group-title="地方-华南", 珠江台
+https://smt.goiptv.us.ci/zhujiang/playlist.m3u8
+#EXTINF:-1 tvg-name="珠江台" tvg-id="珠江台" group-title="地方-华南", 珠江台
+https://smart.dxjc.pp.ua/smart.php?id=zhujiang&token=tmxk
 #EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="地方-华南", 广东公共
 http://218.13.14.6:60050/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东公共.png" group-title="地方-华南" response-time="56ms", 广东公共
+http://120.198.95.220:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东公共.png" group-title="地方-华南" response-time="80ms", 广东公共
+http://49.234.31.101:7033/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="地方-华南", 广东公共
+http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="地方-华南", 广东公共
+http://183.237.246.14:9952/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="地方-华南", 广东影视
 http://119.32.12.17:2901/udp/224.1.100.11:11111
 #EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="地方-华南", 广东影视
 https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方-华南", 广东影视
-http://120.234.187.66:10086/rtp/239.10.0.127:1025
-#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方-华南", 广东影视
-http://120.234.187.66:10086/rtp/239.11.0.79:1025
-#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方-华南", 广东影视
-http://120.234.187.66:10086/rtp/239.20.0.117:2032
-#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方-华南", 广东影视
-http://120.234.187.66:10086/rtp/239.21.0.85:3680
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="http://49.233.180.193:5678/data/icon/广东影视.png" group-title="地方-华南", 广东影视
+http://115.190.124.74/php/gddx.php?id=广东影视&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="地方-华南", 广东影视
+http://183.237.246.14:9952/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.cn/tv/广东经济科教.png" group-title="地方-华南", 广东经济科教
 http://119.32.12.17:2901/udp/224.1.100.6:11111
-#EXTINF:-1 tvg-name="珠江台" tvg-id="珠江台" group-title="地方-华南", 珠江台
-https://smart.dxjc.pp.ua/smart.php?id=zhujiang&token=tmxk
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.cn/tv/广东经济科教.png" group-title="地方-华南", 广东经济科教
+http://113.117.74.17:8081/hls/66/index.m3u8
+#EXTINF:-1 tvg-name="广东4k" group-title="地方-华南", 广东4k
+http://113.117.74.17:8081/hls/145/index.m3u8
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="http://49.233.180.193:5678/data/icon/广东经济科教.png" group-title="地方-华南", 经济科教
+http://115.190.124.74/php/gddx.php?id=经济科教&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/经济科教.png" group-title="地方-华南" response-time="47ms", 经济科教
+http://120.198.95.220:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/经济科教.png" group-title="地方-华南" response-time="63ms", 经济科教
+http://120.198.95.220:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="海南新闻频道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 海南新闻频道
+http://115.190.124.74/php/hainan.php?id=xwpd&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="海南文旅频道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 海南文旅频道
+http://115.190.124.74/php/hainan.php?id=wlpd&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="海南自贸频道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 海南自贸频道
+http://115.190.124.74/php/hainan.php?id=jjpd&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="海南公共频道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 海南公共频道
+http://115.190.124.74/php/hainan.php?id=ggpd&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="海南少儿频道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 海南少儿频道
+http://115.190.124.74/php/hainan.php?id=sepd&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="广东广州塔与海心桥" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 广东广州塔与海心桥
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 tvg-name="广东珠海港珠澳大桥风帆塔" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 广东珠海港珠澳大桥风帆塔
+https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 tvg-name="广东珠海大剧院" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 广东珠海大剧院
+https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 tvg-name="广东汕头小公园中山纪念亭" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 广东汕头小公园中山纪念亭
+https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+#EXTINF:-1 tvg-name="广东阳江海陵岛十里银滩" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 广东阳江海陵岛十里银滩
+https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
+#EXTINF:-1 tvg-name="广东韶关车八岭国家级自然保护区" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 广东韶关车八岭国家级自然保护区
+https://gcalic.v.myalicdn.com/gc/ztx_1/index.m3u8
+#EXTINF:-1 tvg-name="广西柳州三江布央茶园" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="地方-华南", 广西柳州三江布央茶园
+https://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西影视.png" group-title="地方-华南" response-time="55ms", 广西影视
+http://36.136.38.87:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西影视.png" group-title="地方-华南", 广西影视
+http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="广西综艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西综艺.png" group-title="地方-华南" response-time="53ms", 广西综艺
+http://36.136.38.87:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西都市.png" group-title="地方-华南" response-time="51ms", 广西都市
+http://36.136.38.87:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西都市.png" group-title="地方-华南", 广西都市
+http://111.59.63.32:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="广西综艺旅游" group-title="地方-华南", 广西综艺旅游
+http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="广东-车八岭国家级自然保护区" group-title="地方-华南", 广东-车八岭国家级自然保护区
+http://gcbsc.v.live.baishancdnx.cn/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 tvg-name="广东-广州塔与海心桥视角" group-title="地方-华南", 广东-广州塔与海心桥视角
+http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
+#EXTINF:-1 tvg-name="广东-梅州梅江" group-title="地方-华南", 广东-梅州梅江
+http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 tvg-name="广东-汕头市小公园" group-title="地方-华南", 广东-汕头市小公园
+http://gcksc.v.kcdnvip.com/gc/bsszjs_1/index.m3u8
+#EXTINF:-1 tvg-name="广东潮州综合" group-title="地方-华南", 广东潮州综合
+http://dslive.grtn.cn/czzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="[SD]广西国际 测试" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/27/large/20220527160856596479_90.jpg" group-title="地方-华南", [SD]广西国际 测试
 https://epg.pm/stream/44be6ac40d891b684c318bf629a682a8982d7f4072573909e2dcfe55d8a43637.m3u8
 #EXTINF:-1 tvg-name="[BD]广东新闻" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/16/large/20220516230748167686_60.jpg" group-title="地方-华南", [BD]广东新闻
@@ -191,29 +295,41 @@ https://epg.pm/stream/ed69976aec1fdb25035673fb75e4cfc268c34219c15cff5bde639bbdae
 https://epg.pm/stream/af9da2aec2c28db6a44df2714b1b7e827cab2ca1185a6fffcc517a9f5140764c.m3u8
 #EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
 https://epg.pm/stream/05b610699ef4acb57eea51432dcc22291e46e91d4f92af4e6ce6170b4c48c33c.m3u8
-#EXTINF:-1 tvg-name="[HD]广西新闻 高清测试" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/07/large/20211007153113076586_45.png" group-title="地方-华南", [HD]广西新闻 高清测试
-https://epg.pm/stream/15741cd0b80c5b0dce64c2dc9ad8185bf7c9c4f595bf987d1b0e360ed532c263.m3u8
 #EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
 https://epg.pm/stream/40c2b023d625de7c823762e7ca7dec64b9a21dee8e8d2486d38be33dbee7f5e1.m3u8
 #EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
 https://epg.pm/stream/ad276d3465003696e7dfcee108621185e63b9a759e4b52c460931617c1dcf473.m3u8
 #EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
 https://epg.pm/stream/be8991066c6d9a11b7251032af7fff6ffd8391fb9ce2b9f282cf3dd5b6402797.m3u8
+#EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
+https://epg.pm/stream/4b3398c70efd13d0418542fe560ad68fe0d696f5c7ec5f71919e3db0fae9fcc3.m3u8
+#EXTINF:-1 tvg-name="[HD]广西新闻 高清测试" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/07/large/20211007153113076586_45.png" group-title="地方-华南", [HD]广西新闻 高清测试
+https://epg.pm/stream/15741cd0b80c5b0dce64c2dc9ad8185bf7c9c4f595bf987d1b0e360ed532c263.m3u8
 #EXTINF:-1 tvg-name="[SD]广西乐思购 测试" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033215986042_92.jpg" group-title="地方-华南", [SD]广西乐思购 测试
 https://epg.pm/stream/6d629c7db4d4896b398a9e1954c5cdb40411629a49c15f5220d086e5b9dc65d1.m3u8
 #EXTINF:-1 tvg-name="[HD]广东文化@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化@@1
 https://epg.pm/stream/5938e9337f59c2e05bd83ed13649857127ab5373933caf01da7e1d657df092e7.m3u8
-#EXTINF:-1 tvg-name="[HD]广东文化" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/11/large/20211011234914609953_27.png" group-title="地方-华南", [HD]广东文化
-https://epg.pm/stream/4b3398c70efd13d0418542fe560ad68fe0d696f5c7ec5f71919e3db0fae9fcc3.m3u8
 #EXTINF:-1 tvg-name="中国|珠江台" tvg-id="珠江" tvg-logo="https://epg.112114.xyz/logo/珠江.png" group-title="地方-华南", 中国|珠江台
 https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+#EXTINF:-1 tvg-name="广东珠江720p" group-title="地方-华南", 广东珠江720p
+https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8
+#EXTINF:-1 tvg-name="广东珠江1080p" group-title="地方-华南", 广东珠江1080p
+http://183.236.43.98:4013/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-name="广东珠江1080p" group-title="地方-华南", 广东珠江1080p
+http://183.236.43.98:4013/udp/239.77.0.114:5146
+#EXTINF:-1 tvg-name="广东新闻720p" group-title="地方-华南", 广东新闻720p
+http://74.91.26.218:82/live/gdxw.m3u8
+#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://epg.112114.xyz/logo/广东4K超高清.png" group-title="地方-华南", 广东4K超高清
+http://183.237.240.235:808/hls/66/index.m3u8
+#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://epg.112114.xyz/logo/广东4K超高清.png" group-title="地方-华南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 广东4K超高清
+http://192.151.150.154/live/gdtvs3.m3u8
 #EXTINF:-1 tvg-name="广东77" tvg-id="广东77" group-title="地方-华南", 广东77
 http://kbpull.kktv8.com/livekktv/160602265/playlist.m3u8
-#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.cn/tv/广东公共.png" group-title="地方-华南", 广东公共
-http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东珠江高清" group-title="地方-华南", 广东珠江高清
 http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东公共高清" group-title="地方-华南", 广东公共高清
 http://120.238.84.45:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://epg.112114.xyz/logo/广东4K超高清.png" group-title="地方-华南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 广东4K超高清
-http://192.151.150.154/live/gdtvs3.m3u8
+#EXTINF:-1 tvg-name="起风小果【广东粤语】" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/93/7f4ffecb33d852673e4c3d803c73fd_180_135.jpg?1674195442" group-title="地方-华南", 起风小果【广东粤语】
+http://107.173.156.246:81/live/huya/282746
+#EXTINF:-1 tvg-name="广西棋王陈建昌" tvg-logo="https://huyaimg.msstatic.com/avatar/1005/2a/6671d1ce15a4db2965e729077ac1cb_180_135.jpg?1597762004" group-title="地方-华南", 广西棋王陈建昌
+http://107.173.156.246:81/live/huya/21359045

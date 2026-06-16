@@ -1,44 +1,158 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视-少儿纪录", CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
-http://t.061899.xyz/tl/tl.php?id=cgtnjl
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://live.lizanyang.top/tv/CGTN纪录.png" group-title="央视-少儿纪录", CGTN记录
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227367/index.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
-http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
-http://115.190.105.236:1234/609006487
-#EXTINF:-1 tvg-name="CCTV-17农业" group-title="央视-少儿纪录", CCTV-17农业
-http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CGTN外语纪录" tvg-id="CGTN外语纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/356/202502251602_1740470541608_H32_1080.webp" group-title="央视-少儿纪录" http-user-agent="MGPlayer4Android/v9.49.0.3.28", CGTN外语纪录
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=CGTN外语纪录
-#EXTINF:-1 tvg-name="CGTN 英文纪录高清" tvg-id="344" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Doc.png" group-title="央视-少儿纪录" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226153/10000100000000060000000001154845_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="344" zz-definition="HD" zz-raw-name="CGTN英文纪录", CGTN纪录
-rtp://239.3.1.216:4220
-#EXTINF:-1 tvg-name="一字千金-FastTV飛速看" tvg-id="344" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live202.png" group-title="央视-少儿纪录", 一字千金-FastTV飛速看
-https://ha.msbot.dpdns.org/4gtv_api.php?id=344
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7国防军事
+http://207.56.13.146:81/cdnlive/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录" http-user-agent="AptvPlayer-UA", CCTV7
+http://101.35.240.114:88/live.php?id=CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7国防军事
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="282" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://124.116.183.146:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://117.114.153.26:8182/hls/TV00000000000000000141@HHZT.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV-7" tvg-logo="CCTV7.png" group-title="央视-少儿纪录", CCTV-7
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227648/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="CCTV7.png" group-title="央视-少儿纪录", CCTV-7
+http://39.137.75.234:80/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="CCTV7.png" group-title="央视-少儿纪录", CCTV-7
+http://111.29.9.33:6610/200000001898/460000089800010215/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="CCTV7-white.png" group-title="央视-少儿纪录", CCTV-7
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="20" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://123.129.70.178:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7 国防军事
+http://218.13.14.6:60050/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://39.135.135.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7 国防军事
+http://148.135.93.213:81/live.php?id=CCTV7
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="CCTV-7国防军事" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7 国防军事
+https://smt.goiptv.us.ci/cctv7/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视-少儿纪录", CCTV-7 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视-少儿纪录", CCTV-7 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视-少儿纪录", CCTV-7
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225778/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://148.135.93.213/live.php?id=CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://175.8.28.207:9999/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://t.061899.xyz/tl/tl.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000485
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="CCTV7国防军事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视-少儿纪录", CCTV7国防军事
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083622&pid=2028597139&timestamp=20260616190653&Channel_ID=0116_2600037000-99000-200300220109922&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=122.143.77.215&SecurityKey=20260616190653&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.6.0.4-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=20b5adc534bfdd84453563cfe02d3550
+#EXTINF:-1 tvg-name="CCTV-7高清" tvg-id="7" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-7.png" group-title="央视-少儿纪录" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226031/10000100000000060000000000285833_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="7" zz-definition="HD", CCTV-7 国防军事
+rtp://239.3.1.61:8104
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7 国防军事
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV 7
+http://gslbserv.itv.cmvideo.cn/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV 7 50 FPS
+http://gslbserv.itv.cmvideo.cn/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV 7 HEVC
+http://gslbserv.itv.cmvideo.cn/1000000005000265007/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://115.190.124.74/php/cgq.php?id=cctv7&line=2&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://115.190.124.74/php/cmcc.php?id=cctv7&/PLTV/&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://115.190.124.74/php/as.php?/PLTV/&id=10240248&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CCTV7HD" group-title="央视-少儿纪录", CCTV7HD
+http://ak.cj022.com:10080/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://43.251.226.89:8080/play/8.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://tvbox6.icu/tv/migu.php?id=cctv7$LR•IPV4『线路146』
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7国防军事
+http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7-军农" group-title="央视-少儿纪录", CCTV7-军农
+http://116.77.33.98:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.lizanyang.top/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227474/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://180.165.21.206:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7-军事农业" group-title="央视-少儿纪录", CCTV7-军事农业
+http://180.165.26.49:6000/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-7高清.png" group-title="央视-少儿纪录", CCTV-7高清
+rtsp://10.11.43.21/PLTV/88888912/224/3221226452/10000100000000060000000000870192_0.smil
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+rtsp://10.11.43.21/PLTV/88888912/224/3221226659/426211992.smil
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="29ms", CCTV7
+http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="32ms", CCTV7
+http://125.43.244.40:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="37ms", CCTV7
+http://125.42.150.173:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="39ms", CCTV7
+http://123.129.70.178:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="41ms", CCTV7
+http://182.114.48.213:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="47ms", CCTV7
+http://221.13.234.195:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="50ms", CCTV7
+http://221.13.235.158:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="53ms", CCTV7
+http://121.19.134.160:808/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="63ms", CCTV7
+http://1.197.250.199:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7高清" tvg-id="CCTV7" tvg-logo="https://gitee.com/Mr_Dai-Project/js-unicom-iptv/raw/master/src/main/resources/epg/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=Y4s6oy416xp21V4rdElRUFGvNQvNVdRdD1J3M7ujASSLBfNpANHSHuQ8TAm8ic2U&p=GITV&area=JS_CUCC
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="CCTV7国防军事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视-少儿纪录" http-user-agent="MGPlayer4Android/v9.49.0.3.28", CCTV7国防军事
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=CCTV7国防军事
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://221.226.51.220:50081/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://101.66.199.215:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://120.70.60.179:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://113.241.133.180:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://125.125.134.245:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://101.66.199.121:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://222.214.208.34:59901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://120.198.95.220:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://120.202.94.181:9446/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://1.24.39.180:808/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://123.55.3.70:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="CCTV-7国防军事" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7 国防军事
 https://smart.dxjc.pp.ua/smart.php?id=cctv7&token=tmxk
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-id="CCTV-10科教" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视-少儿纪录", CCTV-10 科教
-https://smart.dxjc.pp.ua/smart.php?id=cctv10hd&token=tmxk
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-id="CCTV-14少儿" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视-少儿纪录", CCTV-14 少儿
-https://smart.dxjc.pp.ua/smart.php?id=cctv14&token=tmxk
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-id="CCTV-17农业农村" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视-少儿纪录", CCTV-17 农业农村
-https://smart.dxjc.pp.ua/smart.php?id=cctv17&token=tmxk
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="D10" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="央视-少儿纪录", CGTN纪录
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-#EXTINF:-1 tvg-name="[SD]CGTN Documentary" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="央视-少儿纪录", [SD]CGTN Documentary
-https://epg.pm/stream/2bfc905f45dc1e0e30b8cc52d27685af8bea8dd2497bfcf7f540ae0dbed2db60.m3u8
-#EXTINF:-1 tvg-name="[SD]CGTN Documentary" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="央视-少儿纪录", [SD]CGTN Documentary
-https://epg.pm/stream/783b24269139b91ad293acbde7bf5a93769f6fa0e613cf9e86e2c78c8bd66ae8.m3u8
-#EXTINF:-1 tvg-name="[SD]CGTN Documentary (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="央视-少儿纪录", [SD]CGTN Documentary (576p)
-https://epg.pm/stream/395df8172af3c711799f7a5e2d6cbc31d54e320a3e559105f8c579e714cbf5c6.m3u8
-#EXTINF:-1 tvg-name="[SD]CGTN DOCUMENTARY" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="央视-少儿纪录", [SD]CGTN DOCUMENTARY
-https://epg.pm/stream/fa65e4e43414c22375bfcb479861ee4b845427c8dba617f7dd372549510ee753.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://39.135.138.58:18890/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视-少儿纪录", CCTV-7HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
+#EXTINF:-1 tvg-name="CCTV-7军事农业" group-title="央视-少儿纪录", CCTV-7军事农业
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7
+#EXTINF:-1 tvg-name="CCTV-7高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-7高清.png" group-title="央视-少儿纪录", CCTV-7高清
+http://121.230.171.192:8000/rtp/239.49.8.132:6000
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://121.230.171.192:8000/rtp/239.49.1.254:6000
+#EXTINF:-1 tvg-name="CCTV-7蓝光1" group-title="央视-少儿纪录", CCTV-7蓝光1
+http://111.12.102.68:6610/PLTV/77777777/224/3221225627/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV-7蓝光2" group-title="央视-少儿纪录", CCTV-7蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225700/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="A08" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="央视-少儿纪录", CCTV-7
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw3984282630_1427246842/ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8?icpid=3&RTS=1668594483&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="[BD]CCTV-7国防军事" tvg-id="2597" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/aa94410a57e8f6fa4ef251433671491f.jpg" group-title="央视-少儿纪录", [BD]CCTV-7国防军事
 https://epg.pm/stream/3092be2baa5c434576ad5e1877c3be88a51a433919197d4c2763fca27a947aef.m3u8
 #EXTINF:-1 tvg-name="[BD]CCTV-7国防军事" tvg-id="2597" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/aa94410a57e8f6fa4ef251433671491f.jpg" group-title="央视-少儿纪录", [BD]CCTV-7国防军事
@@ -281,255 +395,829 @@ https://epg.pm/stream/d40cf13e2fba7b5de90007e265f170f291daec13218343c878450044d0
 https://epg.pm/stream/05305e90d4fe242f691747defbc12d350b17d7a35bc4c0a61210cffe1b94181c.m3u8
 #EXTINF:-1 tvg-name="[VGA]CCTV-7国防军事" tvg-id="2597" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/aa94410a57e8f6fa4ef251433671491f.jpg" group-title="央视-少儿纪录", [VGA]CCTV-7国防军事
 https://epg.pm/stream/c650dab6f357234e448844a7594f483712d8e5d3120b80de81de9a0a5027504e.php
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教 (1080p)" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教 (1080p)
-https://epg.pm/stream/f52d583f01ddf96f86af47685d159773d6312853f7febcd20f9cf73f8d2a7c43.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@10
-https://epg.pm/stream/933bfd522b87a2484c0e437fe405460627a15ee3a3881b57ffb1f6b57025f8da.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@153" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@153
-https://epg.pm/stream/a53406da299229a6da25dc0b4e9048a2ce516e6c45d9de62885bdc1e731619ca.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/cafd7fbfef4d6bd0628add1f9d17535bbe94ee1b5e12887af095f163de7c488d.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/3dc0629aa6acbcc5db2b08ea89d3106747f4c08556e2908855b4769d9f7169a7.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/5ef04b5fdab4e1f529658a4a79750279f0a83cfac45d068be8023f8138a17200.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@57" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@57
-https://epg.pm/stream/fa6de42e531881ae52f8e7449011841da9018f4cd16f7a056fda56ea34a13b5c.m3u8
-#EXTINF:-1 tvg-name="[HD]CCTV10@@21" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [HD]CCTV10@@21
-https://epg.pm/stream/55995e01143b06c9940cb67d97c5b95ea937aa54f53a752994cd351951060a6f.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@157" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@157
-https://epg.pm/stream/df4f88c911ca4b9d6342e9d07000feead9f80d9975b297a885f66a7df4289a29.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@41" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@41
-https://epg.pm/stream/c3a61764e8f92559b1ecf3f10afacb059db17f503cda754d5eabf6f9a0cbe593.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@6" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@6
-https://epg.pm/stream/e22a519eb5a7534ebdb324c90103495c9df2817b61b055b871173e20b66eb370.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/78224dd233bee8adfed6496458bae893fe859c4cdb99c63f3edc8ea4059eb595.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@10
-https://epg.pm/stream/f97acc7a1734ee4b780f4cd9182499005250499dffa34d69ea8c5aace720c3d9.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/4e73288f69175b67474fb1d7854a8802b8703eb8671a4a5582f694eaddea96de.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@3" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@3
-https://epg.pm/stream/4a77eabe67fc8690b887caf485c5bdfdd0737b34a3aec3bc267488790e032c0b.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/657bcb9f707e1ef017d4e05247a81b87b25d9eadcd711654745dcefe87c8ff2c.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/d463475531a142558a86508f1521139d4ee88706b1083ec5bdc6ca6e117a94b4.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@42" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@42
-https://epg.pm/stream/480020aaeb9d4132437509db6e8a32fc0b2990f90e71168461a43a37175344e4.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@145" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@145
-https://epg.pm/stream/5d29f9b5ef5f1a6ac2d4ba816e9f3101d64f130bcb4ae63df7d0773b46bec81a.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@70" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@70
-https://epg.pm/stream/f1c2f0362f153a850a32e85160d2df72442d0643534c4fde2084e359eff3a0a9.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/45f780c62a9b5746640f087b59ce2cf2e835b0247e393819abc8f23d5fde0747.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/97b94464951c349646b1c66144e92fd539059afd4f7e00583f67b89b8d19df01.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@104" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@104
-https://epg.pm/stream/358a85929a33db03f883ae627db5996261acea4dbcb4371d641d039870fe5ad4.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD
-https://epg.pm/stream/34fc3757dfd35391aab9cd62a08f6c0df47423aa4c4dd46c9fcf5f5d7472ca9b.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@93" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@93
-https://epg.pm/stream/5db3232643e988034ecc22be0db9a7ce4a84221341affcf7d50d4b7158968a82.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/2f06a9dad4571b81d7d048d1164afaa39b0b680112e4c182c7846ccc231e220d.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/94dccded59b681463370e7ee548db7602e9ecd30596ce1928f4d9738fea76858.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/5803ad7ef7c1d6517aef42d7bc13d65f7fd13ae55d551e65769af6bbd0c11db1.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10 4M1080" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10 4M1080
-https://epg.pm/stream/d10720b9a740cf445c200b0654e712bafe85b365d549ff909063c8de359c346f.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@100" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@100
-https://epg.pm/stream/2951d0a3f9a79645e0562492b413aada7907bbb312f0919b86f140c1d7b43be9.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/ff63a3132861b76499e7858cf7a1bf300d5dfb2f243c24f923429eda3b29aff9.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/8ac214b6446554a5f156b3f46ffc3c53ad5913f06c10fd209535a0b786539e3a.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/1db56e122e0f4a93f0802910d0b5e88c2fb3d1443debcd13b3fc9dbb51ffb73e.m3u8
-#EXTINF:-1 tvg-name="[HD]CCTV10@@43" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [HD]CCTV10@@43
-https://epg.pm/stream/14effa1234197dcea90eb93b584700672369e38b02b340bdee599aec113c5a42.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/05a1e4c41b8c55d9c125a5bf13b14888b13dac7bbc3dd67f8fba95308ff603cf.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@24" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@24
-https://epg.pm/stream/e2bd6f358e7541ea25d978b3fdcd73321a1c9a66a6bf3069739dd1c9b149c671.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/b8bed0a6f89d0314ed77e084dbadfa2e736e5539560296e1198e9bb022f14587.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/a337f395f4364b3273b372e0f25438f9662ede71ba668c9c68523c9a85236ce2.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@16" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@16
-https://epg.pm/stream/131b5c51cd3c5b00fb9fec9b1c410e18bc8664f9e02242e0984e61102ed7dbbf.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/c790d4e88c5e9d7ad407d74571d0b173f639c626cc1a058e99b7ebf18bbdcc40.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@7" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@7
-https://epg.pm/stream/1a73e1dbc0726abc0b803d4f8c69f604f033639b043aea0d9122a044d0d0fc45.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@152" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@152
-https://epg.pm/stream/b0bd40cc125420e311a1a8ee23b803b07d0db95dfdd16ec2d2fdb712c8d485c3.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/e34c2ebbc62a15d9967a48207ef444013f3bc0c61e9e67e14b84dd642e6b350d.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@88" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@88
-https://epg.pm/stream/93bb9d6efbdac2b5366614629e6995d2eb33179adbe8b4bbd327246b0a9b65d7.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@65" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@65
-https://epg.pm/stream/a71710703559a30f464bdcbe86300a01d59553c765e17bf6141dd75c2ef1e337.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/1b53136257502c44147bdd5a8cb3f38612f56a1a47e324798caf02396aad666b.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@62" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@62
-https://epg.pm/stream/d5b76e5a0ca3eb9f03f41c0dd619f97cbf757a6835966c366187ecdbeff4c5b0.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@38" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@38
-https://epg.pm/stream/d304a2af866b8f7827ecc7fb62419ac9c2c3dd69259462a2c52a106edb61d388.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@18" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@18
-https://epg.pm/stream/36b870ca866c0aed9e2bd1feb431188e94c2a67576dc63aba387135eaebf486a.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@124" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@124
-https://epg.pm/stream/cd258a9c5c65713ee2d91c4cd630aa462646e4791669e0f6da8f64866748141e.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@129" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@129
-https://epg.pm/stream/e9862c829372998d636e2177ddf4d2e0689be6805c64113bf1703fafbf1eb8cf.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@114" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@114
-https://epg.pm/stream/73a3dae50a62635b1526150d8b9762874fa74e52f5f0ded15aea8e6d989634d4.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@77" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@77
-https://epg.pm/stream/f36d21a9e5d7b4b1c8330aaa991e97280b2aac47518ae3be1e1059c2ce9ba46c.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@1" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@1
-https://epg.pm/stream/e93d68e7b80cf2b98d0a65581ab9222da7d19c4335df8290b2b1c83955cc36b7.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/3595b8daf7289768f16087fa6ecb9402b0e3e1e05940b26ed3ea273e6fe9d5bc.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@4" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@4
-https://epg.pm/stream/cd4639bc376b81d6b4c0fd9d5ab474b1794c58427bf6c0a112d9ba856af1f3e0.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/e7e17e4f06ee5f65e922a3a494c4d2c4f4d6746a85674ed5c1bc8f35821111b6.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/ee6d7262154b82f1a1839e81f4d909a888a5e177da6ae08653a5d6e6f901feb5.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@2" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@2
-https://epg.pm/stream/975d4a24425192a23ac2913907ed80b51245a549ee85b3af660c3b1fe9cbf453.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10 4M1080" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10 4M1080
-https://epg.pm/stream/8bed453b8f646f012c914f6d78632dcbfc999ef0d6df38e0e60cc64b20860491.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@78" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@78
-https://epg.pm/stream/03f5ae2bfe863de3b4dc1ea873f9acb24f380807e26abfd23097f69e2cad475e.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@26" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@26
-https://epg.pm/stream/fdc8eef8e748a94051c2e6781f55722e1f59fc9d876bc9b18c8e4b184cadafd6.m3u8
-#EXTINF:-1 tvg-name="[SD]CCTV-10 SD" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [SD]CCTV-10 SD
-https://epg.pm/stream/0ec05612c56b7f4e1cf89799dd0aadf57e3cd18ff65e44c9bd0c909475099b33.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@101" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@101
-https://epg.pm/stream/27667f3f774e50b1b31ae8ce5f9eac02da3cf5143dc2b404b30888df44f1f6cd.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@107" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@107
-https://epg.pm/stream/5c91ec88989533edd27b72d8ca847eeeba34f15c59a68935bf3ee360147b0f82.m3u8
-#EXTINF:-1 tvg-name="[SD]CCTV-10 SD" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [SD]CCTV-10 SD
-https://epg.pm/stream/642fe7088ad29ab3be7982af73adb623df2cb03ef87acfa5090cba7539ff0c36.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@82" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@82
-https://epg.pm/stream/8b2e5798a8ce49386e8aded6336230d864802bcd079491626f630e610a7a1f6c.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@115" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@115
-https://epg.pm/stream/28cd5e09cfa8bc03e23a4d2d44bf9f0a7bf439def1d00d0ec3fcf399723c4618.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@140" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@140
-https://epg.pm/stream/8ec64b675649bf2a6d0ebee295ca01f7aedf088358d1d4f6fb2ccc5d9233e096.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/f33b40b33fcb5fc71ed5e57153d86845a1a54f5fbd586c3871e91b69bf45566a.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教@@3" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教@@3
-https://epg.pm/stream/b4d379632b78dd51f7b46af893f00b5b62b885c2d28a618ed099531f42c3f31a.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教@@4" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教@@4
-https://epg.pm/stream/9c997f826d85f76e8d27254afd2c56327183ed1df8e4506d68bff76d316a7f84.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@17" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@17
-https://epg.pm/stream/773f71f36951ee569bf4f7ba215c536d22d0cf130b2bebdeafb7852aeb894c4b.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@54" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@54
-https://epg.pm/stream/94d6177ea7f5430e0668351b468114821206fdcd9ad33d251e4f5aa3f623a428.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10 3M1080" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10 3M1080
-https://epg.pm/stream/58f7230cf848c7777b50a753116ec7640a1ed92998d2c69c22ad62e5f23fd000.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@160" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@160
-https://epg.pm/stream/935f777a7a2a693007d8c37d3d106cf3cf4851e1bda1dcc55ca537123fed4762.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD@@8" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD@@8
-https://epg.pm/stream/f3f7c5ee645c0b7f4b35e86cf60ce4532d8d225208f7b0127eaa982ad14e2332.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10科教@@2" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10科教@@2
-https://epg.pm/stream/66f1d790944787b5f97d636ad8d8d7b6289f00f5df25e84aacf59ebfed9bb8ee.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@87" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@87
-https://epg.pm/stream/d1d17ee3dd077606f8f4f9dd1339d4e006e757f5460f5982818dd7977dd92242.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD
-https://epg.pm/stream/fa7c3a948c34c3fe0199f0d2b0626c127ed0928bd77ab3bec7a1c07150ecd087.m3u8
-#EXTINF:-1 tvg-name="[SD]CCTV10 576" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [SD]CCTV10 576
-https://epg.pm/stream/07b7a05dccd1141afa66e249391cf41235d77439c0ec7f616d2c2fb3a96d74c3.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@83" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@83
-https://epg.pm/stream/d9ad2d88f2ec1bab3acaf8ae2d46b23c168534de71056289984ccd1c0b0b96c0.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/c0d2a82765d3b00eb30665dc21dd9a865a13a77789c7b090bc8ca69075e90ed5.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@10
-https://epg.pm/stream/5c0f38347aa7892ff43ac4bcb1dd9e38db464ff83b8e736fb74b09dcc1630e3d.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@131" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@131
-https://epg.pm/stream/0bb643c218886ccaa5f547805d8b236264e98caa101078a021bb212755d2dbfd.m3u8
-#EXTINF:-1 tvg-name="[SD]CCTV10@@2" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [SD]CCTV10@@2
-https://epg.pm/stream/ca7359c4073a59e86d3b855fff835b904e852b4aed5a0bd32f0225fae9bc0f7c.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD@@10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD@@10
-https://epg.pm/stream/4295953e146443b5cdf1ee7cd6e7a4a8f034e721ef3ddca54d4f1eb1d6def621.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@1" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@1
-https://epg.pm/stream/b0c71dd1a257006ae8fe0c0f7a9143d5affee8f05370039521e74fabedf233e3.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD@@6" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD@@6
-https://epg.pm/stream/42000d7267cb9f4cb89e9d82c25afef221abca4568e743e97095d7b3bf3f7713.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@5" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@5
-https://epg.pm/stream/fce786f8df2ee82c96199e7876b89177c677289a2c745b6f6386be01f4daa1c7.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@61" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@61
-https://epg.pm/stream/2882116c0f2137dff6d6a8bd242168765fbf5437a351b1efa5004cba0a9a88e3.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@92" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@92
-https://epg.pm/stream/a81058781857f9ea28f62c4c491f50f7faaf3888c62e0b7dc5ac42efad47d20d.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/615f420428aa3ee8912c3cafafc8b1a2db769aa91ae54ff445aa0b9eb48f5dc9.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@110" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@110
-https://epg.pm/stream/6137a242d6413d943eb32a0784c7fdb0c4661819e6a69e01e45f98b8eef14c43.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD@@3" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD@@3
-https://epg.pm/stream/522cbc2d50d73e3bb476d7680544980a361e8fe6416bb1d5ed929c3b5fb17cdd.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@91" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@91
-https://epg.pm/stream/6a7956b66a56309582881cd9ebc3651eee4261a09751fde70b6f32be72e45ab7.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD@@2" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD@@2
-https://epg.pm/stream/2d21935b260e781e2f034558392423906f8a4c8753fab125c3536fcbb26570b4.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/d5bb1fb4ee2bbee38f66a33f36ca4603ea276e096a5813e1e2ce2dfdb2635b70.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/3bd83fe443260ba43189a83ef153f3f2a5c9d10bce1e404cef7c508a37370c2c.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@47" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@47
-https://epg.pm/stream/d4f12b8d232682443fb9b47e56b83b2ece4e97f14df21eadc0ffd562ef0132e9.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/c08c6545c4ddfcff16ba7c013586646ad3bfc26b2002757347b248e61444e84d.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@4" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@4
-https://epg.pm/stream/53a512bb52a2b4f69159617f32e98149abc08ef258fe512dc4ef6350387d7231.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/4842fb5b12e81907bc5dc9c9d258f7a2271ba2220e5862696f1339f57ee946f2.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@122" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@122
-https://epg.pm/stream/e4c187a7fefff7b9fc4325cc06e56942eb2dbf8efef7ce0a9649f8e22e765331.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@8" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@8
-https://epg.pm/stream/c54a06ebcba106a1ea2c4c16661a71469bc3161092befb01d1689e537018e790.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD@@11" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD@@11
-https://epg.pm/stream/abb20dbceee1b5d9d489872205682d906857320931e954a83c8a4b3aa2d4338e.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10 8M1080" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10 8M1080
-https://epg.pm/stream/393e614c21e8868bd9b08f659e5a29460bbd813c9afdd4da5b8a21a35a3a4c7d.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/8971f66c0f7bc6f7a4556a8d516e334b27c859d287e9ae4bebb6d965209c546a.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD
-https://epg.pm/stream/b73a734c53953bfad65a789677aaab15e48517c3a9328ee7fe208551d3ba8d0b.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@63" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@63
-https://epg.pm/stream/ed1f30814273d6ef01d2d5e83729109ea7630f1122124460867ac9b04649e80f.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD@@1" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD@@1
-https://epg.pm/stream/2201720c26ae8176d798d57024e44d21e8f2ecb4d854397c691eb1f0905f9ace.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@114" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@114
-https://epg.pm/stream/1a1f069274432d633a5db9beacbb0baffdfd580ca1b218830245aadaf9bd4b06.m3u8
-#EXTINF:-1 tvg-name="[HD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [HD]CCTV-10科教
-https://epg.pm/stream/98b6a63a8f5921b6d57ac1144ec5c9c245a9537a68c11acd327cc4906b9b51c2.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/f08499b4690e1faffbfb561f38e64a3d53036958c04639642ad4fc035f7896a6.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@82" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@82
-https://epg.pm/stream/5a6a6a345e93cec67b20fe3618877ee366afef0213c52014bc79fd8d81e2bda3.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@1" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@1
-https://epg.pm/stream/10e2860bfcc099d240f4ba792040fce8088a19c29efe68a944d63af4f6be464e.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10
-https://epg.pm/stream/05ef57ae9b372d15385e8c5589738e71c015e3a2103c7a78c2666b0c42f99a67.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10科教
-https://epg.pm/stream/7edbbe82bf2efda0c3c981e0f720be83bd639f83d13c025ae06f5938efda515c.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@55" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@55
-https://epg.pm/stream/a57df3a4835663d1358a2911d142a4cbead1a5dbdfa85f8b240b1d0dc480594c.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10HD@@7" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10HD@@7
-https://epg.pm/stream/0b4fa2c12500dde2d09f3680573b43d61052900c119207903e5613ed5a6b44a5.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@72" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@72
-https://epg.pm/stream/c53bb427d9421f4f867b5920f49eed04da9ea2ce00fc300be9f784ebc67dd32d.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV10@@95" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@95
-https://epg.pm/stream/663b2298b44439a1886b9ff96619e901d5b8d393e3e9b88d470a45684dd417b9.m3u8codeyj
-#EXTINF:-1 tvg-name="[BD]CCTV10@@102" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10@@102
-https://epg.pm/stream/41b50a432feaf6ebc3a028366278fecdd709d30bdec940cfe1fa4b3548424795.m3u8codeyj
-#EXTINF:-1 tvg-name="[BD]CCTV10 8M1080" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV10 8M1080
-https://epg.pm/stream/351c3eaec9426b9c7f65526ec5d734d5b6e13e22f290ec8cb1fadd0800837cc1.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV-10科教" tvg-id="2600" tvg-logo="https://files.3y1.xyz/media/img/logo/cctv10.png" group-title="央视-少儿纪录", [BD]CCTV-10科教
-https://epg.pm/stream/a46908fb9af688432fb1eafde7c7b7d3fdf1631d9419b0db66cc8d9231ee4f0c.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://39.135.32.28:6610/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="CCTV7国防军事" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/622/202204010054_1626680072401_H169_1080.jpg" group-title="央视-少儿纪录", CCTV7国防军事
+http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="中国|CCTV-7 军事农业" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录", 中国|CCTV-7 军事农业
+https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7 军事
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://1.202.10.117:8888/udp/225.1.8.7:8104
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://183.222.15.202:4321/rtp/239.11.0.110:5140
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://223.86.170.98:4500/rtp/239.11.0.110:5140
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://183.129.255.66:8480/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7国防军事高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-7国防军事高清.png" group-title="央视-少儿纪录", CCTV-7国防军事高清
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+#EXTINF:-1 tvg-name="CCTV-7HD" tvg-id="8" tvg-logo="https://epg.112114.xyz/logo/CCTV-7HD.png" group-title="央视-少儿纪录", CCTV-7HD
+http://107.150.60.122/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=yu&mode=1&%244M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=yu&mode=1&%248M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1&%246M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=yu&mode=1&%245M
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7 国防军事.png" group-title="央视-少儿纪录", CCTV-7 国防军事
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://43.251.226.110:8880/play/100.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://115.190.105.236:1234/673168121
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=yu&mode=1&$6M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=yu&mode=1&$5M
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://111.29.9.40:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+https://rust.946985.filegear-sg.me/proxy/a7776f944138e45d?token=tgJerryfeng
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/cctv7.png" group-title="央视-少儿纪录", CCTV-7 国防军事
+https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7国防军事.png" group-title="央视-少儿纪录", CCTV7国防军事
+http://43.251.226.89:8080/play/8.m3u8$LR•12•IPV4『线路1』
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7国防军事.png" group-title="央视-少儿纪录", CCTV7国防军事
+http://tvbox6.icu/tv/migu.php?id=cctv7$LR•12•IPV4『线路2』
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7国防军事.png" group-title="央视-少儿纪录", CCTV7国防军事
+http://124.116.183.146:9901/tsfile/live/0007_1.m3u8$LR•12•IPV4『线路3』
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7国防军事.png" group-title="央视-少儿纪录", CCTV7国防军事
+http://123.129.70.178:9901/tsfile/live/0007_1.m3u8$LR•12•IPV4『线路4』
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7国防军事.png" group-title="央视-少儿纪录", CCTV7国防军事
+http://123.130.84.106:8154/tsfile/live/0007_1.m3u8$LR•12•IPV4『线路5』
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7国防军事.png" group-title="央视-少儿纪录", CCTV7国防军事
+http://112.27.235.94:8000/hls/8/index.m3u8$LR•12•IPV4『线路6』
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="7" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7国防军事.png" group-title="央视-少儿纪录", CCTV7国防军事
+http://183.223.157.33:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$LR•12•IPV4『线路7』
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-id="12" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7国防军事.png" group-title="央视-少儿纪录", CCTV7国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8$LR•12•IPV4『线路12』
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://183.62.8.58:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://59.175.155.147:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://180.165.12.42:50001/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://61.178.227.57:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://36.158.75.239:8088/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://36.158.75.249:8088/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://180.118.187.199:60001/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://120.202.73.48:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://59.173.121.226:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://60.187.244.229:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://60.187.244.229:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://113.241.135.29:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://113.241.135.29:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://182.140.125.47:808/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://171.43.64.216:9901/tsfile/live/faacts/0007_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://171.88.121.45:9901/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://118.193.115.2:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://219.144.190.2:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://221.232.199.106:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://219.140.6.199:7777/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://221.232.196.229:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://221.232.196.76:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://221.232.197.108:7777/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://58.48.105.144:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://59.173.121.1:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://221.232.197.198:7777/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV7
+http://124.223.82.228:89/673168121
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV7
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-7
+http://192.151.150.154/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-7国防军事" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7国防军事.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-7国防军事
+http://173.208.212.130:8181/1080p/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV-7国防军事" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7国防军事.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-7国防军事
+http://173.208.212.130:8181/720p/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV-7国防军事" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7国防军事.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-7国防军事
+http://204.12.221.218:8181/3m1080p/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV7 8M" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7 8M
+https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV7
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227429/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视-少儿纪录", CCTV7
+http://47.119.24.76:59093/673168121
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视-少儿纪录", CCTV-7国防军事
+http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV-7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视-少儿纪录", CCTV-7
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV-7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="120ms", CCTV-7
+http://222.223.41.27:8888/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="120ms", CCTV7
+http://39.165.39.49:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="120ms", CCTV7
+http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="120ms", CCTV7
+http://60.10.139.113:8801/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视-少儿纪录" response-time="120ms", CCTV7
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://125.42.151.43:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://123.55.3.233:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://101.66.199.249:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://182.207.218.33:999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://125.43.249.150:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://122.224.58.42:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-7H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="http://10.1.0.25:5180/logo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="http://10.1.0.25:5180/logo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-id="CCTV-7" tvg-logo="http://10.1.0.25:5180/logo/CCTV-7.png" group-title="央视-少儿纪录", CCTV-7
+https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="cctv7" tvg-logo="cctv7.png" group-title="央视-少儿纪录", CCTV-7 国防军事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="cctv7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/cctv7.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", cctv7
+rtmp://39.108.129.193:1935/cv7/n6v4_cv7
+#EXTINF:-1 tvg-name="CCTV-7高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-7高清.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-7高清
+http://120.76.248.139/live/bfgd/4200000127.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV7
+http://153.0.171.163:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9纪录
+http://207.56.13.146:81/cdnlive/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9 纪录
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=75f3d6d1bf0dd531418498582467cac9
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录" http-user-agent="AptvPlayer-UA", CCTV9
+http://101.35.240.114:88/live.php?id=CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9纪录
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://117.114.153.26:8182/hls/TV00000000000000000142@HHZT.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="CCTV9.png" group-title="央视-少儿纪录", CCTV-9
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227565/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="CCTV9.png" group-title="央视-少儿纪录", CCTV-9
+http://120.196.232.124:8088/000000001001PLTV/651/224/3221227570/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="CCTV9.png" group-title="央视-少儿纪录", CCTV-9
+http://39.137.75.234:80/000000001000/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=no
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="CCTV9.png" group-title="央视-少儿纪录", CCTV-9
+http://111.29.9.33:6610/200000001898/460000089800010052/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="CCTV9-white.png" group-title="央视-少儿纪录", CCTV-9
+http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="24" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://123.129.70.178:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9 纪录
+http://218.13.14.6:60050/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://39.135.135.38/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9 纪录
+http://148.135.93.213:81/live.php?id=CCTV9
+#EXTINF:-1 tvg-name="CCTV-9 记录" tvg-id="CCTV-9记录" group-title="央视-少儿纪录", CCTV-9 记录
+https://smt.goiptv.us.ci/cctv9hd/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视-少儿纪录", CCTV-9 HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视-少儿纪录", CCTV-9
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://148.135.93.213/live.php?id=CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://175.8.28.207:9999/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://t.061899.xyz/tl/tl.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV-9 (576i)" tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="央视-少儿纪录", CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000478
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="CCTV9纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202603081600_1772956792519_H32_1080.webp" group-title="央视-少儿纪录", CCTV9纪录
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5501083624&pid=2028597139&timestamp=20260616190526&Channel_ID=0116_2600037000-99000-200300220109919&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=122.143.77.59&SecurityKey=20260616190526&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.6.0.4-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d846e39c0f468b7fed2b062303f7a66b
+#EXTINF:-1 tvg-name="CCTV-9高清" tvg-id="9" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-9.png" group-title="央视-少儿纪录" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226038/10000100000000060000000000285834_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="9" zz-definition="HD", CCTV-9 纪录
+rtp://239.3.1.62:8112
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9 纪录
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV 9
+http://gslbserv.itv.cmvideo.cn/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV 9 50 FPS
+http://gslbserv.itv.cmvideo.cn/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV 9 HEVC
+http://gslbserv.itv.cmvideo.cn/1000000005000265009/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://115.190.124.74/php/cgq.php?id=cctv9&line=2&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://115.190.124.74/php/cmcc.php?id=cctv9&/PLTV/&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://115.190.124.74/php/as.php?/PLTV/&id=10240250&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CCTV9HD" group-title="央视-少儿纪录", CCTV9HD
+http://ak.cj022.com:10080/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://tvbox6.icu/tv/migu.php?id=cctv9$LR•IPV4『线路138』
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9纪录
+http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9-纪录" group-title="央视-少儿纪录", CCTV9-纪录
+http://116.77.33.98:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.lizanyang.top/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227476/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://180.165.21.206:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9-记录" group-title="央视-少儿纪录", CCTV9-记录
+http://180.165.26.49:6000/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-9高清.png" group-title="央视-少儿纪录", CCTV-9高清
+rtsp://10.11.43.21/PLTV/88888912/224/3221226443/10000100000000060000000000870186_0.smil
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+rtsp://10.11.43.21/PLTV/88888912/224/3221226673/426211988.smil
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="19ms", CCTV9
+http://121.19.134.119:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="24ms", CCTV9
+http://123.129.70.178:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="26ms", CCTV9
+http://221.13.235.158:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="27ms", CCTV9
+http://121.19.134.160:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="29ms", CCTV9
+http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="37ms", CCTV9
+http://125.42.150.173:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="42ms", CCTV9
+http://182.114.48.213:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="45ms", CCTV9
+http://221.13.234.195:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="56ms", CCTV9
+http://61.136.172.236:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9测试" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9测试.png" group-title="央视-少儿纪录" response-time="59ms", CCTV9测试
+http://120.198.95.220:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV9" tvg-logo="https://gitee.com/Mr_Dai-Project/js-unicom-iptv/raw/master/src/main/resources/epg/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=Y4s6oy416xp21V4rdElRUAr%2BPxUFG8GNw0h%2FaMtidBiLBfNpANHSHuQ8TAm8ic2U&p=GITV&area=JS_CUCC
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="CCTV9纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202603081600_1772956792519_H32_1080.webp" group-title="央视-少儿纪录" http-user-agent="MGPlayer4Android/v9.49.0.3.28", CCTV9纪录
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=CCTV9纪录
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://221.226.51.220:50081/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://101.66.199.121:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://101.66.199.215:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://120.70.60.179:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://222.214.208.34:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://113.241.133.180:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://125.125.134.245:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://222.169.85.8:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://120.202.94.181:9446/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://120.198.95.220:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://125.43.249.130:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9 记录" tvg-id="CCTV-9记录" group-title="央视-少儿纪录", CCTV-9 记录
+https://smart.dxjc.pp.ua/smart.php?id=cctv9hd&token=tmxk
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视-少儿纪录", CCTV-9HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
+#EXTINF:-1 tvg-name="CCTV-9 记录" tvg-id="CCTV-9记录" group-title="央视-少儿纪录", CCTV-9记录
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9
+#EXTINF:-1 tvg-name="CCTV-9高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-9高清.png" group-title="央视-少儿纪录", CCTV-9高清
+http://121.230.171.192:8000/rtp/239.49.8.133:6000
+#EXTINF:-1 tvg-name="CCTV-9蓝光1" group-title="央视-少儿纪录", CCTV-9蓝光1
+http://111.12.102.68:6610/PLTV/77777777/224/3221225633/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV-9蓝光2" group-title="央视-少儿纪录", CCTV-9蓝光2
+http://111.12.102.68:6610/PLTV/77777777/224/3221225663/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="A10" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="央视-少儿纪录", CCTV-9
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw4254168827_1850088835/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?icpid=3&RTS=1668594753&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-name="[SD]CCTV-9 SD" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [SD]CCTV-9 SD
+https://epg.pm/stream/45aefa90be88a06efa6a2d077e16452dd4eb4701c502c5716f541bf50859f132.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/cb4a658f4c93d27d83ad745617e5bb6b7acb09dfc0cdddc9551bfbf38e1d5420.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9HD@@5" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9HD@@5
+https://epg.pm/stream/0feb1a602f21ddf695fcc1328ce7e90100f3755ec9f93b97bf867011cd8bde04.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/cc5325683522fe9f0da35bb4d39262572cae3b8f39863fa25d23b9bcc41d64e4.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@21" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@21
+https://epg.pm/stream/58d19df93292b7b1a3f4631461727d86a20433f87ab06304eb73a00dbf18693e.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@57" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@57
+https://epg.pm/stream/0a5bf8a29a87e839b21c9bc311c5220a9b55cd8131a4337e77a6ee6ac001454f.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9 4M1080" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9 4M1080
+https://epg.pm/stream/a2e1d285ccb2f57c48ac1751cd11f587d35337b029efbaeca57f126b33b41aa8.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9纪录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9纪录
+https://epg.pm/stream/062766a2ccb96bdd83076401d5d8dec306c035ffa2400b2b6ea1e4b524762ef0.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@6" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@6
+https://epg.pm/stream/cf62a34d3b0dd5253ac856f2aafc7c7b4d8ab0e57a01ee9db98e4e1651f829aa.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@22" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@22
+https://epg.pm/stream/43837d289210a7d4ec7e344a0d0566e1b30782fac42ba788aa22a9f298b5ec09.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/58d8f75747a1d4f2bece7afdcf0c52af633e685e439d75d50106b4fe4a4bddeb.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9 7M1080" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9 7M1080
+https://epg.pm/stream/c4638f5e74d7fb61da558938670824fbaf730e43b3b0720d9b5ee502bf0531a4.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@62" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@62
+https://epg.pm/stream/1eb41e011f3e523f3e1934d3525ebb4ccd6eec6c84494f1018dac72cf98e1ec5.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9纪录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9纪录
+https://epg.pm/stream/9f1389f373222a244fcd2584d9d0accbcb1c1f9c9b9e869ddb92ede7987a14b6.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9HD@@2" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9HD@@2
+https://epg.pm/stream/1533f72f8bc1fa97a28e3d442130f6a0e57ada6f9ca13cc420e2f67bc430117d.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/38f0d0c38b3c23005584583445e6768f2395652ccc49014f19fbd443d22e6de5.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@74" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@74
+https://epg.pm/stream/455a18994d281251ee0107ac59086e906ad169c7aca12e9e1eefc8f8896e70e3.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9纪录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9纪录
+https://epg.pm/stream/748f9813c4a073994f9870bfa81a8de98c7bb212295ba1398927d37e78bcfd58.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/f885756b661167528d2d058b423fa41f155d88212ec02aaa28ea316537c12f67.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9 8M1080" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9 8M1080
+https://epg.pm/stream/81ebe413fd3342cdf83dafd9827aedaeb01552f2a8215e808c6230392b2e2910.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9
+https://epg.pm/stream/2b7fa75ce367ba5f9abe26450a558a6563c9db2c6056c7a604c46b4805e1b0d8.m3u8
+#EXTINF:-1 tvg-name="[SD]CCTV-9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [SD]CCTV-9
+https://epg.pm/stream/1efa6c335183c9b18baedb5171720786f7cd9ed51ec41eae3535ad409314094b.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@63" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@63
+https://epg.pm/stream/97716070d5135beea740b6740cfa4c641ed717fa3fd40716b4a67c109e65cf2b.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@57" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@57
+https://epg.pm/stream/c162a7c45d55f92231a3670e2b5cdba256efb848a027db5f566dc8eb381d9ab3.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/443f39ae07c66713572d48ebdd251726301c0e8074bb60170d344b0b83d0a75c.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@71" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@71
+https://epg.pm/stream/d2f38878a793dc82024ced1f27cf311ae1ec950f2929b36094e762e34d18b192.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@117" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@117
+https://epg.pm/stream/989c144ee78db92304a33cea68e4811500b0fb9635ddfa0081fd72ebcbc7f599.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9纪录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9纪录
+https://epg.pm/stream/f56b0f2246e4f819d2c7b2399ddf6b33c168e0136ca4fc8f663ca6f35f11839f.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9纪录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9纪录
+https://epg.pm/stream/4b2c8ba707c57810c557545ec4ed69868e3aab1e904025516f2c59df01b10dc3.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@1" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@1
+https://epg.pm/stream/1a42ee9768b92feda341d9375347a0a4051ab1a339b3d06505c747b248de4f4c.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@80" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@80
+https://epg.pm/stream/ff9a7ed2eda11c9d3285b7747e7fb07969faae8608c56fd076d4a3f3e208c9e8.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9纪录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9纪录
+https://epg.pm/stream/7df717c11efd0a55d2a3331a5fa67f60caa99efd2fe30c0505a54d537f802973.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/798e6ccbfaa70a8c6ce63f8e6a1278d6ade443ca689d6fbe372dd82a5637efa5.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@1" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@1
+https://epg.pm/stream/1ad4c3299a928e16c2b35d1d7a98d93ded3ceb1995524539aafe232e54c2c703.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/8890058a249f5fa6f7df92ff597cbe77825e6fe7169082b463875a45faca2e56.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9 3M1080" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9 3M1080
+https://epg.pm/stream/47ec710fe182f64020a0c0c577ceabbfb1f6e842c779dc9ad625197bc9a85799.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@79" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@79
+https://epg.pm/stream/0ed16128a2b74bf1f1cb16e866fef2b819683f52d3fd8a079bfb33415381b044.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/3cb5e3d4116748554bbd9b490f3eb6e1cb0d9cccfc35867889f935a1e3e5eb2d.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/02d7db38ca27ee72d0ba9b933f2ebb99ae08c6f59a2d7e96685cb918d22c7214.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9HD@@3" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9HD@@3
+https://epg.pm/stream/69d6ff789e0f0892323d95ae98bc168899116ed58e02d10e3768ba436fefdc8d.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9纪录@@2" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9纪录@@2
+https://epg.pm/stream/cdb2f8557e1f8c977e7f25ded74d6f9206a029e73b26da923c815477a7174ec0.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@83" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@83
+https://epg.pm/stream/9602af039c25845f0bf140e8f4729dc478a31091ce642d453175caec1b2fbc3f.m3u8codeyj
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/609aee730e04eab01ddebf518ecbff7bf4a8e41ff511c15b718958bbd2fbc38c.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/37b95b2b581c0f391bc8889e498ec3be1e3c434babaa8da5acda57e48e517448.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9HD@@7" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9HD@@7
+https://epg.pm/stream/5c78e59b8b16ee8035deb1d1fc11f5ea07bb3284555119142d8cba3429a5a315.m3u8
+#EXTINF:-1 tvg-name="[SD]CCTV9@@2" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [SD]CCTV9@@2
+https://epg.pm/stream/46bc08f89cbf7266e960f0e432c31a662085f8910f382ad97bbaa3f91b2c4a10.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/d0f70b1a94244e8e00447a3f2337485984cafc50b052029c377453cfecb8a20b.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9
+https://epg.pm/stream/c2c33f0e8e0296062cfb7558a5aa3d595d3a8117fc84b4d2efb90917560d3124.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@1" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@1
+https://epg.pm/stream/be434851389e0f53c9a4b142da1745225f4eadfaf029e33353aa721711c06c77.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/a55041c98052a80a4c1b1afd4f8c943aa11999937614b0e316caf596865e59cb.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9 4M1080" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9 4M1080
+https://epg.pm/stream/9fe06bf0e1379f4bd23c7071ef538d8d9cad7889924fa1402e1650b555a7dd8f.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@50" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@50
+https://epg.pm/stream/13c8702984bf15874f792b344a240802c4f68025ed0564b09a9b78d3b35d9dfc.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9HD@@8" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9HD@@8
+https://epg.pm/stream/83c46965a10fb45f6ff0a6cf4c9a8077b763ee84f404d5d6d4302ebb0ba8d2eb.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@73" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@73
+https://epg.pm/stream/82b5bab80fbed9cae1c9393aecf59ce1fbfd31e27a4401652dcb571d4faba24b.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/3fe537b0e0e71d6b9b74009d48991f532c014de45cdf75fe47b77911f5e417c2.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@48" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@48
+https://epg.pm/stream/fc3158ffc97ce73438794faa1d38402c17ec89cdb4e236247031be655e92023e.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/b4795922fae0c75e6e59fd50515bb5e5188f0b1a774c3b2e2b742e77294f05bb.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@65" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@65
+https://epg.pm/stream/59ac892378ecfa8a24ad0a7462333cd490242c6ee413e73e41d079ecb7cf930b.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@56" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@56
+https://epg.pm/stream/bf6b19741b04687319b1e52d09fe5dc88f48600faff6c96277fac888190e1561.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@55" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@55
+https://epg.pm/stream/389d16dabf9e1a19bf84ebb2761a57f51a6779703deaf5e1c96de041c397ca3c.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/b750677b7c175cd4a3567158b16fefbeb5e86a83f2aa27ad4c71a3836d3639dd.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@77" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@77
+https://epg.pm/stream/009a99aa4884601aad33f51ce634eea1c8c46ba3f5178ab64cf4711d3dbc033c.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@47" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@47
+https://epg.pm/stream/563aa3928e459f9eca38dabe890eb2e9401a121d842ac6720a1d430d7bc7165e.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9纪录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9纪录
+https://epg.pm/stream/834edecc0b1ca1245f6b844f2670c5ced648efa0e2c4365cee706b34c864cdfd.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/d3074e5cec2b4427ae6fec8aea33173e6945fb0aef39e9315cc0ca9352a8095a.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@7" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@7
+https://epg.pm/stream/efe68938433f0555a9da5373d17eccc7f10902458119d9ae870b65f1d06ce7a4.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/24acf221fb449715578cafa4d747ab4dd8be146bd4e46d3f9435f08baea982f7.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@71" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@71
+https://epg.pm/stream/f3c7da31556599b720e3baed2909192903d0eb8019f2e5ec67aa1f6c11db04ab.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/81801b7857208d118ff877e20f6f1fc456f96d1df71ef12cf71cdd6f30baf711.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@59" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@59
+https://epg.pm/stream/6424d761e7f3e2d5050c4f9738af7ab1cb975f51450797895706705b19f3635f.m3u8
+#EXTINF:-1 tvg-name="[HD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [HD]CCTV-9记录
+https://epg.pm/stream/83f5f0a37a57ac007f5390104cd398f1bab3bdec90180f4b6b803fcfe148bd31.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/621633657c4303e265cfcdce39a0954e6839a03600807df567167cf4d9b93073.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@60" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@60
+https://epg.pm/stream/b81dad909c84f8c70f49cc002ff6bdc80d78b39d9411b8f47c79d12db338a120.m3u8
+#EXTINF:-1 tvg-name="[SD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [SD]CCTV9
+https://epg.pm/stream/5d25c4c459b23159783a6b0fc4afda03c00db2ae3acb3e0f7003fbd3eec4d064.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/66445c0e23868dccf96ce5b936604e94168c3690bcae86e6a06a2a54923a47c4.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@4" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@4
+https://epg.pm/stream/39a9d055f0d790705a7847e2c8435fdfdeb02613ecf60784520cc07b3316a820.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/b2f2328c8d9734783f61730020da8c4c6027e6398fec26532d39adcd7c2f3701.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@107" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@107
+https://epg.pm/stream/e9444444bed64486d5ee156aff81c8bffb96c95b3c7ae05432032b4e67c7d720.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@87" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@87
+https://epg.pm/stream/635ade0b3c5e1f77e7a5e23ae0268fa5458c3eab959197432ed987a5d2cffee8.m3u8
+#EXTINF:-1 tvg-name="[SD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [SD]CCTV9
+https://epg.pm/stream/d938b6e40808af75eb495e4d6f6658d3b29e91049425220620d5dd634c9dd49d.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@54" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@54
+https://epg.pm/stream/5dc69bc967110602c06357e8ee3f6a42ec2fe812d8a342c2c6de38b4bc6ee0a0.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@79" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@79
+https://epg.pm/stream/c1a2ffd4054785996f95497607f82c69369a62665fcd16e0346d0c1d6beae9be.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@82" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@82
+https://epg.pm/stream/6bc0593914ba96cd92fcb419b29b973580f58c4c971d4b26fcf8c9eaca2ad40a.m3u8
+#EXTINF:-1 tvg-name="[HD]CCTV9@@93" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [HD]CCTV9@@93
+https://epg.pm/stream/4614f3587a217b5f5f141feac941b9bf6ff54a45a3fcb1f87fed3a6e5f7b95af.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@85" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@85
+https://epg.pm/stream/cb8d4fc05dc8c85fae0480c9b7310026934c20890d25264d5015489ee9a08300.m3u8
+#EXTINF:-1 tvg-name="[SD]CCTV9 SD" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [SD]CCTV9 SD
+https://epg.pm/stream/8fcb193090799a7176bb0c4df6ee6d9ceee04221ea64fe03e5b1b4a1528018b4.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/2b4cbae924f39362ecb044fcf509f68a9604d333222780bc3649942d219a05f5.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@18" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@18
+https://epg.pm/stream/48a5a83991277192aa6ca8ec419963c7c51a27a5866783e5dbc11063a2b5b464.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@7" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@7
+https://epg.pm/stream/238114f9c6300c71b5c1bf9ed9034cc1f674b69cb1cd862828e2957e8248bf23.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/18df623f6886c62c66cbf58c438540f575b960dee3f96aee6d118c6aeedb6b89.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/8845c83bad661dd30ef8f53c6d22ce1d0f9688ad36560bbe7b699876d6fe9364.m3u8
+#EXTINF:-1 tvg-name="[HD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [HD]CCTV-9记录
+https://epg.pm/stream/936e325335295d188ff1bb718acaf32946c3c4ea43d4d1b9bc22a23cfb156010.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9
+https://epg.pm/stream/82bb0aba284089a3ceebedf8e27cdca2c0466042d46ec22571176d846ad52fb6.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9纪录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9纪录
+https://epg.pm/stream/95c8f4692fff94506f718de043a8551ff1a03bc201eefaefdd9a61b7ce1d81cb.m3u8
+#EXTINF:-1 tvg-name="[HD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [HD]CCTV-9记录
+https://epg.pm/stream/10103d041333073fdd8e87bb3c331c7e0dd42bcc9942931e320821d426c96dd1.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/f5d27d22b8b0d7c4f36f861fe49df6284b042afa3d78d58f5922454e754fa85b.m3u8
+#EXTINF:-1 tvg-name="[HD]CCTV9@@52" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [HD]CCTV9@@52
+https://epg.pm/stream/a3d47c0ed153ffb171c8936f54942548f127a96e77183622b7db2d95a95fdb33.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/597f8ea1677ddea4b6aa8c2a8628d85389b9dda53560f9ce7edec66271e87f6e.m3u8
+#EXTINF:-1 tvg-name="[HD]CCTV9@@66" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [HD]CCTV9@@66
+https://epg.pm/stream/aedce443818143f04d1cca3fb4a6ae4e9f9b7470507ba9effd5ab0050e3cbf63.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/a44404ddb1ec8e4e7a55c82204e8400b97b5250143092a36f7b90e6b6580e283.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/0efe6bd395da58ac7ebbb231d25de746bff44ced30746eef5aa6ddba988ce691.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/284d879c1c8e698d72d005ed5434ecc7a2626f6800608fa50dfa3b8952189b0a.m3u8
+#EXTINF:-1 tvg-name="[SD]CCTV9 576" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [SD]CCTV9 576
+https://epg.pm/stream/e93867f9155e8d2a260811b3cfddc8c9f9ef5ee5fe3c56c1c43cb533a6fdc615.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/56dd4aa8de0d4cc53ccf48b1ae49538c57b95ed8f17914a86ca62d48b0bd9395.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/6dc3bd1f202cdeadfcdfaf7a1796b3fdf130918e11b0bb919d8017152f579d2f.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@38" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@38
+https://epg.pm/stream/1ee5df52c4e18b1c53cb2f5814a1f1ba33ee3c8f3536ab015c9d14c152f7d641.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9记录" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9记录
+https://epg.pm/stream/3727abad5efe4d4db7455a1395222b4f4ad0b448ad5ff85aa727423b6cc4e9b0.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@17" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@17
+https://epg.pm/stream/5426c5d325b5ed804d7d89a4644f2f1c8f01e006c2c65f1da3f5931d99762155.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@33" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@33
+https://epg.pm/stream/1764de7a2f77c0b5162edb12fe8ec6f6d3858dbec79f598eab372a7a6d357bfc.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@11" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@11
+https://epg.pm/stream/84b5627559be8ef219a6a9799545d3e2d81ebe31ae03a8d6fd7b5780cc7fef9c.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/666be20464eb6950efcaedf34ea03be990643d10b4775aa3100366b119dc0e2d.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9HD@@6" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9HD@@6
+https://epg.pm/stream/75f49cc3981c489d191ab21ff348277bf9308ad939800df8e21dadd847ee0b4b.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@29" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@29
+https://epg.pm/stream/e0e2077dcd29623e6ce5184c6e53451a5e7b0ac6e12fba2fd02250bf1d5defc4.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/62acc4a5ada6b3f1f4c523791f5045086d2fed48f4bee2147c5bc1393f65aaf2.m3u8
+#EXTINF:-1 tvg-name="[HD]CCTV9@@27" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [HD]CCTV9@@27
+https://epg.pm/stream/ff7dc55eb22b3de97883aa3729d6f461520e4fa34333621aff566cb2562fe345.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@5" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@5
+https://epg.pm/stream/eda5d2199d9c3e7896675d88e63f77d7c0571ba81853fe60d8efc100e70bb283.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/a20e076a973ed8d4fe0e88ca2e5c2fc47fdc617f4762631d5241dde3ed0a50eb.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9
+https://epg.pm/stream/7fceb1df4659dfce9a4174de26e3701ca4d4494c926f00256614910758319a15.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9HD@@4" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9HD@@4
+https://epg.pm/stream/2824016424e9aa73b8f27eee8d3965a3590f2d2aa5f37a02118bbc762cef5d40.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@20" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@20
+https://epg.pm/stream/78eca084356e3aee7511483d7206d0ecd6151ddf039f384aaefefe653fb9fdfb.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV-9HD@@1" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV-9HD@@1
+https://epg.pm/stream/da3be42f200c38044ccd63acc756fcdad1195573c1ce43f45cbf3b1aa16f5263.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV9@@8" tvg-id="2599" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151657973105_33.jpg" group-title="央视-少儿纪录", [BD]CCTV9@@8
+https://epg.pm/stream/469f33c93db826d9b862c364c8e51443251aa4c52260bbdda8992f5d1fb8c4ad.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://39.135.32.28:6610/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="CCTV9纪录" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/624/202204010054_1626677492322_H169_1080.jpg" group-title="央视-少儿纪录", CCTV9纪录
+http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="中国|CCTV-9 记录 HD" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录", 中国|CCTV-9 记录 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9 纪录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://1.202.10.117:8888/udp/225.1.8.9:8112
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://183.222.15.202:4321/rtp/239.11.0.111:5140
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://223.86.170.98:4500/rtp/239.11.0.111:5140
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://183.129.255.66:8480/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-9纪录高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-9纪录高清.png" group-title="央视-少儿纪录", CCTV-9纪录高清
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 tvg-name="CCTV-9HD" tvg-id="10" tvg-logo="https://epg.112114.xyz/logo/CCTV-9HD.png" group-title="央视-少儿纪录", CCTV-9HD
+http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=yu&mode=1&%248M
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=yu&mode=1&%244M
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1&%246M
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-id="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9 纪录.png" group-title="央视-少儿纪录", CCTV-9 纪录
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://116.1.148.123:9901/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://43.251.226.110:8880/play/102.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://115.190.105.236:1234/673168140
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000011000288020&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=yu&mode=1&$6M
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://111.29.9.33:6610/000000001000/1000000001000028286/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视-少儿纪录", CCTV-9
+http://p.ytelc.com/169l/0/cctv.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+https://rust.946985.filegear-sg.me/proxy/4989ec86123a1ef9?token=tgJerryfeng
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/cctv9.png" group-title="央视-少儿纪录", CCTV-9 纪录
+https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9纪录.png" group-title="央视-少儿纪录", CCTV9纪录
+http://tvbox6.icu/tv/migu.php?id=cctv9$LR•10•IPV4『线路1』
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9纪录.png" group-title="央视-少儿纪录", CCTV9纪录
+http://112.27.235.94:8000/hls/10/index.m3u8$LR•10•IPV4『线路2』
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9纪录.png" group-title="央视-少儿纪录", CCTV9纪录
+http://222.169.85.8:9901/tsfile/live/0009_1.m3u8$LR•10•IPV4『线路3』
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9纪录.png" group-title="央视-少儿纪录", CCTV9纪录
+http://124.116.183.146:9901/tsfile/live/0009_1.m3u8$LR•10•IPV4『线路4』
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9纪录.png" group-title="央视-少儿纪录", CCTV9纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8$LR•10•IPV4『线路5』
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9纪录.png" group-title="央视-少儿纪录", CCTV9纪录
+http://123.130.84.106:8154/tsfile/live/0009_1.m3u8$LR•10•IPV4『线路6』
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-id="10" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9纪录.png" group-title="央视-少儿纪录", CCTV9纪录
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$LR•10•IPV4『线路10』
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://183.62.8.58:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://59.175.155.147:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://180.165.12.42:50001/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://61.178.227.57:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://36.158.75.239:8088/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://36.158.75.249:8088/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://180.118.187.199:60001/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://120.202.73.48:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://59.173.121.226:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://60.187.244.229:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://60.187.244.229:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://113.241.135.29:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://113.241.135.29:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://171.43.64.216:9901/tsfile/live/faacts/0009_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://171.88.121.45:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://118.193.115.2:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://219.144.190.2:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://221.232.199.106:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://219.140.6.199:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://221.232.196.229:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://221.232.196.76:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://221.232.197.108:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://58.48.105.144:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://59.173.121.1:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://221.232.197.198:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV9
+http://124.223.82.228:89/673168140
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV9
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-9
+http://192.151.150.154/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-9纪录" tvg-id="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9纪录.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-9纪录
+http://173.208.212.130:8181/1080p/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV-9纪录" tvg-id="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9纪录.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-9纪录
+http://173.208.212.130:8181/720p/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV-9纪录" tvg-id="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9纪录.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-9纪录
+http://204.12.221.218:8181/3m1080p/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV9 8M" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9 8M
+https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV9
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227425/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视-少儿纪录", CCTV9
+http://47.119.24.76:59093/673168140
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视-少儿纪录", CCTV-9纪录
+http://183.207.248.71:80/cntv/live1/CCTV-9/cctv-news
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="120ms", CCTV-9
+http://39.165.39.49:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视-少儿纪录", CCTV-9 纪录
+https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ecc789a8432f5526a52a407ff314237d
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="120ms", CCTV-9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=78160815544272b102b9e1b05ecf3471
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV-9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视-少儿纪录" response-time="120ms", CCTV-9纪录
+http://113.25.252.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://125.42.151.43:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://123.55.3.233:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://101.66.199.249:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://182.207.218.33:999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://125.43.244.40:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://122.224.58.42:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://125.43.249.150:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-9H265_4000.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="http://10.1.0.25:5180/logo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+https://live.264788.xyz/channel/cctv9?streamid=9fb9358174c897392a181a9405abdfdc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="http://10.1.0.25:5180/logo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="http://10.1.0.25:5180/logo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+https://live.264788.xyz/channel/cctv9?streamid=9b73d31612fe525017b680bb3dd8071f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="CCTV-9" tvg-id="CCTV-9" tvg-logo="http://10.1.0.25:5180/logo/CCTV-9.png" group-title="央视-少儿纪录", CCTV-9
+http://222.223.41.27:8888/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="cctvjilu" tvg-logo="cctvjilu.png" group-title="央视-少儿纪录", CCTV-9 纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="cctv9" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/cctv9.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", cctv9
+rtmp://39.108.129.193:1935/cv9/jr0g_cv9
+#EXTINF:-1 tvg-name="CCTV-9高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-9高清.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-9高清
+http://120.76.248.139/live/bfgd/4200000128.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视-少儿纪录" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV9
+http://153.0.171.163:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
+http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
+http://t.061899.xyz/tl/tl.php?id=cgtnjl
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://live.lizanyang.top/tv/CGTN纪录.png" group-title="央视-少儿纪录", CGTN记录
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227367/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
+http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://tb.zbds.top/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
+http://115.190.105.236:1234/609006487
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视-少儿纪录", CGTN纪录
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226901/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIDa9eQPW7MPnVG3tWV9L_A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7UiApo13jd7QHhKfvQCvE%2CEND
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视-少儿纪录", CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTNDOCUMENTARY" tvg-id="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视-少儿纪录", CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视-少儿纪录", CGTN记录
+http://gslbserv.itv.cmvideo.cn/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CGTN记录" tvg-id="CGTNDOCUMENTARY" tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png" group-title="央视-少儿纪录", CGTN记录
+https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
+#EXTINF:-1 tvg-name="CGTN记录" tvg-id="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.cn/tv/CGTN记录.png" group-title="央视-少儿纪录", CGTN记录
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYcJ3PdHkzUJtmPevi5x_2A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="CGTN 英文纪录高清" tvg-id="344" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Doc.png" group-title="央视-少儿纪录" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226153/10000100000000060000000001154845_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="344" zz-definition="HD" zz-raw-name="CGTN英文纪录", CGTN纪录
+rtp://239.3.1.216:4220
+#EXTINF:-1 tvg-name="一字千金-FastTV飛速看" tvg-id="344" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live202.png" group-title="央视-少儿纪录", 一字千金-FastTV飛速看
+https://ha.msbot.dpdns.org/4gtv_api.php?id=344
+#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="央视-少儿纪录", CGTN英文纪录
+http://115.190.124.74/php/as.php?/PLTV/&id=10240366&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="央视-少儿纪录", CGTN英文纪录
+rtsp://10.11.43.21/PLTV/88888912/224/3221226619/394108649.smil
+#EXTINF:-1 tvg-name="CGTN外语纪录" tvg-id="CGTN外语纪录" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/356/202502251602_1740470541608_H32_1080.webp" group-title="央视-少儿纪录" http-user-agent="MGPlayer4Android/v9.49.0.3.28", CGTN外语纪录
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=CGTN外语纪录
+#EXTINF:-1 tvg-name="CGTN Documentary (1080p)" tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="央视-少儿纪录", CGTN Documentary (1080p)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="南充科教" group-title="央视-少儿纪录", 南充科教
+http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
+#EXTINF:-1 tvg-name="CCTV-国防军事" group-title="央视-少儿纪录", CCTV-国防军事
+rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="D10" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="央视-少儿纪录", CGTN纪录
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+#EXTINF:-1 tvg-name="[SD]CGTN Documentary" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="央视-少儿纪录", [SD]CGTN Documentary
+https://epg.pm/stream/2bfc905f45dc1e0e30b8cc52d27685af8bea8dd2497bfcf7f540ae0dbed2db60.m3u8
+#EXTINF:-1 tvg-name="[SD]CGTN Documentary" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="央视-少儿纪录", [SD]CGTN Documentary
+https://epg.pm/stream/783b24269139b91ad293acbde7bf5a93769f6fa0e613cf9e86e2c78c8bd66ae8.m3u8
+#EXTINF:-1 tvg-name="[SD]CGTN DOCUMENTARY" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="央视-少儿纪录", [SD]CGTN DOCUMENTARY
+https://epg.pm/stream/fa65e4e43414c22375bfcb479861ee4b845427c8dba617f7dd372549510ee753.m3u8
+#EXTINF:-1 tvg-name="[SD]CGTN Documentary (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/29/large/20220429020115798784_73.png" group-title="央视-少儿纪录", [SD]CGTN Documentary (576p)
+https://epg.pm/stream/395df8172af3c711799f7a5e2d6cbc31d54e320a3e559105f8c579e714cbf5c6.m3u8
 #EXTINF:-1 tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-id="CGTN(中國環球電視網)記錄頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/CGTN纪录.png" group-title="央视-少儿纪录", CGTN 記錄頻道
 https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CGD&token=tgJerryfeng

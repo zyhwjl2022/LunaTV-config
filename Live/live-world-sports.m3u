@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="SPORTS" tvg-logo="SPORTS.png" group-title="国际-体育", SPORTS
+http://117.114.153.26:8182/hls/TV00000000000000000070@HHZT.m3u8
+#EXTINF:-1 tvg-name="SPORTS" tvg-id="SPORTS" tvg-logo="SPORTS.png" group-title="国际-体育", SPORTS
+http://117.114.153.26:8182/hls/TV00000000000000000111@HHZT.m3u8
 #EXTINF:-1 tvg-name="Adnkronos (720p)" tvg-id="Adnkronos.it@SD" tvg-logo="https://i.imgur.com/mEoDAf1.png" group-title="国际-体育", Adnkronos (720p)
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Africa 24 Sport (1080p)" tvg-id="Africa24Sport.fr@SD" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="国际-体育", Africa 24 Sport (1080p)
@@ -17,6 +21,30 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Донбас Online (1080p) [Not 24/7]" tvg-id="DonbassOnline.ua@SD" tvg-logo="https://i.imgur.com/8h3kOI1.png" group-title="国际-体育", Донбас Online (1080p) [Not 24/7]
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1 tvg-name="FIGHT SPORTS" tvg-id="FightSports" tvg-logo="https://live.fanmingming.com/tv/FIGHT SPORTS.png" group-title="国际-体育", FIGHT SPORTS
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1 tvg-name="Fight Sports" tvg-id="FightSports" tvg-logo="https://live.fanmingming.com/tv/FIGHT SPORTS.png" group-title="国际-体育", Fight Sports
+https://smt.goiptv.us.ci/Fs/playlist.m3u8
+#EXTINF:-1 tvg-name="Fight Sports" tvg-id="FightSports" tvg-logo="https://live.fanmingming.com/tv/FIGHT SPORTS.png" group-title="国际-体育", Fight Sports
+https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="NBATV" tvg-logo="https://live.fanmingming.com/tv/NBA TV.png" group-title="国际-体育", NBA TV
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="NBATV" tvg-logo="https://live.fanmingming.com/tv/NBA TV.png" group-title="国际-体育", NBA TV
+https://smt.goiptv.us.ci/Nba/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="NBATV" tvg-logo="https://live.fanmingming.com/tv/NBA TV.png" group-title="国际-体育", NBA TV
+https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
+#EXTINF:-1 tvg-name="Unifi Sport" tvg-logo="https://live.fanmingming.com/tv/Unifi Sport.png" group-title="国际-体育", Unifi Sport
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="AstroFootball" tvg-logo="https://live.fanmingming.com/tv/Astro Football.png" group-title="国际-体育", Astro Football
+http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="AstroFootball" tvg-logo="https://live.fanmingming.com/tv/Astro Football.png" group-title="国际-体育", Astro Football
+https://smt.goiptv.us.ci/go_assp4/playlist.m3u8
+#EXTINF:-1 tvg-name="astroFootball" tvg-id="astroFootball" tvg-logo="https://live.fanmingming.com/tv/Astro Football.png" group-title="国际-体育", astroFootball
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="AstroFootball" tvg-logo="https://live.fanmingming.com/tv/Astro Football.png" group-title="国际-体育", Astro Football
+https://smart.dxjc.pp.ua/smart.php?id=go_assp4&token=tmxk
+#EXTINF:-1 tvg-name="Trace Sports" tvg-id="988" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际-体育", Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="Cine Premiere" tvg-id="CinePremiere.us@SD" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="国际-体育", Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-name="Filmes Suspense" tvg-id="FilmesSuspense.us@Brazil" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="国际-体育", Filmes Suspense
@@ -53,106 +81,204 @@ https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
 http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
 #EXTINF:-1 tvg-name="Veo7 (1080p)" tvg-id="Veo7.es@SD" tvg-logo="https://i.imgur.com/kklTIMm.png" group-title="国际-体育", Veo7 (1080p)
 http://92.176.119.180:2095/play/a1f1
-#EXTINF:-1 tvg-name="Trace Sports" tvg-id="988" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="国际-体育", Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="国际-体育" tvg-country="Singapore" tvg-language="English", [BD]channel 5
-https://stream1.freetv.fun/85e5d7b3a1e38b6a14a1c2764f1535c19d1a77c7baaef544f458451b13935b01.ctv
+#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-id="AstroSportsPlus" group-title="国际-体育", Astro Sports Plus
+https://smt.goiptv.us.ci/go_sportsplus/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-id="AstroSportsPlus" group-title="国际-体育", Astro Sports Plus
+https://smart.dxjc.pp.ua/smart.php?id=go_sportsplus&token=tmxk
+#EXTINF:-1 tvg-name="Astro W-Sports" tvg-id="AstroW-Sports" group-title="国际-体育", Astro W-Sports
+https://smt.goiptv.us.ci/go_assp5/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro W-Sports" tvg-id="AstroW-Sports" group-title="国际-体育", Astro W-Sports
+https://smart.dxjc.pp.ua/smart.php?id=go_assp5&token=tmxk
+#EXTINF:-1 tvg-name="Supersports 1" tvg-id="Supersports1" group-title="国际-体育", Supersports 1
+https://smt.goiptv.us.ci/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-name="Supersports 1" tvg-id="Supersports1" group-title="国际-体育", Supersports 1
+https://smart.dxjc.pp.ua/smart.php?id=Assp1&token=tmxk
+#EXTINF:-1 tvg-name="Supersports 2" tvg-id="Supersports2" group-title="国际-体育", Supersports 2
+https://smt.goiptv.us.ci/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-name="Supersports 2" tvg-id="Supersports2" group-title="国际-体育", Supersports 2
+https://smart.dxjc.pp.ua/smart.php?id=Assp2&token=tmxk
+#EXTINF:-1 tvg-name="Supersports 3" tvg-id="Supersports3" group-title="国际-体育", Supersports 3
+https://smt.goiptv.us.ci/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-name="Supersports 3" tvg-id="Supersports3" group-title="国际-体育", Supersports 3
+https://smart.dxjc.pp.ua/smart.php?id=Assp3&token=tmxk
+#EXTINF:-1 tvg-name="Supersports 4" tvg-id="Supersports4" group-title="国际-体育", Supersports 4
+https://smt.goiptv.us.ci/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Supersports 4" tvg-id="Supersports4" group-title="国际-体育", Supersports 4
+https://smart.dxjc.pp.ua/smart.php?id=Assp4&token=tmxk
+#EXTINF:-1 tvg-name="Tnt Sports 1" tvg-id="TntSports1" tvg-logo="https://epg.112114.xyz/logo/TntSports1.png" group-title="国际-体育", Tnt Sports 1
+https://smt.goiptv.us.ci/6fac0aaead/playlist.m3u8
+#EXTINF:-1 tvg-name="TntSports1" tvg-id="TntSports1" tvg-logo="https://epg.112114.xyz/logo/TntSports1.png" group-title="国际-体育", TntSports1
+http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-1 tvg-name="Tnt Sports 1" tvg-id="TntSports1" tvg-logo="https://epg.112114.xyz/logo/TntSports1.png" group-title="国际-体育", Tnt Sports 1
+https://smart.dxjc.pp.ua/smart.php?id=6fac0aaead&token=tmxk
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-id="TNTSports2" group-title="国际-体育", TNT Sports 2
+https://smt.goiptv.us.ci/d9a76a79cc/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-id="TNTSports2" group-title="国际-体育", TNT Sports 2
+https://smart.dxjc.pp.ua/smart.php?id=d9a76a79cc&token=tmxk
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-id="TNTSports3" group-title="国际-体育", TNT Sports 3
+https://smt.goiptv.us.ci/5fea4d73db/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-id="TNTSports3" group-title="国际-体育", TNT Sports 3
+https://smart.dxjc.pp.ua/smart.php?id=5fea4d73db&token=tmxk
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-id="TNTSports4" group-title="国际-体育", TNT Sports 4
+https://smt.goiptv.us.ci/tntsport4/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-id="TNTSports4" group-title="国际-体育", TNT Sports 4
+https://smart.dxjc.pp.ua/smart.php?id=tntsport4&token=tmxk
+#EXTINF:-1 tvg-name="Skysports F1" tvg-id="SkysportsF1" group-title="国际-体育", Skysports F1
+https://smt.goiptv.us.ci/tiankongf1/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports F1" tvg-id="SkysportsF1" group-title="国际-体育", Skysports F1
+https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-id="SkysportsCricket" group-title="国际-体育", Skysports Cricket
+https://smt.goiptv.us.ci/tiankongcricket/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-id="SkysportsCricket" group-title="国际-体育", SkySportsCricket
+http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-id="SkysportsCricket" group-title="国际-体育", Skysports Cricket
+https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
+#EXTINF:-1 tvg-name="Skysports EPL" tvg-id="SkysportsEPL" group-title="国际-体育", Skysports EPL
+https://smt.goiptv.us.ci/tiankongepl/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports EPL" tvg-id="SkysportsEPL" group-title="国际-体育", Skysports EPL
+https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-id="SkysportsMainEvent" group-title="国际-体育", Skysports Main Event
+https://smt.goiptv.us.ci/tiankongmain/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-id="SkysportsMainEvent" group-title="国际-体育", Skysports Main Event
+https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
+#EXTINF:-1 tvg-name="Skysports Mix" tvg-id="SkysportsMix" group-title="国际-体育", Skysports Mix
+https://smt.goiptv.us.ci/tiankongmix/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports Mix" tvg-id="SkysportsMix" group-title="国际-体育", Skysports Mix
+https://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
+#EXTINF:-1 tvg-name="RTM Sports HD" tvg-id="RTMSportsHD" group-title="国际-体育", RTM Sports HD
+https://smt.goiptv.us.ci/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-name="RTM Sports HD" tvg-id="RTMSportsHD" group-title="国际-体育", RTM Sports HD
+https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+#EXTINF:-1 tvg-name="Astro Beinsports 1" tvg-id="AstroBeinsports1" group-title="国际-体育", Astro Beinsports 1
+https://smt.goiptv.us.ci/Astrobein1/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Beinsports 1" tvg-id="AstroBeinsports1" group-title="国际-体育", Astro Beinsports 1
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
+#EXTINF:-1 tvg-name="Astro Beinsports 2" tvg-id="AstroBeinsports2" group-title="国际-体育", Astro Beinsports 2
+https://smt.goiptv.us.ci/Astrobein2/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Beinsports 2" tvg-id="AstroBeinsports2" group-title="国际-体育", Astro Beinsports 2
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
+#EXTINF:-1 tvg-name="Astro Beinsports 3" tvg-id="AstroBeinsports3" group-title="国际-体育", Astro Beinsports 3
+https://smt.goiptv.us.ci/Astrobein3/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Beinsports 3" tvg-id="AstroBeinsports3" group-title="国际-体育", Astro Beinsports 3
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
+#EXTINF:-1 tvg-name="Freesports" tvg-id="Freesports" group-title="国际-体育", Freesports
+https://smt.goiptv.us.ci/freesports_antik/playlist.m3u8
+#EXTINF:-1 tvg-name="Freesports" tvg-id="Freesports" group-title="国际-体育", Freesports
+https://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
 #EXTINF:-1 tvg-name="HUB Sports1" tvg-logo="https://epg.pw/media/images/channel/2022/09/03/large/20220903155519594499_45.jpg" group-title="国际-体育" tvg-country="Singapore" tvg-language="English", [HD]hub sports
 https://stream1.freetv.fun/9e055dc7fec8e21ca3062743be96619e7e4971c4fd39b6992a2f0675875aeec2.ctv
-#EXTINF:-1 tvg-name="ASTRO RIA" tvg-id="2384" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/763d6b2daaf14a03329aa9eb47f4940f.jpg" group-title="国际-体育" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [HD]Astro Ria *tv
-https://stream1.freetv.fun/eac0820147afa03a46536e779bd0ba33510963c4ad6e253317c1fd5a3387cad3.ctv
-#EXTINF:-1 tvg-name="Astro BOO" tvg-id="2636" tvg-logo="https://epg.pw/media/images/channel/2026/03/09/large/20260309044806154163_47.png" group-title="国际-体育" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [HD]Astro Boo *tv
-https://stream1.freetv.fun/0321a4e80eedc4132389bf27b47192695cbad9bf1d989c05567d743d419621af.ctv
-#EXTINF:-1 tvg-name="[BD]河南卫视@@18" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@18
-https://epg.pm/stream/efe933e246e66dab60280599df41646f66f8f53abc0d5396e71324f67d4e79a5.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@19" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@19
-https://epg.pm/stream/85c53f193a95aeee9fb4fb1dd74816ffaceae9dc9ab530f832e4fe7d9e350a54.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@1" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@1
-https://epg.pm/stream/40cc6236f70c3d46bc4cbcd7985ec84428971e7d5d7dcd573c508383f8bc8140.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/5b4bdf25acf58f4b86617ae9f46cf21ecec61d126b554041d8c6e0f066e967d9.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/6e68b3cc212e3d26cc5fcbf57fa55ca97733e5a5a6ced7a564c2075cd7f5cc98.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@27" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@27
-https://epg.pm/stream/65ad934679aa789358d519421c13296410c138c03ff44c0639f77a3953546b9f.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@2" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@2
-https://epg.pm/stream/6e515829cb2bffa18791da733314c4ffe4153b9377664cd641d5663c72441df2.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/e2821685a85c1310c63d6c2b7c9edc251e0d62d3b3df893dad89701cf5df70ae.m3u8
-#EXTINF:-1 tvg-name="[SD]河南卫视@@11" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [SD]河南卫视@@11
-https://epg.pm/stream/5c394338cd4e58cf48f8db999584aad10b7d08f7f38f09b748dacd83e5951973.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/d7d16b6ceac74f951a84f193f1d3ed831353e26a2187a0c9620dfd7944c5729c.m3u8
-#EXTINF:-1 tvg-name="[VGA]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [VGA]河南卫视
-https://epg.pm/stream/43e18486dd1715d32e58bd48d894d7dd61e702e98da538a51b85c7b34938cd5a.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@21" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@21
-https://epg.pm/stream/b560af4cb163539c7f96dfc3d51eaab0d40eb6bf51dc431a66c38a2eab80053b.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@2" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@2
-https://epg.pm/stream/703ddd81a942af7cab58f31dd912ee854f2e296f73bd8b437e42ac6e355568cc.m3u8
-#EXTINF:-1 tvg-name="[VGA]河南卫视@@2" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [VGA]河南卫视@@2
-https://epg.pm/stream/25606c5b331f7c61a1d31a751ef57cf4e9c5fa6dd767c2833301c9d3cf6ac847.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/45f5ab85af8747fe6526d89a6132d8f3a975ac268defd2b36671d26449872e35.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@12" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@12
-https://epg.pm/stream/7a96129ed6122bc3e6fdc41d3e45309edaff55a1b4f96b6cfaa9f2896d5077e4.m3u8
-#EXTINF:-1 tvg-name="[SD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [SD]河南卫视
-https://epg.pm/stream/b2a39ce6510874729b08c184ec7dcf1887a4065674e66aa866e10097b2d220bb.m3u8
-#EXTINF:-1 tvg-name="[VGA]河南卫视HD@@2" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [VGA]河南卫视HD@@2
-https://epg.pm/stream/619582a02f37dbe91723d1ca290733159e151aac4e15da6ace44ce79f5bf7919.m3u8
-#EXTINF:-1 tvg-name="[SD]河南卫视@@1" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [SD]河南卫视@@1
-https://epg.pm/stream/ef58280634e5e8a2ea1bf37d3e9b14f6ff3505b336061589f1d410b3bd9ad878.m3u8
-#EXTINF:-1 tvg-name="[VGA]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [VGA]河南卫视
-https://epg.pm/stream/fbba4850ebbc0dcdebbe4ac296bcebd263441ce9637553246f7da3be46e89f16.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@17" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@17
-https://epg.pm/stream/260462cc3db0467b6d6436b95563737da26162f1793e7fc7748ac65427419618.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视HD@@1" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视HD@@1
-https://epg.pm/stream/6ed1029e874d3ae3e5f34f12a85a44e7378ac4af227262cfcb3ff2a52e13dadb.m3u8
-#EXTINF:-1 tvg-name="[SD]河南卫视SD" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [SD]河南卫视SD
-https://epg.pm/stream/1b2ed69c2dd46be851ba996fda74776fb903b516437aa6a975a811ab0743fd27.m3u8
-#EXTINF:-1 tvg-name="[SD]河南卫视 576" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [SD]河南卫视 576
-https://epg.pm/stream/8112ab189a8163d36e67178a502bed37d461ad62d320a2ced5bded96f87115a4.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/f6a1b3a614528f3a5679e4e7b01a2546da86f7b24c7d23564890f43354cdd3cd.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/4418c79a704d53d325d382c1409037fdf5e961e4df2bae1cf21f8982842a14a4.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/2e8c19afe24e7f196c9a4fe7ad5569f44aa287643e7fb6f96d60a4a22edfca84.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@3" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@3
-https://epg.pm/stream/86471939e0aeb7d10a4fd98d32beb944eab78fc154dbbb5e2369963f527aee21.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视HD" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视HD
-https://epg.pm/stream/db646b18d676bb4d411b0647beeefcbd624aeed780f8e5953a82905f4b34e924.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@1" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@1
-https://epg.pm/stream/357bdc6434d1582674d3a20090c2b93ce50cabef18eca85c853eb9e8cf21600a.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视 4M576" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视 4M576
-https://epg.pm/stream/fd3a8b5a8f83b8a179ca2e356d814bc60cd5287b08110ece7ffc55b281cd4657.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@23" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@23
-https://epg.pm/stream/23ac6e33686de88c11f611ec17d79e9394ba57f3ed71eb16369ed90d6df6e9f6.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视
-https://epg.pm/stream/24cb9deafac5d93d2a68705c74332dbb57ee3b3f969cd48cff97856ca9eacb85.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@1" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@1
-https://epg.pm/stream/32efa6b0f503903a16e14636565486dc5e326411bf0102a75272fe9efef02f19.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视 8M1080" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视 8M1080
-https://epg.pm/stream/9e3ca0c1f744e99558fbc126a84644a39acb20f3ac047789f6c30919bb08f102.m3u8
-#EXTINF:-1 tvg-name="[BD]河南卫视@@16" tvg-id="2636" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="国际-体育", [BD]河南卫视@@16
-https://epg.pm/stream/e3001d9cd92a5327144c863ec1ca3634748d7c51b552d6b39f20e4df7a82056d.m3u8
-#EXTINF:-1 tvg-name="Astro Badminton" tvg-id="397400" tvg-logo="https://epg.pw/media/images/channel/2024/10/18/large/20241018015115511851_84.png" group-title="国际-体育" tvg-country="Malaysia" tvg-language="English", [HD]Astro Badminton *tv
-https://stream1.freetv.fun/3adfac72d981d96284ff08a142b285e4f13c3833e0dd7419ba386a0de90acd29.ctv
-#EXTINF:-1 tvg-name="Astro Football" tvg-id="397399" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="国际-体育" tvg-country="Malaysia" tvg-language="English", [HD]Astro Footbal *tv
-https://stream1.freetv.fun/a6fca176e22357ca10a5ed67fc38e9a232ea8cb5c580288bc5cce13d390d8adb.ctv
-#EXTINF:-1 tvg-name="Astro Showcase" tvg-id="4057" tvg-logo="https://epg.pw/media/images/channel/2025/09/09/large/20250909014020401578_16.jpeg" group-title="国际-体育" tvg-country="Malaysia" tvg-language="English", [BD]astro showcase *tv
-https://stream1.freetv.fun/6fd9ebf3c519ad0ee9acc59537f7e794aeb3a8d64aab2f1b1261856b0327dad4.ctv
-#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-id="397402" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="国际-体育" tvg-country="Malaysia" tvg-language="English", [BD]Astro Sports Plus *tv
-https://stream1.freetv.fun/a9a3a2ce9d274736c4e6f5bcf7c85622208f39cc7b8e2f762dd3660bd527e943.ctv
-#EXTINF:-1 tvg-name="Disney XD(MAS)" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118220221148799_40.png" group-title="国际-体育" tvg-country="Malaysia" tvg-language="English", [HD]disneyxd[geo-blocked]
-https://stream1.freetv.fun/1f032256aedaa55150f13093aed4b624e5ce3516eec1fabf9731377913a06ff0.m3u8
-#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="国际-体育" tvg-country="Malaysia" tvg-language="English", [BD]premier sports 2
-https://stream1.freetv.fun/ee1288e4fe32f925d263ab5d0b7af7e9f670914f1bd7497642199f78b1e8c9fd.ctv
-#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="国际-体育" tvg-country="Malaysia" tvg-language="English", [BD]premier sports 1
-https://stream1.freetv.fun/0df3df507b3faf8879b135a423204d4c9fc379bbb6a060e1afd23505b407c961.ctv
-#EXTINF:-1 tvg-name="TV1" tvg-id="3683" tvg-logo="https://epg.pw/media/images/channel/2016/10/04/large/20161004184847688856_98.jpg" group-title="国际-体育" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [BD]ltv1
-https://stream1.freetv.fun/0acb37e76729f66c824480aea51b416bc5cca1e77f175120adf425150097110b.m3u8
-#EXTINF:-1 tvg-name="ff14" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe06162251000024139152tlv45k.jpg" group-title="国际-体育", ff14
-https://live.ottiptv.cc/bilibili/24139152
+#EXTINF:-1 tvg-name="「US」 Retro TV" group-title="国际-体育", 「US」 Retro TV
+http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="JSPORTS1" tvg-id="JSPORTS1" tvg-logo="https://epg.112114.xyz/logo/JSPORTS1.png" group-title="国际-体育", J SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="JSPORTS1" tvg-id="JSPORTS1" tvg-logo="https://epg.112114.xyz/logo/JSPORTS1.png" group-title="国际-体育", JSPORTS1
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-name="J SPORTS 2" group-title="国际-体育", J SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J SPORTS 3" group-title="国际-体育", J SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J Sports 4" group-title="国际-体育", J Sports 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="釣りビジョン" group-title="国际-体育", 釣りビジョン
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="東映チャンネル" group-title="国际-体育", 東映チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="歌謡ポップスチャンネル" group-title="国际-体育", 歌謡ポップスチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日本映画専門チャンネル" group-title="国际-体育", 日本映画専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="チャンネル銀河" group-title="国际-体育", チャンネル銀河
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="チャンネルNECO" group-title="国际-体育", チャンネルNECO
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="テレビ朝日" group-title="国际-体育", テレビ朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="テレビ東京" group-title="国际-体育", テレビ東京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ファミリー劇場" group-title="国际-体育", ファミリー劇場
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="フジテレビ" group-title="国际-体育", フジテレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ホームドラマチャンネル" group-title="国际-体育", ホームドラマチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ムービープラス" group-title="国际-体育", ムービープラス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日テレジータス" group-title="国际-体育", 日テレジータス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="時代劇専門チャンネル" group-title="国际-体育", 時代劇専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="囲碁?将棋チャンネル" group-title="国际-体育", 囲碁?将棋チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSアニマックス" group-title="国际-体育", BSアニマックス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSテレ東" group-title="国际-体育", BSテレ東
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="GAORA" group-title="国际-体育", GAORA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="LaLaTV" group-title="国际-体育", LaLaTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWシネマ" group-title="国际-体育", WOWOWシネマ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWプライム" group-title="国际-体育", WOWOWプライム
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWライブ" group-title="国际-体育", WOWOWライブ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="キッズステーション" group-title="国际-体育", キッズステーション
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ゴルフネットワーク" group-title="国际-体育", ゴルフネットワーク
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スーパー!ドラマTV" group-title="国际-体育", スーパー!ドラマTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スカイA" group-title="国际-体育", スカイA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル1" group-title="国际-体育", スターチャンネル1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル2" group-title="国际-体育", スターチャンネル2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル3" group-title="国际-体育", スターチャンネル3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="Midpen Media Center Youth Education and Sports Channel 28" group-title="国际-体育", Midpen Media Center Youth Education and Sports Channel 28
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Reuters" tvg-id="GBBD4900001RG" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="国际-体育", Reuters
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Reuters" tvg-id="GBBD4900001RG" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="国际-体育", Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+#EXTINF:-1 tvg-name="Trace Sports Stars" group-title="国际-体育", Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="US | Denver | ABC 7 KMGH" group-title="国际-体育", US | Denver | ABC 7 KMGH
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Now618" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="国际-体育", Now618
+http://115.190.124.74/php/vip2.php?id=NowSports618&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="国际-体育", Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="国际-体育", TRACE Sport Stars
+http://220.135.64.124:5050/4gtv-4gtv077/index.m3u8
+#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="国际-体育", TRACE Sport Stars
+http://220.135.64.124:5050/li-4gtv-4gtv077/index.m3u8
+#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="国际-体育", TRACE Sport Stars
+https://rust.946985.filegear-sg.me/proxy/7df3b5c5c9bd0d3e?token=tgJerryfeng
+#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="国际-体育", TRACE Sport Stars
+http://114.32.153.6:5051/4gtv-4gtv077/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="CW Forever" tvg-id="US25000075Y" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9418a5d-f191-4b8a-bf3a-2eda3d2cd137/PLEX_CWFOREVER_UPDATEDLOGO_RDX.png" group-title="国际-体育", CW Forever
+https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
+#EXTINF:-1 tvg-name="Sony One FAVES" group-title="国际-体育", Sony One FAVES
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-name="Great British Menu" group-title="国际-体育", Great British Menu
+https://7ed93f662af44c2e9bdf93b56464f6a8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-gb_GreatBritishMenu/playlist.m3u8
+#EXTINF:-1 tvg-name="GoUSA TV" group-title="国际-体育", GoUSA TV
+https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
+#EXTINF:-1 tvg-name="Inside Outside" group-title="国际-体育", Inside Outside
+https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+#EXTINF:-1 tvg-name="Adventure Earth" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="国际-体育", Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-name="Autentic History" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="国际-体育", Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="国际-体育", Autentic Travel
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-name="Reality - Rakuten TV UK" tvg-id="GB2600021LP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20251013T054413SQUARE.png" group-title="国际-体育", Reality
+https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
+#EXTINF:-1 tvg-name="Family - Rakuten TV" tvg-id="GB2600017PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png" group-title="国际-体育", Family
+https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
 #EXTINF:-1 tvg-name="yoo" tvg-logo="http://huyaimg.msstatic.com/avatar/1059/89/54f8f985e5fce58ab7253c340ff19b_180_135.jpg?1498529740" group-title="国际-体育", yoo
 https://live.ottiptv.cc/huya/11352876
 #EXTINF:-1 tvg-name="Adjarasport 1" tvg-id="Adjarasport1.ge@SD" tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="国际-体育", Adjarasport 1
@@ -337,8 +463,6 @@ https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-name="TR Sport (480p)" tvg-id="TRSport.it@SD" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="国际-体育", TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Trace Sport Stars (Australia) (1080p)" tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="国际-体育", Trace Sport Stars (Australia) (1080p)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Türkmenistan Sport (406p) [Not 24/7]" tvg-id="TurkmenistanSport.tm@SD" tvg-logo="https://i.imgur.com/n6vITLu.png" group-title="国际-体育", Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-name="TVMsport+ (1080p)" tvg-id="TVMsportPlus.mt@SD" tvg-logo="https://i.imgur.com/YIreFti.png" group-title="国际-体育", TVMsport+ (1080p)
@@ -369,66 +493,114 @@ http://31.148.48.15/Match_Igra_HD/index.m3u8
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 tvg-name="Футбол (720p)" tvg-id="Football.ru@SD" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="国际-体育", Футбол (720p)
 http://31.148.48.15/Futbol_HD/index.m3u8
-#EXTINF:-1 tvg-name="Astro Football" tvg-id="AstroFootball" group-title="国际-体育", Astro Football
-https://smart.dxjc.pp.ua/smart.php?id=go_assp4&token=tmxk
-#EXTINF:-1 tvg-name="Astro football" tvg-id="Astrofootball" group-title="国际-体育", Astro football
-http://iptv.4666888.xyz/iptv2A.php?id=4
-#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-id="AstroSportsPlus" group-title="国际-体育", Astro Sports Plus
-https://smart.dxjc.pp.ua/smart.php?id=go_sportsplus&token=tmxk
-#EXTINF:-1 tvg-name="Astro W-Sports" tvg-id="AstroW-Sports" group-title="国际-体育", Astro W-Sports
-https://smart.dxjc.pp.ua/smart.php?id=go_assp5&token=tmxk
-#EXTINF:-1 tvg-name="Supersports 1" tvg-id="Supersports1" group-title="国际-体育", Supersports 1
-https://smart.dxjc.pp.ua/smart.php?id=Assp1&token=tmxk
-#EXTINF:-1 tvg-name="Supersports 2" tvg-id="Supersports2" group-title="国际-体育", Supersports 2
-https://smart.dxjc.pp.ua/smart.php?id=Assp2&token=tmxk
-#EXTINF:-1 tvg-name="Supersports 3" tvg-id="Supersports3" group-title="国际-体育", Supersports 3
-https://smart.dxjc.pp.ua/smart.php?id=Assp3&token=tmxk
-#EXTINF:-1 tvg-name="Supersports 4" tvg-id="Supersports4" group-title="国际-体育", Supersports 4
-https://smart.dxjc.pp.ua/smart.php?id=Assp4&token=tmxk
-#EXTINF:-1 tvg-name="Fight Sports" tvg-id="FightSports" group-title="国际-体育", Fight Sports
-https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
-#EXTINF:-1 tvg-name="NBA TV" tvg-id="NBATV" tvg-logo="https://11.112114.xyz/logo/NBA TV.png" group-title="国际-体育", NBA TV
-https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
-#EXTINF:-1 tvg-name="NBA TV" tvg-id="NBATV" tvg-logo="https://11.112114.xyz/logo/NBA TV.png" group-title="国际-体育", NBA TV
-http://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-name="Tnt Sports 1" tvg-id="TntSports1" group-title="国际-体育", Tnt Sports 1
-https://smart.dxjc.pp.ua/smart.php?id=6fac0aaead&token=tmxk
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-id="TNTSports2" group-title="国际-体育", TNT Sports 2
-https://smart.dxjc.pp.ua/smart.php?id=d9a76a79cc&token=tmxk
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-id="TNTSports3" group-title="国际-体育", TNT Sports 3
-https://smart.dxjc.pp.ua/smart.php?id=5fea4d73db&token=tmxk
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-id="TNTSports4" group-title="国际-体育", TNT Sports 4
-https://smart.dxjc.pp.ua/smart.php?id=tntsport4&token=tmxk
-#EXTINF:-1 tvg-name="Skysports F1" tvg-id="SkysportsF1" group-title="国际-体育", Skysports F1
-https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
-#EXTINF:-1 tvg-name="Sky Sports F1 4K" tvg-id="SkySportsF1" tvg-logo="https://11.112114.xyz/logo/Sky Sports F1 4K.png" group-title="国际-体育", Sky Sports F1 4K
-https://a1xs.vip/2000016
-#EXTINF:-1 tvg-name="Skysports Cricket" tvg-id="SkysportsCricket" group-title="国际-体育", Skysports Cricket
-https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
-#EXTINF:-1 tvg-name="Skysports EPL" tvg-id="SkysportsEPL" group-title="国际-体育", Skysports EPL
-https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
-#EXTINF:-1 tvg-name="Skysports Main Event" tvg-id="SkysportsMainEvent" group-title="国际-体育", Skysports Main Event
-https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
-#EXTINF:-1 tvg-name="Sky Sports Main Event 4K" tvg-id="SkySportsMainEvent" tvg-logo="https://11.112114.xyz/logo/Sky Sports Main Event 4K.png" group-title="国际-体育", Sky Sports Main Event 4K
-https://a1xs.vip/2000015
-#EXTINF:-1 tvg-name="Skysports Mix" tvg-id="SkysportsMix" group-title="国际-体育", Skysports Mix
-https://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
-#EXTINF:-1 tvg-name="RTM Sports HD" tvg-id="RTMSportsHD" group-title="国际-体育", RTM Sports HD
-https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
-#EXTINF:-1 tvg-name="Astro Beinsports 1" tvg-id="AstroBeinsports1" group-title="国际-体育", Astro Beinsports 1
-https://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
-#EXTINF:-1 tvg-name="Astro Beinsports 2" tvg-id="AstroBeinsports2" group-title="国际-体育", Astro Beinsports 2
-https://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
-#EXTINF:-1 tvg-name="Astro Beinsports 3" tvg-id="AstroBeinsports3" group-title="国际-体育", Astro Beinsports 3
-https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
-#EXTINF:-1 tvg-name="Freesports" tvg-id="Freesports" group-title="国际-体育", Freesports
-https://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
-#EXTINF:-1 tvg-name="beIN Sports USA" tvg-id="beINSportsUSA" tvg-logo="https://11.112114.xyz/logo/beIN Sports USA.png" group-title="国际-体育", beIN Sports USA
-http://143.244.60.30/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Ultimate 4K" tvg-id="TNTSportsUltimate" tvg-logo="https://11.112114.xyz/logo/TNT Sports Ultimate 4K.png" group-title="国际-体育", TNT Sports Ultimate 4K
-https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 tvg-name="Now Sports Premier League 1" tvg-id="NowSportsPremierLeague1" tvg-logo="https://11.112114.xyz/logo/Now Sports Premier League 1.png" group-title="国际-体育", Now Sports Premier League 1
-http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+#EXTINF:-1 tvg-name="SkyTennis+" tvg-id="SkyTennis+" tvg-logo="https://epg.112114.xyz/logo/SkyTennis+.png" group-title="国际-体育", SkyTennis+
+http://iptv.4666888.xyz/iptv2A.php?id=62
+#EXTINF:-1 tvg-name="48 Hours" tvg-id="48Hours.us@CA" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="国际-体育", 48 Hours
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
+#EXTINF:-1 tvg-name="48 Hours (1080p)" tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="国际-体育", 48 Hours (1080p)
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-name="90210" tvg-id="90210.us@SD" tvg-logo="https://i.imgur.com/xqo5PxO.png" group-title="国际-体育", 90210
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 tvg-name="ABC 7 Denver CO (KMGH) (720p)" tvg-id="KMGHTV71.us@HD" tvg-logo="https://i.imgur.com/MWvoICD.png" group-title="国际-体育", ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-name="ALLBLK Gems (720p)" tvg-id="ALLBLKGems.us@SD" tvg-logo="https://i.imgur.com/gnkepQJ.png" group-title="国际-体育", ALLBLK Gems (720p)
+https://df1zke3zj042m.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Almagd TV North America (1080p)" tvg-id="AlmagdTVNorthAmerica.us@SD" tvg-logo="https://i.imgur.com/3pUik3b.png" group-title="国际-体育", Almagd TV North America (1080p)
+https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ATXN2 (1080p)" tvg-id="ATXN2.us@SD" tvg-logo="https://i.imgur.com/tSMtDlz.png" group-title="国际-体育", ATXN2 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Originals (1080p)" tvg-id="BloombergOriginals.us@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="国际-体育", Bloomberg Originals (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="BritBox Mysteries (1080p)" tvg-id="BritBoxMysteries.us@SD" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="国际-体育", BritBox Mysteries (1080p)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-name="Cable 14 Hamilton" tvg-id="Cable14Hamilton.ca@SD" tvg-logo="https://i.imgur.com/bJ7ygTq.png" group-title="国际-体育", Cable 14 Hamilton
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
+#EXTINF:-1 tvg-name="Caribbean Hot 7 TV (720p)" tvg-id="CaribbeanHot7TV.lc@SD" tvg-logo="https://i.ibb.co/sjTS4xD/logo116x90-2.png" group-title="国际-体育", Caribbean Hot 7 TV (720p)
+https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Chile Channel (720p)" tvg-id="ChileChannel.cl@SD" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="国际-体育", Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-name="Classic TV Comedy" tvg-id="ClassicTVComedy.us@SD" tvg-logo="https://i.imgur.com/wg5I5Fb.png" group-title="国际-体育", Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+#EXTINF:-1 tvg-name="Classic TV Drama" tvg-id="ClassicTVDrama.us@SD" tvg-logo="https://i.imgur.com/XHQxv0x.png" group-title="国际-体育", Classic TV Drama
+https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+#EXTINF:-1 tvg-name="Crime360 (1080p)" tvg-id="Crime360.us@SD" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="国际-体育", Crime360 (1080p)
+https://eb3933ec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZTM2MF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="Duck Hunting TV (1080p)" tvg-id="DuckHuntingTV.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" group-title="国际-体育", Duck Hunting TV (1080p)
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+#EXTINF:-1 tvg-name="Fail Army (720p)" tvg-id="FailArmy.us@Poland" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="国际-体育", Fail Army (720p)
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="Frasier" tvg-id="Frasier.us@US" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="国际-体育", Frasier
+https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
+#EXTINF:-1 tvg-name="Harvest USA (576p)" tvg-id="HarvestUSA.in@SD" group-title="国际-体育", Harvest USA (576p)
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Home.Made.Nation (1080p)" tvg-id="HomeMadeNation.us@SD" tvg-logo="https://i.imgur.com/IdGNIoB.png" group-title="国际-体育", Home.Made.Nation (1080p)
+https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="InWonder (1080p)" tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="国际-体育", InWonder (1080p)
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Just for Laughs Gags (1080p)" tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="国际-体育", Just for Laughs Gags (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1 tvg-name="Living Faith TV (540p)" tvg-id="LivingFaithTV.us@SD" tvg-logo="https://i.imgur.com/FuNpesJ.png" group-title="国际-体育", Living Faith TV (540p)
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1 tvg-name="Logos TV English (1080p) [Not 24/7]" tvg-id="LogosTVEnglish.us@SD" tvg-logo="https://i.imgur.com/LDfEK81.png" group-title="国际-体育", Logos TV English (1080p) [Not 24/7]
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
+#EXTINF:-1 tvg-name="Lone Star (720p)" tvg-id="LoneStar.us@Poland" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png" group-title="国际-体育", Lone Star (720p)
+https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="Midpen Media Center Youth Education and Sports Channel 28 (720p)" tvg-id="MidpenMediaCenterChannel28.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="国际-体育", Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Mission TV (1080p) [Not 24/7]" tvg-id="MissionTV.us@SD" tvg-logo="https://i.imgur.com/Hb38BNo.png" group-title="国际-体育", Mission TV (1080p) [Not 24/7]
+https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV Spankin’ New (1080p)" tvg-id="MTVSpankinNew.us@US" tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="国际-体育", MTV Spankin’ New (1080p)
+https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
+#EXTINF:-1 tvg-name="Munnaaru" tvg-id="Munnaaru.mv@SD" tvg-logo="https://i.imgur.com/Adhr5xq.png" group-title="国际-体育", Munnaaru
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+#EXTINF:-1 tvg-name="PBS Kids Alaska (1080p)" tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="国际-体育", PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-name="People Are Awesome (720p)" tvg-id="PeopleAreAwesome.us@Poland" tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="国际-体育", People Are Awesome (720p)
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Cars" tvg-id="PlutoTVCars.us@SD" tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="国际-体育", Pluto TV Cars
+https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Conspiracy" tvg-id="PlutoTVConspiracy.us@UK" tvg-logo="https://i.imgur.com/sr0kYSH.png" group-title="国际-体育", Pluto TV Conspiracy
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+#EXTINF:-1 tvg-name="Pluto TV History" tvg-id="PlutoTVHistory.us@UK" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="国际-体育", Pluto TV History
+https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Science" tvg-id="PlutoTVScience.us@UK" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="国际-体育", Pluto TV Science
+https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series" tvg-id="PlutoTVSeries.us@UK" tvg-logo="https://i.imgur.com/7ouD3E6.png" group-title="国际-体育", Pluto TV Series
+https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+#EXTINF:-1 tvg-name="PowerNation (1080p)" tvg-id="PowerNationTV.us@SD" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="国际-体育", PowerNation (1080p)
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pursuit Channel (1080p)" tvg-id="PursuitChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" group-title="国际-体育", Pursuit Channel (1080p)
+https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
+#EXTINF:-1 tvg-name="Rakuten VIKI" tvg-id="RakutenViki.us@Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="国际-体育", Rakuten VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rugby Pass TV (720p)" tvg-id="RugbyPassTV.uk@SD" group-title="国际-体育", Rugby Pass TV (720p)
+https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
+#EXTINF:-1 tvg-name="S4C (1080p) [Geo-blocked]" tvg-id="S4C.uk@SD" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="国际-体育", S4C (1080p) [Geo-blocked]
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Pluto TV" tvg-id="SmithsonianChannelSelects.us@SD" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" group-title="国际-体育", Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:-1 tvg-name="Stingray Holidayscapes (1080p)" tvg-id="StingrayHolidayscapes.ca@HD" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png" group-title="国际-体育", Stingray Holidayscapes (1080p)
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 tvg-name="TalkTV (1080p)" tvg-id="TalkTV.uk@SD" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="国际-体育", TalkTV (1080p)
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo telenovelas clásicas" tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="国际-体育", Telemundo telenovelas clásicas
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+#EXTINF:-1 tvg-name="The Amazing Race" tvg-id="TheAmazingRace.us@SD" tvg-logo="https://i.imgur.com/5yzPhRo.png" group-title="国际-体育", The Amazing Race
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective (720p)" tvg-id="ThePetCollective.us@Poland" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="国际-体育", The Pet Collective (720p)
+https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Tiny House Nation (1080p)" tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" group-title="国际-体育", Tiny House Nation (1080p)
+https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Transformers TV (720p)" tvg-id="TransformersTV.cm@SD" tvg-logo="https://i.imgur.com/EQRyJMI.png" group-title="国际-体育", Transformers TV (720p)
+https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
+#EXTINF:-1 tvg-name="True Crime UK (1080p)" tvg-id="TrueCrime.uk@SD" tvg-logo="https://i.imgur.com/LK2NFst.png" group-title="国际-体育", True Crime UK (1080p)
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Land Sitcoms" tvg-id="TVLandSitcoms.us@SD" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="国际-体育", TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
+#EXTINF:-1 tvg-name="Yo! MTV (1080p)" tvg-id="YoMTV.us@SD" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="国际-体育", Yo! MTV (1080p)
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+#EXTINF:-1 tvg-name="Star Sports" group-title="国际-体育", Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-name="[BD]CNA" tvg-id="3119" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="国际-体育", [BD]CNA
 https://epg.pm/stream/c0849f17256eeb0ced9e89289cbc03181ed9c21f1a29632b4259ffe073f09119.m3u8
 #EXTINF:-1 tvg-name="[BD]CNA(1080p)" tvg-id="3119" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="国际-体育", [BD]CNA(1080p)
@@ -455,6 +627,10 @@ https://epg.pm/stream/f3d7395b766f700e4f94e1b4f5ba3de866195994833e1a6d01f71b0edd
 https://epg.pm/stream/9556a3a874df041096990bf4a1e0dab01e5601f5b4e318d490e234f188b77c80.m3u8
 #EXTINF:-1 tvg-name="[HD]Nasa TV" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/13/large/20220413155427378563_60.png" group-title="国际-体育", [HD]Nasa TV
 https://epg.pm/stream/ef2dfa8d6e250b6ca6e3faaecf17d69554e7e81ecaf76f51d1825bc7873ec038.m3u8
+#EXTINF:-1 tvg-name="[HD]NASA TV" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/13/large/20220413155427378563_60.png" group-title="国际-体育", [HD]NASA TV
+https://epg.pm/stream/d79b50e721a3362d3cbe7d47b6cc3989101d0fe38c70675101578ee62b0fa836.m3u8
+#EXTINF:-1 tvg-name="[HD]Nasa TV" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/13/large/20220413155427378563_60.png" group-title="国际-体育", [HD]Nasa TV
+https://epg.pm/stream/3566865d89a6d12c60190aa89faf0fb163b26279602e7aeed7fabc3cd3f085c3.m3u8
 #EXTINF:-1 tvg-name="[BD]Bloomberg TV+ 4K" tvg-logo="https://files.3y1.xyz/media/img/logo/Bloomberg.PNG" group-title="国际-体育", [BD]Bloomberg TV+ 4K
 https://epg.pm/stream/95f14257ba5fcb295ee3222804516b8b63b310ef1192333a20a049970e7116fb.m3u8
 #EXTINF:-1 tvg-name="[HD]360 TV (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175016402732_80.png" group-title="国际-体育", [HD]360 TV (720p) [Not 24/7]
@@ -491,8 +667,6 @@ https://epg.pm/stream/5d619fa12c9b45ee608c5664df03e95851bc9f605ca3d74cd1a142976b
 https://epg.pm/stream/1b4006c6ce131a86ed65b55f511a05b1d053c9012ca2968455a30ec22e0923e6.m3u8
 #EXTINF:-1 tvg-name="[HD]TV2 Nyhetsstrømmen (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163756123824_29.png" group-title="国际-体育", [HD]TV2 Nyhetsstrømmen (720p)
 https://epg.pm/stream/c984c5537db3ed04aa01711f1683a167d097ee0fdba15f2a4c3f6fc8edc0d7be.m3u8
-#EXTINF:-1 tvg-name="[SD]TV5" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163753422493_33.png" group-title="国际-体育", [SD]TV5
-https://epg.pm/stream/d6f477bfab3f10fdd682459444691042ee6e3ca971a4c498c45bcc78666f933c.m3u8
 #EXTINF:-1 tvg-name="[BD]World Fashion Channel" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="国际-体育", [BD]World Fashion Channel
 https://epg.pm/stream/16fea34650ec5592db588529f1834e9f6fbe0b1e4911a53c513c9c282ae6b9d6.m3u8
 #EXTINF:-1 tvg-name="[HD]Rouge TV" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/c238851ba7450ae83e38b198b8056ca5.png" group-title="国际-体育", [HD]Rouge TV
@@ -513,10 +687,12 @@ https://epg.pm/stream/2e6592bcd5f1137e6b647547c1bfaad36e55bb796f354f07fa4c4205c7
 https://epg.pm/stream/708bf8efe31f251e2a2e2f9d47fc7079f103695480b8912d5393172268c26ff3.m3u8
 #EXTINF:-1 tvg-name="[BD]DUBAI SPORTS" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="国际-体育", [BD]DUBAI SPORTS
 https://epg.pm/stream/f01c5b5e1570471713c64ce4a09234cab49763a983df347e321e454eece17110.m3u8
-#EXTINF:-1 tvg-name="[BD]Dubai Sports 3" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="国际-体育", [BD]Dubai Sports 3
-https://epg.pm/stream/903a97b6afd7da2c2979f3e2fc985cfb2ce9c27baadc7ab94486168cb96944c5.m3u8
 #EXTINF:-1 tvg-name="[BD]Dubai Sports" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="国际-体育", [BD]Dubai Sports
 https://epg.pm/stream/2811aa5428e6591c37cd1643a07e32b9822ae5ac2e0beb1c80d8c0d1d342577d.m3u8
+#EXTINF:-1 tvg-name="[BD]DUBAI SPORTS" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="国际-体育", [BD]DUBAI SPORTS
+https://epg.pm/stream/e7c9aeab84fe21ae29be19712d8b48a3ec0fc99cef2f454446b9ac4a839782b6.m3u8
+#EXTINF:-1 tvg-name="[BD]Dubai Sports 3" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="国际-体育", [BD]Dubai Sports 3
+https://epg.pm/stream/903a97b6afd7da2c2979f3e2fc985cfb2ce9c27baadc7ab94486168cb96944c5.m3u8
 #EXTINF:-1 tvg-name="[BD]Dubai Sports 1" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="国际-体育", [BD]Dubai Sports 1
 https://epg.pm/stream/bdd4fad61dec02a4bd9e0ff251de4d86858d775d72aec3642b95b2815bcdef82.m3u8
 #EXTINF:-1 tvg-name="[BD]FIGHT SPORTS (1080p)" tvg-id="4234" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/07/29/large/20170729150636104384_95.jpg" group-title="国际-体育", [BD]FIGHT SPORTS (1080p)
@@ -525,10 +701,12 @@ https://epg.pm/stream/42e1b7a16477b14ee6cb7225d9bfdea4c2503103ca2e716fa91b7e6081
 https://epg.pm/stream/b04c4974e73cad4b90c010ac743c503e9aef87bfdf5df17a08594a546ba8cbb4.m3u8
 #EXTINF:-1 tvg-name="[BD]Dubai TV (1080p)" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/0b911530a588e0e4017ace47738d78a7.jpg" group-title="国际-体育", [BD]Dubai TV (1080p)
 https://epg.pm/stream/341847f16d39dba41733416372716e38471e0a5e78f845751b25d04d8d9e1872.m3u8
+#EXTINF:-1 tvg-name="[BD]Trace Sport Stars" tvg-id="4100" tvg-logo="https://files.3y1.xyz/media/img/logo/1_283.jpg" group-title="国际-体育", [BD]Trace Sport Stars
+https://epg.pm/stream/daaf418431a931525ce042dd216ab6c2b853b09590a2f2848a1fb91ee65e553c.m3u8
+#EXTINF:-1 tvg-name="[BD]Trace Sport Stars (1080p) [Geo-blocked]" tvg-id="4100" tvg-logo="https://files.3y1.xyz/media/img/logo/1_283.jpg" group-title="国际-体育", [BD]Trace Sport Stars (1080p) [Geo-blocked]
+https://epg.pm/stream/ecb635154790ad60be9f7dfa27085596a6ca2d97c201209afa6a16f57bf7f7cd.m3u8
 #EXTINF:-1 tvg-name="[BD]Dubai Sports 1 (1080p)" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="国际-体育", [BD]Dubai Sports 1 (1080p)
 https://epg.pm/stream/f8eb9b8efc89aac68c9af1b00d601626bf8e2d2240f00b0ccf11aef6deac105f.m3u8
-#EXTINF:-1 tvg-name="[BD]DUBAI SPORTS" tvg-logo="https://files.3y1.xyz/media/img/logo/dubai_sports.PNG" group-title="国际-体育", [BD]DUBAI SPORTS
-https://epg.pm/stream/e7c9aeab84fe21ae29be19712d8b48a3ec0fc99cef2f454446b9ac4a839782b6.m3u8
 #EXTINF:-1 tvg-name="[SD]Kanal 10 Asia (540p)" tvg-id="2833" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/02/29/large/20200229001635260719_33.png" group-title="国际-体育", [SD]Kanal 10 Asia (540p)
 https://epg.pm/stream/087a5b6bb7cb3750bdde4c59f1b61439145d1e08473a3d002e43434fce997ae2.m3u8
 #EXTINF:-1 tvg-name="[BD]MTA7 Asia (1080p)" tvg-id="2833" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/02/29/large/20200229001635260719_33.png" group-title="国际-体育", [BD]MTA7 Asia (1080p)
@@ -599,10 +777,14 @@ https://epg.pm/stream/84b263e781e5f1f9e85bd79088c82a7d5d8b6dd935d5261fbf74ae6d8f
 https://epg.pm/stream/86507dfdc5e515904f34592da343614f1d51b197356cd301cde5b121691eb9c0.m3u8
 #EXTINF:-1 tvg-name="[HD]NASA" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164631208687_15.png" group-title="国际-体育", [HD]NASA
 https://epg.pm/stream/70080337ea447cb7d5e3bdc535cd20340a7ee76ca58f1f852a72a80f5bdf4585.m3u8
-#EXTINF:-1 tvg-name="[HD]KBS-24" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/27/large/20220227213624827844_16.png" group-title="国际-体育", [HD]KBS-24
-https://epg.pm/stream/8194b1171389577c12bf11a248c096c9186c4bf6b9d5178048cf1eee86680239.php
+#EXTINF:-1 tvg-name="[HD]NASA" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164631208687_15.png" group-title="国际-体育", [HD]NASA
+https://epg.pm/stream/4ff7fa8b43b70d69324182546067d3aa40fdb9ba66603db86cb55f67c2e97ffb.m3u8
+#EXTINF:-1 tvg-name="[HD]NASA" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164631208687_15.png" group-title="国际-体育", [HD]NASA
+https://epg.pm/stream/574a47e76b0ac6f84035c644d8726b1e2998c949fe8b29ed8ae2f2bc933f2d1e.m3u8
 #EXTINF:-1 tvg-name="[HD]NASA" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164631208687_15.png" group-title="国际-体育", [HD]NASA
 https://epg.pm/stream/d1a15499b97188de90a7f1b4d982f3f6935ebb110479acc37bd16bc2ad863865.m3u8
+#EXTINF:-1 tvg-name="[HD]KBS-24" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/27/large/20220227213624827844_16.png" group-title="国际-体育", [HD]KBS-24
+https://epg.pm/stream/8194b1171389577c12bf11a248c096c9186c4bf6b9d5178048cf1eee86680239.php
 #EXTINF:-1 tvg-name="[HD]Runway TV" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174500460981_89.png" group-title="国际-体育", [HD]Runway TV
 https://epg.pm/stream/bf79ee57e7374f139353f5a4a723d64961351cfb98753da22f3c73adcd5b9de7.m3u8
 #EXTINF:-1 tvg-name="[HD]Retro Plus 2 HD" tvg-logo="https://files.3y1.xyz/media/img/logo/1_118.jpg" group-title="国际-体育", [HD]Retro Plus 2 HD
@@ -629,8 +811,6 @@ https://epg.pm/stream/6178fc7dfeaede5e8ff712f1cfa170086102c0c0ee15987bd3d3916032
 https://epg.pm/stream/ea357896239d0d7ca34460487691fc50832b2fa18443df1485ebe33f256f7a65.m3u8
 #EXTINF:-1 tvg-name="[VGA]Nghệ An" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/21/large/20151121164407228859_98.jpg" group-title="国际-体育", [VGA]Nghệ An
 https://epg.pm/stream/79e2bb9ef1433a4fe6063aa4d07ff51856f67b3e01be233dd46300f26c8e8bff.m3u8
-#EXTINF:-1 tvg-name="[SD]QTV1" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/21/large/20151121163504942303_82.jpg" group-title="国际-体育", [SD]QTV1
-https://epg.pm/stream/8f129a8273e102903f7f8c1377317780a012d240c96db2cd0595e92f3abedabd.m3u8
 #EXTINF:-1 tvg-name="[VGA]Hiru TV (360p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/12/02/large/20151202112522237081_19.jpg" group-title="国际-体育", [VGA]Hiru TV (360p) [Not 24/7]
 https://epg.pm/stream/ffac72e78df8d0e2d593f81b8f57e7de9d0e68f64772775ae5950a3e217f1e85.m3u8
 #EXTINF:-1 tvg-name="[BD]MDF" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/08/large/20151108122424295363_11.jpg" group-title="国际-体育", [BD]MDF
@@ -647,12 +827,12 @@ https://epg.pm/stream/534f1dd8e4f779f044d4c76d19a010ffc4b4094f4225df128684415894
 https://epg.pm/stream/fac8589d30b14e7b2fb5b5f1b4d691e7874beb952e510ca0c466ca70c2a4b445.m3u8
 #EXTINF:-1 tvg-name="[SD]C10[720*540]" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/21/large/20151121144329535252_30.jpg" group-title="国际-体育", [SD]C10[720*540]
 https://epg.pm/stream/79825c71391fd92a4eb1b96e00b6c2ca15d8ae8aa5ef9e92028d93f1ed031ff1.m3u8
-#EXTINF:-1 tvg-name="[SD]QTV3" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/21/large/20151121164012824610_71.jpg" group-title="国际-体育", [SD]QTV3
-https://epg.pm/stream/94d8cea663773cf4f1f4f9a8a35ef6883db372178b8478d4b8731c6d9cfaaa14.m3u8
 #EXTINF:-1 tvg-name="[HD]Vod2" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2015/12/04/20151204163615566433_69.png" group-title="国际-体育", [HD]Vod2
 https://epg.pm/stream/0f69117b3fa28f2091af5d1e03f1d9de88734e916d987ae65e7843a50ee85487.m3u8
 #EXTINF:-1 tvg-name="[HD]Fuel TV" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174301992195_20.png" group-title="国际-体育", [HD]Fuel TV
 https://epg.pm/stream/198f30bd36ae1d6f15f51890b9ef8d3adb20f2992cad34e98c554566cced2d7f.m3u8
+#EXTINF:-1 tvg-name="[HD]FuelTV" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174301992195_20.png" group-title="国际-体育", [HD]FuelTV
+https://epg.pm/stream/a0613dcdeb05320d0abc8e1a224093159cf972127636b244a45096093b6baa7b.m3u8
 #EXTINF:-1 tvg-name="[BD]Spotlight (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/30/large/20151130164053852650_51.jpg" group-title="国际-体育", [BD]Spotlight (1080p)
 https://epg.pm/stream/43055707194124254b9cc98931840535af2c740cb2a96b1b2c8478f1b1e839b4.m3u8
 #EXTINF:-1 tvg-name="[HD]TVP2" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/12/01/large/20151201084048807563_83.jpg" group-title="国际-体育", [HD]TVP2
@@ -667,6 +847,10 @@ https://epg.pm/stream/c180c4ccd6c5c152d4eaf79100e93583d600563bb3115e57c40bfb5f1f
 https://epg.pm/stream/0e2892c1c959f116f7a4254c88be839f0b96e0be778b10b47b300aea1d141562.m3u8
 #EXTINF:-1 tvg-name="[HD]TVRI Nasional" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173857976881_92.png" group-title="国际-体育", [HD]TVRI Nasional
 https://epg.pm/stream/f1169b5f643548a7d44fff6dc5217348b005cb904b74af180d07235642207de7.m3u8
+#EXTINF:-1 tvg-name="[HD]TVRI Nasional" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173857976881_92.png" group-title="国际-体育", [HD]TVRI Nasional
+https://epg.pm/stream/a7117f552a510439e1a122212f94561386657fa4894dd0d4413a05e36332aa88.m3u8
+#EXTINF:-1 tvg-name="[HD]TVRI Nasional" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173857976881_92.png" group-title="国际-体育", [HD]TVRI Nasional
+https://epg.pm/stream/a5226a4cedea1fee0de92f00349877cf69c68e773db5e02987915d7fb272a381.m3u8
 #EXTINF:-1 tvg-name="[BD]Eurosport2 HD@@6" tvg-id="3943" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="国际-体育", [BD]Eurosport2 HD@@6
 https://epg.pm/stream/7f5581c47c97352dde137a710a70d2e93e011996aa4abf5484b1c1015796ea06.m3u8
 #EXTINF:-1 tvg-name="[BD]Eurosport2 HD" tvg-id="3943" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="国际-体育", [BD]Eurosport2 HD
@@ -687,22 +871,16 @@ https://epg.pm/stream/e81f51430a3bbaa6e8b0d95f380fdc70eb3ed996ae0be0ebef27966728
 https://epg.pm/stream/26d6b98fdb7a4eed5eecb203429f02bafce613ed64f0065e6a4905900325ae5f.m3u8
 #EXTINF:-1 tvg-name="[BD]Eurosport2 HD@@1" tvg-id="3943" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/25/large/20220525022137116147_53.png" group-title="国际-体育", [BD]Eurosport2 HD@@1
 https://epg.pm/stream/f5bff59c826299b6cc1bd9e14b99d4882204a3083fa1fd72a503bf8142acae79.m3u8
-#EXTINF:-1 tvg-name="[SD]CAN THO" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/12/23/large/20151223181012391535_19.jpg" group-title="国际-体育", [SD]CAN THO
-https://epg.pm/stream/0b11502b647753fdcd0d30a951a7ab2ffcbf07d6a9db6277ccc0f17a343801bc.m3u8
 #EXTINF:-1 tvg-name="[BD]a.tv (1080p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174722849820_82.png" group-title="国际-体育", [BD]a.tv (1080p) [Not 24/7]
 https://epg.pm/stream/54f8453ed83f32c94d3f1ff597fe889f5a5101d7b416bed5663169e3991a028d.m3u8
 #EXTINF:-1 tvg-name="[HD]ESPORTE" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/01/05/20160105181016237369_96.jpg" group-title="国际-体育", [HD]ESPORTE
 https://epg.pm/stream/7eb4dccd57a165a2e6120d57a6629b229057f34db4206d7fb2a5218fe0e42606.m3u8
+#EXTINF:-1 tvg-name="[HD]ESPORTE" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/01/05/20160105181016237369_96.jpg" group-title="国际-体育", [HD]ESPORTE
+https://epg.pm/stream/53af7bf8211563372d6cee2351e47e4703b8bba5f7d8c7224a883e0f17ba80f2.m3u8
 #EXTINF:-1 tvg-name="[VGA]TVRI NASIONAL" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173857976881_92.png" group-title="国际-体育", [VGA]TVRI NASIONAL
 https://epg.pm/stream/2850453a434814d75bf0c8cb1ebccd5f7db314657e563bc3af54fb4216f101a3.m3u8
 #EXTINF:-1 tvg-name="[SD]Di TV (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174650301157_36.png" group-title="国际-体育", [SD]Di TV (720p)
 https://epg.pm/stream/f09a040f19a503fa0f7afe3358f64d54abb958e388a82f7cdd2a144c1e92f85a.m3u8
-#EXTINF:-1 tvg-name="[HD]ESPORTE" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/01/05/20160105181016237369_96.jpg" group-title="国际-体育", [HD]ESPORTE
-https://epg.pm/stream/53af7bf8211563372d6cee2351e47e4703b8bba5f7d8c7224a883e0f17ba80f2.m3u8
-#EXTINF:-1 tvg-name="[VGA]TVRI" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/01/05/20160105172823887391_81.jpg" group-title="国际-体育", [VGA]TVRI
-https://epg.pm/stream/3ddbcfda85a99f8c7b5f955580d9f2a199a054a19e18ab489a5fb08abf1b7066.m3u8
-#EXTINF:-1 tvg-name="[BD]NATIONAL GEOGRAPHIC" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="国际-体育", [BD]NATIONAL GEOGRAPHIC
-https://epg.pm/stream/f145cd1925674e8a7e6713182e57b4cc1b6ee28efb2847405ae08f25e039ba21.m3u8
 #EXTINF:-1 tvg-name="[HD]Kanal 68 (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175021665970_15.png" group-title="国际-体育", [HD]Kanal 68 (720p) [Not 24/7]
 https://epg.pm/stream/ed02f167aa7216c61f4443b6a0f677a66b686579afbbf617cb5066f176d01179.m3u8
 #EXTINF:-1 tvg-name="[HD]Malta (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/01/05/20160105045351650501_86.jpg" group-title="国际-体育", [HD]Malta (720p) [Not 24/7]
@@ -729,6 +907,8 @@ https://epg.pm/stream/a1c90088ef9326d903d6d7beb26e48f8c2a977478f1beb7ff41c914b33
 https://epg.pm/stream/87381f96d95641f10259d1fd90f7a44aed9ce3dee077007838d1db4c4ef24e99.m3u8
 #EXTINF:-1 tvg-name="[HD]ALL Sports" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174820631691_82.png" group-title="国际-体育", [HD]ALL Sports
 https://epg.pm/stream/85fd755fcc91c15ea776a6369c1f5714cb612d5e18cfc8713082e036326a4a3d.m3u8
+#EXTINF:-1 tvg-name="[HD]All Sports" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174820631691_82.png" group-title="国际-体育", [HD]All Sports
+https://epg.pm/stream/58e5687e877dd2eada124250cd1dba0c5052c7620aeb05bf19622b1fc9723adc.m3u8
 #EXTINF:-1 tvg-name="[HD]Zagros (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173856950611_69.png" group-title="国际-体育", [HD]Zagros (720p) [Not 24/7]
 https://epg.pm/stream/3596005c905f8c810e7e3018ac6c539f1cad5852eea63ff0c18776f0f650429d.m3u8
 #EXTINF:-1 tvg-name="[VGA]Vision 4 (360p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175031386401_36.png" group-title="国际-体育", [VGA]Vision 4 (360p)
@@ -737,6 +917,8 @@ https://epg.pm/stream/526ecb421a21dc3b68d9cb3aae96e1df11ec749e4dd07e86d0cf89e12a
 https://epg.pm/stream/212d4fbd6cc924a3f449eddb7878eb243b69a1fd4f499f103fc0a9b50efd6807.m3u8
 #EXTINF:-1 tvg-name="[BD]Abu Dhabi Sports 4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174634070824_58.png" group-title="国际-体育", [BD]Abu Dhabi Sports 4
 https://epg.pm/stream/d5eeac1975dee3653431017beeacea84859c7a3adf9bb21c96fe658a9720752e.m3u8
+#EXTINF:-1 tvg-name="[BD]Abu Dhabi Sports 4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174634070824_58.png" group-title="国际-体育", [BD]Abu Dhabi Sports 4
+https://epg.pm/stream/11a1af056c60f2edb489ca2bae1d519b7b3d1fc62842abd01e29b758aa28987f.m3u8
 #EXTINF:-1 tvg-name="[VGA]SAT-7 KIDS (1080p)" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/02/04/20170204174239226615_87.jpg" group-title="国际-体育", [VGA]SAT-7 KIDS (1080p)
 https://epg.pm/stream/8e5a62dc6e9cf14f19cb31a9324b7c5d2ec4ff4ad3184b01d3c5075cabff1309.m3u8
 #EXTINF:-1 tvg-name="[HD]All Sports@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174820631691_82.png" group-title="国际-体育", [HD]All Sports@@1
@@ -747,16 +929,12 @@ https://epg.pm/stream/3fd1158746cf898a24f53dfb18c23936efe16e7f2772d40cff62132252
 https://epg.pm/stream/f4fd8b6c9ac7d4a679ac50724bd1d771f175184c4333a46fc7ee4b4637b3e81a.m3u8
 #EXTINF:-1 tvg-name="[HD]Луч (Пуровск) (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174443140373_91.png" group-title="国际-体育", [HD]Луч (Пуровск) (720p) [Not 24/7]
 https://epg.pm/stream/3700df11a9bfef7134eadb8f78c1429530287e39595eeee80bd5a7b7f481eccc.m3u8
-#EXTINF:-1 tvg-name="[VGA]YTN Science" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/25/large/20220525022204061258_12.png" group-title="国际-体育", [VGA]YTN Science
-https://epg.pm/stream/962728b1f03d930d833f4b6ae6280010e66bfce5df1db6288173a421e01e7320.m3u8
 #EXTINF:-1 tvg-name="[SD]Telenord (576p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/11/13/large/20211113231317866233_71.png" group-title="国际-体育", [SD]Telenord (576p) [Not 24/7]
 https://epg.pm/stream/9b096909b4c70f128ace4c80de7094b9c271fe26a9076aa7210fdd4291921a3c.m3u8
 #EXTINF:-1 tvg-name="[SD]HSE24 Trend (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175004656765_58.png" group-title="国际-体育", [SD]HSE24 Trend (576p)
 https://epg.pm/stream/30965bebc7bcbf728239e12a6948d580de8664dce92d002ce0cbd5c5f1c387f8.m3u8
 #EXTINF:-1 tvg-name="[BD]Central" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/04/27/20160427051603982154_63.png" group-title="国际-体育", [BD]Central
 https://epg.pm/stream/5d61f9e1a6a5a0a4f14c78d167d898432d796e6ddc6a6ef0003aea7fc9e7e70b.m3u8
-#EXTINF:-1 tvg-name="[BD]Dubai Racing 2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163800003846_85.png" group-title="国际-体育", [BD]Dubai Racing 2
-https://epg.pm/stream/e0189455b20e000895397f12e149bc2e08ee03d089ade7e507b996cc86d45d98.m3u8
 #EXTINF:-1 tvg-name="[BD]ТВ-3 (540p) [Geo-blocked]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175050395781_63.png" group-title="国际-体育", [BD]ТВ-3 (540p) [Geo-blocked]
 https://epg.pm/stream/111e1cd5527d3b856104d6ba8267fad451d755e8fdf1195ebdc1b1bf7a5daf25.m3u8
 #EXTINF:-1 tvg-name="[BD]Koogi TV (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174032536888_55.png" group-title="国际-体育", [BD]Koogi TV (1080p)
@@ -767,22 +945,26 @@ https://epg.pm/stream/7e88d5ca6db746053c9f58c40f6b949fc4a4c8f18e96b368a3f7ad7fcc
 https://epg.pm/stream/be63a7f9deace7ae721d98319cf30dcb25d55ff1e05808d98e49b3bbeed1c289.m3u8
 #EXTINF:-1 tvg-name="[HD]NBS" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/25/20170325214012527241_92.jpg" group-title="国际-体育", [HD]NBS
 https://epg.pm/stream/7491821da2a7d50bf3dadd3d6ea0cbfccbbe72e0409369910f12f18dc8f2853d.m3u8
+#EXTINF:-1 tvg-name="[HD]NBS" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/25/20170325214012527241_92.jpg" group-title="国际-体育", [HD]NBS
+https://epg.pm/stream/d6af89250e5d4afe844c2a075eee35d07332d5742e6b8e4cba15cad040de1ad0.m3u8
 #EXTINF:-1 tvg-name="[HD]Film+ HD" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174103482024_93.png" group-title="国际-体育", [HD]Film+ HD
 https://epg.pm/stream/d06ae0ab6868a862e3c62bda4ecdc6a72654f100007f6370089edb6feef92742.m3u8
 #EXTINF:-1 tvg-name="[HD]OBS" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/25/20170325214930324402_65.jpg" group-title="国际-体育", [HD]OBS
 https://epg.pm/stream/b18cbd27f1dd7f12e7f1fa2a553e4a3a2fa2b1ee5cf51d7d26cee1a90245394d.m3u8
 #EXTINF:-1 tvg-name="[VGA]21TV (480p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174313432020_68.png" group-title="国际-体育", [VGA]21TV (480p)
 https://epg.pm/stream/4c4859a63da2d187d9fcfbc0260142d2ec9bf8f1af62929ad89cd69d912f46b3.m3u8
-#EXTINF:-1 tvg-name="[BD]Christian Youth Channel" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174038918186_33.png" group-title="国际-体育", [BD]Christian Youth Channel
-https://epg.pm/stream/5fcd162df1e8862dfaffdd07a16dc58e6b07e47148fa6e9e248749ca505533b3.m3u8
 #EXTINF:-1 tvg-name="[BD]VTV (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174556047848_26.png" group-title="国际-体育", [BD]VTV (1080p)
 https://epg.pm/stream/b9d8cae10245aeeb241d5f9e94f8b66e7523f28ef654e46c33f0cf59355f15f4.m3u8
 #EXTINF:-1 tvg-name="[HD]TOKYO MX1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="国际-体育", [HD]TOKYO MX1
 https://epg.pm/stream/299765980d0b095fad57af102f9f8f779b7ad7de682a0366129bfe1f3202d4fc.m3u8
+#EXTINF:-1 tvg-name="[HD]Tokyo MX1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="国际-体育", [HD]Tokyo MX1
+https://epg.pm/stream/35c94f7e0f83bf851da2a5b73745cc946e98108d589e5324a346dce75bf73b9f.m3u8
+#EXTINF:-1 tvg-name="[HD]Tokyo MX 1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="国际-体育", [HD]Tokyo MX 1
+https://epg.pm/stream/2071ab0878a1e59c99cbac05736755775f5c7d2851750ed2d340430b74064aea.m3u8
+#EXTINF:-1 tvg-name="[HD]Tokyo MX 1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/12/large/20220512210811824393_73.jpg" group-title="国际-体育", [HD]Tokyo MX 1
+https://epg.pm/stream/cfabce4ec218675b5f8860e83cb904b95ea430d738132f9cd0b6ec19e12a9475.m3u8
 #EXTINF:-1 tvg-name="[HD]ETV2 (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164603528342_17.png" group-title="国际-体育", [HD]ETV2 (720p)
 https://epg.pm/stream/d4f1eeae6d3e01fe5d863c3df66d944f2a31e64aeb5440026caa0400e337d796.m3u8
-#EXTINF:-1 tvg-name="[BD]Abu Dhabi Sports 4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174634070824_58.png" group-title="国际-体育", [BD]Abu Dhabi Sports 4
-https://epg.pm/stream/11a1af056c60f2edb489ca2bae1d519b7b3d1fc62842abd01e29b758aa28987f.m3u8
 #EXTINF:-1 tvg-name="[VGA]Test" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/11/05/20161105150609372598_30.jpg" group-title="国际-体育", [VGA]Test
 https://epg.pm/stream/5710e27b659482b39ea57368b11c141b05743174f1f161a424ea7939fce59052.m3u8
 #EXTINF:-1 tvg-name="[VGA]EBS1 • GIÁO DỤC QUỐC GIA" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164549168056_35.png" group-title="国际-体育", [VGA]EBS1 • GIÁO DỤC QUỐC GIA
@@ -857,8 +1039,6 @@ https://epg.pm/stream/28dbbd519132f16b689d7c32078e704f5e336c4cd6d642729d10b05cc5
 https://epg.pm/stream/5437c674d24328dadfd37c00ba44002b974f108c62840ffb5945875e26c6e22c.m3u8
 #EXTINF:-1 tvg-name="[BD]24 TV (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174815982965_14.png" group-title="国际-体育", [BD]24 TV (1080p)
 https://epg.pm/stream/bb007c02f14d83efe238100fe6fec39984641c81ff89ce120919b4040aca8553.m3u8
-#EXTINF:-1 tvg-name="[HD]All Sports" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174820631691_82.png" group-title="国际-体育", [HD]All Sports
-https://epg.pm/stream/58e5687e877dd2eada124250cd1dba0c5052c7620aeb05bf19622b1fc9723adc.m3u8
 #EXTINF:-1 tvg-name="[VGA]TN2 HD • KHOA GIÁO & GIẢI TRÍ" tvg-logo="https://files.3y1.xyz/media/images/channel/2018/08/18/large/20180818222615306894_64.jpg" group-title="国际-体育", [VGA]TN2 HD • KHOA GIÁO & GIẢI TRÍ
 https://epg.pm/stream/5f77d05ce8a8f9fb2fdad9b4aa36c05378bb2580f9c17605f133450ec10b5efb.m3u8
 #EXTINF:-1 tvg-name="[VGA]Awaz TV" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/10/13/20161013073447527599_45.jpg" group-title="国际-体育", [VGA]Awaz TV
@@ -877,8 +1057,6 @@ https://epg.pm/stream/49249ed0279d595515b723cdee16e295ded824eb4d98e8acbd7111b874
 https://epg.pm/stream/ccaba6fc9bab858046f51e359ccb47189c4d750fa3248b91bb66d1b696f2ee0a.m3u8
 #EXTINF:-1 tvg-name="[VGA]MBN" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/25/large/20220525022249681393_31.png" group-title="国际-体育", [VGA]MBN
 https://epg.pm/stream/a535e4c4d04d2c13ec68ba88d7d254fd5cfeef92df1f3792686e9930124efbee.php
-#EXTINF:-1 tvg-name="[VGA]EBS 2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163811067957_34.png" group-title="国际-体育", [VGA]EBS 2
-https://epg.pm/stream/e238919385f85299f3ec24bf48174d5030f191aa5a7db60d1f97330a6cc37e57.php
 #EXTINF:-1 tvg-name="[HD]Beach TV 30A" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/06/large/20190106151553228539_89.png" group-title="国际-体育", [HD]Beach TV 30A
 https://epg.pm/stream/4c27bf079cbfaebc476ee67fa0d79c90fd1de8811207cf78b42a403e75a9f1ab.m3u8
 #EXTINF:-1 tvg-name="[HD]H2" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/06/large/20190106152016087592_35.png" group-title="国际-体育", [HD]H2
@@ -889,8 +1067,6 @@ https://epg.pm/stream/f7b5d2a47251b29fa458da8ceed4920964abd83dc6a606ce2cc95cfdaf
 https://epg.pm/stream/eddb9faebb691f63f12b0437b990d64e0c152011781ecbb99331ffbb3d5c1561.m3u8
 #EXTINF:-1 tvg-name="[HD]Atlanta Channel" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/06/large/20190106151538465454_86.png" group-title="国际-体育", [HD]Atlanta Channel
 https://epg.pm/stream/a55d5b3b953c25aefdf7e6f35dbfe0632c4c2eddee7d4a3f11732e9af685ab9a.m3u8
-#EXTINF:-1 tvg-name="[BD]VARZESH (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/03/05/large/20190305164409191749_29.png" group-title="国际-体育", [BD]VARZESH (1080p)
-https://epg.pm/stream/103fe12bce30f1738f927cf88803f37612e777ec88dc67abdde77c6aaaaedaa7.m3u8
 #EXTINF:-1 tvg-name="[BD]KSA Sports 1 (1080p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/11/13/large/20211113231338268967_68.png" group-title="国际-体育", [BD]KSA Sports 1 (1080p) [Not 24/7]
 https://epg.pm/stream/ed13e466d3252f588a95a58d9673b4de0c798120ce66b5511729f0bc65729588.m3u8
 #EXTINF:-1 tvg-name="[SD]Тамыр (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016224755339636_86.png" group-title="国际-体育", [SD]Тамыр (576p)
@@ -923,6 +1099,8 @@ https://epg.pm/stream/7e706085bf1a9d43cadc5badf3087e0d86287556540bc4dd7d2331307a
 https://epg.pm/stream/f2456607f93a8910cb685af1998d72330cbf32e96edc1ac26e0cabee25dd20e7.m3u8
 #EXTINF:-1 tvg-name="[BD]DREAMWORKS HD" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/11/27/large/20211127205316248478_57.png" group-title="国际-体育", [BD]DREAMWORKS HD
 https://epg.pm/stream/3c84dc9ec6f16bec81fadea6447300228f4cc1653d6f812ed9ef431e83b68bd1.m3u8
+#EXTINF:-1 tvg-name="[BD]DreamWorks HD" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/11/27/large/20211127205316248478_57.png" group-title="国际-体育", [BD]DreamWorks HD
+https://epg.pm/stream/c559b8b40c869b63039d9e2fb92540af902fa6a3de9f05cf309406098062204f.m3u8
 #EXTINF:-1 tvg-name="[HD]One TV (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/12/04/large/20211204195625715607_29.png" group-title="国际-体育", [HD]One TV (720p)
 https://epg.pm/stream/637a018f8715aa66e8abac3d7865c89f54c011af195165b01b4d8698cc8a3582.m3u8
 #EXTINF:-1 tvg-name="[HD]Tokyo MX2 (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/12/12/large/20211212021031598077_51.png" group-title="国际-体育", [HD]Tokyo MX2 (720p)
@@ -939,6 +1117,8 @@ https://epg.pm/stream/f6b72f10dbc3e47df275c2592797159fa867bb69f92731650bc58c5f51
 https://epg.pm/stream/7b8345f08ccaff31d85850ffffce053a5c4916c5088dc559841c4f14c83c18af.m3u8
 #EXTINF:-1 tvg-name="[BD]BLUE ANT EXTREME HD" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/10/large/20220210222503955847_51.png" group-title="国际-体育", [BD]BLUE ANT EXTREME HD
 https://epg.pm/stream/e96cbc50bc8d9c29a31c72f0f919bc218cc1decf8ff7f170c0eb6882499cac9e.m3u8
+#EXTINF:-1 tvg-name="[BD]BLUE ANT EXTREME HD" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/10/large/20220210222503955847_51.png" group-title="国际-体育", [BD]BLUE ANT EXTREME HD
+https://epg.pm/stream/cc83536c16050334f79b4d47c7801e8c83582d4f2d192e94b9a393d559cf4e74.m3u8
 #EXTINF:-1 tvg-name="[HD]JOJ (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/10/large/20220210221632440254_84.png" group-title="国际-体育", [HD]JOJ (720p) [Not 24/7]
 https://epg.pm/stream/cd24521b4f74907c0c091d11034d61d427cf1eae859c61715542268bc4c31f8e.m3u8
 #EXTINF:-1 tvg-name="[BD]Rotana Kids (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/10/large/20220210221706457701_26.png" group-title="国际-体育", [BD]Rotana Kids (1080p)
@@ -947,24 +1127,30 @@ https://epg.pm/stream/0baf2bcf1cd0506da64ff3893861b5ef48e6b3a97a7c6588bda2511d86
 https://epg.pm/stream/3cb56c2b317b7ee529609f11ae8dd73e94be66905605c2e5bca9675447c6cd11.m3u8
 #EXTINF:-1 tvg-name="[SD]Rik (540p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152224098447_74.png" group-title="国际-体育", [SD]Rik (540p) [Not 24/7]
 https://epg.pm/stream/1374f6712b1f213dad7ff68d4cdcd9a26a1d0222475700f70f1714cd86e3e6cf.m3u8
-#EXTINF:-1 tvg-name="[HD]선거방송" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/18/large/20220318090649552320_30.png" group-title="国际-体育", [HD]선거방송
-https://epg.pm/stream/bb7736db7d0eaa2cc9fd526546b25ccc6f1fa10952df641ee70ce616f834ecff.m3u8
 #EXTINF:-1 tvg-name="[HD]Icnet TV (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/18/large/20220318085634898989_41.png" group-title="国际-体育", [HD]Icnet TV (720p) [Not 24/7]
 https://epg.pm/stream/bef7d0467dc1788321c0912b82c41c8e28dd3adcc92903017f93565738f17178.m3u8
 #EXTINF:-1 tvg-name="[HD]EWTN Asia-Pacific (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/18/large/20220318090047293384_48.png" group-title="国际-体育", [HD]EWTN Asia-Pacific (720p) [Not 24/7]
 https://epg.pm/stream/3c861f91095a6fe97a60d5d41f7dde1aced0a70ce72d30f166801d7af0370289.m3u8
 #EXTINF:-1 tvg-name="[SD]Baby First" tvg-logo="https://files.3y1.xyz/media/img/logo/1_448.jpg" group-title="国际-体育", [SD]Baby First
 https://epg.pm/stream/5a23b0d39dd9ea9b6e907863b867b6da1f1e2b2725c20af59b14ec1eba89a56c.m3u8
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="国际-体育", TRACE Sport Stars
-http://220.135.64.124:5050/4gtv-4gtv077/index.m3u8
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="国际-体育", TRACE Sport Stars
-http://220.135.64.124:5050/li-4gtv-4gtv077/index.m3u8
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://php.946985.filegear-sg.me/logo/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="国际-体育", TRACE Sport Stars
-https://rust.946985.filegear-sg.me/proxy/7df3b5c5c9bd0d3e?token=tgJerryfeng
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-id="TRACESportStars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="国际-体育", TRACE Sport Stars
-http://114.32.153.6:5051/4gtv-4gtv077/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
-#EXTINF:-1 tvg-name="sports3" tvg-id="sports3" group-title="国际-体育", sports3
-http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-1 tvg-name="[SD]Baby First" tvg-logo="https://files.3y1.xyz/media/img/logo/1_448.jpg" group-title="国际-体育", [SD]Baby First
+https://epg.pm/stream/705bde7ab3870d84b67602ad1e3d06bfe50eb21eeaa539c8320b76947a56449f.m3u8
+#EXTINF:-1 tvg-name="Järviradio TV" tvg-id="JRTVJarviradio.fi" tvg-logo="https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg" group-title="国际-体育", Järviradio TV
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+#EXTINF:-1 tvg-name="Suspilne Sport" tvg-id="SuspilneSport.ua" tvg-logo="https://i.imgur.com/16IhU0M.png" group-title="国际-体育", Suspilne Sport
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 tvg-name="XSport Ⓢ" tvg-id="XSport.ua" tvg-logo="https://i.imgur.com/CHDcfrT.png" group-title="国际-体育", XSport
+http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
+#EXTINF:-1 tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" group-title="国际-体育", Cittaceleste Tv
+https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+#EXTINF:-1 tvg-name="Quarto Canale Flegreo" tvg-logo="https://i.imgur.com/8RKY3Du.png" group-title="国际-体育", Quarto Canale Flegreo
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TBN Baltia" tvg-id="TBNBaltia.ee" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="国际-体育", TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 tvg-name="����������" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c22b7cfef11f0828fac5eb.jpg?imageview/4/0/w/400/h/500/q/80" group-title="国际-体育", ����������
+http://43.251.226.110:8880/play/960.m3u8
+#EXTINF:-1 tvg-name="����������" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c22b7cfef11f0828fac5eb.jpg?imageview/4/0/w/400/h/500/q/80" group-title="国际-体育", ����������
+https://live.ottiptv.cc/yy/1382851578
 #EXTINF:-1 tvg-name="NOWSPORTS618" tvg-id="NOWSPORTS618" tvg-logo="https://tvlogo-282.pages.dev/logos/NowTV/618.png" group-title="国际-体育", Now Sports 618
 https://rust.946985.filegear-sg.me/proxy/71ccb5356f2a3241?token=tgJerryfeng
 #EXTINF:-1 tvg-name="NOWSPORTS618" tvg-id="NOWSPORTS618" tvg-logo="https://tvlogo-282.pages.dev/logos/NowTV/618.png" group-title="国际-体育", Now Sports 618(备)
@@ -991,8 +1177,6 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8
 #EXTINF:-1 tvg-name="PFL" tvg-logo="https://epg.112114.xyz/logo/PFL.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", PFL
 https://d2w9b8sam7j3zv.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/2f1fe122-e239-4138-9f90-2aad7e4aaa54/0.m3u8
-#EXTINF:-1 tvg-name="STADIUM" tvg-logo="https://epg.112114.xyz/logo/STADIUM.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", STADIUM
-https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
 #EXTINF:-1 tvg-name="東京愛慾故事 EP8/矇眼・手﨧・3P/TZ-050" group-title="国际-体育", 東京愛慾故事 EP8/矇眼・手﨧・3P/TZ-050
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/06/cw/l4/rr/b4ed0fb65d0b404b81c18173e7e6f1d2.m3u8?
 #EXTINF:-1 tvg-name="DLDSS-109 整体師-本田もも" group-title="国际-体育", DLDSS-109 整体師-本田もも
@@ -1013,5 +1197,85 @@ https://t21.cdn2020.com/video/m3u8/2023/03/14/53983af7/index.m3u8
 https://t21.cdn2020.com/video/m3u8/2023/03/09/6f1790ac/index.m3u8
 #EXTINF:-1 tvg-name="Wカン" group-title="国际-体育", Wカン
 https://vip2.slbfsl.com/20230323/f1oru5gq/index.m3u8
-#EXTINF:-1 tvg-name="����������" tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c22b7cfef11f0828fac5eb.jpg?imageview/4/0/w/400/h/500/q/80" group-title="国际-体育", ����������
-https://live.ottiptv.cc/yy/1382851578
+#EXTINF:-1 tvg-name="D4" tvg-logo="https://huyaimg.msstatic.com/avatar/1074/4f/df1064495516f077d9542ed80d6973_180_135.jpg?1672279609" group-title="国际-体育", D4
+http://107.173.156.246:81/live/huya/26428290
+#EXTINF:-1 tvg-name="Dacong" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/c6/63c105bf18b34d9e44ea7322f17c7d_180_135.jpg?1644842918" group-title="国际-体育", Dacong
+http://107.173.156.246:81/live/huya/27720464
+#EXTINF:-1 tvg-name="Pop-Viper" tvg-logo="https://huyaimg.msstatic.com/avatar/1002/89/07e221e621df53ee933c5f12da74c4_180_135.jpg?1596023890" group-title="国际-体育", Pop-Viper
+http://107.173.156.246:81/live/huya/22957472
+#EXTINF:-1 tvg-name="90357、Hd" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/b0/1c335e75f17d8fbdb75e995c16bd1c_180_135.jpg?1616566846" group-title="国际-体育", 90357、Hd
+http://107.173.156.246:81/live/huya/24208689
+#EXTINF:-1 tvg-name="Co17" tvg-logo="https://huyaimg.msstatic.com/avatar/1026/e9/86f0ec8f28e88f1ce2a143d527b707_180_135.jpg?1656156721" group-title="国际-体育", Co17
+http://107.173.156.246:81/live/huya/657313
+#EXTINF:-1 tvg-name="zoho3" tvg-logo="https://huyaimg.msstatic.com/avatar/1027/5c/9cf130106b66f3171539d39932d30b_180_135.jpg?1570821419" group-title="国际-体育", zoho3
+http://107.173.156.246:81/live/huya/19065260
+#EXTINF:-1 tvg-name="Zonda" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/5d/f1f21e2bc60f0492574cfd93585336_180_135.jpg?1661887004" group-title="国际-体育", Zonda
+http://107.173.156.246:81/live/huya/27767864
+#EXTINF:-1 tvg-name="-SuMiao" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/46/c0e53f79075be4edb22807ddcd8f1e_180_135.jpg?1671270804" group-title="国际-体育", -SuMiao
+http://107.173.156.246:81/live/huya/21503003
+#EXTINF:-1 tvg-name="Core-" tvg-logo="https://huyaimg.msstatic.com/avatar/1032/68/06228bbbf1acc0fd8007bc86480704_180_135.jpg?1661083554" group-title="国际-体育", Core-
+http://107.173.156.246:81/live/huya/27165930
+#EXTINF:-1 tvg-name="Rain【】" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/e3/e56f17affa32efe298ff69c99d367e_180_135.jpg?1673755668" group-title="国际-体育", Rain【】
+http://107.173.156.246:81/live/huya/19022342
+#EXTINF:-1 tvg-name="Sicily77" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/94/12f6ceea909f12833ddae59d1ca465_180_135.jpg?1668346867" group-title="国际-体育", Sicily77
+http://107.173.156.246:81/live/huya/27245914
+#EXTINF:-1 tvg-name="NBA 01" tvg-logo="https://epg.112114.xyz/logo/NBA 01.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 01
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119713
+#EXTINF:-1 tvg-name="NBA 02" tvg-logo="https://epg.112114.xyz/logo/NBA 02.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 02
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119714
+#EXTINF:-1 tvg-name="NBA 03" tvg-logo="https://epg.112114.xyz/logo/NBA 03.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 03
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119715
+#EXTINF:-1 tvg-name="NBA 04" tvg-logo="https://epg.112114.xyz/logo/NBA 04.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 04
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119716
+#EXTINF:-1 tvg-name="NBA 05" tvg-logo="https://epg.112114.xyz/logo/NBA 05.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 05
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119717
+#EXTINF:-1 tvg-name="NBA 06" tvg-logo="https://epg.112114.xyz/logo/NBA 06.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 06
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119718
+#EXTINF:-1 tvg-name="NBA 07" tvg-logo="https://epg.112114.xyz/logo/NBA 07.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 07
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119719
+#EXTINF:-1 tvg-name="NBA 08" tvg-logo="https://epg.112114.xyz/logo/NBA 08.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 08
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119720
+#EXTINF:-1 tvg-name="NBA 09" tvg-logo="https://epg.112114.xyz/logo/NBA 09.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 09
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119721
+#EXTINF:-1 tvg-name="NBA 10" tvg-logo="https://epg.112114.xyz/logo/NBA 10.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 10
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119722
+#EXTINF:-1 tvg-name="NBA 11" tvg-logo="https://epg.112114.xyz/logo/NBA 11.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 11
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119723
+#EXTINF:-1 tvg-name="NBA 12" tvg-logo="https://epg.112114.xyz/logo/NBA 12.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 12
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119724
+#EXTINF:-1 tvg-name="NBA 13" tvg-logo="https://epg.112114.xyz/logo/NBA 13.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 13
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119725
+#EXTINF:-1 tvg-name="NBA 14" tvg-logo="https://epg.112114.xyz/logo/NBA 14.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 14
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119726
+#EXTINF:-1 tvg-name="NBA 15" tvg-logo="https://epg.112114.xyz/logo/NBA 15.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 15
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119727
+#EXTINF:-1 tvg-name="NBA 16" tvg-logo="https://epg.112114.xyz/logo/NBA 16.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 16
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119728
+#EXTINF:-1 tvg-name="NBA 17" tvg-logo="https://epg.112114.xyz/logo/NBA 17.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 17
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119729
+#EXTINF:-1 tvg-name="NBA 18" tvg-logo="https://epg.112114.xyz/logo/NBA 18.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 18
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119730
+#EXTINF:-1 tvg-name="NBA 19" tvg-logo="https://epg.112114.xyz/logo/NBA 19.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 19
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119731
+#EXTINF:-1 tvg-name="NBA 20" tvg-logo="https://epg.112114.xyz/logo/NBA 20.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 20
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119732
+#EXTINF:-1 tvg-name="NBA 21" tvg-logo="https://epg.112114.xyz/logo/NBA 21.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 21
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119733
+#EXTINF:-1 tvg-name="NBA 22" tvg-logo="https://epg.112114.xyz/logo/NBA 22.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 22
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119734
+#EXTINF:-1 tvg-name="NBA 23" tvg-logo="https://epg.112114.xyz/logo/NBA 23.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 23
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119735
+#EXTINF:-1 tvg-name="NBA 24" tvg-logo="https://epg.112114.xyz/logo/NBA 24.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 24
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119736
+#EXTINF:-1 tvg-name="NBA 25" tvg-logo="https://epg.112114.xyz/logo/NBA 25.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 25
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119737
+#EXTINF:-1 tvg-name="NBA 26" tvg-logo="https://epg.112114.xyz/logo/NBA 26.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 26
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119738
+#EXTINF:-1 tvg-name="NBA 27" tvg-logo="https://epg.112114.xyz/logo/NBA 27.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 27
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119739
+#EXTINF:-1 tvg-name="NBA 28" tvg-logo="https://epg.112114.xyz/logo/NBA 28.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 28
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119740
+#EXTINF:-1 tvg-name="NBA 29" tvg-logo="https://epg.112114.xyz/logo/NBA 29.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 29
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119741
+#EXTINF:-1 tvg-name="NBA 30" tvg-logo="https://epg.112114.xyz/logo/NBA 30.png" group-title="国际-体育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NBA 30
+http://czstream.com:826/LouCarey/KYsHfE1YLU/119742

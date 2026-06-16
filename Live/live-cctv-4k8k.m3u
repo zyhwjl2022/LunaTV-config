@@ -1,44 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
-http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-4K 高清" tvg-id="CCTV-4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视-4K8K", CCTV-4K 高清
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1781679600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-eac785c0c4c6adb8456dd8611b1e407c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视-4K8K" http-user-agent="iPhone", CCTV4K
 http://101.35.240.114:88/live.php?id=CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+#EXTINF:-1 tvg-name="cctv4k" tvg-id="cctv4k" tvg-logo="https://live.zbds.top/logo/CCTV4K.png" group-title="央视-4K8K", CCTV 4K
+http://3501776.xyz:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
 http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
-#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视-4K8K", CCTV-4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="85" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视-4K8K", CCTV-4K
 http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
+#EXTINF:-1 tvg-name="CCTV-4K (1080p)" tvg-id="CCTV4K.cn@HD" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="央视-4K8K", CCTV-4K (1080p)
+http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
 http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000626
+#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-id="85" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视-4K8K" channel-number="86" zz-definition="UHD", CCTV-4K
+rtp://239.3.1.245:2000
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视-4K8K", CCTV 4K
+http://113.117.74.17:8081/hls/144/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1(RTHK33)" tvg-id="368552" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="央视-4K8K" tvg-country="香港" tvg-language="國語", [HD]cctv-4k超高清
+https://stream1.freetv.fun/e82d0e0d33a069b42136cd6882919e8959039bfad2d4145dc704687c7ae9f864.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV4K.png" group-title="央视-4K8K", CCTV4K
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV4K.png" group-title="央视-4K8K", CCTV4K
+http://115.190.124.74/php/ysxw.php?id=cctv4k&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV4K.png" group-title="央视-4K8K", CCTV4K
+http://115.190.124.74/php/as.php?/PLTV/&id=10240506&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
+http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://live.lizanyang.top/tv/CCTV4K.png" group-title="央视-4K8K", CCTV-4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://live.lizanyang.top/tv/CCTV4K.png" group-title="央视-4K8K", CCTV-4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://live.lizanyang.top/tv/CCTV4K.png" group-title="央视-4K8K", CCTV-4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
-http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-id="CCTV4K超高清" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4K超高清.png" group-title="央视-4K8K", CCTV4K超高清
+rtsp://10.11.43.21/PLTV/88888912/224/3221226776/475516698.smil
+#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[BD]CCTV-4K超高清" tvg-id="2593" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/042e5994780d2ca291459455cce0016b.jpg" group-title="央视-4K8K", [BD]CCTV-4K超高清
+https://epg.pm/stream/1d2c64ce86a0009dd7bd1ccb3d0491906a8a4af54ec5bcf0c822544795a77813.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV4K" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K
+https://epg.pm/stream/346b2074827b4d2a3ba50724bb5a5fef5ea74422fe44c5de88a7f7b652358c7b.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV4K@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K@@1
+https://epg.pm/stream/4515d83988818639c572e375c1e6fc542afd4845c6d0b20c717249e9926726a8.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV4K@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K@@3
+https://epg.pm/stream/cc7ea6b45d510cf4b4b5565881cd9f651fb505a8c7e9cd61dfd3812ef6438ea5.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV4K@@18" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K@@18
+https://epg.pm/stream/42e32cede95e728e7a04ad4d4c0a9c271165c8da2c32b8582a9005f9213ebf60.m3u8
+#EXTINF:-1 tvg-name="[BD]CCTV4K@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K@@3
+https://epg.pm/stream/8e3e9702e5292f81488d6f4517275a5f11b52cbc6d8344ee7d5ed5626884f5c0.php
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4K.png" group-title="央视-4K8K", CCTV4K
 http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
+#EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-4K超高清.png" group-title="央视-4K8K", CCTV-4K超高清
+http://107.150.60.122/live/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-id="CCTV4K超高清" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4K超高清.png" group-title="央视-4K8K", CCTV4K超高清
+http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
+#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-id="CCTV4K超高清" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4K超高清.png" group-title="央视-4K8K", CCTV4K超高清
+http://home.amucn.net:8800/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视-4K8K", CCTV4K
 http://82.156.243.185:36888/av3a/cctv4kn.m3u8?token=tgJerryfeng
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视-4K8K", CCTV4K
 http://82.156.243.185:36888/av3a/cctv4k.m3u8?token=tgJerryfeng
+#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4K超高清.png" group-title="央视-4K8K", CCTV4K超高清
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="cctv4k" tvg-id="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", cctv4k
 http://82.156.243.185:36888/av3a/cctv4kn.m3u8
 #EXTINF:-1 tvg-name="cctv4k" tvg-id="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", cctv4k
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
-#EXTINF:-1 tvg-name="CCTV-4K (1080p)" tvg-id="CCTV4K.cn@HD" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="央视-4K8K", CCTV-4K (1080p)
-http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-name="CCTV-8K (1080p)" tvg-id="CCTV8K.cn@HD" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="央视-4K8K", CCTV-8K (1080p)
-http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1 tvg-name="CCTV-8K (1080p)" tvg-id="CCTV8K.cn@HD" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="央视-4K8K", CCTV-8K (1080p)
-http://198.204.240.250:82/live/cctv8k.m3u8
-#EXTINF:-1 tvg-name="CCTV16 4K" group-title="央视-4K8K", CCTV16 4K
-http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-id="85" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视-4K8K" channel-number="86" zz-definition="UHD", CCTV-4K
-rtp://239.3.1.245:2000
-#EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-4K超高清.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-4K超高清
+http://192.151.150.154/live/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-4K超高清.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-4K超高清
+http://173.208.212.130:8181/720p/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV-4K" tvg-id="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视-4K8K", CCTV-4K
+https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
 http://223.95.198.3:8000/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-id="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4K.png" group-title="央视-4K8K", CCTV4K
@@ -67,28 +103,16 @@ http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369
 http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-id="CCTV-4K" tvg-logo="http://10.1.0.25:5180/logo/CCTV-4K.png" group-title="央视-4K8K", CCTV-4K
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1781586000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-c8c78b6f4e0cbb3b55b78bc341c41ff8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-#EXTINF:-1 tvg-name="HBO HD" tvg-id="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HBO HD.png" group-title="央视-4K8K", HBO HD
-https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
-#EXTINF:-1 tvg-name="HBO HD" tvg-id="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HBO HD.png" group-title="央视-4K8K", HBO HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HBOHD&token=tgJerryfeng
-#EXTINF:-1 tvg-name="Axn HD" tvg-id="AxnHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/AXN HD.png" group-title="央视-4K8K", Axn HD
-https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
-#EXTINF:-1 tvg-name="SPO TV 2" tvg-id="SPOTV2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/spotv2.png" group-title="央视-4K8K", SPO TV 2
-https://smart.dxjc.pp.ua/smart.php?id=go_spotv2&token=tmxk
-#EXTINF:-1 tvg-name="SPOTV2" tvg-id="SPOTV2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/spotv2.png" group-title="央视-4K8K", SPOTV2
-http://iptv.4666888.xyz/iptv2A.php?id=1
-#EXTINF:-1 tvg-name="Sun TV HD" tvg-id="SunTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Sun TV HD.png" group-title="央视-4K8K", Sun TV HD
-https://smart.dxjc.pp.ua/smart.php?id=Suntv&token=tmxk
-#EXTINF:-1 tvg-name="Sun Music" tvg-id="SunMusic" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Sun Music.png" group-title="央视-4K8K", Sun Music
-https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
-#EXTINF:-1 tvg-name="SUN MUSIC" tvg-id="SUNMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Sun Music.png" group-title="央视-4K8K", Sun Music
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=SunMusic&token=tgJerryfeng
-#EXTINF:-1 tvg-name="Zee TV HD" tvg-id="ZeeTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Zee TV HD.png" group-title="央视-4K8K", Zee TV HD
-https://smart.dxjc.pp.ua/smart.php?id=Zeetvhd&token=tmxk
-#EXTINF:-1 tvg-name="Asianet" tvg-id="Asianet" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Asianet.png" group-title="央视-4K8K", Asianet
-https://smart.dxjc.pp.ua/smart.php?id=asianet_raj&token=tmxk
-#EXTINF:-1 tvg-name="ASIANET" tvg-id="ASIANET" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Asianet.png" group-title="央视-4K8K", Asianet
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=Asianet&token=tgJerryfeng
+#EXTINF:-1 tvg-name="cctv8k" tvg-id="cctv8k" tvg-logo="https://live.zbds.top/logo/CCTV8K.png" group-title="央视-4K8K", CCTV 8K
+http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
+#EXTINF:-1 tvg-name="CCTV-8K (1080p)" tvg-id="CCTV8K.cn@HD" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="央视-4K8K", CCTV-8K (1080p)
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视-4K8K", CCTV-8K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-name="CCTV8K" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视-4K8K", CCTV-8K 超高清
+https://tv.cry33.com/ys4k.php?id=8k
+#EXTINF:-1 tvg-name="CCTV8K" tvg-id="C14" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="央视-4K8K", CCTV-8K
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="[BD]CCTV8K" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/06/24/large/20210624004559407468_16.png" group-title="央视-4K8K", [BD]CCTV8K
 https://epg.pm/stream/7cf088e7cdeed56080993bff59b5043cb9cccb66b7c959e4037648ef5e695382.m3u8
 #EXTINF:-1 tvg-name="[BD]CCTV8K@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/06/24/large/20210624004559407468_16.png" group-title="央视-4K8K", [BD]CCTV8K@@2
@@ -101,32 +125,66 @@ https://epg.pm/stream/c174d3521fbda4eaca4e6d605ae9b4589a36e78a4c8cf93f352e24f6e4
 https://epg.pm/stream/ab9372940ebc4ec9dd7fd3301acd51d8aba4506e386537c2dd928a7741214a12.m3u8
 #EXTINF:-1 tvg-name="[BD]CCTV8K-1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/06/24/large/20210624004559407468_16.png" group-title="央视-4K8K", [BD]CCTV8K-1
 https://epg.pm/stream/d610718d403e633fe483b8b06680be98e4a6b5b8621aaa8b23618b40f4668ef4.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV16 4K" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/07/12/large/20210712042101053436_72.png" group-title="央视-4K8K", [BD]CCTV16 4K
-https://epg.pm/stream/cb0d40727dd3113de8147a29e84bcfe3ab6789d72fb323ca0aab0c2441c08e12.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV4K" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K
-https://epg.pm/stream/346b2074827b4d2a3ba50724bb5a5fef5ea74422fe44c5de88a7f7b652358c7b.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV4K@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K@@1
-https://epg.pm/stream/4515d83988818639c572e375c1e6fc542afd4845c6d0b20c717249e9926726a8.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV4K@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K@@3
-https://epg.pm/stream/cc7ea6b45d510cf4b4b5565881cd9f651fb505a8c7e9cd61dfd3812ef6438ea5.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV4K@@18" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K@@18
-https://epg.pm/stream/42e32cede95e728e7a04ad4d4c0a9c271165c8da2c32b8582a9005f9213ebf60.m3u8
-#EXTINF:-1 tvg-name="[BD]CCTV4K@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="央视-4K8K", [BD]CCTV4K@@3
-https://epg.pm/stream/8e3e9702e5292f81488d6f4517275a5f11b52cbc6d8344ee7d5ed5626884f5c0.php
+#EXTINF:-1 tvg-name="CCTV8K" tvg-id="CCTV8K" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV8K.png" group-title="央视-4K8K", CCTV8K
+http://www.lu1.cc/itv/php/ysp.php?id=cctv8k
+#EXTINF:-1 tvg-name="CCTV-8K超高清" tvg-id="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV-8K超高清.png" group-title="央视-4K8K", CCTV-8K超高清
+http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-name="CCTV-8K超高清" tvg-id="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV-8K超高清.png" group-title="央视-4K8K", CCTV-8K超高清
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV8K" tvg-id="cctv8k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="央视-4K8K", CCTV8K
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8?token=tgJerryfeng
+#EXTINF:-1 tvg-name="CCTV8K" tvg-id="cctv8k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="央视-4K8K", CCTV8K
+http://82.156.243.185:36888/av3a/cctv8k.m3u8?token=tgJerryfeng
+#EXTINF:-1 tvg-name="cctv8k" tvg-id="cctv8k" tvg-logo="https://epg.112114.xyz/logo/cctv8k.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", cctv8k
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-id="cctv8k" tvg-logo="https://epg.112114.xyz/logo/cctv8k.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", cctv8k
+http://82.156.243.185:36888/av3a/cctv8k.m3u8
+#EXTINF:-1 tvg-name="CCTV-8K超高清" tvg-id="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV-8K超高清.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-8K超高清
+http://173.208.212.130:8181/720p/cctv8k.m3u8
+#EXTINF:-1 tvg-name="CCTV-8K (1080p)" tvg-id="CCTV8K.cn@HD" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="央视-4K8K", CCTV-8K (1080p)
+http://198.204.240.250:82/live/cctv8k.m3u8
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HBO HD.png" group-title="央视-4K8K", HBO HD
+https://smt.goiptv.us.ci/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HBO HD.png" group-title="央视-4K8K", HBO HD
+https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HBO HD.png" group-title="央视-4K8K", HBO HD
+https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=HBOHD&token=tgJerryfeng
+#EXTINF:-1 tvg-name="Axn HD" tvg-id="AxnHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/AXN HD.png" group-title="央视-4K8K", Axn HD
+https://smt.goiptv.us.ci/Axn/playlist.m3u8
+#EXTINF:-1 tvg-name="Axn HD" tvg-id="AxnHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/AXN HD.png" group-title="央视-4K8K", Axn HD
+https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-id="SPOTV2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/spotv2.png" group-title="央视-4K8K", SPO TV 2
+https://smt.goiptv.us.ci/go_spotv2/playlist.m3u8
+#EXTINF:-1 tvg-name="SPOTV2" tvg-id="SPOTV2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/spotv2.png" group-title="央视-4K8K", SPOTV2
+http://iptv.4666888.xyz/iptv2A.php?id=1
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-id="SPOTV2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/spotv2.png" group-title="央视-4K8K", SPO TV 2
+https://smart.dxjc.pp.ua/smart.php?id=go_spotv2&token=tmxk
+#EXTINF:-1 tvg-name="Sun TV HD" tvg-id="SunTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Sun TV HD.png" group-title="央视-4K8K", Sun TV HD
+https://smt.goiptv.us.ci/Suntv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sun TV HD" tvg-id="SunTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Sun TV HD.png" group-title="央视-4K8K", Sun TV HD
+https://smart.dxjc.pp.ua/smart.php?id=Suntv&token=tmxk
+#EXTINF:-1 tvg-name="Sun Music" tvg-id="SunMusic" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Sun Music.png" group-title="央视-4K8K", Sun Music
+https://smt.goiptv.us.ci/Sunmusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Sun Music" tvg-id="SunMusic" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Sun Music.png" group-title="央视-4K8K", Sun Music
+https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+#EXTINF:-1 tvg-name="SUN MUSIC" tvg-id="SUNMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Sun Music.png" group-title="央视-4K8K", Sun Music
+https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=SunMusic&token=tgJerryfeng
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-id="ZeeTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Zee TV HD.png" group-title="央视-4K8K", Zee TV HD
+https://smt.goiptv.us.ci/Zeetvhd/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-id="ZeeTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Zee TV HD.png" group-title="央视-4K8K", Zee TV HD
+https://smart.dxjc.pp.ua/smart.php?id=Zeetvhd&token=tmxk
+#EXTINF:-1 tvg-name="Asianet" tvg-id="Asianet" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Asianet.png" group-title="央视-4K8K", Asianet
+https://smt.goiptv.us.ci/asianet_raj/playlist.m3u8
+#EXTINF:-1 tvg-name="Asianet" tvg-id="Asianet" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Asianet.png" group-title="央视-4K8K", Asianet
+https://smart.dxjc.pp.ua/smart.php?id=asianet_raj&token=tmxk
+#EXTINF:-1 tvg-name="ASIANET" tvg-id="ASIANET" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Asianet.png" group-title="央视-4K8K", Asianet
+https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=Asianet&token=tgJerryfeng
+#EXTINF:-1 tvg-name="SPOTV" tvg-id="SPOTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/spotv.png" group-title="央视-4K8K", SPOTV
+http://iptv.4666888.xyz/iptv2A.php?id=2
 #EXTINF:-1 tvg-name="CCM" tvg-id="CCM" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/CCM.png" group-title="央视-4K8K", CCM
 http://74.91.26.218:82/live/tyjd.m3u8
 #EXTINF:-1 tvg-name="CCM" tvg-id="CCM" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/CCM.png" group-title="央视-4K8K", CCM
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=CCM&token=tgJerryfeng
-#EXTINF:-1 tvg-name="SPOTV" tvg-id="SPOTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/spotv.png" group-title="央视-4K8K", SPOTV
-http://iptv.4666888.xyz/iptv2A.php?id=2
-#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-id="CCTV4K超高清" tvg-logo="http://cc.118138.xyz/tvlogo/CCTV4K超高清.png" group-title="央视-4K8K", CCTV4K超高清
-http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
-#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-id="CCTV4K超高清" tvg-logo="http://cc.118138.xyz/tvlogo/CCTV4K超高清.png" group-title="央视-4K8K", CCTV4K超高清
-http://home.amucn.net:8800/udp/239.49.0.82:8000
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="央视-4K8K", CCTV8K
-http://82.156.243.185:36888/av3a/cctv8kn.m3u8?token=tgJerryfeng
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="央视-4K8K", CCTV8K
-http://82.156.243.185:36888/av3a/cctv8k.m3u8?token=tgJerryfeng
 #EXTINF:-1 tvg-name="BBC EARTH (HD)" tvg-id="BBCEARTH(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/BBC Earth HD.png" group-title="央视-4K8K", BBC Earth HD
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=BBCEarthHD&token=tgJerryfeng
 #EXTINF:-1 tvg-name="BBC LIFESTYLE (HD)" tvg-id="BBCLIFESTYLE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/BBC Lifestyle.png" group-title="央视-4K8K", BBC Lifestyle
@@ -191,12 +249,6 @@ https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=FashionTV&token=tgJerryfeng
 #EXTINF:-1 tvg-name="CTITVHD" tvg-id="CTITVHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/CTI TV HD.png" group-title="央视-4K8K", CTI TV HD
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=CTITVHD&token=tgJerryfeng
-#EXTINF:-1 tvg-name="CHANNEL5" tvg-id="Channel5HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Channel 5 HD.png" group-title="央视-4K8K", Channel 5 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=Mediacorp_CH5_DASH&token=tgJerryfeng
-#EXTINF:-1 tvg-name="CHANNEL8" tvg-id="Channel8HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Channel 8 HD.png" group-title="央视-4K8K", Channel 8 HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=Mediacorp_CH8_DASH&token=tgJerryfeng
-#EXTINF:-1 tvg-name="CHANNELU" tvg-id="ChannelUHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Channel U HD.png" group-title="央视-4K8K", Channel U HD
-https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=Mediacorp_CHU_DASH&token=tgJerryfeng
 #EXTINF:-1 tvg-name="DRAGONTV" tvg-id="DragonTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Dragon TV.png" group-title="央视-4K8K", Dragon TV
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=DragonTV&token=tgJerryfeng
 #EXTINF:-1 tvg-name="ETTV ASIA (HD)" tvg-id="ETTVASIA(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/ETTV ASIA HD.png" group-title="央视-4K8K", ETTV ASIA HD
@@ -223,6 +275,8 @@ https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=BloombergTelevisionHD&token=tgJerryfeng
 #EXTINF:-1 tvg-name="CNNHD" tvg-id="CNNHD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/CNN HD.png" group-title="央视-4K8K", CNN HD
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=CNNHD&token=tgJerryfeng
+#EXTINF:-1 tvg-name="FOX NEWS CHANNEL" tvg-id="FOXNEWSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Fox News Channel.png" group-title="央视-4K8K", Fox News Channel
+https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=FNCHD&token=tgJerryfeng
 #EXTINF:-1 tvg-name="FRANCE 24 (FRENCH)" tvg-id="FRANCE24(FRENCH)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/France24.png" group-title="央视-4K8K", France24
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=France24&token=tgJerryfeng
 #EXTINF:-1 tvg-name="PHOENIX INFONEWS" tvg-id="PHOENIXINFONEWS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Phoenix InfoNews HD.png" group-title="央视-4K8K", Phoenix InfoNews HD
@@ -299,19 +353,3 @@ https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=SPOTVNEW&token=tgJerryfeng
 #EXTINF:-1 tvg-name="SPOTV 2 (HD)" tvg-id="SPOTV2(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/spotv2.png" group-title="央视-4K8K", spotv2
 https://star.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackstar.php?id=SPOTV2NEW&token=tgJerryfeng
-#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://epg.112114.xyz/logo/cctv8k.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", cctv8k
-http://82.156.243.185:36888/av3a/cctv8kn.m3u8
-#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://epg.112114.xyz/logo/cctv8k.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", cctv8k
-http://82.156.243.185:36888/av3a/cctv8k.m3u8
-#EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-4K超高清.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-4K超高清
-http://192.151.150.154/live/cctv4k.m3u8
-#EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-4K超高清.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-4K超高清
-http://173.208.212.130:8181/720p/cctv4k.m3u8
-#EXTINF:-1 tvg-name="CCTV-8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-8K超高清.png" group-title="央视-4K8K" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CCTV-8K超高清
-http://173.208.212.130:8181/720p/cctv8k.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="36" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="央视-4K8K", 辽宁卫视
-http://183.207.248.71:80/cntv/live1/辽宁卫视超高清/liaoningstv
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="36" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="央视-4K8K", 寰宇新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=36
-#EXTINF:-1 tvg-name="CCTV-16 4K" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/CCTV-16 4K.png" group-title="央视-4K8K", CCTV-16 4K
-https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8

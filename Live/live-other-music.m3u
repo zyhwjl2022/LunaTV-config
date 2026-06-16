@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AMC音乐" tvg-id="AMC音乐" tvg-logo="https://tb.zbds.top/logo/AMC音乐.png" group-title="中文-音乐", AMC音乐
-https://AMChls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="音乐欣赏" tvg-id="音乐欣赏" tvg-logo="https://tb.zbds.top/logo/音乐欣赏.png" group-title="中文-音乐", 音乐欣赏
-http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="哈密二套" tvg-id="哈密二套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密二套.png" group-title="中文-音乐", 哈密二套
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+#EXTINF:-1 tvg-name="哈密二套" tvg-id="哈密二套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密二套.png" group-title="中文-音乐", 哈密二套
+http://stream.hmgbtv.com/hm2/hd/live.m3u8
 #EXTINF:-1 tvg-name="哈密三套" tvg-id="哈密三套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密三套.png" group-title="中文-音乐", 哈密三套
 https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
+#EXTINF:-1 tvg-name="哈密三套" tvg-id="哈密三套" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈密三套.png" group-title="中文-音乐", 哈密三套
+http://stream.hmgbtv.com/hm3/hd/live.m3u8
 #EXTINF:-1 tvg-name="内蒙农牧" tvg-id="内蒙农牧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙农牧.png" group-title="中文-音乐", 内蒙农牧
 http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
 #EXTINF:-1 tvg-name="内蒙古农牧" tvg-id="内蒙农牧" tvg-logo="https://live.fanmingming.cn/tv/内蒙古农牧.png" group-title="中文-音乐", 内蒙农牧
@@ -21,20 +21,132 @@ https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a
 https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 #EXTINF:-1 tvg-name="音乐广播" tvg-id="音乐广播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐广播.png" group-title="中文-音乐", 音乐广播
 https://tv.iill.top/fm/552&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
+#EXTINF:-1 tvg-name="AMC音乐" tvg-id="AMC音乐" tvg-logo="https://tb.zbds.top/logo/AMC音乐.png" group-title="中文-音乐", AMC音乐
+https://AMChls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="音乐欣赏" tvg-id="音乐欣赏" tvg-logo="https://tb.zbds.top/logo/音乐欣赏.png" group-title="中文-音乐", 音乐欣赏
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="中文-音乐", CNR音乐之声
+https://radio.0472.org/?id=641
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" group-title="中文-音乐", CNR 音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="中文-音乐", CNR经典音乐
+https://radio.0472.org/?id=642
+#EXTINF:-1 tvg-name="芒果时空音乐台" tvg-logo="https://radio.0472.org/?id=524&logo" group-title="中文-音乐", 芒果时空音乐
+https://radio.0472.org/?id=524
+#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://radio.0472.org/?id=1531&logo" group-title="中文-音乐", 长沙音乐广播
+https://radio.0472.org/?id=1531
+#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/长沙音乐广播.png" group-title="中文-音乐", 长沙音乐广播
+http://20573.hlsplay.aodianyun.com/zhcs_radio/jjgb886.m3u8
+#EXTINF:-1 tvg-name="深圳音乐频率" tvg-logo="https://radio.0472.org/?id=498&logo" group-title="中文-音乐", 深圳音乐频率
+https://radio.0472.org/?id=498
+#EXTINF:-1 tvg-name="楚天音乐广播" tvg-logo="https://radio.0472.org/?id=533&logo" group-title="中文-音乐", 楚天音乐广播
+https://radio.0472.org/?id=533
+#EXTINF:-1 tvg-name="楚天音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/ctyygb.png" group-title="中文-音乐", 楚天音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=533
+#EXTINF:-1 tvg-name="厦门音乐广播" tvg-logo="https://radio.0472.org/?id=1897&logo" group-title="中文-音乐", 厦门音乐广播
+https://radio.0472.org/?id=1897
+#EXTINF:-1 tvg-name="厦门音乐广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/xmyygb.png" group-title="中文-音乐", 厦门音乐广播
+https://live1b.kxm.xmtv.cn/aac_xmyybf_1b/sd/live.m3u8
+#EXTINF:-1 tvg-name="潮流音乐台" group-title="中文-音乐", 潮流音乐台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 tvg-name="动感音乐台" group-title="中文-音乐", 动感音乐台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 tvg-name="格莱美音乐台" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553160555011.jpg" group-title="中文-音乐", 格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1 tvg-name="古典音乐台" group-title="中文-音乐", 古典音乐台
+http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+#EXTINF:-1 tvg-name="怀集音乐台" group-title="中文-音乐", 怀集音乐台
+http://live.xmcdn.com:80/live/966/64.m3u8
+#EXTINF:-1 tvg-name="老歌音乐台" group-title="中文-音乐", 老歌音乐台
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1 tvg-name="民谣音乐台" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241902428118.png" group-title="中文-音乐", 民谣音乐台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 tvg-name="青岛摩登音乐调频" tvg-logo="h" group-title="中文-音乐", 青岛摩登音乐调频
+http://video11.qtv.com.cn/zhibo886/manifest.m3u8
+#EXTINF:-1 tvg-name="清晨音乐台" group-title="中文-音乐", 清晨音乐台
+http://live.xmcdn.com:80/live/1011/64.m3u8
+#EXTINF:-1 tvg-name="深圳飞扬音乐台" group-title="中文-音乐", 深圳飞扬音乐台
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1 tvg-name="亚洲经典音乐台" group-title="中文-音乐", 亚洲经典音乐台
+http://live.xmcdn.com:80/live/1005/64.m3u8
+#EXTINF:-1 tvg-name="中广音乐网" tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="中文-音乐", 中广音乐网
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 tvg-name="中广音乐网" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/oversearadio/中广音乐网.png" group-title="中文-音乐", 中广音乐网
+http://n07.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 tvg-name="「中」陈瑞-爱得真伤的深" group-title="中文-音乐", 「中」陈瑞-爱得真伤的深
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1218839&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-爱的痕迹" group-title="中文-音乐", 「中」陈瑞-爱的痕迹
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1218815&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-别思" group-title="中文-音乐", 「中」陈瑞-别思
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3429064&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-分手了别来打扰我" group-title="中文-音乐", 「中」陈瑞-分手了别来打扰我
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5835684&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-父亲" group-title="中文-音乐", 「中」陈瑞-父亲
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4247454&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-红尘永相伴" group-title="中文-音乐", 「中」陈瑞-红尘永相伴
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_506435&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-三生三世" group-title="中文-音乐", 「中」陈瑞-三生三世
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6449820&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-天长地久" group-title="中文-音乐", 「中」陈瑞-天长地久
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583220&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-心中的牵挂" group-title="中文-音乐", 「中」陈瑞-心中的牵挂
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583211&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-一辈子的真爱" group-title="中文-音乐", 「中」陈瑞-一辈子的真爱
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_28470656&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-一生的等待" group-title="中文-音乐", 「中」陈瑞-一生的等待
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583215&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-有谁知道我在等你" group-title="中文-音乐", 「中」陈瑞-有谁知道我在等你
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583218&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-鱼和水的故事" group-title="中文-音乐", 「中」陈瑞-鱼和水的故事
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_353501&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」陈瑞-烛光里的妈妈" group-title="中文-音乐", 「中」陈瑞-烛光里的妈妈
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1024266&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」冷漠-不要再说你还爱我" group-title="中文-音乐", 「中」冷漠-不要再说你还爱我
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_911272&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」冷漠-古咖啡" group-title="中文-音乐", 「中」冷漠-古咖啡
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」冷漠-你把爱情给了谁" group-title="中文-音乐", 「中」冷漠-你把爱情给了谁
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」冷漠-谁都不要说分手" group-title="中文-音乐", 「中」冷漠-谁都不要说分手
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_12975393&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」冷漠-时光海湾" group-title="中文-音乐", 「中」冷漠-时光海湾
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」冷漠-我是否也在你心中" group-title="中文-音乐", 「中」冷漠-我是否也在你心中
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4378249&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」冷漠-再爱也没有用" group-title="中文-音乐", 「中」冷漠-再爱也没有用
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5834217&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="「中」冷漠-真不是闹着玩" group-title="中文-音乐", 「中」冷漠-真不是闹着玩
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_22836669&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="Stingray Classic Rock「音乐」" group-title="中文-音乐", Stingray Classic Rock「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Stingray Everything 80s「音乐」" group-title="中文-音乐", Stingray Everything 80s「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Stingray Flashback 70s「音乐」" group-title="中文-音乐", Stingray Flashback 70s「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Stingray Hit List「音乐」" group-title="中文-音乐", Stingray Hit List「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Stingray Holiday Hits「音乐」" group-title="中文-音乐", Stingray Holiday Hits「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Stingray Hot Country「音乐」" group-title="中文-音乐", Stingray Hot Country「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Stingray Rock Alternative「音乐」" group-title="中文-音乐", Stingray Rock Alternative「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Stingray Today's Latin Pop「音乐」" group-title="中文-音乐", Stingray Today's Latin Pop「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Stingray Urban Beats「音乐」" group-title="中文-音乐", Stingray Urban Beats「音乐」
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="魅力音乐" tvg-id="魅力音乐" tvg-logo="https://live.lizanyang.top/tv/魅力音乐.png" group-title="中文-音乐", 魅力881 音乐广播
 http://stream.hndt.com/live/yinyue/playlist.m3u8
+#EXTINF:-1 tvg-name="魅力音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/魅力音乐.png" group-title="中文-音乐" response-time="48ms", 魅力音乐
+http://125.43.244.40:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/893/202405081702_1715158828498_H32_1080.webp" group-title="中文-音乐" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 发现之旅
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=发现之旅
 #EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="中文-音乐", 发现之旅
 http://sport.pendy.dpdns.org/migu/624878970?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/发现之旅.png" group-title="中文-音乐", 发现之旅
 http://113.24.136.82:8082/udp/239.1.1.103:8103
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="http://cc.118138.xyz/tvlogo/发现之旅.png" group-title="中文-音乐", 发现之旅
+#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/893/202405081702_1715158828498_H32_1080.webp" group-title="中文-音乐", 发现之旅
 http://115.190.105.236:1234/624878970
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="中文-音乐", 发现之旅
-http://120.234.187.66:10086/rtp/239.11.0.182:1025
-#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="中文-音乐", 发现之旅
-http://120.234.187.66:10086/rtp/239.21.0.151:3948
 #EXTINF:-1 tvg-name="赛事最经典" tvg-id="赛事最经典" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/592/947/202204010047_5101034296_H32_1080.webp" group-title="中文-音乐" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 赛事最经典
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=赛事最经典
 #EXTINF:-1 tvg-name="赛事最经典" tvg-id="赛事最经典" tvg-logo="https://epg.112114.xyz/logo/赛事最经典.png" group-title="中文-音乐" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 赛事最经典
@@ -53,14 +165,6 @@ http://sport.pendy.dpdns.org/migu/838153729?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBP
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=南京十八频道
 #EXTINF:-1 tvg-name="南京十八频道" tvg-id="南京十八频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/864/202307121658_1689146982273_H169_1080.jpg" group-title="中文-音乐", 南京十八频道
 http://sport.pendy.dpdns.org/migu/838151753?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-#EXTINF:-1 tvg-name="财富天下" tvg-id="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="中文-音乐" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 财富天下
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=财富天下
-#EXTINF:-1 tvg-name="财富天下" tvg-id="财富天下" tvg-logo="https://11.112114.xyz/logo/财富天下.png" group-title="中文-音乐", 财富天下
-http://114.244.117.90:1314/rtp/239.3.1.53:9136
-#EXTINF:-1 tvg-name="财富天下" tvg-id="财富天下" tvg-logo="http://cc.118138.xyz/tvlogo/财富天下.png" group-title="中文-音乐", 财富天下
-http://219.144.190.2:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="财富天下" tvg-id="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="中文-音乐" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 财富天下
-http://124.223.82.228:89/956923159
 #EXTINF:-1 tvg-name="抗战经典影片" tvg-id="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="中文-音乐" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 抗战经典影片
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=抗战经典影片
 #EXTINF:-1 tvg-name="抗战经典影片" tvg-id="抗战经典影片" tvg-logo="https://epg.112114.xyz/logo/抗战经典影片.png" group-title="中文-音乐" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 抗战经典影片
@@ -73,6 +177,8 @@ http://sport.pendy.dpdns.org/migu/619495952?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBP
 http://124.223.82.228:89/619495952
 #EXTINF:-1 tvg-name="和美乡途轮播台" tvg-id="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="中文-音乐" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 和美乡途轮播台
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=和美乡途轮播台
+#EXTINF:-1 tvg-name="和美乡途轮播台" tvg-id="和美乡途轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="中文-音乐", 和美乡途轮播台
+http://43.251.226.110:8880/play/152.m3u8
 #EXTINF:-1 tvg-name="和美乡途轮播台" tvg-id="和美乡途轮播台" tvg-logo="https://epg.112114.xyz/logo/和美乡途轮播台.png" group-title="中文-音乐" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 和美乡途轮播台
 http://124.223.82.228:89/713591450
 #EXTINF:-1 tvg-name="中国航天“逆袭”之路" tvg-id="中国航天“逆袭”之路" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/527/202604231122_1776914362984_H32_1080.webp" group-title="中文-音乐" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 中国航天“逆袭”之路
@@ -121,8 +227,30 @@ javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?chan
 http://sport.pendy.dpdns.org/migu/609169285?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="新动力量创一流" tvg-id="新动力量创一流" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/523/202506060000_1749138941378_H32_1080.webp" group-title="中文-音乐" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 新动力量创一流
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=新动力量创一流
-#EXTINF:-1 tvg-name="IPTV音乐现场" tvg-id="IPTV音乐现场" tvg-logo="https://11.112114.xyz/logo/IPTV音乐现场.png" group-title="中文-音乐", IPTV音乐现场
-http://114.244.117.90:1314/rtp/239.3.1.70:4120
+#EXTINF:-1 tvg-name="三明公共频道" group-title="中文-音乐", 三明公共频道
+http://stream.smntv.cn/smtv2/sd/live.m3u8
+#EXTINF:-1 tvg-name="荆门教育频道" group-title="中文-音乐", 荆门教育频道
+http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 tvg-name="荆门教育频道" group-title="中文-音乐", 荆门教育频道
+http://jingmen-live21.cjyun.org/10101/s10101-jmjytv.m3u8?auth_key=1672502399-0-0-60b4a66ddfcc942e855c11fb3a4c13dc
+#EXTINF:-1 tvg-name="荆门公共频道" group-title="中文-音乐", 荆门公共频道
+http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="风云音乐高清" group-title="中文-音乐", 风云音乐高清
+http://121.230.171.192:8000/rtp/239.49.9.13:6000
+#EXTINF:-1 tvg-name="俄罗斯 Ⅰ FM 音乐频道" group-title="中文-音乐", 俄罗斯 Ⅰ FM 音乐频道
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-name="俄罗斯 Ⅰ OR 音乐频道" group-title="中文-音乐", 俄罗斯 Ⅰ OR 音乐频道
+http://rtmp.one.by:2200/
+#EXTINF:-1 tvg-name="意大利 Ⅰ V2 音乐频道" group-title="中文-音乐", 意大利 Ⅰ V2 音乐频道
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐20TV" group-title="中文-音乐", 音乐20TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-name="英国MTV" group-title="中文-音乐", 英国MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-name="演唱會直擊" tvg-id="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="中文-音乐", 演唱會直擊
+https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii91
+#EXTINF:-1 tvg-name="演唱會直擊" tvg-id="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="中文-音乐", 演唱會直擊
+http://220.135.64.124:5050/ofiii91/index.m3u8
 #EXTINF:-1 tvg-name="[BD]音乐15台" tvg-id="2806" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/26/large/20161226232858810160_59.png" group-title="中文-音乐", [BD]音乐15台
 https://epg.pm/stream/f3adeeb548445a760427dba7c82195bd5f6681726e9e887ea9aad435b3524c21.m3u8
 #EXTINF:-1 tvg-name="[BD]1 網路流行音樂電台" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/13/large/20220513114847097162_96.png" group-title="中文-音乐", [BD]1 網路流行音樂電台
@@ -137,10 +265,6 @@ https://epg.pm/stream/15c0044bd1f43a6953a32e807fa7040a79fea94e525eb03ea682049c1c
 https://epg.pm/stream/ddb457b25885b91772988f04d07812ca7ccce06811553230c413cc20ae7e955f.m3u8
 #EXTINF:-1 tvg-name="[BD]风尚音乐" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/09/24/20160924194722318553_55.png" group-title="中文-音乐", [BD]风尚音乐
 https://epg.pm/stream/0924cbfb3345a85d87c16361989d09addba2194a344ee0719969a289d25552c0.php
-#EXTINF:-1 tvg-name="演唱會直擊" tvg-id="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="中文-音乐", 演唱會直擊
-https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii91
-#EXTINF:-1 tvg-name="演唱會直擊" tvg-id="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="中文-音乐", 演唱會直擊
-http://220.135.64.124:5050/ofiii91/index.m3u8
 #EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-id="韓國娛樂台KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="中文-音乐", 韓國娛樂台
 http://220.135.64.124:5050/4gtv-4gtv016/index.m3u8
 #EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-id="韓國娛樂台KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="中文-音乐", 韓國娛樂台
@@ -155,7 +279,11 @@ http://220.135.64.124:5050/4gtv-live025/index.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
 #EXTINF:-1 tvg-name="印度|Sun Music" tvg-id="印度|SunMusic" tvg-logo="https://epg.112114.xyz/logo/印度|SUNMUSIC.png" group-title="中文-音乐", 印度|Sun Music
 https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
-#EXTINF:-1 tvg-name="皇马RMTV" tvg-id="皇马RMTV" group-title="中文-音乐", 皇马RMTV
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-音乐", 锡林郭勒综合
+http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="中文-音乐", 锡林郭勒综合
+http://43.251.226.110:8880/play/1628.m3u8
+#EXTINF:-1 tvg-name="皇马RMTV" tvg-id="皇马RMTV" tvg-logo="https://epg.112114.xyz/logo/皇马RMTV.png" group-title="中文-音乐", 皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="音乐小七治愈系" tvg-id="音乐小七治愈系" group-title="中文-音乐", 音乐小七治愈系
 https://videodowntx.9xiuzb.com/9xiu/16456813.m3u8
@@ -179,6 +307,56 @@ https://k0ub7yffy10yfz.djvod.ndcimgs.com/upic/2023/07/25/08/BMjAyMzA3MjUwODU3MzR
 https://rust.946985.filegear-sg.me/proxy/0a77a6d5d2fe5f23?token=tgJerryfeng
 #EXTINF:-1 tvg-name="M6 Music FR" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/M6 Music FR.png" group-title="中文-音乐", M6 Music FR🇫🇷法国
 https://rust.946985.filegear-sg.me/proxy/5caf217ef83f544d?token=tgJerryfeng
+#EXTINF:-1 tvg-name="粤听·小满音乐台" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2022-09/9dfbc98283519043OSS1663831185.png" group-title="中文-音乐", 粤听·小满音乐台
+http://live.cooltv.top/tv/yueting.php?id=2490
+#EXTINF:-1 tvg-name="厦门综合广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门综合广播.png" group-title="中文-音乐", 厦门综合广播
+https://live1b.kxm.xmtv.cn/aac_zhgbbf_1b/sd/live.m3u8
+#EXTINF:-1 tvg-name="厦门旅游广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门旅游广播.png" group-title="中文-音乐", 厦门旅游广播
+https://live1b.kxm.xmtv.cn/aac_xmlybf_1b/sd/live.m3u8
+#EXTINF:-1 tvg-name="厦门经济交通广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门经济交通广播.png" group-title="中文-音乐", 厦门经济交通广播
+https://live1b.kxm.xmtv.cn/aac_xmjjjtbf_1b/sd/live.m3u8
+#EXTINF:-1 tvg-name="厦门闽南之声" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/闽南之声.png" group-title="中文-音乐", 厦门闽南之声
+https://live1b.kxm.xmtv.cn/aac_mnzsbf_1b/sd/live.m3u8
+#EXTINF:-1 tvg-name="宜昌交通广播" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宜昌广播.png" group-title="中文-音乐", 宜昌交通广播
+http://play.3xgd.com/fm/jtt.m3u8
+#EXTINF:-1 tvg-name="PulseFM心动音乐电台" tvg-logo="http://live.cooltv.top/logo/pulsefm.png" group-title="中文-音乐", PulseFM心动音乐电台
+http://live.cooltv.top/tv/899.php
+#EXTINF:-1 tvg-name="A-Line Radio 网路音乐台" tvg-logo="https://epg.112114.eu.org/logo/aline.png" group-title="中文-音乐", A-Line Radio 网路音乐台
+http://live.cooltv.top/tv/appleline.php?id=aline
+#EXTINF:-1 tvg-name="芒果时空音乐电台" tvg-logo="http://live.cooltv.top/logo/spacemusic.png" group-title="中文-音乐", 芒果时空音乐电台
+http://live.cooltv.top/tv/ytradio.php?id=524
+#EXTINF:-1 tvg-name="摩登音乐台" tvg-logo="http://live.cooltv.top/logo/hunan975.png" group-title="中文-音乐", 摩登音乐台
+rtmp://satellitepull.cnr.cn/live/wx32hunwygb
+#EXTINF:-1 tvg-name="长春都市音乐广播UFM880" tvg-logo="http://live.cooltv.top/logo/ufm880.png" group-title="中文-音乐", 长春都市音乐广播UFM880
+http://p2bj.vzan.com/slowlive/730848065915372146/live.m3u8
+#EXTINF:-1 tvg-name="PlayFM甬江之声" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/playfm.png" group-title="中文-音乐", PlayFM甬江之声
+http://netlive.zhxwzx.com/live/1001.m3u8
+#EXTINF:-1 tvg-name="郑州音乐广播" tvg-logo="http://live.cooltv.top/logo/944.png" group-title="中文-音乐", 郑州音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=717
+#EXTINF:-1 tvg-name="深圳生活942" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/942.png" group-title="中文-音乐", 深圳生活942
+rtmp://satellitepull.cnr.cn/live/wxszsjcgb
+#EXTINF:-1 tvg-name="深圳生活94.2" group-title="中文-音乐", 深圳生活94.2
+https://live.ximalaya.com/radio-first-page-app/live/265/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-name="成都文化休闲广播·radio946" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/cd946.png" group-title="中文-音乐", 成都文化休闲广播·radio946
+http://live.cooltv.top/tv/cdgb.php?id=946
+#EXTINF:-1 tvg-name="最爱878音乐广播" tvg-logo="http://live.cooltv.top/logo/878.png" group-title="中文-音乐", 最爱878音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=2415&type=hubei
+#EXTINF:-1 tvg-name="绍兴私家车音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/绍兴私家车音乐广播.png" group-title="中文-音乐", 绍兴私家车音乐广播
+http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
+#EXTINF:-1 tvg-name="常州音乐广播" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/798285e1766815818d495053cc2881c8.png" group-title="中文-音乐", 常州音乐广播
+http://live.cooltv.top/tv/cz.php?id=fm935
+#EXTINF:-1 tvg-name="烟台音乐广播" tvg-logo="https://gitee.com/radioer/photo/raw/main/烟台音乐广播.png" group-title="中文-音乐", 烟台音乐广播
+http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
+#EXTINF:-1 tvg-name="崇州电台年代音乐1022" tvg-logo="https://pic.qtfm.cn/2022/0114/20220114060455.jpeg" group-title="中文-音乐", 崇州电台年代音乐1022
+http://live.cooltv.top/tv/cdgb.php?id=433-1315
+#EXTINF:-1 tvg-name="惠州音乐广播" tvg-id="惠州音乐广播" tvg-logo="https://upload-qn.ajmide.com/image/2023/05/22/b15b302a325603c26699ea6b39272808.png" group-title="中文-音乐", 惠州音乐广播
+https://rscdn-qn-i.ajmide.com/r_3119/3119.m3u8
+#EXTINF:-1 tvg-name="广州汽车音乐电台" tvg-id="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="中文-音乐", 广州汽车音乐电台
+https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
+#EXTINF:-1 tvg-name="深圳音乐广播" tvg-id="深圳音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="中文-音乐", 深圳音乐广播
+https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
+#EXTINF:-1 tvg-name="汕头音乐之声" tvg-id="汕头音乐之声" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29996-1HoWa5_500x500.jpg" group-title="中文-音乐", 汕头音乐之声
+https://rscdn-qn-i.ajmide.com/r_1661/1661.m3u8
 #EXTINF:-1 tvg-name="看護師２６歳-Part 2" group-title="中文-音乐", 看護師２６歳-Part 2
 https://vip2.slbfsl.com/20230417/LRY2Mvth/index.m3u8
 #EXTINF:-1 tvg-name="老板2波援交妹第02集" group-title="中文-音乐", 老板2波援交妹第02集
@@ -199,9 +377,5 @@ https://t21.cdn2020.com/video/m3u8/2023/03/06/1326ba13/index.m3u8
 https://t21.cdn2020.com/video/m3u8/2023/02/01/6e3b208c/index.m3u8
 #EXTINF:-1 tvg-name="STCV-246 偷拍与演唱会结束後的偶像做爱的样子" group-title="中文-音乐", STCV-246 偷拍与演唱会结束後的偶像做爱的样子
 https://t21.cdn2020.com/video/m3u8/2023/04/11/d4397da1/index.m3u8
-#EXTINF:-1 tvg-name="音乐之声" group-title="中文-音乐", 音乐之声
-https://radio.0472.org/?id=641
-#EXTINF:-1 tvg-name="经典音乐广播" group-title="中文-音乐", 经典音乐广播
+#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="http://live.cooltv.top/logo/cnrgoldenradio.png" group-title="中文-音乐", 经典音乐广播
 https://ngcdn001.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-name="经典音乐广播" group-title="中文-音乐", 经典音乐广播
-https://radio.0472.org/?id=642

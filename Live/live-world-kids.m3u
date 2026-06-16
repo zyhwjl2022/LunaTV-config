@@ -1,12 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kids TV" tvg-id="KidsTV" group-title="国际-少儿", Kids TV
+https://smt.goiptv.us.ci/KidsTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Kids TV" tvg-id="KidsTV" group-title="国际-少儿", Kids TV
+https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
+#EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-id="DiscoveryKidsTamil" group-title="国际-少儿", Discovery Kids Tamil
+https://smt.goiptv.us.ci/discoverykidtamil_raj/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-id="DiscoveryKidsTamil" group-title="国际-少儿", Discovery Kids Tamil
+https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
+#EXTINF:-1 tvg-name="KBS Kids" group-title="国际-少儿", KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
 #EXTINF:-1 tvg-name="SUPERKIDSCHANNEL" tvg-id="SUPER-Kids-Channel" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SUPERKIDSCHANNEL.png" group-title="国际-少儿", SUPER Kids Channel
 https://php.946985.filegear-sg.me/mytv265.php?id=KID
 #EXTINF:-1 tvg-name="SUPERKIDSCHANNEL" tvg-id="SUPER-Kids-Channel" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/SUPER Kids Channel.png" group-title="国际-少儿", SUPER Kids Channel
 https://rust.946985.filegear-sg.me/proxy/529128af4f0db42a?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Kids TV" tvg-id="KidsTV" group-title="国际-少儿", Kids TV
-https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
-#EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-id="DiscoveryKidsTamil" group-title="国际-少儿", Discovery Kids Tamil
-https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
+#EXTINF:-1 tvg-name="ABC Kids" tvg-id="ABCKids.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="国际-少儿", ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-name="Aghapy Kids (1080p)" tvg-id="AghapyKids.us@SD" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="国际-少儿", Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 tvg-name="ANIME x HIDIVE (720p) [Geo-blocked]" tvg-id="AnimexHIDIVE.us@SD" tvg-logo="https://i.imgur.com/v0BlxCa.png" group-title="国际-少儿", ANIME x HIDIVE (720p) [Geo-blocked]
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="HappyKids (1080p)" tvg-id="HappyKids.us@SD" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="国际-少儿", HappyKids (1080p)
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-name="Kids Pang TV (1080p)" tvg-id="KidsPangTV.us@SD" tvg-logo="https://i.imgur.com/mhAAIa2.png" group-title="国际-少儿", Kids Pang TV (1080p)
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kids Zone (720p)" tvg-id="KidsZone.pk@SD" tvg-logo="https://i.imgur.com/mJWBVH1.png" group-title="国际-少儿", Kids Zone (720p)
+http://103.250.28.74:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-name="LEGO Kids TV" tvg-id="LEGOKidsTV.us@SD" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="国际-少儿", LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+#EXTINF:-1 tvg-name="NCM Educational & Kids Channel" tvg-id="NCMEducationalKidsChannel.us@SD" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="国际-少儿", NCM Educational & Kids Channel
+https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-name="PBS Kids (720p)" tvg-id="PBSKids.us@SD" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="国际-少儿", PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-name="PBS Kids Hawaii (720p)" tvg-id="PBSKidsHawaii.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="国际-少儿", PBS Kids Hawaii (720p)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-name="PBS Kids Pacific (1080p)" tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="国际-少儿", PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-id="PlutoTVAnime.us@Canada" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png" group-title="国际-少儿", Pluto TV Anime
+https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-id="PlutoTVAnime.us@US" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png" group-title="国际-少儿", Pluto TV Anime
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Forever Kids" tvg-id="ForeverKids.us@SD" tvg-logo="https://i.imgur.com/deeQqYZ.png" group-title="国际-少儿", Pluto TV Forever Kids
+https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Kids" tvg-id="PlutoTVKids.us@UK" tvg-logo="https://i.imgur.com/yVSLWy5.png" group-title="国际-少儿", Pluto TV Kids
+https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
+#EXTINF:-1 tvg-name="TVCARiB Kids & Teens (720p) [Not 24/7]" tvg-id="TVCARiBKidsTeens.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="国际-少儿", TVCARiB Kids & Teens (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-name="[VGA]Anime TV (360p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174536800709_46.png" group-title="国际-少儿", [VGA]Anime TV (360p) [Not 24/7]
 https://epg.pm/stream/e114f2947d1e3ac0ca7036323c2614a6f4874136efcfcfd6c3db0173d6df5ccb.m3u8
 #EXTINF:-1 tvg-name="[HD]Anime All Day" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/11/13/large/20211113230855089585_24.png" group-title="国际-少儿", [HD]Anime All Day
@@ -21,6 +59,8 @@ https://epg.pm/stream/630118d32f723c4de612def3b6a19719ce3343fdf0ea81be394056d449
 https://epg.pm/stream/c0e9ccceb28d627822f37869ad1b9f87c29a936a22443acd59f5b625c8e0778a.m3u8
 #EXTINF:-1 tvg-name="[HD]ABC Kids (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152229478990_44.png" group-title="国际-少儿", [HD]ABC Kids (720p) [Not 24/7]
 https://epg.pm/stream/b3802f4f5d390c4ddb2ee4bb7309e99ea5b1e9257a12e3b7f62c1c8e3ff4159b.m3u8
+#EXTINF:-1 tvg-name="BeJoy.Kids" tvg-id="BeJoyKids.it" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="国际-少儿", BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 #EXTINF:-1 tvg-name="SUPER Kids Channel" tvg-id="SUPERKidsChannel" tvg-logo="https://epg.yang-1989.eu.org/logo/SUPERKidsChannel.png" group-title="国际-少儿", SUPER Kids Channel
 https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=KID&token=tgJerryfeng
 #EXTINF:-1 tvg-name="ZB Cartoon" tvg-logo="https://epg.112114.xyz/logo/ZB Cartoon.png" group-title="国际-少儿" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", ZB Cartoon
