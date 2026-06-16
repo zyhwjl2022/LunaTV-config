@@ -1,0 +1,1335 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="NewTV频道", NewTV 超级综艺
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="newtv超级综艺" tvg-id="超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV频道", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="NewTV频道", NewTV超级综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级综艺.png" group-title="NewTV频道", NewTV超级综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="超级综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV超级综艺.png" group-title="NewTV频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000025771&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="超级综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV超级综艺.png" group-title="NewTV频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000023658&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="超级综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV超级综艺.png" group-title="NewTV频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV超级综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000268002&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="超级综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV超级综艺.png" group-title="NewTV频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV超级综艺
+http://111.29.9.34:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="超级综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV超级综艺.png" group-title="NewTV频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV超级综艺
+http://111.29.9.35:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV金牌综艺.png" group-title="NewTV频道", NewTV 金牌综艺
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="newtv金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="NewTV频道", NewTV金牌综艺
+http://gslbserv.itv.cmvideo.cn/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV金牌综艺.png" group-title="NewTV频道", NewTV金牌综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-id="金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV金牌综艺.png" group-title="NewTV频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV金牌综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000026167&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-id="金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV金牌综艺.png" group-title="NewTV频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV金牌综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6399725674632152632&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-id="金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NewTV金牌综艺.png" group-title="NewTV频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV金牌综艺
+http://111.29.9.42:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/岭南戏曲.png" group-title="娱乐综艺", 岭南戏曲
+http://szlive.grtn.cn/lnxq/sd/live.m3u8
+#EXTINF:-1 tvg-name="邳州综艺频道" group-title="中文-综艺", 邳州综艺频道
+http://live.plus.pznews.com/pzxwpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="成武综艺频道" group-title="中文-综艺", 成武综艺频道
+https://jsylivealone302.iqilu.com/live/chengwu_tv02/index.m3u8
+#EXTINF:-1 tvg-name="定陶综艺频道[1280*720]" group-title="中文-综艺", 定陶综艺频道[1280*720]
+https://jsylivealone302.iqilu.com/live/dingtao_tv02/index.m3u8
+#EXTINF:-1 tvg-name="鄄城综艺频道" group-title="中文-综艺", 鄄城综艺频道
+https://jsylivealone302.iqilu.com/live/juancheng_tv02/index.m3u8
+#EXTINF:-1 tvg-name="武城综艺影视" group-title="中文-综艺", 武城综艺影视
+https://jsylivealone302.iqilu.com/live/wucheng_tv02/index.m3u8
+#EXTINF:-1 tvg-name="郓城民生综艺" group-title="中文-综艺", 郓城民生综艺
+https://jsylivealone302.iqilu.com/live/yuncheng_tv02/index.m3u8
+#EXTINF:-1 tvg-name="招远综艺" group-title="中文-综艺", 招远综艺
+https://jsylivealone302.iqilu.com/zhaoyuan/zhaoyuan_tv02/index.m3u8
+#EXTINF:-1 tvg-name="东光综艺" group-title="中文-综艺", 东光综艺
+http://hbdg.chinashadt.com:1936/live/stream:dgzy.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="魏县综艺影视" group-title="中文-综艺", 魏县综艺影视
+https://jwcdnqx.hebyun.com.cn/live/wxdst/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="NEWTV超级综艺" tvg-logo="https://live.fanmingming.cn/tv/超级综艺.png" group-title="备用频道", 超级综艺
+http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-id="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="备用频道", 超级综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/超级综艺.png" group-title="备用频道" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 超级综艺
+http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="NEWTV超级综艺" tvg-logo="https://live.fanmingming.cn/tv/超级综艺.png" group-title="备用频道", 超级综艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYioXJd79dXZ_L0XAyn5Oqg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="备用频道", 金牌综艺
+http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 热门综艺
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288011/index.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="百事通", 热门综艺
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="YanG-1989" tvg-id="YanG-1989" tvg-logo="http://n.ysyz.top:99/buyaolian/热门综艺.png" group-title="百事通", 热门综艺
+https://live.metshop.top/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1 tvg-name="KBC SBS 综艺" group-title="•韩国", KBC SBS 综艺
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺" http-user-agent="MGPlayer4Android/v9.49.0.3.28", 最强综艺趴
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=最强综艺趴
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="综艺", 最强综艺趴
+http://sport.pendy.dpdns.org/migu/629942228?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="https://epg.112114.xyz/logo/最强综艺趴.png" group-title="综艺" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 最强综艺趴
+http://124.223.82.228:89/629942228
+#EXTINF:-1 tvg-name="NewTV金牌综艺FHD" group-title="中文-综艺", NewTV金牌综艺FHD
+http://111.12.102.68:6610/PLTV/77777777/224/3221225755/index.m3u8?
+#EXTINF:-1 tvg-name="榆树综艺" group-title="中文-综艺", 榆树综艺
+http://stream.zhystv.com/ysyt/sd/live.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/a2c002707904f1b8dac7042184a485146de47b1e2502213e2df62d02f46c9e2c.m3u8
+#EXTINF:-1 tvg-name="[HD]澳視葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳視葡文
+https://epg.pm/stream/e82ff02b91cff409e384e5fa5ec46cc349993c53ec9c635102fe24cf482ca2dd.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/f85073e99b04fade4f0c7d456c87df020fd74d74598b455050b054cd9b2345ee.m3u8
+#EXTINF:-1 tvg-name="[HD]ColorsHD" tvg-id="3645" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="綜藝", [HD]ColorsHD
+https://epg.pm/stream/7bfff7272168b2485f3ac2f85dea402d91781b7844081803b65b06cc0778f844.m3u8
+#EXTINF:-1 tvg-name="[HD]ColorsHD" tvg-id="3645" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/09/09/large/20190909012032762279_50.png" group-title="綜藝", [HD]ColorsHD
+https://epg.pm/stream/73bfee59bdb0557f5ab6bb05a9897d06980ad33da0bf5fbf35e629095476a9ba.m3u8
+#EXTINF:-1 tvg-name="[HD]Lifetime" tvg-id="2802" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/05/20/large/20150520014423841535_64.png" group-title="綜藝", [HD]Lifetime
+https://epg.pm/stream/df7e7dd42c4799383ec4fb9da85ffe138192bc82ac6c1adc467e745b32f23bbb.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/84057fb28bd4b53088b77c9c266833efdb48f4f0762edf0e37d71ddac9f51527.m3u8
+#EXTINF:-1 tvg-name="[BD]World Fashion Channel" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="綜藝", [BD]World Fashion Channel
+https://epg.pm/stream/16fea34650ec5592db588529f1834e9f6fbe0b1e4911a53c513c9c282ae6b9d6.m3u8
+#EXTINF:-1 tvg-name="[HD]Rouge TV" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/c238851ba7450ae83e38b198b8056ca5.png" group-title="綜藝", [HD]Rouge TV
+https://epg.pm/stream/29ba95664491feca18653622ebc249325f1179196cc9c1c81b59630baed2e24c.m3u8
+#EXTINF:-1 tvg-name="[HD]Rouge TV (720p)" tvg-logo="https://files.3y1.xyz/media/img/logo/2013/10/30/c238851ba7450ae83e38b198b8056ca5.png" group-title="綜藝", [HD]Rouge TV (720p)
+https://epg.pm/stream/191d4098b19eaa21fe264d6fd2cffb618aedae86ce8a488c83dd8babad6fa566.m3u8
+#EXTINF:-1 tvg-name="[HD]DHA (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="綜藝", [HD]DHA (720p) [Not 24/7]
+https://epg.pm/stream/dedb58d1128f8bc2384e153962ea8e6302b716fb636478d6e462dc592aabe466.m3u8
+#EXTINF:-1 tvg-name="[HD]Mnet@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2018/01/02/large/20180102235236604230_59.jpg" group-title="綜藝", [HD]Mnet@@1
+https://epg.pm/stream/219abb07864abd493cabb6abfab26cbf926f7a0f45b5eb0c85bfcb8eaf5c5bdc.m3u8
+#EXTINF:-1 tvg-name="[HD]TVN@@1" tvg-id="3420" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/06/19/large/20160619165008109988_40.png" group-title="綜藝", [HD]TVN@@1
+https://epg.pm/stream/aa8a3e5c201af8a4d31418aa44e1f206051ad446ed8b06337335ce9c21cf7802.m3u8
+#EXTINF:-1 tvg-name="[SD]tvN" tvg-id="3420" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/06/19/large/20160619165008109988_40.png" group-title="綜藝", [SD]tvN
+https://epg.pm/stream/eb0ed8b52158bdc7754c4c1185382b8ca2115a1a46037a5b21a0c9c9e6484c60.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文@@1
+https://epg.pm/stream/aef7cfb5e6a867ac7b399576e5251f3324862d8e3c824052fbc3a8b06520674a.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/180c8688689150230829dec4bc53e4c7234810b755197f243c5ff6e066f99584.m3u8
+#EXTINF:-1 tvg-name="[HD]Fashion One HD" tvg-id="2876" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/29/large/20160129173120287674_58.jpg" group-title="綜藝", [HD]Fashion One HD
+https://epg.pm/stream/8d6d44813ab6fd27a7c6a68c82df71acea53d365fd8d6b047358d9ea27c633d9.m3u8
+#EXTINF:-1 tvg-name="[SD]Fashion TV (576p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="綜藝", [SD]Fashion TV (576p) [Not 24/7]
+https://epg.pm/stream/e6f9069f24bb504bde38ced6c6af072908ea882f7c73f97c7b928b2a6d3e4802.m3u8
+#EXTINF:-1 tvg-name="[HD]Classica" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/11/23/large/20171123202358057725_47.png" group-title="綜藝", [HD]Classica
+https://epg.pm/stream/e1fa0c8c11a09c089d822591145f5e6507e84d6348de5b6a85a6d678ccb2ddef.m3u8
+#EXTINF:-1 tvg-name="[HD]澳視葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳視葡文
+https://epg.pm/stream/d10d79d3bf20338b6e4d029bcf81785cc31e15ae825e0100bc6740d929a03f2e.m3u8
+#EXTINF:-1 tvg-name="[BD]Trace Urban (Australia) (1080p)" tvg-id="2874" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/03/05/large/20170305225651838974_57.png" group-title="綜藝", [BD]Trace Urban (Australia) (1080p)
+https://epg.pm/stream/849268076dfceee1a18fe764e78a13e2460de523e12fee7e60fcc976a83f058e.m3u8
+#EXTINF:-1 tvg-name="[BD]Trace Urban HD" tvg-id="2874" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/03/05/large/20170305225651838974_57.png" group-title="綜藝", [BD]Trace Urban HD
+https://epg.pm/stream/5417c4aef14806c8f73fa232b9b45f61cd448f9729b658f5bb9be37c06274d89.m3u8
+#EXTINF:-1 tvg-name="[BD]Trace Urban HD" tvg-id="2874" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/03/05/large/20170305225651838974_57.png" group-title="綜藝", [BD]Trace Urban HD
+https://epg.pm/stream/4e13c769a0fe380e554cbbcdc3c3615172ba8508123da64a473f910aefaec12f.m3u8
+#EXTINF:-1 tvg-name="[BD]Trace Urban HD" tvg-id="2874" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/03/05/large/20170305225651838974_57.png" group-title="綜藝", [BD]Trace Urban HD
+https://epg.pm/stream/b77dff6ed37d2c5564e6c26abb361ec1e9ed41f4351b5c3b652c6647228345c0.m3u8
+#EXTINF:-1 tvg-name="[VGA]Fashion Tv" tvg-id="2830" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114184940777689_52.png" group-title="綜藝", [VGA]Fashion Tv
+https://epg.pm/stream/1915bb9c4d1d8fe0c915fff7f87b07b56be62ce6aa4e02f536678a9bca2b7c6c.m3u8
+#EXTINF:-1 tvg-name="[VGA]Fashion TV" tvg-id="2830" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114184940777689_52.png" group-title="綜藝", [VGA]Fashion TV
+https://epg.pm/stream/5ed7237f6aef82dbbb3397620ee61c9864a808c255e7009742b4de48f50f0241.m3u8
+#EXTINF:-1 tvg-name="[HD]FashionTV@@1" tvg-id="2830" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114184940777689_52.png" group-title="綜藝", [HD]FashionTV@@1
+https://epg.pm/stream/5ba54438854a816779d2c420989da330c357eaac3cbf109cfba151a7243ba2c1.m3u8
+#EXTINF:-1 tvg-name="[VGA]W24 (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/04/13/large/20170413134158671417_73.jpg" group-title="綜藝", [VGA]W24 (720p) [Not 24/7]
+https://epg.pm/stream/dd6288e9daa417296ab32f495cae977b91a75fc8d5e2fa22ad4b1f2e34036d15.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/0ad1c6cd346c98d4bca3fbb550d1e198407f617291c3a25db8bcc7eeb1c71e41.m3u8
+#EXTINF:-1 tvg-name="[BD]COMEDY CENTRAL" tvg-id="4300" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/06/25/large/20200625231317409396_23.jpg" group-title="綜藝", [BD]COMEDY CENTRAL
+https://epg.pm/stream/c5f08653fa73b0d2ffac295cd15286d4bed60d6da6fac61bc363504bbd48181f.m3u8
+#EXTINF:-1 tvg-name="[HD]澳視衛星" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/21/large/20220521144701785913_98.jpeg" group-title="綜藝", [HD]澳視衛星
+https://epg.pm/stream/3bc97c76ef5a63793723969c8a287a05195a0f5e10c4fc1dfefa8856e303ce3e.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/a22d16d1e3c94a449dd802dd6bc0afc3b1b4d501294ff54a146ae6bd7870e01a.m3u8
+#EXTINF:-1 tvg-name="[HD]W9 (1080p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/04/13/large/20170413134158671417_73.jpg" group-title="綜藝", [HD]W9 (1080p) [Not 24/7]
+https://epg.pm/stream/0f91ff2e18f31a392c06660a8ffa6de87f2a86a6f615f724110294034cba21dd.m3u8
+#EXTINF:-1 tvg-name="[BD]Fashion TV@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="綜藝", [BD]Fashion TV@@6
+https://epg.pm/stream/737bf0c7a8979cbdae43b80804fec57a3538bb546ccecb5b8fe6907fe4e343fb.m3u8
+#EXTINF:-1 tvg-name="[HD]西安音乐综艺" tvg-logo="https://files.3y1.xyz/media/img/logo/1_52.jpg" group-title="其它", [HD]西安音乐综艺
+https://epg.pm/stream/7be018b123378d8aea76b710915e225f16bfbc9e4d188aefb042557ea43571b8.m3u8
+#EXTINF:-1 tvg-name="[VGA]Fashion TV@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="綜藝", [VGA]Fashion TV@@4
+https://epg.pm/stream/4bc4a3f28cdead841c48fed204dab80933b4912cfce07dbfb91cf16aed506b88.m3u8
+#EXTINF:-1 tvg-name="[HD]J2@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="綜藝", [HD]J2@@3
+https://epg.pm/stream/92075d46a0d32b4066791ea8d98d8498b01cd8618537d84ec293abc0941a28db.m3u8
+#EXTINF:-1 tvg-name="[BD]105 佛衛慈悲台" tvg-logo="https://files.3y1.xyz/media/img/logo/1_121.jpg" group-title="綜藝", [BD]105 佛衛慈悲台
+https://epg.pm/stream/10883db11e3b555a2432c36831d2ce3dddd4571723f36192d1285813167d2eb1.m3u8
+#EXTINF:-1 tvg-name="[BD]中天娛樂" tvg-id="4347" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/01/14/large/20160114210645647968_28.jpg" group-title="綜藝", [BD]中天娛樂
+https://epg.pm/stream/a93eab23d860e2fa18d7f4822eea958346263d2f56eda0e304831f2743046453.m3u8
+#EXTINF:-1 tvg-name="[BD]Fashion TV (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="綜藝", [BD]Fashion TV (1080p)
+https://epg.pm/stream/406b27150a190a6add4b0637fe94098d4a81388c7f42f01e6b8966ba95232288.m3u8
+#EXTINF:-1 tvg-name="[SD]6号[785*576]" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/04/13/large/20170413142805805531_37.jpg" group-title="綜藝", [SD]6号[785*576]
+https://epg.pm/stream/b00343fa479468ece3eb1b1aa838408315753a0e9fb3ab7a366780eacad20f66.m3u8
+#EXTINF:-1 tvg-name="[VGA]J2" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="綜藝", [VGA]J2
+https://epg.pm/stream/709aa5c0bcdda49b4d0bcb15c10cc7f34bcabf7de2d50574dd7020f534980fc7.m3u8
+#EXTINF:-1 tvg-name="[HD]9台纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/04/13/large/20170413134158671417_73.jpg" group-title="綜藝", [HD]9台纪录
+https://epg.pm/stream/21230a96331cb61c197dc8165d80d4127e7f497a4b47b1287fa785dfa6a3e91b.m3u8
+#EXTINF:-1 tvg-name="[BD]Redbox 2: Comedy (1080p)" tvg-id="2847" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/21/large/20190121235737341364_51.jpg" group-title="綜藝", [BD]Redbox 2: Comedy (1080p)
+https://epg.pm/stream/610eb89eba4106b809416b787a5008895e717c25edbf2aa8ab3e52e43d13b99a.m3u8
+#EXTINF:-1 tvg-name="[HD]澳視葡文 live3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳視葡文 live3
+https://epg.pm/stream/12ca53e36ec7c865106074e79337bf298fecb07e3d02b2d8d09f79a80f491b69.m3u8
+#EXTINF:-1 tvg-name="[BD]音乐15台" tvg-id="2806" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/12/26/large/20161226232858810160_59.png" group-title="綜藝", [BD]音乐15台
+https://epg.pm/stream/f3adeeb548445a760427dba7c82195bd5f6681726e9e887ea9aad435b3524c21.m3u8
+#EXTINF:-1 tvg-name="[VGA]9XM (480p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164541022982_17.png" group-title="綜藝", [VGA]9XM (480p)
+https://epg.pm/stream/5cbbab8cc6e87ae3f8cf55c68a52d39fbe094e454911f057f6c968f66fc3caf3.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/58c110cfb952c97a2230482c18e150a0f31d4b9d27b7ad29744bf9f9981d1529.m3u8
+#EXTINF:-1 tvg-name="[SD]NET 25 (1080p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2018/01/02/large/20180102235236604230_59.jpg" group-title="綜藝", [SD]NET 25 (1080p) [Not 24/7]
+https://epg.pm/stream/b1dee39c29dc1a983d306df3e6b1c089f3eb021c99539f788d72fdbea1e85593.m3u8
+#EXTINF:-1 tvg-name="[BD]Fashion TV@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="綜藝", [BD]Fashion TV@@3
+https://epg.pm/stream/6c199ac79e25a003691d71166ef2e9caabc26d049bf40c0f2298734f6ad2ff53.m3u8
+#EXTINF:-1 tvg-name="[SD]iON TV (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="綜藝", [SD]iON TV (576p)
+https://epg.pm/stream/e1d6dc7e4e40a5af570aad2294f4c9aa17fce1f6f6e3b83e79d263f9d2605a48.m3u8
+#EXTINF:-1 tvg-name="[BD]Fashion TV@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="綜藝", [BD]Fashion TV@@3
+https://epg.pm/stream/a2b8f5b68f68ee294d4bdcd977f21c2859d89192272c5b3a463225d3f95751f2.m3u8
+#EXTINF:-1 tvg-name="[SD]西安音乐综艺" tvg-logo="https://files.3y1.xyz/media/img/logo/1_52.jpg" group-title="其它", [SD]西安音乐综艺
+https://epg.pm/stream/93f2e84b3f498735351f07828974c1a5743a6a23977ec16a9bdd01faece28357.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/1bf3eaed4735484e815720f70c6492886cc47209130f36d3e323ae028961999b.m3u8
+#EXTINF:-1 tvg-name="[HD]澳视葡文" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝", [HD]澳视葡文
+https://epg.pm/stream/e703658eda8c5125357d2525bfd99adf7e28ce4887967d961658ff2b81d26fac.m3u8
+#EXTINF:-1 tvg-name="[SD]2号[785*576]" tvg-id="2738" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421215132057188_92.png" group-title="綜藝", [SD]2号[785*576]
+https://epg.pm/stream/1d30661e2ef247f80e826bf881ae34f843ef0e9201cd3ba9f482915fb31e5ae3.m3u8
+#EXTINF:-1 tvg-name="[VGA]2台财经" tvg-id="2738" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421215132057188_92.png" group-title="綜藝", [VGA]2台财经
+https://epg.pm/stream/a958b02f1914154c8033a8a441f016577fa1715b5dfefc87baa4bb7915b12be5.m3u8
+#EXTINF:-1 tvg-name="[BD]M6 (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/04/13/large/20170413142805805531_37.jpg" group-title="綜藝", [BD]M6 (1080p)
+https://epg.pm/stream/295171c2db2b474d33e1ee751d67a0cf2c0e2aed459b92b366458cbe4659c790.m3u8
+#EXTINF:-1 tvg-name="[HD]西安音乐综艺" tvg-logo="https://files.3y1.xyz/media/img/logo/1_52.jpg" group-title="其它", [HD]西安音乐综艺
+https://epg.pm/stream/d219c2e21a8df3c1e3b9cb9b3c5ce1f6bfcf1cd5cc8d3776e87d810d7f6585e9.m3u8
+#EXTINF:-1 tvg-name="[BD]CLASSICA" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/11/23/large/20171123202358057725_47.png" group-title="綜藝", [BD]CLASSICA
+https://epg.pm/stream/35f6356324badd136d2778f995c7dbaad7336f467d6718ea9891999a2b7f5f84.m3u8
+#EXTINF:-1 tvg-name="[VGA]9XM (480p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164541022982_17.png" group-title="綜藝", [VGA]9XM (480p)
+https://epg.pm/stream/1d03e7a753045d43559053bd20713032274e2ce35d537d2d6ef2898ef4526db0.m3u8
+#EXTINF:-1 tvg-name="[BD]J2" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="綜藝", [BD]J2
+https://epg.pm/stream/03ece3d5a66092fb225e1918f1fe154ea30d6d0894e4c0eb3145c978eaaf3e3f.m3u8
+#EXTINF:-1 tvg-name="[SD]Sky A" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/04/18/large/20220418231947908429_98.jpg" group-title="綜藝", [SD]Sky A
+https://epg.pm/stream/40952b37f81cbab79b45fd7addb997bf9cbd27e7ed5f449c966f95ee30b85bf4.m3u8
+#EXTINF:-1 tvg-name="[HD]民视综艺台" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/10/large/20220210223807030725_31.png" group-title="綜藝", [HD]民视综艺台
+https://epg.pm/stream/e19099bee07c618ae80d8ac5e65ecab556379e9c848c603de02aee21517e5b92.php
+#EXTINF:-1 tvg-name="[HD]民视综艺台" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/10/large/20220210223807030725_31.png" group-title="綜藝", [HD]民视综艺台
+https://epg.pm/stream/3d54ed839bfb57330973d186703a6b01f7a1858cb37475be558fb91d1f2da3ec.php
+#EXTINF:-1 tvg-name="[VGA]民視綜藝" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/02/10/large/20220210223807030725_31.png" group-title="綜藝", [VGA]民視綜藝
+https://epg.pm/stream/2f63f05ff01bb88ee8261d580b034656ed602c2c286279989970014e5124a92d.php
+#EXTINF:-1 tvg-name="[SD]15号[785*576]" tvg-id="2605" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151309249127_69.jpg" group-title="綜藝", [SD]15号[785*576]
+https://epg.pm/stream/e17010e5e9546cc248ca73293ca68eb725e5ac536405ca3d38b5e56ff789ff9d.m3u8
+#EXTINF:-1 tvg-name="[HD]15台音乐" tvg-id="2605" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151309249127_69.jpg" group-title="綜藝", [HD]15台音乐
+https://epg.pm/stream/36ea371309574cc70c4538e27b15ce03492e344e326e047ac3da701884842dc6.m3u8
+#EXTINF:-1 tvg-name="[VGA]15台音乐" tvg-id="2605" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151309249127_69.jpg" group-title="綜藝", [VGA]15台音乐
+https://epg.pm/stream/6a7c6cc3fc7ad333f142a118c2c42fdfa5ee68802bd3123d07f0d1adffdd144d.m3u8
+#EXTINF:-1 tvg-name="[SD]15台音乐" tvg-id="2605" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/04/23/large/20160423151309249127_69.jpg" group-title="綜藝", [SD]15台音乐
+https://epg.pm/stream/d43c7ff2d4a61b3409c31f36373bf8326965229573709ad7a61fb3d8bba41110.m3u8
+#EXTINF:-1 tvg-name="[BD]风云音乐" tvg-id="2735" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/12/large/20220512145757792204_59.jpg" group-title="綜藝", [BD]风云音乐
+https://epg.pm/stream/36df509ed905b96d240175c67212ccda40c57229b8fb496f8a7b0b76c39721e9.m3u8
+#EXTINF:-1 tvg-name="[BD]风云音乐@@1" tvg-id="2735" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/12/large/20220512145757792204_59.jpg" group-title="綜藝", [BD]风云音乐@@1
+https://epg.pm/stream/ca896b12e6f6868d0c7c94891d0692f5e45113ea3c2d573d8cd3a135d04957e0.m3u8
+#EXTINF:-1 tvg-name="[BD]KBS2@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/08/large/20220308191817515005_21.jpg" group-title="綜藝", [BD]KBS2@@3
+https://epg.pm/stream/84bc25fa264fb240b89a5e8540c2de88afc2b09692d5402f38c41e9ae43a7c6a.m3u8
+#EXTINF:-1 tvg-name="[SD]SBS@@10" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [SD]SBS@@10
+https://epg.pm/stream/5241d5a1b402538b978f9cd713694138e76c7e3d665ab017ffe635ae901202b7.m3u8
+#EXTINF:-1 tvg-name="[BD]SBS@@7" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [BD]SBS@@7
+https://epg.pm/stream/e1685bb5a08946804e0de9be0da62dec45f5a2abe7b451031cf0c8153f2723f5.m3u8
+#EXTINF:-1 tvg-name="[HD]SBS@@8" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [HD]SBS@@8
+https://epg.pm/stream/e956ed1c6ff5a265658d1490fb4123ab3f2a0972a3bb6fcff80866b6f71368ae.m3u8
+#EXTINF:-1 tvg-name="[BD]SBS@@6" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [BD]SBS@@6
+https://epg.pm/stream/3ca2c65d7eb1825abaad737c234397073f6ab893ff0e8ce88b42309baa5da48b.m3u8
+#EXTINF:-1 tvg-name="[BD]SBS@@9" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [BD]SBS@@9
+https://epg.pm/stream/4aca2007cf30ebaabd5e69e5707246c6a1db5b8ed1121438dd68dd68c7d82671.m3u8
+#EXTINF:-1 tvg-name="[BD]SBS@@4" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [BD]SBS@@4
+https://epg.pm/stream/5df30a1ad925035f54c5c1bba6633029e39b04c50cc405982a57b5e417e5f801.m3u8
+#EXTINF:-1 tvg-name="[HD]SBS" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [HD]SBS
+https://epg.pm/stream/1927d5937b093f8c3a9548044d5082e4600ee24caaf1f34c8a7df7137660ee47.php
+#EXTINF:-1 tvg-name="[HD]SBS@@2" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [HD]SBS@@2
+https://epg.pm/stream/58c2b2dcac366183b157d951d658f972f11a374b9e8b1bab66acb73c9c9e40b5.php
+#EXTINF:-1 tvg-name="[HD]SBS@@1" tvg-id="5605" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="綜藝", [HD]SBS@@1
+https://epg.pm/stream/4c802668d96df7f50a4ca9276438b69ed9e7ee16af14e6fb47f414df0b89a2b1.php
+#EXTINF:-1 tvg-name="[HD]KBS2@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/08/large/20220308191817515005_21.jpg" group-title="綜藝", [HD]KBS2@@2
+https://epg.pm/stream/cc47d90429fedc8147fde799a69de65f486bb181b1c949b832ba19184e16a77d.m3u8
+#EXTINF:-1 tvg-name="[HD]K-POP" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/23/large/20220523144313336015_48.PNG" group-title="綜藝", [HD]K-POP
+https://epg.pm/stream/4b0bb74b499efcc5b7916b744b6c507bb1e146d6bc32cefb1b0733b4cdf1667f.m3u8
+#EXTINF:-1 tvg-name="[SD]tvN Asia (Indonesian Subtitle) (576p)" tvg-id="2667" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/06/19/large/20160619165500489804_94.png" group-title="綜藝", [SD]tvN Asia (Indonesian Subtitle) (576p)
+https://epg.pm/stream/bc34ca79ed28dae885e248d0d27013d61187d264c1ca6f4457966558377e93ea.m3u8
+#EXTINF:-1 tvg-name="[VGA]Zing MP3 - Kpop" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/23/large/20220523144313336015_48.PNG" group-title="綜藝", [VGA]Zing MP3 - Kpop
+https://epg.pm/stream/6d8b91862434b91684061325d6725b50865450bcf322cbdd3c9766367bda8046.m3u8
+#EXTINF:-1 tvg-name="[BD]KBS2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/08/large/20220308191817515005_21.jpg" group-title="綜藝", [BD]KBS2
+https://epg.pm/stream/a072a5c0c1f2525494f1b1b8cfd140f1f90dad8be2de262f6891f111297455db.m3u8
+#EXTINF:-1 tvg-name="[BD]KBS2@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/08/large/20220308191817515005_21.jpg" group-title="綜藝", [BD]KBS2@@1
+https://epg.pm/stream/2eec1941b5e6839f8b3da931df509b304e09725e5b8176b5c2dabadc65645ad9.m3u8
+#EXTINF:-1 tvg-name="[BD]KPOP" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/23/large/20220523144313336015_48.PNG" group-title="綜藝", [BD]KPOP
+https://epg.pm/stream/476d10369a466dd9110e905181b3b3e414937f218f041be360b1b44886e0039f.m3u8
+#EXTINF:-1 tvg-name="[HD]KBS2 HD • GIẢI TRÍ QUỐC GIA" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/08/large/20220308191817515005_21.jpg" group-title="綜藝", [HD]KBS2 HD • GIẢI TRÍ QUỐC GIA
+https://epg.pm/stream/a686d2fc4cd5818a2a9f02a53a6d219e3b0ffd65d3348537841237735f1d2fe8.m3u8
+#EXTINF:-1 tvg-name="[HD]MBC" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/02/26/large/20170226230739684268_71.png" group-title="綜藝", [HD]MBC
+https://epg.pm/stream/0a938998f7870e868e48cf8290998e64cf0752d04fb003e84c8360274198aef9.m3u8
+#EXTINF:-1 tvg-name="[VGA]V Pop2" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/03/large/20151103135543539649_30.jpg" group-title="綜藝", [VGA]V Pop2
+https://epg.pm/stream/92158d6da71f9c62fa32020d3a1eb411c97bab6a4d9fd37a66fc640886bf98fa.m3u8
+#EXTINF:-1 tvg-name="[VGA]V Pop2" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/03/large/20151103135543539649_30.jpg" group-title="綜藝", [VGA]V Pop2
+https://epg.pm/stream/3d48b7d4abaf7852dbd5f2c07b697eadb26a451e46b8a5f5606322493288f8a5.m3u8
+#EXTINF:-1 tvg-name="[BD]PMC (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/12/02/large/20151202064145980253_76.jpg" group-title="綜藝", [BD]PMC (1080p)
+https://epg.pm/stream/054ef5a2873c0cc788184aa652721fabf76ad227383f95b4e076d8d15314ffb9.m3u8
+#EXTINF:-1 tvg-name="[SD]KHOOZESTAN" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2015/12/02/20151202063117418041_86.png" group-title="綜藝", [SD]KHOOZESTAN
+https://epg.pm/stream/1cefab9a2759b484896c1c62a8992cf3253cee4a7f99280cc7c06d502cc67167.m3u8
+#EXTINF:-1 tvg-name="[BD]Spotlight (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/30/large/20151130164053852650_51.jpg" group-title="綜藝", [BD]Spotlight (1080p)
+https://epg.pm/stream/43055707194124254b9cc98931840535af2c740cb2a96b1b2c8478f1b1e839b4.m3u8
+#EXTINF:-1 tvg-name="[BD]Redbox 1: Spotlight (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/11/30/large/20151130164053852650_51.jpg" group-title="綜藝", [BD]Redbox 1: Spotlight (1080p)
+https://epg.pm/stream/8b0ee592a14428907ca9291b0c412b5d51b6f49493fce32a47f382583832c6e1.m3u8
+#EXTINF:-1 tvg-name="[HD]clubbing tv" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174803292147_74.png" group-title="綜藝", [HD]clubbing tv
+https://epg.pm/stream/3ef9c9242929033a34df00b4c7992c84adffbc94daf97744fe9becff487394b7.m3u8
+#EXTINF:-1 tvg-name="[HD]Clubbing TV (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174803292147_74.png" group-title="綜藝", [HD]Clubbing TV (720p)
+https://epg.pm/stream/12e270ca329e0d4cc56b20c3607190282748624adb915ad907e4fba6207be185.m3u8
+#EXTINF:-1 tvg-name="[HD]XITE" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="綜藝", [HD]XITE
+https://epg.pm/stream/487833f546cb7d5c831f11a411e58808d397104fc7b92eadac50cbf6aa537eaf.m3u8
+#EXTINF:-1 tvg-name="[HD]XITE (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="綜藝", [HD]XITE (720p) [Not 24/7]
+https://epg.pm/stream/7ac16973ffddb01dfead1a0407a9f82dddee0238af6af8c9ee5be09fa84328b4.m3u8
+#EXTINF:-1 tvg-name="[SD]Halom TV (540p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174701559053_21.png" group-title="綜藝", [SD]Halom TV (540p)
+https://epg.pm/stream/2f841c0cfd395a0a5f9687bd3e38b7ff31602ecb790dd0ab7e2826851023ec37.m3u8
+#EXTINF:-1 tvg-name="[HD]XITE (BE) (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="綜藝", [HD]XITE (BE) (720p) [Not 24/7]
+https://epg.pm/stream/a57eb8b96aa244922d27ce444466e8f0444ad0e446210fdd0019154d569e2a87.m3u8
+#EXTINF:-1 tvg-name="[BD]a.tv HD (Augsburg)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174722849820_82.png" group-title="綜藝", [BD]a.tv HD (Augsburg)
+https://epg.pm/stream/0e2892c1c959f116f7a4254c88be839f0b96e0be778b10b47b300aea1d141562.m3u8
+#EXTINF:-1 tvg-name="[HD]Xite (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174447671591_13.png" group-title="綜藝", [HD]Xite (720p)
+https://epg.pm/stream/1475dd5aa1ba0c471d7e4ed8e98a4e9c9e1f9ea79e30d03c6d256f349b4190c6.m3u8
+#EXTINF:-1 tvg-name="[SD]SAT.1" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2015/12/11/20151211200031109450_20.jpg" group-title="綜藝", [SD]SAT.1
+https://epg.pm/stream/bf0813de22cef3a09a42b017920f052fa39839878175efae6816d47bc70b353b.m3u8
+#EXTINF:-1 tvg-name="[BD]a.tv (1080p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174722849820_82.png" group-title="綜藝", [BD]a.tv (1080p) [Not 24/7]
+https://epg.pm/stream/54f8453ed83f32c94d3f1ff597fe889f5a5101d7b416bed5663169e3991a028d.m3u8
+#EXTINF:-1 tvg-name="[HD]Channel T1 (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174345153585_72.png" group-title="綜藝", [HD]Channel T1 (720p) [Not 24/7]
+https://epg.pm/stream/171bc25eae62b088a1e9e95ec52c18ab438ed3627fdb6158c910cdd94e899aaa.m3u8
+#EXTINF:-1 tvg-name="[VGA]K-POP" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/23/large/20220523144313336015_48.PNG" group-title="綜藝", [VGA]K-POP
+https://epg.pm/stream/d0abd8bfb2c4d76fbd7e9f5035e091c63ae1710730d82bee2aa570e439d4225b.php
+#EXTINF:-1 tvg-name="[SD]Canal Regional (576p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174639459260_23.png" group-title="綜藝", [SD]Canal Regional (576p) [Not 24/7]
+https://epg.pm/stream/4fb076c3a564a74aac15121c29766c15c2c65310c3cfeeb233705bb341b8c00c.m3u8
+#EXTINF:-1 tvg-name="[HD]TJB SBS" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310205751828391_16.jpg" group-title="綜藝", [HD]TJB SBS
+https://epg.pm/stream/68116c27ed0da54171470c1c688268dbc79e887708b4d800f327ce87263dff34.m3u8
+#EXTINF:-1 tvg-name="[SD]NET. (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/25/large/20220525022310567268_87.png" group-title="綜藝", [SD]NET. (576p)
+https://epg.pm/stream/3898793c37de58aef9ac4f7ea6678a534eca7d69b6675e0c0043ed8df42d7032.m3u8
+#EXTINF:-1 tvg-name="[BD]Vevo 2K" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/08/12/20160812131418755255_94.jpg" group-title="綜藝", [BD]Vevo 2K
+https://epg.pm/stream/ab7e36b594a34a8413b4a6825334850de8e22700914223dc8d22b21fef7a1942.m3u8
+#EXTINF:-1 tvg-name="[VGA]Vision 4 (360p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175031386401_36.png" group-title="綜藝", [VGA]Vision 4 (360p)
+https://epg.pm/stream/526ecb421a21dc3b68d9cb3aae96e1df11ec749e4dd07e86d0cf89e12a8d2014.m3u8
+#EXTINF:-1 tvg-name="[HD]KBS-2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/03/08/large/20220308191817515005_21.jpg" group-title="綜藝", [HD]KBS-2
+https://epg.pm/stream/cb4aa923d765a2469e661ca38a0e35a847b9671e512aee96dd2523830e671acb.php
+#EXTINF:-1 tvg-name="[VGA]ТНТ4 (576p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174349957501_91.png" group-title="綜藝", [VGA]ТНТ4 (576p) [Not 24/7]
+https://epg.pm/stream/5b4a7fb2bfa19f8642954c1107727be48f6fac76a3c334c627cf78731810f39a.m3u8
+#EXTINF:-1 tvg-name="[BD]KBC SBS" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310210254501699_73.jpg" group-title="綜藝", [BD]KBC SBS
+https://epg.pm/stream/97af67086c1a587feb1e392e49bc344f061a78e636d3a8b88960bd39a0d0cbd0.m3u8
+#EXTINF:-1 tvg-name="[BD]VICE" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164601508683_76.png" group-title="綜藝", [BD]VICE
+https://epg.pm/stream/dd0b6ba9bb2469c44c97d8e7f322b55ee6a34cc14c5c18db8ab7ad9f2bfff4b5.m3u8
+#EXTINF:-1 tvg-name="[BD]KBC (SBS 光州)" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310210254501699_73.jpg" group-title="綜藝", [BD]KBC (SBS 光州)
+https://epg.pm/stream/9add2c1ebeab7ca0a0b3d9130f523d719272a07b1d23d49b1dd69996bcf21c7c.m3u8
+#EXTINF:-1 tvg-name="[HD]Spirit TV (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506173957126450_71.png" group-title="綜藝", [HD]Spirit TV (720p) [Not 24/7]
+https://epg.pm/stream/e8eaafb95c06457cd2dcde0abd8e84e68518a6e36e5e9ae6e49d6a90674a77a6.m3u8
+#EXTINF:-1 tvg-name="[SD]A5 Alegria" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/06/20170306075356114463_98.png" group-title="綜藝", [SD]A5 Alegria
+https://epg.pm/stream/2278469befa18c4e4529b7533083343fe4f396f7e81284ce884c264996d47d0b.m3u8
+#EXTINF:-1 tvg-name="[SD]HSE24 Trend (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175004656765_58.png" group-title="綜藝", [SD]HSE24 Trend (576p)
+https://epg.pm/stream/30965bebc7bcbf728239e12a6948d580de8664dce92d002ce0cbd5c5f1c387f8.m3u8
+#EXTINF:-1 tvg-name="[BD]TVL (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/04/14/20160414112027486986_66.png" group-title="綜藝", [BD]TVL (720p) [Not 24/7]
+https://epg.pm/stream/bccba08929c63e0823bf66af3ee6772ac693d9a3068b0db29da714f6cc236168.m3u8
+#EXTINF:-1 tvg-name="[HD]RTSH 1 HD ALB" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/05/05/20160505153535954685_44.png" group-title="綜藝", [HD]RTSH 1 HD ALB
+https://epg.pm/stream/cfbc34cc2e103d48fa477c21664ceb22977e53b8559d83052e83b2453d3c6445.m3u8
+#EXTINF:-1 tvg-name="[BD]ТВ-3 (540p) [Geo-blocked]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175050395781_63.png" group-title="綜藝", [BD]ТВ-3 (540p) [Geo-blocked]
+https://epg.pm/stream/111e1cd5527d3b856104d6ba8267fad451d755e8fdf1195ebdc1b1bf7a5daf25.m3u8
+#EXTINF:-1 tvg-name="[HD]MBC every1 • GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506163821576702_28.png" group-title="綜藝", [HD]MBC every1 • GIẢI TRÍ ĐẶC SẮC
+https://epg.pm/stream/7c672e5016c600774113023b35f2522ea1e3535a46c44e7c144b473a7f98cb64.m3u8
+#EXTINF:-1 tvg-name="[VGA]KNN SBS" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/01/13/20170113051743915727_81.jpg" group-title="綜藝", [VGA]KNN SBS
+https://epg.pm/stream/197f55d8ec1c5a90f87305617ec5ea26c00aecc7cd0fcc459368b38be4b39088.m3u8
+#EXTINF:-1 tvg-name="[HD]5AAB TV" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174655272560_11.png" group-title="綜藝", [HD]5AAB TV
+https://epg.pm/stream/2d88a81b39c94de432695a9c14abd5be400d10aaf54dde016073821f8bcf5fea.m3u8
+#EXTINF:-1 tvg-name="[SD]TVMChannel (576p) [Geo-blocked]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174530828733_23.png" group-title="綜藝", [SD]TVMChannel (576p) [Geo-blocked]
+https://epg.pm/stream/6be2abb5b66c0f9fdc308ea57d2717d0ebe08803c1ee6f959b0070f3c3d200c3.m3u8
+#EXTINF:-1 tvg-name="[BD]СТС (540p) [Geo-blocked]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175047720510_67.png" group-title="綜藝", [BD]СТС (540p) [Geo-blocked]
+https://epg.pm/stream/4ecb3caf6d3a46ad5234adec9ca546d0337d16b2e5947229fbc13d43f6896439.m3u8
+#EXTINF:-1 tvg-name="[SD]TBS (JNN) News Dig 24/7 Live (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/27/large/20220527020346454040_66.png" group-title="綜藝", [SD]TBS (JNN) News Dig 24/7 Live (1080p)
+https://epg.pm/stream/9df6b5c94f7e5a0ff6963a86065be4f59592314f5e76d84239cb1222b06486ec.m3u8
+#EXTINF:-1 tvg-name="[SD]Suhail TV (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174825820820_77.png" group-title="綜藝", [SD]Suhail TV (576p)
+https://epg.pm/stream/0800d0effc76abb857091fae9eaa2ec3e652784ee19f42382df0791b831c212c.m3u8
+#EXTINF:-1 tvg-name="[BD]НТВ (540p) [Geo-blocked]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175050395781_63.png" group-title="綜藝", [BD]НТВ (540p) [Geo-blocked]
+https://epg.pm/stream/b54601190d2ad1267fe9c19ed05a4180f0192ca8914e1793f9b510c59d3cc867.m3u8
+#EXTINF:-1 tvg-name="[SD]Kirkuk TV (576p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/12/27/20161227003310898040_20.jpg" group-title="綜藝", [SD]Kirkuk TV (576p) [Not 24/7]
+https://epg.pm/stream/72b2cc214137dadc84c7ebc406ec026c326633c74f325c254ad620f516f2035c.m3u8
+#EXTINF:-1 tvg-name="[BD]Redbox 3: Rush (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174913054589_47.png" group-title="綜藝", [BD]Redbox 3: Rush (1080p)
+https://epg.pm/stream/5ef8539b7938895ac08adbcd468f42624c84990b8832b3da41b37203804d14ce.m3u8
+#EXTINF:-1 tvg-name="[BD]С1 (Сургут) (1080p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175047720510_67.png" group-title="綜藝", [BD]С1 (Сургут) (1080p) [Not 24/7]
+https://epg.pm/stream/23d667faebef36d8a2f55795f14f54bdaa540eef6764a163a21b1a3ae18bef5a.m3u8
+#EXTINF:-1 tvg-name="[BD]Tele 1 (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174638348910_11.png" group-title="綜藝", [BD]Tele 1 (1080p)
+https://epg.pm/stream/9684a0a9f52566b53d2650d24f76dee2f6c07e985786bec8b57c507648d03f31.m3u8
+#EXTINF:-1 tvg-name="[HD]Channel 9 (720p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175053621368_27.png" group-title="綜藝", [HD]Channel 9 (720p)
+https://epg.pm/stream/195dc1df95c7de22de27f87bee465e09301fccc142b97e3a1e03a1aa59a739d4.m3u8
+#EXTINF:-1 tvg-name="[HD]TJB SBS" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310205751828391_16.jpg" group-title="綜藝", [HD]TJB SBS
+https://epg.pm/stream/2ffc45681c687f04b4699a2ce7bc30b26ac1c84bdbdb4c81474b5169eb0fb5ea.m3u8
+#EXTINF:-1 tvg-name="[BD]ТНТ (540p) [Geo-blocked]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174349957501_91.png" group-title="綜藝", [BD]ТНТ (540p) [Geo-blocked]
+https://epg.pm/stream/40f5aa0f90b81aebdc53c08476babcce646b2c6ca9074d902503428057b1497b.m3u8
+#EXTINF:-1 tvg-name="[BD]KBC (SBS 光州)" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310210254501699_73.jpg" group-title="綜藝", [BD]KBC (SBS 光州)
+https://epg.pm/stream/177222c541c9992580782db353b13fdeb71e1485d6315d99d6646cf5f11ad648.m3u8
+#EXTINF:-1 tvg-name="[BD]Беларусь 24 (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174934619794_81.png" group-title="綜藝", [BD]Беларусь 24 (1080p)
+https://epg.pm/stream/c483bfe69bf75197aa2e4ea6470e7d4c696a86e270892187c1b860a7bcdf8ad3.m3u8
+#EXTINF:-1 tvg-name="[SD]SBS CJB" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/27/large/20220527020413827819_81.png" group-title="綜藝", [SD]SBS CJB
+https://epg.pm/stream/72d37322eb9ae0dfde5f598dddd519b362a5c31a6ef22a83bb0dbcf9c7058340.m3u8
+#EXTINF:-1 tvg-name="[BD]KBC" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310210254501699_73.jpg" group-title="綜藝", [BD]KBC
+https://epg.pm/stream/5e3626333df916aded71de5b7a99b2b6e5559a59523f1621c60fc173d090c70b.m3u8
+#EXTINF:-1 tvg-name="[VGA]LS TV (480p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174812899119_44.png" group-title="綜藝", [VGA]LS TV (480p)
+https://epg.pm/stream/cd8d0a0325dfab03e12b0815dba3762483410b0ea2886908686f77ffe2fe006e.m3u8
+#EXTINF:-1 tvg-name="[SD]SBS Viceland HD" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506164601508683_76.png" group-title="綜藝", [SD]SBS Viceland HD
+https://epg.pm/stream/8ecb7149dd5df416779295ccfd433d335a9c5c16d4af20b95892eab63ee89044.m3u8
+#EXTINF:-1 tvg-name="[SD]YTN DMB" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174334076851_88.png" group-title="綜藝", [SD]YTN DMB
+https://epg.pm/stream/c834127bfb9d67dc41e7dcd0f846578db851a7d23a7df35db94f0fa07ed8adf4.m3u8
+#EXTINF:-1 tvg-name="[VGA]JTV SBS (406p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310115624774643_16.png" group-title="綜藝", [VGA]JTV SBS (406p) [Not 24/7]
+https://epg.pm/stream/1327fc813d6465257e0676a37724ed3bc5d9f6dd25f07c931794d782c1797565.m3u8
+#EXTINF:-1 tvg-name="[HD]Channel 7" tvg-id="3838" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174605027053_87.png" group-title="綜藝", [HD]Channel 7
+https://epg.pm/stream/a9cd5f5669fe75d721d8dd91ee979e6bb09e33981125da4adbb087ff9814cfdc.m3u8
+#EXTINF:-1 tvg-name="[HD]TV S1" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310115624774643_16.png" group-title="綜藝", [HD]TV S1
+https://epg.pm/stream/a8878b56eb58fe90bd480cb6da920092ecda077a41e2617b1aabc70af154e90f.m3u8
+#EXTINF:-1 tvg-name="[BD]MBC Plus Drama (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174025190994_74.png" group-title="綜藝", [BD]MBC Plus Drama (1080p)
+https://epg.pm/stream/055cc9fe5a0f817f7f7f511c33907970789c976412ff0f0c882f82dc5f02b2ed.m3u8
+#EXTINF:-1 tvg-name="[BD]Sana TV (576p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="綜藝", [BD]Sana TV (576p) [Not 24/7]
+https://epg.pm/stream/4c4f8d33994a3333b94b16df462c12032706c8f0e3ce8198c9927b139d79874e.m3u8
+#EXTINF:-1 tvg-name="[BD]KBC SBS" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310210254501699_73.jpg" group-title="綜藝", [BD]KBC SBS
+https://epg.pm/stream/8abe1691d27b3380077b00ba3ef7515c3f6ba6df333e856a2a944c50961a5f66.m3u8
+#EXTINF:-1 tvg-name="[HD]JIBS SBS (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/07/large/20220507044549374293_40.png" group-title="綜藝", [HD]JIBS SBS (720p) [Not 24/7]
+https://epg.pm/stream/73991b5c1c23781635a57c2a379a8a58baced30b2076ba381188b0c24e417ac7.m3u8
+#EXTINF:-1 tvg-name="[SD]Al Sirat TV" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/01/05/20170105072732971546_90.jpg" group-title="綜藝", [SD]Al Sirat TV
+https://epg.pm/stream/ba058ee183a5817bbba05e785be7cc21b1283ceacb1ab624027b5532411c4819.m3u8
+#EXTINF:-1 tvg-name="[BD]风尚音乐@@1" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/09/24/20160924194722318553_55.png" group-title="綜藝", [BD]风尚音乐@@1
+https://epg.pm/stream/ddb457b25885b91772988f04d07812ca7ccce06811553230c413cc20ae7e955f.m3u8
+#EXTINF:-1 tvg-name="[BD]KBC SBS@@1" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310210254501699_73.jpg" group-title="綜藝", [BD]KBC SBS@@1
+https://epg.pm/stream/c4ea13fd942a46558b3c055078f9653080d24ad4d680069df52821a5e2c6e744.php
+#EXTINF:-1 tvg-name="[HD]ART TV (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174342081100_40.png" group-title="綜藝", [HD]ART TV (720p) [Not 24/7]
+https://epg.pm/stream/2d41018c98bacb423da65d8677d5262b4687dc0732e0b880208418a0dc9430ce.m3u8
+#EXTINF:-1 tvg-name="[VGA]Awaz TV" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/10/13/20161013073447527599_45.jpg" group-title="綜藝", [VGA]Awaz TV
+https://epg.pm/stream/58171f6ac300fdbff0de1c8f4eca7dcc0ebe1aca900eebf1c8d1d5ab93d030ad.m3u8
+#EXTINF:-1 tvg-name="[HD]5AAB TV (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174655272560_11.png" group-title="綜藝", [HD]5AAB TV (720p) [Not 24/7]
+https://epg.pm/stream/233250d14460bdca5e5d17597b362dc36814553d7150ffef9903ca0dd5700d42.m3u8
+#EXTINF:-1 tvg-name="[BD]Беларусь 3 (1080p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174934619794_81.png" group-title="綜藝", [BD]Беларусь 3 (1080p) [Not 24/7]
+https://epg.pm/stream/ae1e366d39c8639aaba2dd78ebc379149cc3b5246a1aa0544d9dae1e718602a7.m3u8
+#EXTINF:-1 tvg-name="[HD]A6 Alegria HD" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/06/20170306075453561036_87.png" group-title="綜藝", [HD]A6 Alegria HD
+https://epg.pm/stream/dfff21777c2a2446a203cca61e4c4e93dee2f9cecdcb3166b71a3de6b7e5b4fc.m3u8
+#EXTINF:-1 tvg-name="[BD]Watan TV (1080p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506175002294869_36.png" group-title="綜藝", [BD]Watan TV (1080p)
+https://epg.pm/stream/aadc385f8edfb18e1a14366022a251442d9f2a5a8404e56cdadd8e9281cca365.m3u8
+#EXTINF:-1 tvg-name="[VGA]KNN TV" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/01/13/20170113051743915727_81.jpg" group-title="綜藝", [VGA]KNN TV
+https://epg.pm/stream/5fabded97e251451d4f3cf82027c1521000167480cbb00a3987cd6ac2e4c18e8.m3u8
+#EXTINF:-1 tvg-name="[SD]CJB SBS" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/27/large/20220527020413827819_81.png" group-title="綜藝", [SD]CJB SBS
+https://epg.pm/stream/a059671290832dc0f6a114b2864f49d85206d0fb52e003fc21abb2f57435a701.php
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺 4M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺 4M1080
+https://epg.pm/stream/1f1cd3262ccd5f7c5be92af9f1f3b3be47f3c50b02169ccbe66bbc32cc296227.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@1
+https://epg.pm/stream/2f7b60105bd8b376d426af82ae60db532d0bb1396ab7b59df654b6ffd41ac65f.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@4
+https://epg.pm/stream/e62b43f831990d56a98b257e30535831db14b59a560d8900374bb2fd7b4bc123.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/868fddb9cc9ab9aad2a739a9bd95c1eea9549cf8303a73114addfc4417f4a1c4.m3u8
+#EXTINF:-1 tvg-name="[BD]金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]金牌综艺
+https://epg.pm/stream/03af1fdc177b7f4a570fb999e58a95156e6cb54e84777e20eb12763d34e85f5c.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/e4b1525b86bdea55232953c284dfae9d56ec958e969e33d09942172a31d984e8.m3u8
+#EXTINF:-1 tvg-name="[BD]金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]金牌综艺
+https://epg.pm/stream/08dc56dfb3ce72855ed00adb0a24a043a53edc5a712fd18a2867bdc7446a2ceb.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@2
+https://epg.pm/stream/84334a6637bbf0528f0bb203632bb1b1bc4e66cfe099bee84e57763e3826a51f.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@6
+https://epg.pm/stream/c50af36ccb478febb12dd34db7df8f57d40110e2fc7bb3a6dcf9ef5080d5deb5.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/65112f66762de097a30daed64502bbbebce8da5a612056c0ef000ae137d36fca.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/9b6bc327f3d0b08443b91d9e5686b6b3c97e6b5aed0ccdb37932240af3375635.m3u8
+#EXTINF:-1 tvg-name="[BD]NEWTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NEWTV金牌综艺
+https://epg.pm/stream/8ef4f53198fbe3063f52f20b4b5ea4923dcb38ef8db518689b3877a2e6e5e6fb.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/a9e7a9895333b2e12632e6dea9b6fbc00fd45611d1957ddabfffa0bd46906b11.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/3b29415e8f751447175c0d99c3b09a7cc7e81d6871fa125a4d0815b756a40151.m3u8
+#EXTINF:-1 tvg-name="[BD]金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]金牌综艺
+https://epg.pm/stream/c29590e388687ae48584d0398bac723d844f5a64a96906cc89134ac6b72930f7.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/40626884499a56c7b0b675127ffa9aff7a043c46ae8791e438392f0304813c77.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/ca993836921783b7abdb1f0b456f5f23cdef0f0be3ca851475c2f254467202e7.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@1
+https://epg.pm/stream/a74f6e24eae213ece87d0c86837040324d1eabebc95cffc266f7d05b84f4d774.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@3
+https://epg.pm/stream/bd27b821a3310f488e283525eb5cae502b574734463bce770623d396601988d8.m3u8
+#EXTINF:-1 tvg-name="[BD]Newtv金牌综艺[1920*1080]" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]Newtv金牌综艺[1920*1080]
+https://epg.pm/stream/0c44fc24a88f7d347e6825366cab3e1c2c623dee268ace377d9d64b635d3240a.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@1
+https://epg.pm/stream/3a2acc40e545b5ab9113a8d354b21abbf6bbf944783538e69772d4c13a03f36e.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@40" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@40
+https://epg.pm/stream/62f89136f82756007eb805f3c7df095e4cb6cd7042f438aa377250bc4b343278.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/90640325dfb94d6aef35d313db48e8de9397aa875f0013eddec8db9e708f53c6.m3u8
+#EXTINF:-1 tvg-name="[BD]金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]金牌综艺
+https://epg.pm/stream/bb70f6bc78bda32fff7d704fe321eeb88b840039b28ad2ac19dae41ab6d83836.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/cac0a9cbe290be3e9cf8a571c299e04f8cd4998de8af18f4ad7620b17ac24688.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@17" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@17
+https://epg.pm/stream/df2a8d33c018e43e9c45b912c25965c75e5a267104ed31b5399d9cb61f263851.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/6db65f01265c65d7f908eb2c990bda35354c399999013883ff34711cd88104ca.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@8" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@8
+https://epg.pm/stream/c1cde7cb1b67f1a60b220f24996a02cfd1f58575b4b9712a12169973b8c95f80.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@9" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@9
+https://epg.pm/stream/eac24677dd14209acd524f20deace4d6e7ce54535d8ddecf70b94dace48935d7.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/8963f408887ed5d9f4dc9909a04ca4afd5d42265c5a11afe3eb815d029824f2f.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@5" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@5
+https://epg.pm/stream/d648aae02085a0bc84997e2f959b5b83055bf24abe78985b9d60e59f893eebee.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/a1aed8d7323ef629dae773b963d3b4955c464539dbc89c7a4002ea68b817e1a7.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@2
+https://epg.pm/stream/b7aad1a758649d118bde224c9cdbbfb0006d23ee0380e16e4555743995bc32a5.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/6534cab7e3f06e9d33bb4a50261a5b210721c1869269f4bc91d68dc90ec3531d.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@12" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@12
+https://epg.pm/stream/b0a85892699e064a524ebeaf26461ae597d83398fe9eeeb37b42d0966ea38932.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@10" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@10
+https://epg.pm/stream/7ef155cd4bfd341c009ddb213a06d3148b5e79d169730d0e1d27fa1003165783.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/fd35ac8f7901a3e3d511deadc42fd8ca51aeddae28f1af63c1b68c350498aedc.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@12" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@12
+https://epg.pm/stream/49fc1a78ec2d820387556760b45c7efbb7109f967099be09ff9679a8c7adef6b.m3u8
+#EXTINF:-1 tvg-name="[BD]风尚音乐" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/09/24/20160924194722318553_55.png" group-title="綜藝", [BD]风尚音乐
+https://epg.pm/stream/0924cbfb3345a85d87c16361989d09addba2194a344ee0719969a289d25552c0.php
+#EXTINF:-1 tvg-name="[BD]金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]金牌综艺
+https://epg.pm/stream/798444b1c0fcda929453de4a5f0e6615aba69572f51c2a72ab3ae90eefdbb8f2.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/bdbf6f2c83f7296a06f0b1e2b5cbb4b953635809b374b27341d9041d4389d7dc.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺 8M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺 8M1080
+https://epg.pm/stream/f05f7b1318e26ecc70f5db8462ac562d26d2950c3f82f07e0bd882f706e92237.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/300f92efaaf083a18dd92d0586ee0a330c2c583ad23bf887c54770d043ede83d.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/e0b676f1c8a15b533db48f76193cb2120cb27217ca328239e66f4db118d77570.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/f15af106c97bcc10d1b28d9f5e891d245105dd8d3b279c057ff430e1ffa2c15b.m3u8
+#EXTINF:-1 tvg-name="[BD]超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]超级综艺
+https://epg.pm/stream/ea9d34e7f4bcebf1cd067bdf441e200235d3e3abac14b10745c561f08904453d.m3u8
+#EXTINF:-1 tvg-name="[BD]超级综艺@@8" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]超级综艺@@8
+https://epg.pm/stream/5b6b86a0420ea53c54b4be48aafe396cd4da68627bf696e7513bf70348ea43a7.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@4
+https://epg.pm/stream/ff940a3adb055c6332dd39044d466b617de3926d3edbb52e8ed159fcfd8df94a.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@2
+https://epg.pm/stream/39ac9c7930c7a0fef72228a74970f1fdf3a6e5562871c2209f6212836f9e2ee9.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/38bc7ab6dcce731b793bd33a63c237c0a07021500fdb68e95984bebf9dc156b1.m3u8
+#EXTINF:-1 tvg-name="[BD]金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]金牌综艺
+https://epg.pm/stream/d727655b0efaadcb3ad4192f83f3c90efa4f421cd0bc1f147a598899d3de5761.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/8f21ba968ed3dadf558d5867bfc4b86211339328afaf5393a3c2538b9f0adb2c.m3u8
+#EXTINF:-1 tvg-name="[HD]California Music Channel (720p) [Not 24/7]" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/01/06/large/20190106151417112281_33.png" group-title="綜藝", [HD]California Music Channel (720p) [Not 24/7]
+https://epg.pm/stream/4f55d4f5a6bc802225944d4901f0f056bc29b2203419a449258cba8b71386136.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@1
+https://epg.pm/stream/96ffdbe9ee1d319b6cdc8fb85b3503ce4a4ee2afd486281168e8ac39b1dec7a4.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/f5cec4ebd24697bb618b7a127c17b2bdc1a895cb6e25fd84b2075d62f5d29030.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺 4M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺 4M1080
+https://epg.pm/stream/12d1228d15092d6d54e1026cfd98576c83b95b0fec498aab6d9fa4987cf75fbe.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺
+https://epg.pm/stream/c8b46c2f28fac01c31d1553d0258f264ecb84e8f4f30b3edc00d8524cc5bd6a9.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/31eb83be2b570160f9d850842580d5dde50172e161adc3bd5051e265516be69b.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV金牌综艺@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV金牌综艺@@6
+https://epg.pm/stream/a48fa0f65520bad4c9d2579833d7744e8ad328f8996627688db3ca1482fb9c34.m3u8
+#EXTINF:-1 tvg-name="[BD]金牌综艺@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]金牌综艺@@3
+https://epg.pm/stream/878214e50d8cb1024f4cef60ef844465d744b9510134e8576788e11decd19f46.m3u8
+#EXTINF:-1 tvg-name="[BD]超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]超级综艺
+https://epg.pm/stream/29d1eaab351a9d99c89f7815867905fd51bad00b23bf9ef2da6b9d9f51f809d5.m3u8
+#EXTINF:-1 tvg-name="[BD]超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]超级综艺
+https://epg.pm/stream/80a57048c26d934ec3138f688448b64801c45d54d4ec439eb26ae202c8e80879.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/6271eaab5e6e7330c09426c126f510a65b75d78377d355b60c8812573e60abae.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/f9fcc319ea40ede1d914272b04a5ebcb824e18de4efa3616326195a8024025ef.m3u8
+#EXTINF:-1 tvg-name="[BD]超级综艺@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]超级综艺@@6
+https://epg.pm/stream/3c2a95ed3ac74fce3c27ff9769e994d912294f5d23745aa5e05e11886dc5b140.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@8" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@8
+https://epg.pm/stream/284cba729f7ab37d2d3835635c47012d2e9bc06f4e3dbdce8094e69b7c14bc67.m3u8
+#EXTINF:-1 tvg-name="[BD]超级综艺@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]超级综艺@@2
+https://epg.pm/stream/0b5088832f4b38e59480c09a796aafbfc4cd8c758801ffdd67298a06d15c368b.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/5becb8d4850127e84a0cbe5eba63b729439b07bf65731c68f16ee39efdbd7504.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@6
+https://epg.pm/stream/c865663a6b5c8e7d2a6bb399e0f43d93bdd7ccb33b740c25effcaea0e956bcaa.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/7cdd51ac1500792716d2194d3ef2d342435ab5da04c0ee0cba645c16d7fb2e46.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@7" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@7
+https://epg.pm/stream/83339d52d2f0914ac2be95c0a3dcead42fb6215099d2a5bdcce38c90fa45e90a.m3u8codeyj
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/39ee569039e1106b37a374795aafc802a7bbba079b00cd1aa217c310025e359b.m3u8
+#EXTINF:-1 tvg-name="[BD]超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]超级综艺
+https://epg.pm/stream/6d8fdfaed47e730a979c03d85881df08e0498d5ced8e56692ef14f91093687c1.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV 超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV 超级综艺
+https://epg.pm/stream/4626dcccc968fbf5cbbe0b0b0a3590833dfe88db290e071b127a01619edc1a7f.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV 金牌综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝", [BD]NewTV 金牌综艺
+https://epg.pm/stream/f0bc5a299b3b398aa886d5c1f4d840a305cdfe49fbfc5d4e578e20ec2935ddd6.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@2
+https://epg.pm/stream/c8a13902decb768c9f1c75fcaab2f27f2e6bb82bb4e49a9e177023bc0ad0a7e3.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/dad270978bc3bb078ac08251de489dfba37331b59ef4d82fc8982c9abd6b1eb2.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺@@14" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺@@14
+https://epg.pm/stream/dde30c364de9999c5886081efebfb294dd5e73f8c041137921c2c18d268be15b.m3u8
+#EXTINF:-1 tvg-name="[BD]精彩综艺 10M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152119170100_22.png" group-title="熱門", [BD]精彩综艺 10M1080
+https://epg.pm/stream/7d99d5bf58312e436f97a65ef10da4b15bf32ade38af64b45b7272679d7aec59.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV超级综艺
+https://epg.pm/stream/843efec343f2fd79360a71042fa72dd97c77b202ebfcf8a16883b92b8af95518.m3u8
+#EXTINF:-1 tvg-name="[BD]NewTV 超级综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232854477107_68.jpg" group-title="綜藝", [BD]NewTV 超级综艺
+https://epg.pm/stream/979728fef8cdadc71ca9ae6d65591b089038b0645f42fb685de00f304a1cf579.m3u8
+#EXTINF:-1 tvg-name="[VGA]Magic TV (480p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/06/24/large/20210624004025127408_48.png" group-title="綜藝", [VGA]Magic TV (480p)
+https://epg.pm/stream/94a4fa2e772dd3b2943bc55d01641d095f6340a2837f552353cba782e03c9e08.m3u8
+#EXTINF:-1 tvg-name="[HD]TJB SBS@@1" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/10/20170310205751828391_16.jpg" group-title="綜藝", [HD]TJB SBS@@1
+https://epg.pm/stream/6295d33c62ee4168749562f584e6e381cd4c57d1309bb49f5be0d4f613eb2da7.php
+#EXTINF:-1 tvg-name="[SD]A4 Alegria" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2017/03/06/20170306075324368975_94.png" group-title="綜藝", [SD]A4 Alegria
+https://epg.pm/stream/fae52b3c5b900f194264dd910f0c60d6f2b35add0d4af2e8254b3dcea1f945f4.m3u8
+#EXTINF:-1 tvg-name="[BD]淘娱乐@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827034843522699_38.png" group-title="綜藝", [BD]淘娱乐@@1
+https://epg.pm/stream/74f577c23d5a1f63b7b88a5216861fadceabb55f85969fcd6f0c9cf396f2d9a0.m3u8
+#EXTINF:-1 tvg-name="[BD]淘娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/08/27/large/20210827034843522699_38.png" group-title="綜藝", [BD]淘娱乐
+https://epg.pm/stream/2aa68a28e572c776540926df797e2d358427d9bf31fe8daa51aba0bc229a53c2.m3u8
+#EXTINF:-1 tvg-name="[BD]精彩综艺@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152119170100_22.png" group-title="熱門", [BD]精彩综艺@@2
+https://epg.pm/stream/b6db0b19dfa3755699ad1c88a1e876adb44a34cfc03472425663aaede40665ae.m3u8
+#EXTINF:-1 tvg-name="[BD]精彩综艺@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152119170100_22.png" group-title="熱門", [BD]精彩综艺@@1
+https://epg.pm/stream/b6fe5322e294e9c38c760f47023380b023ce9c54b7a1654e4ab2924c09e27174.m3u8
+#EXTINF:-1 tvg-name="[BD]精彩综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152119170100_22.png" group-title="熱門", [BD]精彩综艺
+https://epg.pm/stream/e97a8aa426a8f279839b969803ba5dc61c2a30a902c96e239d3ea303734ae303.m3u8
+#EXTINF:-1 tvg-name="[BD]精彩综艺@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152119170100_22.png" group-title="熱門", [BD]精彩综艺@@4
+https://epg.pm/stream/419ba1bba7f8629d42d51f1cbb611d6c57a06fce865c6d1c533f4fdf463ef6e6.m3u8
+#EXTINF:-1 tvg-name="[BD]精彩综艺" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152119170100_22.png" group-title="熱門", [BD]精彩综艺
+https://epg.pm/stream/abd45ca1b95462f4d0c94bec7c3cfc199d289b4763efd03910a0a1b3efad17b9.m3u8
+#EXTINF:-1 tvg-name="[BD]精彩综艺@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152119170100_22.png" group-title="熱門", [BD]精彩综艺@@1
+https://epg.pm/stream/267ed24cfe036157ef3e4509643bac2b7ed08e35631800afd05d681527288cf5.m3u8
+#EXTINF:-1 tvg-name="[HD]南宁影视" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/06/11/large/20220611224429328022_36.jpg" group-title="綜藝", [HD]南宁影视
+https://epg.pm/stream/85109258d49950e502352b8fd697d69b22bc9967c1c43c9b10573ed749a9fac4.m3u8
+#EXTINF:-1 tvg-name="[HD]南宁影视娱乐高清" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/06/11/large/20220611224429328022_36.jpg" group-title="綜藝", [HD]南宁影视娱乐高清
+https://epg.pm/stream/ae56c923eb6a42bdb77252fd02569987f565c1b15cae3241f8f182c4b92f7ed6.m3u8
+#EXTINF:-1 tvg-name="[HD]南宁影视" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/06/11/large/20220611224429328022_36.jpg" group-title="綜藝", [HD]南宁影视
+https://epg.pm/stream/b1f812cee36cbab30e20013eb12fa6274a2685d92378aca599ffb589c001ea9e.m3u8
+#EXTINF:-1 tvg-name="[BD]深圳娱乐频道" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/17/large/20220517013333177325_89.jpg" group-title="綜藝", [BD]深圳娱乐频道
+https://epg.pm/stream/0b818cc62c64034e5052cc9bdc728df638ddc12779b1d520530c71724013af42.m3u8
+#EXTINF:-1 tvg-name="[HD]深圳娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/17/large/20220517013333177325_89.jpg" group-title="綜藝", [HD]深圳娱乐
+https://epg.pm/stream/f493e55779a38614dd368984ad8643572b7867313852d7133c111a7b334864e0.m3u8
+#EXTINF:-1 tvg-name="[BD]深圳娱乐@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/17/large/20220517013333177325_89.jpg" group-title="綜藝", [BD]深圳娱乐@@2
+https://epg.pm/stream/b2b384aaa91cd7f162a80bc81ad884a539dc918590348e2daaef934ae9f5fafb.m3u8
+#EXTINF:-1 tvg-name="[HD]南京娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [HD]南京娱乐
+https://epg.pm/stream/ff5a1a6edbb5ba9dbcd757742912f34cf466feb1a77f6c70808cf0a968a49bc8.m3u8
+#EXTINF:-1 tvg-name="[HD]南京娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [HD]南京娱乐
+https://epg.pm/stream/5d54398fd150784611f1a2dea36f630845fa8477261776ec4a2e34fef83d123d.m3u8
+#EXTINF:-1 tvg-name="[HD]南京娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [HD]南京娱乐
+https://epg.pm/stream/a9c35b9254932a176822a42723b8d6eba28a62372b4c7899fd4b1cc153788263.m3u8
+#EXTINF:-1 tvg-name="[HD]南京娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [HD]南京娱乐
+https://epg.pm/stream/43a6d1bf2add4d5506d2f3878895ab6c629f354edefd3a558952c0eb8d27176a.m3u8
+#EXTINF:-1 tvg-name="[BD]南京娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [BD]南京娱乐
+https://epg.pm/stream/92542cd379ab7410083da317806ac00fdea449246e9a0cb77acd5c5eb9d853b8.m3u8
+#EXTINF:-1 tvg-name="[HD]南京娱乐@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [HD]南京娱乐@@2
+https://epg.pm/stream/3b8435e30990a70531b2f9af9d876f0d1a2cc91cf4b0eba815e21ee70ec40eeb.m3u8
+#EXTINF:-1 tvg-name="[HD]南京娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [HD]南京娱乐
+https://epg.pm/stream/e7ecee9dcc8a9e75bbf1f54d6167028ea8aa23d379187d80217914fb772d6027.m3u8
+#EXTINF:-1 tvg-name="[BD]南京娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [BD]南京娱乐
+https://epg.pm/stream/a8a07dd0b6df8f0113bf5c2d075140ec21b7e458607151710ffb9f83e0269d59.m3u8
+#EXTINF:-1 tvg-name="[HD]南京娱乐@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531150814793710_15.jpg" group-title="綜藝", [HD]南京娱乐@@3
+https://epg.pm/stream/c800de459eefb4cf0e66605e7703e8a133f878fc250e010a529f05cc35139ca3.m3u8
+#EXTINF:-1 tvg-name="[HD]深圳娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/17/large/20220517013333177325_89.jpg" group-title="綜藝", [HD]深圳娱乐
+https://epg.pm/stream/53639aef01fdb8edbb11c5e7d5e99a665085ca077ff51181f19480c4d4cbdb8a.php
+#EXTINF:-1 tvg-name="[BD]乐游@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/06/22/large/20220622212514188285_58.jpg" group-title="綜藝", [BD]乐游@@1
+https://epg.pm/stream/68815daf2c9e7c18524a10c0e354a9bc26e3a10104ff79504aadc6aca285e313.m3u8
+#EXTINF:-1 tvg-name="[SD]KMTV (576p)" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506174626326588_74.png" group-title="綜藝", [SD]KMTV (576p)
+https://epg.pm/stream/b687be1b0ae55e49580a7ae42c5ce9e1974bc1bd4dbb6de6249cf90d663fc270.m3u8
+#EXTINF:-1 tvg-name="河源综艺" group-title="中文-综艺", 河源综艺
+http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
+#EXTINF:-1 tvg-name="粤语综艺" tvg-id="粤语综艺" tvg-logo="https://tv-res.pages.dev/logo/粤语综艺.png" group-title="💓专享源🅱️", 粤语综艺
+http://zzy789.xyz/douyu1.php?id=7919720
+#EXTINF:-1 tvg-name="欢乐综艺" tvg-id="欢乐综艺" tvg-logo="https://tv-res.pages.dev/logo/欢乐综艺.png" group-title="💓专享源🅱️", 欢乐综艺
+http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
+#EXTINF:-1 tvg-name="FTV综艺" tvg-id="FTV综艺" tvg-logo="https://tv-res.pages.dev/logo/FTV综艺.png" group-title="🍹定制P3P☕️", FTV综艺
+p3p://167.114.175.6:55331/63ebf41d000b6335e2eb595050b6303b
+#EXTINF:-1 tvg-name="綜藝大集合" tvg-id="綜藝大集合" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3809_ofiii125_tv_20250729.png" group-title="綜藝大集合", 綜藝大集合
+https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii125
+#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-id="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝", ELTA娛樂
+http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8
+#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-id="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝", ELTA娛樂
+http://220.135.64.124:5050/li-4gtv-4gtv070/index.m3u8
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝", 民視綜藝
+http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝", 民視綜藝
+http://220.135.64.124:5050/li-4gtv-4gtv004/index.m3u8
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-id="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝", 民視綜藝
+http://114.32.153.6:5051/4gtv-4gtv004/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝", 豬哥亮歌廳秀
+http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝", 豬哥亮歌廳秀
+http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝", 豬哥亮歌廳秀
+http://114.32.153.6:5051/4gtv-4gtv006/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="MTV Live HD 音樂頻道" tvg-id="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="音樂綜藝", MTV Live
+http://220.135.64.124:5050/4gtv-live025/index.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝", MEZZO LIVE HD
+http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝", MEZZO LIVE HD
+http://220.135.64.124:5050/li-4gtv-4gtv083/index.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://epg.yang-1989.eu.org/logo/MezzoLive.png" group-title="音樂綜藝", Mezzo Live HD
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CMEZ&token=tgJerryfeng
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-id="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝", Mezzo Live HD
+http://114.32.153.6:5051/4gtv-4gtv083/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-id="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝", CLASSICA 古典樂
+http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8
+#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-id="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝", CLASSICA 古典樂
+http://220.135.64.124:5050/li-4gtv-4gtv059/index.m3u8
+#EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-id="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝", CLASSICA古典樂
+http://114.32.153.6:5051/4gtv-4gtv059/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="八大精彩台" tvg-id="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝", 八大精彩
+http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8
+#EXTINF:-1 tvg-name="八大精彩台" tvg-id="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝", 八大精彩
+http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8
+#EXTINF:-1 tvg-name="八大精彩台" tvg-id="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝", 八大精彩
+http://114.32.153.6:5051/4gtv-4gtv034/index.m3u8?token=xpnCtGMsDbMYGUir7cwk2ii4jr7y6rcwt1Vrv2cAC6j1Eb720aYySqm9Yz0yBZPF&proxy=true
+#EXTINF:-1 tvg-name="綜藝玩很大" tvg-id="綜藝玩很大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="歐飛點播", 綜藝玩很大
+http://220.135.64.124:5050/ofiii130/index.m3u8
+#EXTINF:-1 tvg-name="綜藝大集合-FastTV飛速看" tvg-id="綜藝大集合-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live203.png" group-title="4GTV", 綜藝大集合-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/9e38c090a31a7f3c?token=tgJerryfeng
+#EXTINF:-1 tvg-name="綜藝新時代-FastTV飛速看" tvg-id="綜藝新時代-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live230.png" group-title="4GTV", 綜藝新時代-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/34a77e8d097803da?token=tgJerryfeng
+#EXTINF:-1 tvg-name="綜藝大贏家-FastTV飛速看" tvg-id="綜藝大贏家-FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live011.png" group-title="4GTV", 綜藝大贏家-FastTV飛速看
+https://rust.946985.filegear-sg.me/proxy/469fcb2e11fc16fe?token=tgJerryfeng
+#EXTINF:-1 tvg-name="ROCK綜藝娛樂" tvg-id="ROCK綜藝娛樂" tvg-logo="https://epg.yang-1989.eu.org/logo/RockEntertainment.png" group-title="MYTV", ROCK 綜藝娛樂
+https://mytvsuper.946985.filegear-sg.me/jump?url=https://smart.946985.filegear-sg.me/jackmytv265.php?id=CRTE&token=tgJerryfeng
+#EXTINF:-1 tvg-name="海看大片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海看大片.png" group-title="娱乐综艺" response-time="20ms", 海看大片
+http://123.129.70.178:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="魅力音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/魅力音乐.png" group-title="娱乐综艺" response-time="48ms", 魅力音乐
+http://125.43.244.40:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/岭南戏曲.png" group-title="娱乐综艺" response-time="70ms", 岭南戏曲
+http://49.234.31.101:7033/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="韩国综艺" tvg-logo="https://epg.112114.xyz/logo/韩国综艺.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 韩国综艺
+https://live.ottiptv.cc/huya/11336725
+#EXTINF:-1 tvg-name="男生女生向前冲专场" tvg-logo="https://epg.112114.xyz/logo/男生女生向前冲专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 男生女生向前冲专场
+https://live.ottiptv.cc/huya/30021042
+#EXTINF:-1 tvg-name="极限挑战专场" tvg-logo="https://epg.112114.xyz/logo/极限挑战专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 极限挑战专场
+https://live.ottiptv.cc/huya/29982632
+#EXTINF:-1 tvg-name="青春环游专场" tvg-logo="https://epg.112114.xyz/logo/青春环游专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 青春环游专场
+https://live.ottiptv.cc/huya/30080246
+#EXTINF:-1 tvg-name="五十公里桃花坞专场" tvg-logo="https://epg.112114.xyz/logo/五十公里桃花坞专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 五十公里桃花坞专场
+https://live.ottiptv.cc/huya/29465869
+#EXTINF:-1 tvg-name="高能少年团专场" tvg-logo="https://epg.112114.xyz/logo/高能少年团专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 高能少年团专场
+https://live.ottiptv.cc/huya/29982609
+#EXTINF:-1 tvg-name="二十四小时专场" tvg-logo="https://epg.112114.xyz/logo/二十四小时专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 二十四小时专场
+https://live.ottiptv.cc/huya/29982610
+#EXTINF:-1 tvg-name="哈哈哈哈哈专场" tvg-logo="https://epg.112114.xyz/logo/哈哈哈哈哈专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 哈哈哈哈哈专场
+https://live.ottiptv.cc/huya/30080247
+#EXTINF:-1 tvg-name="演员请就位专场" tvg-logo="https://epg.112114.xyz/logo/演员请就位专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 演员请就位专场
+https://live.ottiptv.cc/huya/23746691
+#EXTINF:-1 tvg-name="奔跑吧兄弟专场" tvg-logo="https://epg.112114.xyz/logo/奔跑吧兄弟专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 奔跑吧兄弟专场
+https://live.ottiptv.cc/huya/29465870
+#EXTINF:-1 tvg-name="最强大脑专场" tvg-logo="https://epg.112114.xyz/logo/最强大脑专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 最强大脑专场
+https://live.ottiptv.cc/huya/29465880
+#EXTINF:-1 tvg-name="现在就出发专场" tvg-logo="https://epg.112114.xyz/logo/现在就出发专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 现在就出发专场
+https://live.ottiptv.cc/huya/21059551
+#EXTINF:-1 tvg-name="脱口秀大会专场" tvg-logo="https://epg.112114.xyz/logo/脱口秀大会专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 脱口秀大会专场
+https://live.ottiptv.cc/huya/11352875
+#EXTINF:-1 tvg-name="新游记专场" tvg-logo="https://epg.112114.xyz/logo/新游记专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 新游记专场
+https://live.ottiptv.cc/huya/20985794
+#EXTINF:-1 tvg-name="天赐的声音专场" tvg-logo="https://epg.112114.xyz/logo/天赐的声音专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 天赐的声音专场
+https://live.ottiptv.cc/huya/30080249
+#EXTINF:-1 tvg-name="幸福三重奏专场" tvg-logo="https://epg.112114.xyz/logo/幸福三重奏专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 幸福三重奏专场
+https://live.ottiptv.cc/huya/29982647
+#EXTINF:-1 tvg-name="咱们穿越吧专场" tvg-logo="https://epg.112114.xyz/logo/咱们穿越吧专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 咱们穿越吧专场
+https://live.ottiptv.cc/huya/11352907
+#EXTINF:-1 tvg-name="我是大侦探专场" tvg-logo="https://epg.112114.xyz/logo/我是大侦探专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 我是大侦探专场
+https://live.ottiptv.cc/huya/20969140
+#EXTINF:-1 tvg-name="朋友请吃饭专场" tvg-logo="https://epg.112114.xyz/logo/朋友请吃饭专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 朋友请吃饭专场
+https://live.ottiptv.cc/huya/11352918
+#EXTINF:-1 tvg-name="12道锋味专场" tvg-logo="https://epg.112114.xyz/logo/12道锋味专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 12道锋味专场
+https://live.ottiptv.cc/huya/30080162
+#EXTINF:-1 tvg-name="我们的客栈专场" tvg-logo="https://epg.112114.xyz/logo/我们的客栈专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 我们的客栈专场
+https://live.ottiptv.cc/huya/24609812
+#EXTINF:-1 tvg-name="变形计专场" tvg-logo="https://epg.112114.xyz/logo/变形计专场.png" group-title="📽️综艺直播" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 变形计专场
+https://live.ottiptv.cc/huya/23903164
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="体验频道", 金牌综艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="NewTV-金牌综艺" tvg-id="NewTV-金牌综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-金牌综艺.png" group-title="数字频道", NewTV-金牌综艺
+http://183.222.15.202:4321/rtp/239.11.0.152:5140
+#EXTINF:-1 tvg-name="NewTV-金牌综艺" tvg-id="NewTV-金牌综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-金牌综艺.png" group-title="数字频道", NewTV-金牌综艺
+http://183.220.107.138:4022/rtp/239.11.0.152:5140
+#EXTINF:-1 tvg-name="SVVRT-067 素人综艺－只为努力的职业妇女！光是肉体契合就能结成情侣吗？ ？ Gloryhole 匿名性匹配体验！我不敢相信我竟然被一个我什至不知道名字和脸的男人这样对待（心）" group-title="WhosTV", SVVRT-067 素人综艺－只为努力的职业妇女！光是肉体契合就能结成情侣吗？ ？ Gloryhole 匿名性匹配体验！我不敢相信我竟然被一个我什至不知道名字和脸的男人这样对待（心）
+https://s3.aaaaa.io/fb9b6a9f33bcc995a9e0ef4c1108e39e/fb9b6a9f33bcc995a9e0ef4c1108e39e.m3u8
+#EXTINF:-1 tvg-name="SVVRT-069 素人综艺保龄球少女，瞄准臀部一击！挑战丰臀保龄球！爽到乳液滑落，肛门抽搐！吊袜带脱下，瞬间中出！" group-title="WhosTV", SVVRT-069 素人综艺保龄球少女，瞄准臀部一击！挑战丰臀保龄球！爽到乳液滑落，肛门抽搐！吊袜带脱下，瞬间中出！
+https://s3.aaaaa.io/3efc196c074ef1ace847a0f493b6740c/3efc196c074ef1ace847a0f493b6740c.m3u8
+#EXTINF:-1 tvg-name="综艺文化" tvg-logo="https://logo.catvod.com/综艺文化.png" group-title="📺通用IPTV", 综艺文化
+http://36.135.118.195:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="综艺1211" tvg-logo="https://logo.catvod.com/综艺1211.png" group-title="🇷🇺俄罗斯", 综艺1211
+http://cdntv.online/high/ynemik5cl9/1211.mpeg
+#EXTINF:-1 tvg-name="综艺1246" tvg-logo="https://logo.catvod.com/综艺1246.png" group-title="🇷🇺俄罗斯", 综艺1246
+http://cdntv.online/high/ynemik5cl9/1246.mpeg
+#EXTINF:-1 tvg-name="综艺1278" tvg-logo="https://logo.catvod.com/综艺1278.png" group-title="🇷🇺俄罗斯", 综艺1278
+http://cdntv.online/high/ynemik5cl9/1278.mpeg
+#EXTINF:-1 tvg-name="综艺165" tvg-logo="https://logo.catvod.com/综艺165.png" group-title="🇷🇺俄罗斯", 综艺165
+http://cdntv.online/high/ynemik5cl9/1872.mpeg
+#EXTINF:-1 tvg-name="综艺1657" tvg-logo="https://logo.catvod.com/综艺1657.png" group-title="🇷🇺俄罗斯", 综艺1657
+http://cdntv.online/high/ynemik5cl9/1657.mpeg
+#EXTINF:-1 tvg-name="综艺31" tvg-logo="https://logo.catvod.com/综艺31.png" group-title="🇷🇺俄罗斯", 综艺31
+http://cdntv.online/high/ynemik5cl9/1738.mpeg
+#EXTINF:-1 tvg-name="综艺46" tvg-logo="https://logo.catvod.com/综艺46.png" group-title="🇷🇺俄罗斯", 综艺46
+http://cdntv.online/high/ynemik5cl9/1753.mpeg
+#EXTINF:-1 tvg-name="爆笑综艺" tvg-logo="https://logo.catvod.com/爆笑综艺.png" group-title="📺轮播", 爆笑综艺
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://svip.high25-playback.com/20250412/23503_e0eb3d5a/index.m3u8$第1集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://svip.high24-playback.com/20250413/24807_6c49d08d/index.m3u8$第2集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://svip.high25-playback.com/20250414/23698_32ce0810/index.m3u8$第3集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://vvip.high26-playback.com/20250419/4830_7e712eef/index.m3u8$第4集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://vvip.high26-playback.com/20250420/4959_0e64a7b0/index.m3u8$第5集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://cdn.yzzy27-play.com/20250421/217_63dc7ed1/index.m3u8$第6集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://cdn.yzzy27-play.com/20250426/940_8d6dc35e/index.m3u8$第7集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://svip.high25-playback.com/20250427/25200_b555275c/index.m3u8$第8集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://svip.high25-playback.com/20250428/25233_c5a4273e/index.m3u8$第9集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://svip.high25-playback.com/20250504/25784_48d086c2/index.m3u8$第10集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://svip.high25-playback.com/20250504/25781_11f9b53e/index.m3u8$第11集
+#EXTINF:-1 tvg-name="哈哈哈哈" tvg-logo="https://logo.catvod.com/哈哈哈哈.png" group-title="🎬综艺节目", 哈哈哈哈
+https://cdn.yzzy27-play.com/20250505/2205_06d5ae10/index.m3u8$第12集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://svip.high25-playback.com/20250424/24785_36c5d795/index.m3u8$第1集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://svip.high25-playback.com/20250424/24782_cfe8517a/index.m3u8$第2集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://svip.high25-playback.com/20250424/24783_30648060/index.m3u8$第3集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://svip.high25-playback.com/20250424/24784_587bc192/index.m3u8$第4集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://svip.high25-playback.com/20250425/25064_51d3f636/index.m3u8$第5集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://svip.high25-playback.com/20250501/25515_788719cc/index.m3u8$第6集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://svip.high25-playback.com/20250501/25516_902b2942/index.m3u8$第7集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://cdn.yzzy27-play.com/20250502/1919_8c8a58fa/index.m3u8$第8集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://cdn.yzzy27-play.com/20250502/1918_e74c0d42/index.m3u8$第9集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://vvip.high26-playback.com/20250504/5877_c3443361/index.m3u8$第10集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://cdn.yzzy27-play.com/20250504/2128_bd5af7cd/index.m3u8$第11集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://vvip.high26-playback.com/20250505/5954_2f0928c2/index.m3u8$第12集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://cdn.yzzy27-play.com/20250508/2482_f55cadb9/index.m3u8$第13集
+#EXTINF:-1 tvg-name="开始推理吧" tvg-logo="https://logo.catvod.com/开始推理吧.png" group-title="🎬综艺节目", 开始推理吧
+https://vvip.high26-playback.com/20250508/6245_c783eed3/index.m3u8$第14集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250329/2740_d902bb0f/index.m3u8$第1集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high24-playback.com/20250405/23733_8eeedc66/index.m3u8$第2集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high24-playback.com/20250405/23732_796e0358/index.m3u8$第3集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250406/3444_758be1f9/index.m3u8$第4集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250406/3445_09ba3f0d/index.m3u8$第5集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250407/3499_3ea2db50/index.m3u8$第6集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250408/3596_52c409f1/index.m3u8$第7集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250408/3597_b89c3096/index.m3u8$第8集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high25-playback.com/20250412/23583_1a840cbe/index.m3u8$第9集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high25-playback.com/20250412/23584_27554b4e/index.m3u8$第10集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high24-playback.com/20250413/24798_0aa983d2/index.m3u8$第11集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high24-playback.com/20250413/24799_eeba04a5/index.m3u8$第12集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high24-playback.com/20250414/24941_d8c2a05e/index.m3u8$第13集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high25-playback.com/20250415/23830_ec432e7c/index.m3u8$第14集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high25-playback.com/20250415/23831_6bbbbb2a/index.m3u8$第15集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250420/4872_02b5b45c/index.m3u8$第16集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250420/4873_945e01e4/index.m3u8$第17集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250420/4977_94bb077f/index.m3u8$第18集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250420/4978_10ff0b5e/index.m3u8$第19集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250421/5056_2654d1a3/index.m3u8$第20集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250422/5092_73d915c9/index.m3u8$第21集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250422/5093_197838c5/index.m3u8$第22集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://cdn.yzzy27-play.com/20250423/467_ab817c93/index.m3u8$第23集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://cdn.yzzy27-play.com/20250423/466_e836d813/index.m3u8$第24集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://cdn.yzzy27-play.com/20250427/966_4e0cb6fb/index.m3u8$第25集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://cdn.yzzy27-play.com/20250427/967_6cfe0e61/index.m3u8$第26集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250429/5543_a10a2663/index.m3u8$第27集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250429/5544_97785e05/index.m3u8$第28集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250430/5624_c460dc0f/index.m3u8$第29集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high25-playback.com/20250503/25758_7d108ef7/index.m3u8$第30集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://svip.high25-playback.com/20250503/25759_ba307c1f/index.m3u8$第31集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://cdn.yzzy27-play.com/20250504/2122_abdbeb4d/index.m3u8$第32集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://cdn.yzzy27-play.com/20250504/2123_5a1e3a5a/index.m3u8$第33集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250506/6029_7f3ad9c6/index.m3u8$第34集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250506/6030_3a24b25a/index.m3u8$第35集
+#EXTINF:-1 tvg-name="无限超越班" tvg-logo="https://logo.catvod.com/无限超越班.png" group-title="🎬综艺节目", 无限超越班
+https://vvip.high26-playback.com/20250507/6121_03fcd68e/index.m3u8$第36集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://cdn.yzzy27-play.com/20250425/836_ab88b157/index.m3u8$第1集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://cdn.yzzy27-play.com/20250425/837_b0b183c2/index.m3u8$第2集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://cdn.yzzy27-play.com/20250425/838_f9028fae/index.m3u8$第3集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://vvip.high26-playback.com/20250426/5455_211b3925/index.m3u8$第4集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://cdn.yzzy27-play.com/20250428/1177_83f97f48/index.m3u8$第5集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://cdn.yzzy27-play.com/20250428/1178_7d771e0e/index.m3u8$第6集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://svip.high25-playback.com/20250502/25595_8ce77501/index.m3u8$第7集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://svip.high25-playback.com/20250502/25596_8cfedff8/index.m3u8$第8集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://svip.high25-playback.com/20250502/25597_c89723a4/index.m3u8$第9集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://vvip.high26-playback.com/20250503/5871_07bba581/index.m3u8$第10集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://vvip.high26-playback.com/20250503/5872_94f192de/index.m3u8$第11集
+#EXTINF:-1 tvg-name="这是我的西游" tvg-logo="https://logo.catvod.com/这是我的西游.png" group-title="🎬综艺节目", 这是我的西游
+https://vvip.high26-playback.com/20250505/5958_8fdd149f/index.m3u8$第12集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.yyzy-play.vip/20250228/25179_58869cab/index.m3u8$第1集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.yyzy-play.vip/20250228/25178_12ac4ab7/index.m3u8$第2集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250301/19454_0d3ed68f/index.m3u8$第3集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250301/19453_a7ec4dc3/index.m3u8$第4集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.yyzy-play.vip/20250302/25381_edce0e4b/index.m3u8$第5集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250307/19769_f2d22896/index.m3u8$第6集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250307/19768_71f31ee2/index.m3u8$第7集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250308/21280_f4915022/index.m3u8$第8集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250308/21279_d9abd6a9/index.m3u8$第9集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250309/19919_c26217ea/index.m3u8$第10集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250314/20295_c6745b57/index.m3u8$第11集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250314/20294_af4be601/index.m3u8$第12集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250315/20395_bfbba1cc/index.m3u8$第13集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250315/20394_50d4a1f5/index.m3u8$第14集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250316/20484_241bf351/index.m3u8$第15集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250321/21947_1c61eb27/index.m3u8$第16集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250321/21946_a3d8aaa4/index.m3u8$第17集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250322/22055_6f434ee7/index.m3u8$第18集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250322/22054_0dc27334/index.m3u8$第19集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://vvip.high26-playback.com/20250323/2202_c9a20e4b/index.m3u8$第20集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250328/22087_dd11ffd0/index.m3u8$第21集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250328/22086_04eda24f/index.m3u8$第22集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250329/22500_5d26faa3/index.m3u8$第23集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250329/22498_19da9ee7/index.m3u8$第24集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250330/22462_3cb78169/index.m3u8$第25集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high26-playback.com/20250404/3258_48584348/index.m3u8$第26集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high26-playback.com/20250404/3257_4ea83d95/index.m3u8$第27集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250405/23038_65d21a7a/index.m3u8$第28集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250405/23037_4c2aeb84/index.m3u8$第29集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250406/23102_e4237e37/index.m3u8$第30集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250411/23436_bd7ead76/index.m3u8$第31集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250411/23437_628454d2/index.m3u8$第32集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high24-playback.com/20250412/24513_92e4843a/index.m3u8$第33集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250412/23499_950a9f73/index.m3u8$第34集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250413/23643_75517096/index.m3u8$第35集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250418/24115_cf3064db/index.m3u8$第36集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250418/24137_c1474f10/index.m3u8$第37集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250419/24230_19e12b39/index.m3u8$第38集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250419/24231_cd2a3b18/index.m3u8$第39集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://vvip.high26-playback.com/20250420/4958_09a8a897/index.m3u8$第40集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://vvip.high26-playback.com/20250425/5320_3a2a9aef/index.m3u8$第41集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://vvip.high26-playback.com/20250425/5321_8da57fac/index.m3u8$第42集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://cdn.yzzy27-play.com/20250426/941_92262bf9/index.m3u8$第43集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250426/25154_d21555f0/index.m3u8$第44集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250427/25201_21c3a50a/index.m3u8$第45集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://svip.high25-playback.com/20250502/25593_0006dd05/index.m3u8$第46集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://cdn.yzzy27-play.com/20250502/1907_77369e37/index.m3u8$第47集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://cdn.yzzy27-play.com/20250503/2034_d198bd73/index.m3u8$第48集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://cdn.yzzy27-play.com/20250503/2035_2b0f658c/index.m3u8$第49集
+#EXTINF:-1 tvg-name="种地吧第三季" tvg-logo="https://logo.catvod.com/种地吧第三季.png" group-title="🎬综艺节目", 种地吧第三季
+https://vvip.high26-playback.com/20250504/5905_148148d6/index.m3u8$第50集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250319/21823_2c09fda9/index.m3u8$第1集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250321/21933_483b1af7/index.m3u8$第2集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250321/21932_7f74b0c5/index.m3u8$第3集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250321/21931_5be50d17/index.m3u8$第4集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250323/2204_0b053057/index.m3u8$第5集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250326/22287_1c72a4ba/index.m3u8$第6集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250327/2543_55e93854/index.m3u8$第7集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250328/2610_b9871749/index.m3u8$第8集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250328/2609_6b29aac0/index.m3u8$第9集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250329/22339_4782b7d7/index.m3u8$第10集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250330/22464_ecc43c9c/index.m3u8$第11集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250403/22837_b162dd99/index.m3u8$第12集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250404/23388_fb0ffdce/index.m3u8$第13集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250406/23790_1b7daa72/index.m3u8$第14集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250409/3698_943aa0fc/index.m3u8$第15集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250410/24252_2f93b699/index.m3u8$第16集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250411/24328_588fad4e/index.m3u8$第17集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250411/24329_8f5f383c/index.m3u8$第18集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250412/24510_91a378e1/index.m3u8$第19集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high24-playback.com/20250413/24800_2e6d0571/index.m3u8$第20集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250417/4546_09def3eb/index.m3u8$第21集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250418/4696_b7d35509/index.m3u8$第22集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250418/4697_700fdb2b/index.m3u8$第23集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250420/4962_66bf858e/index.m3u8$第24集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://cdn.yzzy27-play.com/20250423/463_428fca9b/index.m3u8$第25集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://cdn.yzzy27-play.com/20250424/724_7f1171a7/index.m3u8$第26集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250425/5326_ac27b772/index.m3u8$第27集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250425/5327_d693d554/index.m3u8$第28集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://cdn.yzzy27-play.com/20250426/938_74bba227/index.m3u8$第29集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://cdn.yzzy27-play.com/20250427/1080_731c83db/index.m3u8$第30集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250428/25235_9d42d758/index.m3u8$第31集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250501/25514_4011b4f4/index.m3u8$第32集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250502/5824_b7f520a5/index.m3u8$第33集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://vvip.high26-playback.com/20250502/5825_c5a0ac0e/index.m3u8$第34集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://svip.high25-playback.com/20250504/25783_2fc0af0c/index.m3u8$第35集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://cdn.yzzy27-play.com/20250507/2405_b53477c2/index.m3u8$第36集
+#EXTINF:-1 tvg-name="乘风2025" tvg-logo="https://logo.catvod.com/乘风2025.png" group-title="🎬综艺节目", 乘风2025
+https://cdn.yzzy27-play.com/20250508/2518_6ef80bb2/index.m3u8$第37集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://svip.high25-playback.com/20250418/24140_542b9ce5/index.m3u8$第1集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://svip.high25-playback.com/20250419/24240_ef239417/index.m3u8$第2集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://svip.high25-playback.com/20250423/24765_511a7678/index.m3u8$第3集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://cdn.yzzy27-play.com/20250425/754_872488f8/index.m3u8$第4集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://cdn.yzzy27-play.com/20250430/1446_8fb21ee7/index.m3u8$第5集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://vvip.high26-playback.com/20250501/5787_a32d7eea/index.m3u8$第6集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://vvip.high26-playback.com/20250502/5826_99f42c47/index.m3u8$第7集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://vvip.high26-playback.com/20250507/6122_8aa2c95d/index.m3u8$第8集
+#EXTINF:-1 tvg-name="一见你就笑" tvg-logo="https://logo.catvod.com/一见你就笑.png" group-title="🎬综艺节目", 一见你就笑
+https://cdn.yzzy27-play.com/20250508/2525_9407c826/index.m3u8$第9集
+#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
+https://cdn.yzzy27-play.com/20250426/894_4b025079/index.m3u8$第1集
+#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
+https://vvip.high26-playback.com/20250426/5454_107030ca/index.m3u8$第2集
+#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
+https://cdn.yzzy27-play.com/20250428/1176_a7d8ae45/index.m3u8$第3集
+#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
+https://vvip.high26-playback.com/20250503/5861_ccdf3864/index.m3u8$第4集
+#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
+https://vvip.high26-playback.com/20250503/5862_ecb287ff/index.m3u8$第5集
+#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
+https://cdn.yzzy27-play.com/20250503/2037_23d2e157/index.m3u8$第6集
+#EXTINF:-1 tvg-name="奔跑吧$第九季" tvg-logo="https://logo.catvod.com/奔跑吧$第九季.png" group-title="🎬综艺节目", 奔跑吧$第九季
+https://cdn.yzzy27-play.com/20250505/2216_5938b4d0/index.m3u8$第7集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250228/20809_763d44a3/index.m3u8$第1集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250228/20808_8e6ce52a/index.m3u8$第2集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250228/20807_12a1b464/index.m3u8$第3集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250228/20806_c34a2531/index.m3u8$第4集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250228/20805_fb274fc6/index.m3u8$第5集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250228/20804_1ad12745/index.m3u8$第6集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250301/19459_b3e1204e/index.m3u8$第7集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250307/19767_82cb9a38/index.m3u8$第8集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250307/19766_fe249c3c/index.m3u8$第9集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250308/21282_ddaf19a0/index.m3u8$第10集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250309/21335_7c13f3d8/index.m3u8$第11集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250314/21575_40c842f5/index.m3u8$第12集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250314/21574_be722bdc/index.m3u8$第13集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250314/21573_25bdc88b/index.m3u8$第14集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250314/21572_7cfea3ca/index.m3u8$第15集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250315/21644_69771c88/index.m3u8$第16集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250316/21712_9e93cd47/index.m3u8$第17集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250321/20937_870fbf61/index.m3u8$第18集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250321/20936_9730944c/index.m3u8$第19集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250321/20935_6c7237dc/index.m3u8$第20集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250321/20934_1a89f56d/index.m3u8$第21集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250322/21008_3953f1eb/index.m3u8$第22集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250325/22223_53d15a33/index.m3u8$第23集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250328/22101_f572acc9/index.m3u8$第24集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250328/22100_87733c80/index.m3u8$第25集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250328/22099_7c48627d/index.m3u8$第26集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250328/22098_58c8e9c0/index.m3u8$第27集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250328/22097_366c8531/index.m3u8$第28集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250329/22340_95fd0d1c/index.m3u8$第29集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250330/22565_84f79c8e/index.m3u8$第30集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high26-playback.com/20250404/3263_f8037f94/index.m3u8$第31集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high26-playback.com/20250404/3262_8a50bae2/index.m3u8$第32集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high26-playback.com/20250404/3265_f4334c13/index.m3u8$第33集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high26-playback.com/20250404/3264_f0eaf559/index.m3u8$第34集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250405/23040_97f59593/index.m3u8$第35集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250406/23103_6677753c/index.m3u8$第36集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250411/23442_c45bdeba/index.m3u8$第37集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250411/23443_f92f6317/index.m3u8$第38集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250411/23440_24664885/index.m3u8$第39集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250411/23441_220ef58e/index.m3u8$第40集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high24-playback.com/20250412/24514_e9c1f3f4/index.m3u8$第41集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250413/23647_210bcb6b/index.m3u8$第42集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://vvip.high26-playback.com/20250418/4702_84fdbc3a/index.m3u8$第43集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://vvip.high26-playback.com/20250418/4703_ac4395ad/index.m3u8$第44集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://vvip.high26-playback.com/20250418/4700_c4414e53/index.m3u8$第45集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://vvip.high26-playback.com/20250418/4701_a9ad5f28/index.m3u8$第46集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250419/24237_680c256f/index.m3u8$第47集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://vvip.high26-playback.com/20250420/4966_30d4e642/index.m3u8$第48集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250425/841_02a32ad2/index.m3u8$第49集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250425/842_fc3cf452/index.m3u8$第50集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250425/839_8f7d807e/index.m3u8$第51集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250425/840_fa83a11a/index.m3u8$第52集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://vvip.high26-playback.com/20250426/5457_618b0fff/index.m3u8$第53集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250427/1073_390e9825/index.m3u8$第54集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250502/1912_ff7d0f52/index.m3u8$第55集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250502/1913_c44799b0/index.m3u8$第56集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250502/1910_ab731488/index.m3u8$第57集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250502/1911_04df4d43/index.m3u8$第58集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://cdn.yzzy27-play.com/20250503/2036_f48c04ff/index.m3u8$第59集
+#EXTINF:-1 tvg-name="盒子里的猫$第二季" tvg-logo="https://logo.catvod.com/盒子里的猫$第二季.png" group-title="🎬综艺节目", 盒子里的猫$第二季
+https://svip.high25-playback.com/20250504/25782_e9ef4cc2/index.m3u8$第60集
+#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
+https://svip.high24-playback.com/20250416/25425_6f910b36/index.m3u8$第1集
+#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
+https://vvip.high26-playback.com/20250419/4757_d8012652/index.m3u8$第2集
+#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
+https://cdn.yzzy27-play.com/20250421/225_d1c38a09/index.m3u8$第3集
+#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
+https://cdn.yzzy27-play.com/20250426/897_5705e116/index.m3u8$第4集
+#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
+https://cdn.yzzy27-play.com/20250428/1182_f4733064/index.m3u8$第5集
+#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
+https://vvip.high26-playback.com/20250503/5858_8336041a/index.m3u8$第6集
+#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
+https://cdn.yzzy27-play.com/20250505/2217_b5c01503/index.m3u8$第7集
+#EXTINF:-1 tvg-name="天赐的声音 $第6季" tvg-logo="https://logo.catvod.com/天赐的声音 $第6季.png" group-title="🎬综艺节目", 天赐的声音 $第6季
+https://cdn.yzzy27-play.com/20250506/2290_1177967c/index.m3u8$第8集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250220/20067_6fd39051/index.m3u8$第1集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250221/20152_d6384040/index.m3u8$第2集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.yyzy-play.vip/20250222/24286_34ba6cd9/index.m3u8$第3集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.yyzy-play.vip/20250227/25085_a7819257/index.m3u8$第4集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250228/19341_7dea04e0/index.m3u8$第5集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250301/19442_81a67043/index.m3u8$第6集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250306/19709_74394b38/index.m3u8$第7集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250307/21210_325fe484/index.m3u8$第8集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250308/19842_65af3cd2/index.m3u8$第9集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250313/21486_c7c1bb53/index.m3u8$第10集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250314/21569_4dda998c/index.m3u8$第11集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250315/21639_b1fff8ff/index.m3u8$第12集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250316/20483_4b2f7c04/index.m3u8$第13集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250320/20760_eb57c2d0/index.m3u8$第14集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250321/22016_698076ed/index.m3u8$第15集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250321/20896_86bee9ca/index.m3u8$第16集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250322/22056_fa42e36a/index.m3u8$第17集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250327/21985_cb01350a/index.m3u8$第18集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://vvip.high26-playback.com/20250328/2622_6a584901/index.m3u8$第19集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://vvip.high26-playback.com/20250328/2611_2a3f0552/index.m3u8$第20集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250329/22337_964c9c30/index.m3u8$第21集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250403/22835_f8ed6ae9/index.m3u8$第22集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high26-playback.com/20250404/3261_95177e52/index.m3u8$第23集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250404/23381_eb72d013/index.m3u8$第24集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250405/23517_2343f39d/index.m3u8$第25集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250410/24253_dd8a3f5d/index.m3u8$第26集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250411/23438_15d81ef9/index.m3u8$第27集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://vvip.high26-playback.com/20250411/3929_79f69230/index.m3u8$第28集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high24-playback.com/20250412/24512_9324bc62/index.m3u8$第29集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://vvip.high26-playback.com/20250417/4547_3910d2e3/index.m3u8$第30集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://vvip.high26-playback.com/20250418/4695_5034a5d6/index.m3u8$第31集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://vvip.high26-playback.com/20250418/4693_1feb4cdd/index.m3u8$第32集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250419/24234_11037e6c/index.m3u8$第33集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250424/24776_863ae4a7/index.m3u8$第34集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://cdn.yzzy27-play.com/20250425/834_301ad0e3/index.m3u8$第35集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://vvip.high26-playback.com/20250425/5318_820a8f5c/index.m3u8$第36集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://vvip.high26-playback.com/20250426/5451_95a7e425/index.m3u8$第37集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://svip.high25-playback.com/20250501/25513_09007e0c/index.m3u8$第38集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://cdn.yzzy27-play.com/20250503/2033_a5a61717/index.m3u8$第39集
+#EXTINF:-1 tvg-name="妻子的浪漫旅行" tvg-logo="https://logo.catvod.com/妻子的浪漫旅行.png" group-title="🎬综艺节目", 妻子的浪漫旅行
+https://cdn.yzzy27-play.com/20250508/2517_c5dc3e08/index.m3u8$第40集
