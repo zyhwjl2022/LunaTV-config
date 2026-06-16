@@ -5,13 +5,9 @@
       "name": "GNTV",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
     },
-    "央视-综合-1": {
-      "name": "央视-综合-1",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-cctv-main-1.m3u"
-    },
-    "央视-综合-2": {
-      "name": "央视-综合-2",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-cctv-main-2.m3u"
+    "央视-综合": {
+      "name": "央视-综合",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-cctv-main.m3u"
     },
     "央视-影视": {
       "name": "央视-影视",
@@ -32,10 +28,6 @@
     "卫视频道-2": {
       "name": "卫视频道-2",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-satellite-2.m3u"
-    },
-    "卫视频道-3": {
-      "name": "卫视频道-3",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-satellite-3.m3u"
     },
     "体育-综合": {
       "name": "体育-综合",
@@ -125,13 +117,9 @@
       "name": "中文-斗鱼",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-other-douyu.m3u"
     },
-    "中文-虎牙-1": {
-      "name": "中文-虎牙-1",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-other-huya-1.m3u"
-    },
-    "中文-虎牙-2": {
-      "name": "中文-虎牙-2",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-other-huya-2.m3u"
+    "中文-虎牙": {
+      "name": "中文-虎牙",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-other-huya.m3u"
     },
     "中文-直播平台": {
       "name": "中文-直播平台",
@@ -225,17 +213,37 @@
       "name": "国际-美洲",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-americas.m3u"
     },
-    "国际-成人": {
-      "name": "国际-成人",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-adult.m3u"
+    "国际-成人-1": {
+      "name": "国际-成人-1",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-adult-1.m3u"
+    },
+    "国际-成人-2": {
+      "name": "国际-成人-2",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-adult-2.m3u"
+    },
+    "国际-成人-3": {
+      "name": "国际-成人-3",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-adult-3.m3u"
+    },
+    "国际-成人-4": {
+      "name": "国际-成人-4",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-adult-4.m3u"
+    },
+    "国际-成人-5": {
+      "name": "国际-成人-5",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-adult-5.m3u"
     },
     "国际-FC2": {
       "name": "国际-FC2",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-fc2.m3u"
     },
-    "国际-其他": {
-      "name": "国际-其他",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-other.m3u"
+    "国际-其他-1": {
+      "name": "国际-其他-1",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-other-1.m3u"
+    },
+    "国际-其他-2": {
+      "name": "国际-其他-2",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zyhwjl2022/LunaTV-config/refs/heads/main/Live/live-world-other-2.m3u"
     }
   },
   "api_site": {
@@ -248,6 +256,11 @@
       "name": "速博点播",
       "api": "https://subocaiji.com/api.php/provide/vod/",
       "detail": "https://subocaiji.com"
+    },
+    "caiji.moduapi.cc": {
+      "name": "魔都|点播",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "detail": "https://caiji.moduapi.cc"
     },
     "api.wwzy.tv": {
       "name": "旺旺点播",
@@ -279,6 +292,11 @@
       "api": "https://vod38.com/api.php/provide/vod/",
       "detail": "https://vod38.com"
     },
+    "lovedan.net": {
+      "name": "自用源",
+      "api": "https://lovedan.net/api.php/provide/vod/",
+      "detail": "https://lovedan.net"
+    },
     "api.niuniuzy.me": {
       "name": "牛牛影视",
       "api": "https://api.niuniuzy.me/api.php/provide/vod/",
@@ -289,10 +307,10 @@
       "api": "https://img.smdyw.top/api.php/provide/vod/",
       "detail": "https://img.smdyw.top"
     },
-    "api.11bat.com": {
-      "name": "辣椒",
-      "api": "http://api.11bat.com/api.php/provide/vod/",
-      "detail": "http://api.11bat.com"
+    "api.wujinapi.com": {
+      "name": "无尽",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "detail": "https://api.wujinapi.com"
     },
     "m3u8.apiyhzy.com": {
       "name": "yyyyy",
@@ -349,6 +367,11 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
       "detail": "https://api.guangsuapi.com"
     },
+    "lbapiby.com": {
+      "name": "AIVIN",
+      "api": "http://lbapiby.com/api.php/provide/vod/at/j",
+      "detail": "http://lbapiby.com"
+    },
     "suoniapi.com": {
       "name": "snoy",
       "api": "https://suoniapi.com/api.php/provide/vod",
@@ -369,6 +392,11 @@
       "api": "https://api.ddapi.cc/api.php/provide/vod/",
       "detail": "https://api.ddapi.cc"
     },
+    "www.jkunzyapi.com": {
+      "name": "极品资源",
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod",
+      "detail": "https://www.jkunzyapi.com"
+    },
     "cj.rycjapi.com": {
       "name": "如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
@@ -379,20 +407,15 @@
       "api": "https://155api.com/api.php/provide/vod/at/json",
       "detail": "https://155api.com"
     },
-    "fhapi9.com": {
-      "name": "番号",
-      "api": "http://fhapi9.com/api.php/provide/vod/at/",
-      "detail": "http://fhapi9.com"
+    "tmyy.cc": {
+      "name": "天美🔞",
+      "api": "https://tmyy.cc/api.php/provide/vod/",
+      "detail": "https://tmyy.cc"
     },
     "iqiyizyapi.com": {
       "name": "爱奇艺",
       "api": "https://iqiyizyapi.com/api.php/provide/vod/",
       "detail": "https://iqiyizyapi.com"
-    },
-    "apilsbzy1.com-2": {
-      "name": "好看",
-      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac-...",
-      "detail": "https://apilsbzy1.com"
     },
     "www.9191md.me": {
       "name": "麻豆",
@@ -424,20 +447,20 @@
       "api": "https://360zy.com/api.php/provide/vod/at/json",
       "detail": "https://360zy.com"
     },
-    "apiyutu.com-2": {
-      "name": "玉兔1",
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "detail": "https://apiyutu.com"
+    "api.wujinapi.me": {
+      "name": "无尽",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=detail",
+      "detail": "https://api.wujinapi.me"
     },
     "caiji.maotaizy.cc": {
       "name": "茅台",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
       "detail": "https://caiji.maotaizy.cc"
     },
-    "hsckzy.vip": {
-      "name": "黄色仓库",
-      "api": "https://hsckzy.vip/api.php/provide/vod/",
-      "detail": "https://hsckzy.vip"
+    "aosikazy.com": {
+      "name": "奥斯卡",
+      "api": "https://aosikazy.com/api.php/provide/vod?ac=detail&wd=",
+      "detail": "https://aosikazy.com"
     },
     "api.ukuapi88.com": {
       "name": "U酷",
@@ -504,10 +527,15 @@
       "api": "https://360zyzz.com/api.php/provide/vod/",
       "detail": "https://360zyzz.com"
     },
-    "www.ckzy1.com": {
-      "name": "ck",
-      "api": "https://www.ckzy1.com/api.php/provide/vod",
-      "detail": "https://www.ckzy1.com"
+    "api.wujinapi.net": {
+      "name": "15",
+      "api": "https://api.wujinapi.net/api.php/provide/vod/",
+      "detail": "https://api.wujinapi.net"
+    },
+    "api.wujinapi.cc": {
+      "name": "无尽",
+      "api": "https://api.wujinapi.cc/api.php/provide/vod",
+      "detail": "https://api.wujinapi.cc"
     },
     "tyyszy.com": {
       "name": "天涯",
@@ -559,11 +587,6 @@
       "api": "https://www.hongniuzy3.com/api.php/provide/vod/",
       "detail": "https://www.hongniuzy3.com"
     },
-    "bhziyuan.com": {
-      "name": "百花资源",
-      "api": "https://bhziyuan.com/api.php/provide/vod/",
-      "detail": "https://bhziyuan.com"
-    },
     "subocj.com": {
       "name": "未命名源",
       "api": "https://subocj.com/api.php/provide/vod/at/json",
@@ -579,10 +602,10 @@
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "detail": "https://wolongzyw.com"
     },
-    "shayuzy.com": {
-      "name": "shayu",
-      "api": "https://shayuzy.com/api.php/provide/vod/",
-      "detail": "https://shayuzy.com"
+    "apilsbzy.com": {
+      "name": "老",
+      "api": "https://apilsbzy.com/api.php/provide/vod",
+      "detail": "https://apilsbzy.com"
     },
     "hsckzy222.com": {
       "name": "hsck",
@@ -598,11 +621,6 @@
       "name": "爱奇艺",
       "api": "https://www.iqiyizy2.com/api.php/provide/vod/",
       "detail": "https://www.iqiyizy2.com"
-    },
-    "www.heiliaozyapi.com": {
-      "name": "黑料",
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
-      "detail": "https://www.heiliaozyapi.com"
     },
     "api.douapi.cc": {
       "name": "痘痘",
@@ -739,11 +757,6 @@
       "api": "https://www.155kp.com/api.php/provide/vod/",
       "detail": "https://www.155kp.com"
     },
-    "www.kbvod.com": {
-      "name": "快播影院",
-      "api": "https://www.kbvod.com/api.php/provide/vod/",
-      "detail": "https://www.kbvod.com"
-    },
     "www.kxdyba.com": {
       "name": "开心电影",
       "api": "https://www.kxdyba.com/api.php/provide/vod/",
@@ -759,30 +772,10 @@
       "api": "https://silidm.com/api.php/provide/vod/",
       "detail": "https://silidm.com"
     },
-    "www.2bvod.com": {
-      "name": "爱播影院",
-      "api": "https://www.2bvod.com/api.php/provide/vod/",
-      "detail": "https://www.2bvod.com"
-    },
     "www.yinghua8.net": {
       "name": "樱花动漫2",
       "api": "https://www.yinghua8.net/api.php/provide/vod/",
       "detail": "https://www.yinghua8.net"
-    },
-    "www.n4yy.com": {
-      "name": "高清影院",
-      "api": "https://www.n4yy.com/api.php/provide/vod/",
-      "detail": "https://www.n4yy.com"
-    },
-    "www.okdy123.com": {
-      "name": "OK电影2",
-      "api": "https://www.okdy123.com/api.php/provide/vod/",
-      "detail": "https://www.okdy123.com"
-    },
-    "www.6gvod.com": {
-      "name": "6G影院",
-      "api": "https://www.6gvod.com/api.php/provide/vod/",
-      "detail": "https://www.6gvod.com"
     },
     "m.juwu.tv": {
       "name": "剧屋网",
@@ -804,6 +797,11 @@
       "api": "https://www.128dy.com/api.php/provide/vod/",
       "detail": "https://www.128dy.com"
     },
+    "www.761dy.com": {
+      "name": "神马影院",
+      "api": "https://www.761dy.com/api.php/provide/vod/",
+      "detail": "https://www.761dy.com"
+    },
     "bf.xoxowin86cisyap.com": {
       "name": "暴风资源2",
       "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod",
@@ -813,11 +811,6 @@
       "name": "金鹰",
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "detail": "https://jyzyapi.com"
-    },
-    "heiliaozyapi.com": {
-      "name": "黑料",
-      "api": "https://heiliaozyapi.com/api.php/provide/vod",
-      "detail": "https://heiliaozyapi.com"
     },
     "ys04-dns.lwgzs.cn": {
       "name": "兑换资源1",
@@ -839,6 +832,11 @@
       "api": "https://www.lqvod.com/api.php/provide/vod/",
       "detail": "https://www.lqvod.com"
     },
+    "www.buvod.com": {
+      "name": "不休影院",
+      "api": "https://www.buvod.com/api.php/provide/vod/",
+      "detail": "https://www.buvod.com"
+    },
     "www.x7yy.com": {
       "name": "星辰影院1",
       "api": "https://www.x7yy.com/api.php/provide/vod/",
@@ -849,20 +847,10 @@
       "api": "https://www.vodgg.com/api.php/provide/vod/",
       "detail": "https://www.vodgg.com"
     },
-    "api.wsyzy.net": {
-      "name": "WSYZY",
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
-      "detail": "https://api.wsyzy.net"
-    },
     "www.hygdy.com": {
       "name": "海影阁电影",
       "api": "https://www.hygdy.com/api.php/provide/vod/",
       "detail": "https://www.hygdy.com"
-    },
-    "www.5gdyw.com": {
-      "name": "5G影院",
-      "api": "https://www.5gdyw.com/api.php/provide/vod/",
-      "detail": "https://www.5gdyw.com"
     },
     "8.137.145.26:40030": {
       "name": "自建",
@@ -979,6 +967,11 @@
       "api": "https://tmzyz.com/api.php/provide/vod",
       "detail": "https://tmzyz.com"
     },
+    "jkunzy.com": {
+      "name": "112",
+      "api": "https://jkunzy.com/api.php/provide/vod",
+      "detail": "https://jkunzy.com"
+    },
     "didizy.com": {
       "name": "113",
       "api": "https://didizy.com/api.php/provide/vod",
@@ -989,15 +982,10 @@
       "api": "http://shayuzy5.com/api.php/provide/vod",
       "detail": "http://shayuzy5.com"
     },
-    "yutuzy9.com": {
-      "name": "349767",
-      "api": "https://yutuzy9.com/api.php/provide/vod",
-      "detail": "https://yutuzy9.com"
-    },
-    "www.ttdm2.me": {
-      "name": "天天动漫",
-      "api": "https://www.ttdm2.me/api.php/provide/vod/",
-      "detail": "https://www.ttdm2.me"
+    "senlinzy2.com": {
+      "name": "118",
+      "api": "http://senlinzy2.com/api.php/provide/vod",
+      "detail": "http://senlinzy2.com"
     },
     "38.76.202.248:8200": {
       "name": "兑换资源2",
@@ -1008,11 +996,6 @@
       "name": "鹦鹉台1",
       "api": "https://v.zimtv.cn/api.php/provide/vod/",
       "detail": "https://v.zimtv.cn"
-    },
-    "www.xckyy.com": {
-      "name": "星辰影院3",
-      "api": "https://www.xckyy.com/api.php/provide/vod/",
-      "detail": "https://www.xckyy.com"
     },
     "feikuai.in": {
       "name": "飞快TV",
@@ -1069,10 +1052,10 @@
       "api": "http://lzizy.net/api.php/provide/vod/?ac=list",
       "detail": "http://lzizy.net"
     },
-    "www.nibuka.com": {
-      "name": "不卡影院2",
-      "api": "https://www.nibuka.com/api.php/provide/vod/",
-      "detail": "https://www.nibuka.com"
+    "www.dm92.com": {
+      "name": "爱趣米动漫",
+      "api": "https://www.dm92.com/api.php/provide/vod/",
+      "detail": "https://www.dm92.com"
     },
     "cj.10010888.xyz": {
       "name": "B 站",
@@ -1113,11 +1096,6 @@
       "name": "神马影院5",
       "api": "https://www.vod9.com/api.php/provide/vod/",
       "detail": "https://www.vod9.com"
-    },
-    "98zy.vip": {
-      "name": "98资源",
-      "api": "https://98zy.vip/api.php/provide/vod/",
-      "detail": "https://98zy.vip"
     },
     "www.btsjd.com": {
       "name": "南瓜影院",
@@ -1179,6 +1157,11 @@
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod/",
       "detail": "https://www.iqiyizyapi.com"
     },
+    "www.vnzyz.com": {
+      "name": "越",
+      "api": "https://www.vnzyz.com/api.php/provide/vod/",
+      "detail": "https://www.vnzyz.com"
+    },
     "www.97hanjuw.com": {
       "name": "爱韩剧",
       "api": "https://www.97hanjuw.com/api.php/provide/vod/",
@@ -1193,11 +1176,6 @@
       "name": "麒麟影视",
       "api": "https://www.70ys.site/api.php/provide/vod/",
       "detail": "https://www.70ys.site"
-    },
-    "www.yxxq33.cc": {
-      "name": "未命名源",
-      "api": "https://www.yxxq33.cc/api.php/provide/vod/",
-      "detail": "https://www.yxxq33.cc"
     }
   }
 }
