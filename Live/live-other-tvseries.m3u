@@ -1,8 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="24小时循环播电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/24.png" group-title="中文-电视剧", 24小时循环播电视剧
+http://45.192.97.170:8880/play/1118.m3u8
+#EXTINF:-1 tvg-name="4K欢笑剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="中文-电视剧", 4K欢笑剧场
+http://45.192.97.170:8880/play/3042.m3u8
+#EXTINF:-1 tvg-name="4K欢笑剧场频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="中文-电视剧", 4K欢笑剧场频道
+http://45.192.97.170:8880/play/3157.m3u8
+#EXTINF:-1 tvg-name="CBN幸福剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CBN幸福剧场.png" group-title="中文-电视剧", CBN幸福剧场
+http://45.192.97.170:8880/play/2588.m3u8
+#EXTINF:-1 tvg-name="CBN幸福剧场" tvg-logo="https://files.3y1.xyz/media/images/channel/2019/07/15/large/20190715224808848714_90.png" group-title="中文-电视剧", CBN幸福剧场
+https://epg.pm/stream/9afbd19e50e2e56620c0d15a9100a36b743b8d0b0c23ef4ff6eff0663d7c3c47.m3u8
 #EXTINF:-1 tvg-name="CIBN动漫剧场" group-title="中文-电视剧", CIBN动漫剧场
 http://v.iam7.cn/iptv/cibn.php?code=QinZi
 #EXTINF:-1 tvg-name="CIBN经典剧场" group-title="中文-电视剧", CIBN经典剧场
 http://v.iam7.cn/iptv/cibn.php?code=DOTA2
+#EXTINF:-1 tvg-name="CIBN经典剧场" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/07/large/20220507001625624457_46.png" group-title="中文-电视剧", CIBN经典剧场
+https://epg.pm/stream/4ea773a28813c74d640ee9caf5dc4594df85bc85cf2b38c3aed28818d38151d9.m3u8
+#EXTINF:-1 tvg-name="Hot精品剧场 720" tvg-logo="https://files.3y1.xyz/media/uploads/tmp_logo/2016/09/24/20160924194303836328_32.png" group-title="中文-电视剧", Hot精品剧场 720
+https://epg.pm/stream/48d69a8c01416823ad4c6929b082edde5186c0a24ff0953130602d7cb960064a.m3u8
 #EXTINF:-1 tvg-name="IPTV军旅剧场" tvg-id="IPTV军旅剧场" tvg-logo="https://11.112114.xyz/logo/IPTV军旅剧场.png" group-title="中文-电视剧", IPTV军旅剧场
 http://114.244.117.90:1314/rtp/239.3.1.68:4120
 #EXTINF:-1 tvg-name="IPTV军旅剧场" tvg-id="IPTV军旅剧场" tvg-logo="https://11.112114.xyz/logo/IPTV军旅剧场.png" group-title="中文-电视剧", IPTV军旅剧场
@@ -17,56 +31,144 @@ http://114.244.117.90:1314/rtp/239.3.1.194:9020
 http://fnos.sunny2017.xyz:7788/udp/239.21.1.128:5002
 #EXTINF:-1 tvg-name="IPTV都市剧场" tvg-id="IPTV都市剧场" tvg-logo="https://11.112114.xyz/logo/IPTV都市剧场.png" group-title="中文-电视剧", IPTV都市剧场
 http://114.244.117.90:1314/rtp/239.3.1.67:4120
-#EXTINF:-1 tvg-name="NewTV-军旅剧场" tvg-id="NewTV-军旅剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-军旅剧场.png" group-title="中文-电视剧", NewTV-军旅剧场
-http://183.220.107.138:4022/rtp/239.11.0.143:5140
-#EXTINF:-1 tvg-name="NewTV-军旅剧场" tvg-id="NewTV-军旅剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-军旅剧场.png" group-title="中文-电视剧", NewTV-军旅剧场
-http://223.86.170.98:4500/rtp/239.11.0.143:5140
-#EXTINF:-1 tvg-name="NewTV-古装剧场" tvg-id="NewTV-古装剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-古装剧场.png" group-title="中文-电视剧", NewTV-古装剧场
-http://183.220.107.138:4022/rtp/239.11.0.141:5140
-#EXTINF:-1 tvg-name="NewTV-古装剧场" tvg-id="NewTV-古装剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-古装剧场.png" group-title="中文-电视剧", NewTV-古装剧场
-http://221.219.104.6:1193/rtp/239.3.1.69:4120
-#EXTINF:-1 tvg-name="NewTV-古装剧场" tvg-id="NewTV-古装剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-古装剧场.png" group-title="中文-电视剧", NewTV-古装剧场
-http://222.128.26.62:4001/rtp/239.3.1.69:4120
-#EXTINF:-1 tvg-name="NewTV-古装剧场" tvg-id="NewTV-古装剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV-古装剧场.png" group-title="中文-电视剧", NewTV-古装剧场
-http://223.86.170.98:4500/rtp/239.11.0.141:5140
-#EXTINF:-1 tvg-name="NewTV传奇剧场" tvg-id="NewTV传奇剧场" group-title="中文-电视剧", NewTV传奇剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV军旅剧场FHD" group-title="中文-电视剧", NewTV军旅剧场FHD
-http://111.12.102.68:6610/PLTV/77777777/224/3221225727/index.m3u8?
-#EXTINF:-1 tvg-name="NewTV古装剧场FHD" group-title="中文-电视剧", NewTV古装剧场FHD
-http://111.12.102.68:6610/PLTV/77777777/224/3221225706/index.m3u8?
+#EXTINF:-1 tvg-name="JUR-131 背德的寝取剧场 低俗男性们的丑陋肉棒污辱的贞洁妻子——惠理" group-title="中文-电视剧", JUR-131 背德的寝取剧场 低俗男性们的丑陋肉棒污辱的贞洁妻子——惠理
+https://s3.aaaaa.io/36f4719a9d3d13ed3aab636a0a995030/36f4719a9d3d13ed3aab636a0a995030.m3u8
+#EXTINF:-1 tvg-name="MANX-017 束缚俱乐部 SM 恋物剧场 美咲佳奈" group-title="中文-电视剧", MANX-017 束缚俱乐部 SM 恋物剧场 美咲佳奈
+https://s3.aaaaa.io/edcce85b1ae1a6a8ae4dc7e1cb49c04c/edcce85b1ae1a6a8ae4dc7e1cb49c04c.m3u8
+#EXTINF:-1 tvg-name="NewTV 欢乐剧场" tvg-id="欢乐剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV欢乐剧场.png" group-title="中文-电视剧", NewTV 欢乐剧场
+http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
+#EXTINF:-1 tvg-name="NewTV 欢乐剧场" tvg-id="欢乐剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV欢乐剧场.png" group-title="中文-电视剧", NewTV 欢乐剧场
+http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
+#EXTINF:-1 tvg-name="NewTV 欢乐剧场" tvg-id="欢乐剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV欢乐剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV 欢乐剧场
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266012&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-id="超级电视剧" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级电视剧.png" group-title="中文-电视剧", NewTV 超级电视剧
+http://111.22.153.159:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-id="超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NewTV超级电视剧.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV 超级电视剧
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000008139&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-id="超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NewTV超级电视剧.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV 超级电视剧
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000024993&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-id="超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NewTV超级电视剧.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV 超级电视剧
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000006000268003&livemode=1&stbId=yu&mode=1&$8M
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/0554e8cb4b1318a8d844d85d4d2d30f9656ffba320d291ab8dc7611cb503adcf.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/19a6813e32787a5ed04f054632078e208c2180e5ff3600839c504cba21d8c93d.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/25deb3fc7a1c137f5e4f4a9ee3608dcc4208774339fcf3abf38e89345c07c39c.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/27fbc1ec28a976d7607f7b943ddd0b0d31fbdd3b85f4b5c74847e7ff53c85ba9.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/3e784ee68ad4f418cb3e0183372b448d0def43405c0d82a9e6dc829a6b5fc0af.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/507b086c7a44ea839f7bb5c82a24332d2bfce9103b4a3bd5562741f2c5b68a83.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/6f6bf4ecec799c85ba5a58d26c1996576eb836aad919f4a5b0125590dffad443.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/70c2d28d5baa4d6e5f5512fe2ac08242a3373570a9dbb0ec73da5f701650e812.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/7485307c0828d98bc1777ff2cbf16a9c65efda156f24b50aa7ad22921ed07ef0.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/8e6a6305aa98b943edb09b0651352f67aaebb6249cc61363fad857def153e631.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/9dd1b35ffd61b0063801a670f2b82cd8238fec53b81f5cf88b100421cb4b6a03.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/9e2fb27eedf7925fafa5e4e33cafe70c3a4fdc504f3ee754cd3d730a1a73197d.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/d3a66901dd04d39224d421d264570d73d0d27b68718c23dc9c28a1ab62788c00.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/e89838b939f8fbce6b81ed7d2a8b967381cb1215724564b5215b17f14ac40386.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧
+https://epg.pm/stream/fda1d1d786b5c0b47e781650a457eb5286e8b58b44179832991645983a15d7c3.m3u8
+#EXTINF:-1 tvg-name="NewTV 超级电视剧4M" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV 超级电视剧4M
+https://epg.pm/stream/ef87e7c83a27c60d917b7ed7a7f7330938be9a796337ec86f47c42cd98fc355e.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场 4M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="中文-电视剧", NewTV军旅剧场 4M1080
+https://epg.pm/stream/5be3a8293729a69865246b06f2ae955731716001034248fe56a3c3533b61402a.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="中文-电视剧", NewTV军旅剧场@@1
+https://epg.pm/stream/31113f2a54b796ccfdedd47bee9f37f7242f96448a529169db319140a263e052.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="中文-电视剧", NewTV军旅剧场@@1
+https://epg.pm/stream/455919dde2e1ff2d333d9ba8d1e0a3e3924ace701768a173328dd3869bce4114.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场@@10" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="中文-电视剧", NewTV军旅剧场@@10
+https://epg.pm/stream/60a435941a3538f284d5e2b750e593a50b3aacec831b2982cb8f92adb7becb92.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场@@28" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="中文-电视剧", NewTV军旅剧场@@28
+https://epg.pm/stream/fc837961e35df2409bd74eb3c68aaaedda0606ecd7f90d2b6e8c544ed60bd0d3.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="中文-电视剧", NewTV军旅剧场@@6
+https://epg.pm/stream/17ff5a478cfde04363a5aa7519214f507d1d9c1c6499c581e26626bf2913ec25.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@1
+https://epg.pm/stream/13c9fe25e661ff97dd3f9e6ff9f2f08f200dd88a1d1f23a169199ad3e6bbacf2.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@1
+https://epg.pm/stream/87e8b4ce83a3dcca0b4cc41890cff52ecc3243adc3e3cca635a4a75e0398505e.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@1
+https://epg.pm/stream/aa41e3c0b653d434bba06d81e41e9ea26d4269299657a35721174ebe3d5d48f3.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@10" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@10
+https://epg.pm/stream/037a256d323840d4b408e5e8797466f97ca228d3666fd7d459ac315a3849095e.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@10" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@10
+https://epg.pm/stream/afde222aa7f80379bb2a8db65a798e37984a1b808259d0e9b56f9fb632659bd8.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@14" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@14
+https://epg.pm/stream/3590511d96a347b591628f8a9cf910ac9dc5ebb50a9cf7cf893bd794887b130f.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@16" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@16
+https://epg.pm/stream/611294339de745f9aece00898fdea1011de7723f8653e9c6960a5111b1c36ba6.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@18" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@18
+https://epg.pm/stream/c70c58885e0baf565c2d1ed9498f0817fcf30f4589c651277f034d030d8bfadc.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@3
+https://epg.pm/stream/e29234b1a460f4d6436e4c55472ee69ced08e5fc78ce57f3fe78c101e99e18e2.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233200724273_93.jpg" group-title="中文-电视剧", NewTV古装剧场@@6
+https://epg.pm/stream/36c1915bc04b7bc5056966471eade808c2f3dd07436898779d5b68e4cf49fbaa.m3u8
 #EXTINF:-1 tvg-name="NewTV大家剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV大家剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV大家剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV家庭剧场FHD" group-title="中文-电视剧", NewTV家庭剧场FHD
-http://111.12.102.68:6610/PLTV/77777777/224/3221225743/index.m3u8?
+#EXTINF:-1 tvg-name="NewTV家庭剧场 4M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场 4M1080
+https://epg.pm/stream/777e5a4a56c95e313587763f98e3265bf6471a408c96a4b431164e3332466cdf.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@1
+https://epg.pm/stream/1a15fdf54061cfebd7fc1e86081560446c2cc742de5171c72d7f6d9840ad054d.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@1
+https://epg.pm/stream/44f8c7a39d2eabdac98bfd855eadec9450f9ec497ee56b7c153ddaeee4d7c491.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@1
+https://epg.pm/stream/9ba5e5dda42a12e717a9fa19f6ee4d04cb84c9996ae88a6c633c78a0041cbfa9.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@11" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@11
+https://epg.pm/stream/278fcfd362aa11260ab1de2ab86501c76378226a53061476bd9c1c93bebc9a58.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@2
+https://epg.pm/stream/356e09bb9921e0ff19e8f6737ed4c27e91bbf8ddb07b620559a7c896d7b60f57.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@2
+https://epg.pm/stream/fb8754370a6cd79fdec27dc2896a7978dd521da3a3fa3d54643a5303deedc66c.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@3
+https://epg.pm/stream/645f8c7b350efe320c6f88adb6058e56b487b12b757ea973339e2d0cfac36e12.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@4
+https://epg.pm/stream/ac092310a40d58652e43429b635c205912bd578c48daf8e878182223163c533b.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@5" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@5
+https://epg.pm/stream/1cdf4f85e1fedd2c1f460206eed8c71f58108de2a1c67c79231734eb2fdf9278.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@5" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@5
+https://epg.pm/stream/dcdea32e5eaa0963b1ea9fca8478b28cc46f259f6ab3af56b6b33154bc0b39cd.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235500601795_39.jpg" group-title="中文-电视剧", NewTV家庭剧场@@6
+https://epg.pm/stream/3caa2097f53ae072da9d04f3f909e2bad203d436a4bf70533d7fe71fe6460a67.m3u8
 #EXTINF:-1 tvg-name="NewTV泰语剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV泰语剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV泰语剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="NewTV海外剧场 4M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233358868550_53.jpg" group-title="中文-电视剧", NewTV海外剧场 4M1080
+https://epg.pm/stream/c6d7b74e4a157f6fccdbc9f67f90c63d4d81577ece8fcfbad1ed8ba29e1cb994.m3u8
+#EXTINF:-1 tvg-name="NewTV海外剧场@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531233358868550_53.jpg" group-title="中文-电视剧", NewTV海外剧场@@2
+https://epg.pm/stream/05af031eee7003a5dd4e9326b76f47abb0eb70c9dc916e06231640b4d5d74bcc.m3u8
 #EXTINF:-1 tvg-name="NewTV爱情剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV爱情剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewTV爱情剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://106.111.244.12:58099/rtp/239.49.8.106:8000
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://116.233.67.80:8899/rtp/233.18.204.115:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://116.233.67.80:8899/rtp/233.18.204.205:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://116.233.67.80:8899/rtp/233.18.204.50:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://116.233.67.80:8899/rtp/233.18.204.55:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://182.135.66.163:1888/rtp/239.94.1.176:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://182.135.66.163:18888/rtp/239.94.1.176:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://218.94.90.74:57585/rtp/239.49.8.106:8000
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://58.37.29.210:9001/rtp/233.18.204.115:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://58.37.29.210:9001/rtp/233.18.204.205:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://58.37.29.210:9001/rtp/233.18.204.50:5140
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV-欢笑剧场
-http://58.37.29.210:9001/rtp/233.18.204.55:5140
+#EXTINF:-1 tvg-name="NewTV超级电视剧 4M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧 4M1080
+https://epg.pm/stream/e92a8dbdf5cb60f403741a956fc6fd263ad5f09fc62f78322489049b82da22c5.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧 8M1080" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧 8M1080
+https://epg.pm/stream/1542aaf4420cc82ed42a26a60de5a5bc7c03b10d5d245c7a4b1fe2699041fa77.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@13" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@13
+https://epg.pm/stream/b2b2f346fe51e049576d3c5574a56d73765d0f36a435110a79bc7bb06b25081e.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@14" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@14
+https://epg.pm/stream/6702495a50b7761d8d7b1fde78277dfb39ecf35dbcca2d20a177c8b596065992.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@16" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@16
+https://epg.pm/stream/798b5ee299fc829571258db69ad9e4a34dd1297e604bf48687565c0de688c109.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@17" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@17
+https://epg.pm/stream/e551948f3e52c8e8cb6552fb8c3132d00f9824cd2f851657b4f3b9ec3cbdd30d.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@2
+https://epg.pm/stream/466585c9922a2f7b6cbc169be9c22ff891c502ebd662f0105ccae50381d3365e.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@4
+https://epg.pm/stream/09e86454b3039f9790dbc0cd0dde3ef5725a3cf382cf7d80c3a11f7159e974ae.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@4
+https://epg.pm/stream/179f8b6a3f81c153001d4969bc1b9d3473fa700a4288cce15cd5272c771c6a3d.m3u8codeyj
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@6
+https://epg.pm/stream/dbe6009953313655fab286c972601980a319ea5ad33805bda32d21aa70f44803.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧@@9" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", NewTV超级电视剧@@9
+https://epg.pm/stream/43f8e5dbf4f5133c93cfffe89869b28914c99e0445d673ad7c77821801bc26df.m3u8
 #EXTINF:-1 tvg-name="SiTV-都市剧场" tvg-id="SiTV-都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-都市剧场.png" group-title="中文-电视剧", SiTV-都市剧场
 http://1.192.247.36:8188/rtp/239.16.20.38:10380
 #EXTINF:-1 tvg-name="SiTV-都市剧场" tvg-id="SiTV-都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-都市剧场.png" group-title="中文-电视剧", SiTV-都市剧场
@@ -87,54 +189,88 @@ http://182.135.66.163:18888/rtp/239.94.1.133:5140
 http://183.162.120.197:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="SiTV-都市剧场" tvg-id="SiTV-都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-都市剧场.png" group-title="中文-电视剧", SiTV-都市剧场
 http://218.94.90.74:57585/rtp/239.49.0.99:8000
+#EXTINF:-1 tvg-name="SiTV-都市剧场" group-title="中文-电视剧", SiTV-都市剧场
+http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-name="SiTV-都市剧场" tvg-id="SiTV-都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-都市剧场.png" group-title="中文-电视剧", SiTV-都市剧场
 http://39.77.163.179:4002/rtp/239.253.254.98:8000
 #EXTINF:-1 tvg-name="SiTV-都市剧场" tvg-id="SiTV-都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-都市剧场.png" group-title="中文-电视剧", SiTV-都市剧场
 http://39.77.21.53:4002/rtp/239.253.254.98:8000
 #EXTINF:-1 tvg-name="SiTV-都市剧场" tvg-id="SiTV-都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-都市剧场.png" group-title="中文-电视剧", SiTV-都市剧场
 http://58.37.29.210:9001/rtp/233.18.204.48:5140
-#EXTINF:-1 tvg-name="SiTV欢笑剧场FHD" group-title="中文-电视剧", SiTV欢笑剧场FHD
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://106.111.244.12:58099/rtp/239.49.8.106:8000
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://116.233.67.80:8899/rtp/233.18.204.115:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://116.233.67.80:8899/rtp/233.18.204.205:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://116.233.67.80:8899/rtp/233.18.204.50:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://116.233.67.80:8899/rtp/233.18.204.55:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://182.135.66.163:1888/rtp/239.94.1.176:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://182.135.66.163:18888/rtp/239.94.1.176:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://218.94.90.74:57585/rtp/239.49.8.106:8000
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" group-title="中文-电视剧", SiTV欢笑剧场
 http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 tvg-name="SiTV都市剧场FHD" group-title="中文-电视剧", SiTV都市剧场FHD
-http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://58.37.29.210:9001/rtp/233.18.204.115:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://58.37.29.210:9001/rtp/233.18.204.205:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://58.37.29.210:9001/rtp/233.18.204.50:5140
+#EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-id="SiTV-欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-欢笑剧场.png" group-title="中文-电视剧", SiTV欢笑剧场
+http://58.37.29.210:9001/rtp/233.18.204.55:5140
+#EXTINF:-1 tvg-name="UZU-025 一部讲述新婚婚姻破裂的阴郁电视剧。 - 弥生美月" group-title="中文-电视剧", UZU-025 一部讲述新婚婚姻破裂的阴郁电视剧。 - 弥生美月
+https://s3.aaaaa.io/c2d8eab47ea4a5ff50e6f69b3658df89/c2d8eab47ea4a5ff50e6f69b3658df89.m3u8
+#EXTINF:-1 tvg-name="ciTV都市剧场" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/10/large/20220510150204360024_84.jpg" group-title="中文-电视剧", ciTV都市剧场
+https://epg.pm/stream/9ead746f8cf5fbce59b3dec2d0f88038ade51d73ce83d4ecf361e6b59ccff97c.m3u8
+#EXTINF:-1 tvg-name="ciTV都市剧场" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/10/large/20220510150204360024_84.jpg" group-title="中文-电视剧", ciTV都市剧场
+https://epg.pm/stream/ec62440e199e6fc51e054193a03638f704cafe02ef11a7d6054aa709f3c30a5d.m3u8
 #EXTINF:-1 tvg-name="乡村剧场" tvg-logo="https://logo.catvod.com/乡村剧场.png" group-title="中文-电视剧", 乡村剧场
 http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8
 #EXTINF:-1 tvg-name="传奇剧场" tvg-logo="https://logo.catvod.com/传奇剧场.png" group-title="中文-电视剧", 传奇剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8
-#EXTINF:-1 tvg-name="军旅剧场" tvg-id="军旅剧场" tvg-logo="军旅剧场.png" group-title="中文-电视剧", 军旅剧场
-http://111.29.9.33:6610/200000001898/460000089800010079/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="军旅剧场" tvg-id="军旅剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV军旅剧场.png" group-title="中文-电视剧", 军旅剧场
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="军旅剧场" tvg-id="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV军旅剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 军旅剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
+#EXTINF:-1 tvg-name="军旅剧场@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="中文-电视剧", 军旅剧场@@2
+https://epg.pm/stream/50da0d816092cbc87cf5b0ac8a13709dae128c80c35cb59073c85199a78af0bb.m3u8
+#EXTINF:-1 tvg-name="军旅剧场@@5" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="中文-电视剧", 军旅剧场@@5
+https://epg.pm/stream/2c6f2550cdfe216be65a59d08fec69f24134eddaabe88f0908b00044b71feaf3.m3u8
 #EXTINF:-1 tvg-name="动漫剧场" group-title="中文-电视剧", 动漫剧场
 http://36.158.75.239:8088/tsfile/live/faacts/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="动漫剧场" group-title="中文-电视剧", 动漫剧场
 http://36.158.75.249:8088/tsfile/live/faacts/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="华数热播剧场" tvg-id="华数热播剧场" group-title="中文-电视剧", 华数热播剧场
-http://119.129.172.112:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="古装剧场" tvg-id="古装剧场" tvg-logo="古装剧场.png" group-title="中文-电视剧", 古装剧场
-http://111.29.9.33:6610/200000001898/460000089800010004/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="古装剧场" tvg-id="古装剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV古装剧场.png" group-title="中文-电视剧", 古装剧场
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="古装剧场" tvg-id="古装剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV古装剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 古装剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="古装剧场" tvg-id="古装剧场" tvg-logo="https://logo.catvod.com/古装剧场.png" group-title="中文-电视剧", 古装剧场
-http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" tvg-id="家庭剧场" tvg-logo="家庭剧场.png" group-title="中文-电视剧", 家庭剧场
+#EXTINF:-1 tvg-name="古装剧场@@2" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="中文-电视剧", 古装剧场@@2
+https://epg.pm/stream/3a0fe011204215f54e8232de49be23c693f8d63459d4c5d80e0e6b77cb2e2a0c.m3u8
+#EXTINF:-1 tvg-name="国产家庭电视剧-如果岁月可回头" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/国产家庭电视剧-如果岁月可回头.png" group-title="中文-电视剧", 国产家庭电视剧-如果岁月可回头
+http://45.192.97.170:8880/play/1352.m3u8
+#EXTINF:-1 tvg-name="国外黑色喜剧:冷幽默小剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/国外黑色喜剧：冷幽默小剧场.png" group-title="中文-电视剧", 国外黑色喜剧:冷幽默小剧场
+http://45.192.97.170:8880/play/1275.m3u8
+#EXTINF:-1 tvg-name="塚田诗织巨乳剧场 VOL.2 J罩杯 101厘米" group-title="中文-电视剧", 塚田诗织巨乳剧场 VOL.2 J罩杯 101厘米
+https://s3.aaaaa.io/fefd85996704aecfc75e003790c0e605/fefd85996704aecfc75e003790c0e605.m3u8
+#EXTINF:-1 tvg-name="大家都在看的电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/大家都在看的电视剧.png" group-title="中文-电视剧", 大家都在看的电视剧
+http://45.192.97.170:8880/play/1135.m3u8
+#EXTINF:-1 tvg-name="安安电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/安安电视剧.png" group-title="中文-电视剧", 安安电视剧
+http://45.192.97.170:8880/play/1093.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://epg.112114.xyz/logo/家庭剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 家庭剧场
 http://111.29.9.33:6610/000000001000/1000000004000008284/index.m3u8?channel-id=bestzb&Contentid=1000000004000008284&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="家庭剧场" tvg-id="家庭剧场" tvg-logo="家庭剧场.png" group-title="中文-电视剧", 家庭剧场
-http://111.29.9.33:6610/200000001898/460000089800010074/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="家庭剧场" tvg-id="家庭剧场" tvg-logo="家庭剧场.png" group-title="中文-电视剧", 家庭剧场
-http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" tvg-id="家庭剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV家庭剧场.png" group-title="中文-电视剧", 家庭剧场
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="家庭剧场" tvg-id="家庭剧场" tvg-logo="https://logo.catvod.com/家庭剧场.png" group-title="中文-电视剧", 家庭剧场
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/家庭剧场.png" group-title="中文-电视剧", 家庭剧场
+http://45.192.97.170:8880/play/1844.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/家庭剧场.png" group-title="中文-电视剧", 家庭剧场
+http://45.192.97.170:8880/play/2037.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://logo.catvod.com/家庭剧场.png" group-title="中文-电视剧", 家庭剧场
 http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" tvg-id="家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NewTV家庭剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 家庭剧场
-http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
-http://1.83.163.63:8888/rtp/239.111.205.67:5140
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://files.3y1.xyz/media/img/logo/2_2.jpg" group-title="中文-电视剧", 家庭剧场
+https://epg.pm/stream/162c3302bbe1bc6beee0c148c4afd056a0772864a3066f98bc55e3ce91f283f7.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://files.3y1.xyz/media/img/logo/2_2.jpg" group-title="中文-电视剧", 家庭剧场
+https://epg.pm/stream/4e7eabd252b3b340fe2d366a6e72bd26859db4e3a6082f7625b3d13448fc31c4.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://files.3y1.xyz/media/img/logo/2_2.jpg" group-title="中文-电视剧", 家庭剧场
+https://epg.pm/stream/6ffd905f949221fb4671aa0a07eecb2e775956932a18a236ef9c851bad761e7d.m3u8
+#EXTINF:-1 tvg-name="家庭剧场@@1" tvg-logo="https://files.3y1.xyz/media/img/logo/2_2.jpg" group-title="中文-电视剧", 家庭剧场@@1
+https://epg.pm/stream/bab4a54eae346bc8424c6c52dd187eecdfb47208c2c7ab635bbf4ab1d75ae1bd.m3u8
+#EXTINF:-1 tvg-name="家庭剧场@@4" tvg-logo="https://files.3y1.xyz/media/img/logo/2_2.jpg" group-title="中文-电视剧", 家庭剧场@@4
+https://epg.pm/stream/d9454c0135c4b8e4816e68a1674318e6a46565bc6b87839a16a80f4d6c4d7c97.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://106.116.126.74:4022/rtp/239.254.201.220:7256上海
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
@@ -163,51 +299,57 @@ http://121.29.215.105:2083/rtp/239.253.93.252:6430
 http://124.112.189.64:4022/rtp/238.1.79.61:4624
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://171.119.206.142:6000/rtp/226.0.2.224:9704
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-怀旧剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 怀旧剧场
-http://173.208.212.130:8181/720p/hjjc.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://183.162.120.197:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://183.236.43.98:4111/udp/239.253.43.5:5146
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://183.57.251.128:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-怀旧剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 怀旧剧场
-http://192.151.150.154/live/hjjc.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-怀旧剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 怀旧剧场
-http://207.56.13.146:81/cdnlive/hjjc.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://220.176.218.254:9000/udp/239.252.219.90:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
+http://45.192.97.170:8880/play/1730.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
+http://45.192.97.170:8880/play/3040.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
+http://45.192.97.170:8880/play/573.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://60.4.30.177:8077/rtp/239.253.93.252:6430
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://logo.catvod.com/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 怀旧剧场
 http://61.184.46.85:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="C21" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="中文-电视剧", 怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="2740" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509160609659886_36.jpg" group-title="中文-电视剧", 怀旧剧场
+https://epg.pm/stream/116ff67aca69ebd88ea409b245fb9ecda9137169eae596821b2dbcd90d24f0a6.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="2740" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509160609659886_36.jpg" group-title="中文-电视剧", 怀旧剧场
+https://epg.pm/stream/7fa02fb9c4914ccac5c7fb26ece147ad360850974827c06cfd7ffeb95ab6ff0f.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="2740" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509160609659886_36.jpg" group-title="中文-电视剧", 怀旧剧场
+https://epg.pm/stream/f5e9fe9343a1066a44aaaeb5abb0ffc7b2972ac55761fc0094f25391411d3822.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="中文-电视剧", 怀旧剧场
 https://hls-gateway.vpstv.net/streams/708853.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/怀旧剧场频道.png" group-title="中文-电视剧", 怀旧剧场频道
+http://45.192.97.170:8880/play/3196.m3u8
+#EXTINF:-1 tvg-name="情满四合院-高分电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/情满四合院-高分电视剧.png" group-title="中文-电视剧", 情满四合院-高分电视剧
+http://45.192.97.170:8880/play/1055.m3u8
 #EXTINF:-1 tvg-name="抗战剧场" tvg-logo="https://logo.catvod.com/抗战剧场.png" group-title="中文-电视剧", 抗战剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8
 #EXTINF:-1 tvg-name="搜狐剧场" tvg-id="搜狐剧场" tvg-logo="https://live.fanmingming.cn/tv/搜狐剧场.png" group-title="中文-电视剧", 搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1 tvg-name="无线剧场" tvg-id="无线剧场" tvg-logo="https://tv-res.pages.dev/logo/无线剧场.png" group-title="中文-电视剧", 无线剧场
 https://hls-gateway.vpstv.net/streams/709468.m3u8
-#EXTINF:-1 tvg-name="欢乐剧场" tvg-id="欢乐剧场" tvg-logo="欢乐剧场.png" group-title="中文-电视剧", 欢乐剧场
-http://111.29.9.33:6610/200000001898/460000089800010025/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="欢乐剧场" tvg-id="欢乐剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV欢乐剧场.png" group-title="中文-电视剧", 欢乐剧场
-http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1 tvg-name="欢乐剧场" tvg-id="欢乐剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV欢乐剧场.png" group-title="中文-电视剧", 欢乐剧场
-http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
-#EXTINF:-1 tvg-name="欢乐剧场" tvg-id="欢乐剧场" tvg-logo="https://logo.catvod.com/欢乐剧场.png" group-title="中文-电视剧", 欢乐剧场
+#EXTINF:-1 tvg-name="晾剑 电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/晾剑 电视剧.png" group-title="中文-电视剧", 晾剑 电视剧
+http://45.192.97.170:8880/play/966.m3u8
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://logo.catvod.com/欢乐剧场.png" group-title="中文-电视剧", 欢乐剧场
 http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://111.22.153.159:35455/itv/5000000002000009455.m3u8?cdn=bestzb
@@ -219,40 +361,86 @@ http://36.158.75.239:8088/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.158.75.249:8088/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
+http://45.192.97.170:8880/play/2521.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="http://49.233.180.193:5678/data/icon/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/hxjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://logo.catvod.com/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://logo.catvod.com/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8$上海移动
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://tb.zbds.top/logo/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="http://10.1.0.25:5180/logo/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="E20" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" group-title="中文-电视剧", 欢笑剧场
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://gat.bkpcp.top/ymg.php?id=hxjc
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
+http://gat.bkpcp.top/ymg.php?id=hxjc$LR•5•IPV4『线路3』
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://goo.bkpcp.top/mg/hxjc
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
+http://goo.bkpcp.top/mg/hxjc$LR•5•IPV4『线路4』
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8$LR•5•IPV4『线路5』
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 欢笑剧场
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227970/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://t.061899.xyz/tl/tl.php?id=hxjc
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 http://z.b.bkpcp.top/m.php?id=hxjc
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
+http://z.b.bkpcp.top/m.php?id=hxjc$LR•5•IPV4『线路2』
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场
+https://epg.pm/stream/289387cee8389d02233464444939ac3fc7cc8170bb1223480f15c3e9f8cdbaa9.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场
+https://epg.pm/stream/2ef4984749316462a2b45d51d14b97138f86f7ea9ae799cccbf1339ab59d115d.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场
+https://epg.pm/stream/5f79ae3308f3edb5aa5caaeae67a2c3591faafdeaac44dc49aaf5d594dea288d.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场
+https://epg.pm/stream/833b02aed5d28c6c6b8ebb6cb4a58f571327fab30f5ea9438ad4f9adf199e051.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场
+https://epg.pm/stream/974f2dd91dad293983ef7a51d427776352bee73c863aec90140f36c111f8b09c.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场
+https://epg.pm/stream/ad8a0254e736917c769db723a49482dfaee849e0d4fca3a97754782e7319250c.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场
+https://epg.pm/stream/c514490c329ccd49093e40fa64dd23167c08053263e08c70ad5381a831f55242.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
 https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="E20" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" group-title="中文-电视剧", 欢笑剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/欢笑剧场.png" group-title="中文-电视剧", 欢笑剧场
+https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8$LR•5•IPV4『线路1』
+#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-id="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4k.png" group-title="中文-电视剧", 欢笑剧场 4K
+http://110.40.170.5:8889/fu16/live_qtpd.php?id=16
+#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-id="欢笑剧场4K" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-电视剧", 欢笑剧场 4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-id="欢笑剧场4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="中文-电视剧", 欢笑剧场 4K
+http://45.192.97.170:8880/play/2550.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-id="欢笑剧场4K" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-电视剧", 欢笑剧场 4K
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/hxjc4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场 4K
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=3f4d4c40dbf41fd4a37dfa73878e39e1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场 4K
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场 4K
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=c74f322efa6c238fc535a83f14f86677&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-id="欢笑剧场4K" tvg-logo="https://tv-res.pages.dev/logo/欢笑剧场4K.png" group-title="中文-电视剧", 欢笑剧场 4K
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="欢笑剧场@@1" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场@@1
+https://epg.pm/stream/16b06b123f6b93d648416e4b14a6ab3493ee715751c0f551f23309966532a36c.php
+#EXTINF:-1 tvg-name="欢笑剧场@@1" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场@@1
+https://epg.pm/stream/5f0d2e33dc272c72d6df07f695c57b4dd5e9483bbf3f2c2a0ab247b2791cb25e.php
+#EXTINF:-1 tvg-name="欢笑剧场@@16" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场@@16
+https://epg.pm/stream/a7bfe0be7e79d376ba78f4f8d39427e3380654907ffafb49a0729cffc711b0a4.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场@@20" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场@@20
+https://epg.pm/stream/128adde5c66e0f7bdb57cd784659d4dbf848a3de8d7596fc2d60baf57298300f.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场@@28" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场@@28
+https://epg.pm/stream/33532984b56a0c10dfa92f3bb7925516d59aebe4ec9663d5a777320c7116177f.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场@@4" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场@@4
+https://epg.pm/stream/06e5029f3ad7c89ffbfe814a512bb2b4514842722ced5274251118683bffd41c.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场@@8" tvg-id="3062" tvg-logo="https://files.3y1.xyz/media/images/channel/2016/02/11/large/20160211010507414281_50.jpg" group-title="中文-电视剧", 欢笑剧场@@8
+https://epg.pm/stream/fe6b85d54f9360a81fe885d88912627f4fccb391241f5680285cea770381fc69.m3u8
 #EXTINF:-1 tvg-name="武汉二台电视剧" tvg-id="武汉二台电视剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武汉二台电视剧.png" group-title="中文-电视剧", 武汉二台电视剧
 https://stream1.freetv.fun/wu-yi-2dian-shi-ju-1.m3u8
 #EXTINF:-1 tvg-name="武汉二台电视剧" tvg-id="武汉二台电视剧" tvg-logo="https://tv-res.pages.dev/logo/武汉二台电视剧.png" group-title="中文-电视剧", 武汉二台电视剧
@@ -263,12 +451,102 @@ https://stream1.freetv.fun/wu-yi-er-tai-dian-shi-ju-3.ctv
 http://stream.appwuhan.com/2tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉电视剧" tvg-logo="https://logo.catvod.com/武汉电视剧.png" group-title="中文-电视剧", 武汉电视剧
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000430
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="http://49.233.180.193:5678/data/icon/深圳电视剧.png" group-title="中文-电视剧", 深圳电视剧
+http://115.190.124.74/php/gddx.php?id=深圳电视剧&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://logo.catvod.com/深圳电视剧.png" group-title="中文-电视剧", 深圳电视剧
 http://117.141.162.238:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="滨州公共电视剧 (576p)" group-title="中文-电视剧", 滨州公共电视剧 (576p)
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/深圳电视剧.png" group-title="中文-电视剧", 深圳电视剧
+http://45.192.97.170:8880/play/570.m3u8
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg" group-title="中文-电视剧", 深圳电视剧
+https://epg.pm/stream/1d82e95309af6bd323228b59a07f4c51a3755bd7177f7cd8864c7346ec73745f.php
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg" group-title="中文-电视剧", 深圳电视剧
+https://epg.pm/stream/69b24be4e4775de53918101c82c8cb850f5f79223d4fd5fe149a7f6276672cc7.php
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg" group-title="中文-电视剧", 深圳电视剧
+https://epg.pm/stream/e345704c3cbfb41b1f2b5cec169c77dedbc655ab6803aaba4c40eef7486cb31e.m3u8
+#EXTINF:-1 tvg-name="深圳电视剧@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg" group-title="中文-电视剧", 深圳电视剧@@1
+https://epg.pm/stream/1eab272c7d7b02ce56362a1add2a8da44c31e3599e5e12f681cbefec6fbe004d.php
+#EXTINF:-1 tvg-name="深圳电视剧@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg" group-title="中文-电视剧", 深圳电视剧@@2
+https://epg.pm/stream/abda6597092b4e8ddbdd95d0ee85afe6c1b560f88730940f605d8aab6c13c2a2.m3u8
+#EXTINF:-1 tvg-name="深圳电视剧@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg" group-title="中文-电视剧", 深圳电视剧@@3
+https://epg.pm/stream/8085848d0ef07a5af898e95be3a2ec03ee147a5922fb5f00306c0cc737cbc3f2.m3u8
+#EXTINF:-1 tvg-name="深圳电视剧@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/19/large/20220519234321215989_39.jpg" group-title="中文-电视剧", 深圳电视剧@@4
+https://epg.pm/stream/e69f4bb8a927f033c11dcf969de63a5a42a214caaface056a40564aa65e39c71.m3u8
+#EXTINF:-1 tvg-name="滨州公共电视剧" group-title="中文-电视剧", 滨州公共电视剧
 http://stream.bzcm.net/1/sd/live.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV第一剧场.png" group-title="中文-电视剧", 第一剧场
-http://1.83.163.63:8888/rtp/239.111.205.65:5140
+#EXTINF:-1 tvg-name="热门剧场" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-电视剧", 热门剧场
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧
+https://epg.pm/stream/98a9edc927e3ce30ffed1eb4948d9a4c481af29abb3fbcb952457a7ba903e5bd.php
+#EXTINF:-1 tvg-name="电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧
+https://epg.pm/stream/df3a4ca67fbafa21aaad82cddd2fad3506e9770649a289902d39428bd2172bb6.m3u8
+#EXTINF:-1 tvg-name="电视剧-流金岁月" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧-流金岁月.png" group-title="中文-电视剧", 电视剧-流金岁月
+http://45.192.97.170:8880/play/1333.m3u8
+#EXTINF:-1 tvg-name="电视剧8台" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧8台
+https://epg.pm/stream/84a7d30e201128e3016caa675cef27752ce8a419860e550581959cf87e5f4d23.m3u8
+#EXTINF:-1 tvg-name="电视剧8台" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧8台
+https://epg.pm/stream/a5b4ebc300093e520dd863188b47a27d02eee52cbb53372e3ae888417c99baac.m3u8
+#EXTINF:-1 tvg-name="电视剧@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@1
+https://epg.pm/stream/7abb57aad0f6740239fac368ca58d16b21e737fd1b1c781db79b51e3fac52f62.m3u8
+#EXTINF:-1 tvg-name="电视剧@@11" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@11
+https://epg.pm/stream/6dac58088e54dda1381283dc2a05bb42ecdeb6d9e812bc71fd1ac2735b4ab30e.m3u8
+#EXTINF:-1 tvg-name="电视剧@@12" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@12
+https://epg.pm/stream/b5c5bac79a3a6a8e37ed0c92396575b406bb3131b29b473d83b33657358b3a57.m3u8
+#EXTINF:-1 tvg-name="电视剧@@16" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@16
+https://epg.pm/stream/2301052c910a59edf84c1e3cb033dcceb6da58d5b228e14595e5d9f6e00bd27e.m3u8
+#EXTINF:-1 tvg-name="电视剧@@18" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@18
+https://epg.pm/stream/64f5b65c3f03d3c4925017fba9fcbf67558d3d3d3c10c19faa896da623bcac6f.m3u8
+#EXTINF:-1 tvg-name="电视剧@@19" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@19
+https://epg.pm/stream/00c3f80c9712eb93721afb82874d5cdcc7a8e8b4d55d9d7e951ada030d7b56a9.m3u8
+#EXTINF:-1 tvg-name="电视剧@@19" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@19
+https://epg.pm/stream/bd662c0bcf41e03cfdeb9e5336d9a9f6e1ae37a6ad9cd3a9902c5c3f1808f0e4.m3u8
+#EXTINF:-1 tvg-name="电视剧@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@2
+https://epg.pm/stream/4de515962d8c7071fd6af8cfd64de8b659a48d6557270598a801f9ecf03dd308.m3u8
+#EXTINF:-1 tvg-name="电视剧@@23" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@23
+https://epg.pm/stream/d3e4519ac56b15c6b1ccd365251f843401dea12e16e81fd8b671ae9c7801fe1f.m3u8
+#EXTINF:-1 tvg-name="电视剧@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@3
+https://epg.pm/stream/90f40f9435b74b187e6e09d089274fbc3d4007211ae69b57ae97daa583e4a5f4.m3u8
+#EXTINF:-1 tvg-name="电视剧@@32" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@32
+https://epg.pm/stream/0f76ec05f6a08e7ccee84e09205403efc798fc313568911a99a2e0f774cc2834.m3u8
+#EXTINF:-1 tvg-name="电视剧@@38" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@38
+https://epg.pm/stream/1dff0249fd076d1fde25b96ec0268235d2420072347288fb092ee3c4cc0588b0.m3u8
+#EXTINF:-1 tvg-name="电视剧@@38" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@38
+https://epg.pm/stream/3d00f89794a4087219df3aa31d58fbdb4222dada5ef564c849ab15969f084602.m3u8
+#EXTINF:-1 tvg-name="电视剧@@46" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@46
+https://epg.pm/stream/00543b0f9ceb3407985d35593deedfc5b1f787df93e6f921a527ab70aef07a82.m3u8
+#EXTINF:-1 tvg-name="电视剧@@46" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@46
+https://epg.pm/stream/ec1522322fe5f74bd05e89ca85fbdd91ec4f0e27fe372992d105a8a13a12411b.m3u8
+#EXTINF:-1 tvg-name="电视剧@@67" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@67
+https://epg.pm/stream/9129e9eaf2e346880d48706884965d9ed05aab88f396a64199ccec90bdf6da04.m3u8
+#EXTINF:-1 tvg-name="电视剧@@68" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/26/large/20220526122708482720_43.jpg" group-title="中文-电视剧", 电视剧@@68
+https://epg.pm/stream/c65a2c737a99d3b034efec42f880f20c9f849be39328a22ee47fc0377b6b6bfc.m3u8
+#EXTINF:-1 tvg-name="电视剧一" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧一.png" group-title="中文-电视剧", 电视剧一
+http://45.192.97.170:8880/play/5096.m3u8
+#EXTINF:-1 tvg-name="电视剧七" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧七.png" group-title="中文-电视剧", 电视剧七
+http://45.192.97.170:8880/play/5102.m3u8
+#EXTINF:-1 tvg-name="电视剧三" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧三.png" group-title="中文-电视剧", 电视剧三
+http://45.192.97.170:8880/play/5098.m3u8
+#EXTINF:-1 tvg-name="电视剧九" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧九.png" group-title="中文-电视剧", 电视剧九
+http://45.192.97.170:8880/play/5104.m3u8
+#EXTINF:-1 tvg-name="电视剧二" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧二.png" group-title="中文-电视剧", 电视剧二
+http://45.192.97.170:8880/play/5097.m3u8
+#EXTINF:-1 tvg-name="电视剧五" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧五.png" group-title="中文-电视剧", 电视剧五
+http://45.192.97.170:8880/play/5100.m3u8
+#EXTINF:-1 tvg-name="电视剧僵尸约会" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧僵尸约会.png" group-title="中文-电视剧", 电视剧僵尸约会
+http://45.192.97.170:8880/play/3929.m3u8
+#EXTINF:-1 tvg-name="电视剧八" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧八.png" group-title="中文-电视剧", 电视剧八
+http://45.192.97.170:8880/play/5103.m3u8
+#EXTINF:-1 tvg-name="电视剧六" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧六.png" group-title="中文-电视剧", 电视剧六
+http://45.192.97.170:8880/play/5101.m3u8
+#EXTINF:-1 tvg-name="电视剧十" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧十.png" group-title="中文-电视剧", 电视剧十
+http://45.192.97.170:8880/play/5105.m3u8
+#EXTINF:-1 tvg-name="电视剧十一页" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧十一页.png" group-title="中文-电视剧", 电视剧十一页
+http://45.192.97.170:8880/play/5106.m3u8
+#EXTINF:-1 tvg-name="电视剧四" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/电视剧四.png" group-title="中文-电视剧", 电视剧四
+http://45.192.97.170:8880/play/5099.m3u8
+#EXTINF:-1 tvg-name="短剧不思异剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/短剧不思异剧场.png" group-title="中文-电视剧", 短剧不思异剧场
+http://45.192.97.170:8880/play/1542.m3u8
+#EXTINF:-1 tvg-name="笑傲江湖-电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/笑傲江湖-电视剧.png" group-title="中文-电视剧", 笑傲江湖-电视剧
+http://45.192.97.170:8880/play/1417.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://106.116.126.74:4022/rtp/239.254.201.218:7258
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
@@ -283,10 +561,6 @@ http://107.150.60.122/live/dyjc.m3u8
 http://112.92.128.71:9003/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://113.119.25.7:58888/udp/239.253.43.15:5146
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="中文-电视剧", 第一剧场
-http://120.234.187.66:10086/rtp/239.11.0.67:1025
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="中文-电视剧", 第一剧场
-http://120.234.187.66:10086/rtp/239.21.0.78:3652
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://120.238.84.45:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
@@ -295,66 +569,88 @@ http://121.29.215.105:2083/rtp/239.253.93.138:6428
 http://124.112.189.64:4022/rtp/238.1.79.63:4640
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://171.119.206.142:6000/rtp/226.0.2.221:9680
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-第一剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 第一剧场
-http://173.208.212.130:8181/720p/dyjc.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://183.162.120.197:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://183.236.43.98:4111/udp/239.253.43.15:5146
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://183.57.251.128:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-第一剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 第一剧场
-http://192.151.150.154/live/dyjc.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-第一剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 第一剧场
-http://207.56.13.146:81/cdnlive/dyjc.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://220.176.218.254:9000/udp/239.252.219.86:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://27.18.83.20:9100/rtp/239.69.1.74:10084
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://logo.catvod.com/CCTV第一剧场.png" group-title="中文-电视剧", 第一剧场
-http://36.135.118.195:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/第一剧场.png" group-title="中文-电视剧", 第一剧场
+http://45.192.97.170:8880/play/1728.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/第一剧场.png" group-title="中文-电视剧", 第一剧场
+http://45.192.97.170:8880/play/3039.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/第一剧场.png" group-title="中文-电视剧", 第一剧场
+http://45.192.97.170:8880/play/572.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://60.4.30.177:8077/rtp/239.253.93.138:6428
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://logo.catvod.com/第一剧场.png" group-title="中文-电视剧", 第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 第一剧场
 http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+#EXTINF:-1 tvg-name="第一剧场" tvg-id="C17" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="中文-电视剧", 第一剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 http://tl.061833.xyz/tl/null-6
-#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
+#EXTINF:-1 tvg-name="第一剧场" tvg-id="2736" tvg-logo="https://files.3y1.xyz/media/img/logo/47351b8ad4ecfedbb9579db354dbb9f0.jpg" group-title="中文-电视剧", 第一剧场
+https://epg.pm/stream/797eb7b9263fad2fe23613f960eaf9e19c118f3ae164e9b1f977f27536e6dcee.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="中文-电视剧", 第一剧场
 https://hls-gateway.vpstv.net/streams/708862.m3u8
-#EXTINF:-1 tvg-name="精品剧场高清" tvg-logo="https://epg.112114.xyz/logo/精品剧场高清.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 精品剧场高清
+#EXTINF:-1 tvg-name="第一剧场频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/第一剧场频道.png" group-title="中文-电视剧", 第一剧场频道
+http://45.192.97.170:8880/play/3190.m3u8
+#EXTINF:-1 tvg-name="精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场高清.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 精品剧场
 http://120.76.248.139/live/bfgd/4200000290.m3u8
+#EXTINF:-1 tvg-name="精品剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/精品剧场.png" group-title="中文-电视剧", 精品剧场
+http://45.192.97.170:8880/play/1842.m3u8
+#EXTINF:-1 tvg-name="精彩电视剧" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152120908495_23.png" group-title="中文-电视剧", 精彩电视剧
+https://epg.pm/stream/e800bb4151cacb3bc62aa7073e2a2aff909fec750190677da2b88879f74bce41.m3u8
+#EXTINF:-1 tvg-name="精彩电视剧@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152120908495_23.png" group-title="中文-电视剧", 精彩电视剧@@1
+https://epg.pm/stream/833bafc1376c1ee75047e7b43f0a658d0438386c986b326f95a64d3ee9f5f5e7.m3u8
+#EXTINF:-1 tvg-name="精彩电视剧@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152120908495_23.png" group-title="中文-电视剧", 精彩电视剧@@2
+https://epg.pm/stream/95ed8000b023046c621d24fc03cb4b5de2cedc36fd1ca09aa9e6637d34d5db2c.m3u8
+#EXTINF:-1 tvg-name="精彩电视剧@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152120908495_23.png" group-title="中文-电视剧", 精彩电视剧@@3
+https://epg.pm/stream/73f2f509f5c3ede8d6ac2430f37819d600dbd5b8d56024db7ef01886ea37b3c1.m3u8
+#EXTINF:-1 tvg-name="精彩电视剧@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152120908495_23.png" group-title="中文-电视剧", 精彩电视剧@@4
+https://epg.pm/stream/1dadab2c048195c32fc26c8c10aeef8e988f8bafade8f90d5691f395e5c52448.m3u8
+#EXTINF:-1 tvg-name="精彩电视剧@@7" tvg-logo="https://files.3y1.xyz/media/images/channel/2021/10/16/large/20211016152120908495_23.png" group-title="中文-电视剧", 精彩电视剧@@7
+https://epg.pm/stream/0abaf89c50aa7e1daf77185dba9e12d9541e882b00c3a3c03ca9797dff5f231b.m3u8
 #EXTINF:-1 tvg-name="經典劇場" tvg-id="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="中文-电视剧", 經典劇場
 http://220.135.64.124:5050/ofiii38/index.m3u8
 #EXTINF:-1 tvg-name="經典劇場" tvg-id="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="中文-电视剧", 經典劇場
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii38
-#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://logo.catvod.com/谍战剧场.png" group-title="中文-电视剧", 谍战剧场
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-电视剧", 谍战剧场
 http://120.238.84.45:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/谍战剧场.png" group-title="中文-电视剧", 谍战剧场
+http://45.192.97.170:8880/play/3085.m3u8
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-电视剧", 谍战剧场
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://logo.catvod.com/谍战剧场.png" group-title="中文-电视剧", 谍战剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8
-#EXTINF:-1 tvg-name="超人力霸王《劇場版》FastTV飛速看" tvg-id="超人力霸王《劇場版》FastTV飛速看" tvg-logo="https://php.946985.filegear-sg.me/logo/fast-live011.png" group-title="中文-电视剧", 超人力霸王《劇場版》FastTV飛速看
-https://rust.946985.filegear-sg.me/proxy/1a371c7c1690da50?token=tgJerryfeng
-#EXTINF:-1 tvg-name="超级电视剧" tvg-id="超级电视剧" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/NEWTV超级电视剧.png" group-title="中文-电视剧", 超级电视剧
-http://111.22.153.159:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="超级电视剧" tvg-id="超级电视剧" tvg-logo="超级电视剧.png" group-title="中文-电视剧", 超级电视剧
-http://111.29.9.33:6610/000000001000/1000000001000008139/index.m3u8?channel-id=bestzb&Contentid=1000000001000008139&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="超级电视剧" tvg-id="超级电视剧" tvg-logo="超级电视剧.png" group-title="中文-电视剧", 超级电视剧
-http://111.29.9.33:6610/200000001898/460000089800010065/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="超级电视剧@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", 超级电视剧@@1
+https://epg.pm/stream/dd1fc96e3a3e6456f7ded7a9adb6e61547e66e18a87bcd76069ff0ed9ac32d66.m3u8
+#EXTINF:-1 tvg-name="超级电视剧@@6" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", 超级电视剧@@6
+https://epg.pm/stream/676a9101c85cad454f6900205fe33bd71babb9f7184752e601fa3398235798c6.m3u8
+#EXTINF:-1 tvg-name="超级电视剧@@7" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531232727503768_85.jpg" group-title="中文-电视剧", 超级电视剧@@7
+https://epg.pm/stream/d5121ac101f0003ec7219ca785940460095d658ed033f7a98e85acb8154f79fa.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="中文-电视剧", 都市剧场
 http://112.46.105.20:8009/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/都市剧场.png" group-title="中文-电视剧", 都市剧场
 http://114.95.212.57:4022/udp/239.45.3.136:5140
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="http://49.233.180.193:5678/data/icon/都市剧场.png" group-title="中文-电视剧", 都市剧场
+http://115.190.124.74/php/wxty111.php?id=220.m3u8&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="中文-电视剧", 都市剧场
 http://116.232.150.101:6000/tsfile/live/0001_28.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+#EXTINF:-1 tvg-name="都市剧场" group-title="中文-电视剧", 都市剧场
+http://120.238.84.45:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://im5k.fun/logo/都市剧场.png" group-title="中文-电视剧", 都市剧场
 http://124.112.189.64:4022/rtp/238.1.78.74:6464
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="中文-电视剧", 都市剧场
@@ -367,6 +663,16 @@ http://36.158.75.239:8088/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.158.75.249:8088/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="中文-电视剧", 都市剧场
 http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/都市剧场.png" group-title="中文-电视剧", 都市剧场
+http://45.192.97.170:8880/play/2520.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/都市剧场.png" group-title="中文-电视剧", 都市剧场
+http://45.192.97.170:8880/play/2594.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/都市剧场.png" group-title="中文-电视剧", 都市剧场
+http://45.192.97.170:8880/play/3037.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/都市剧场.png" group-title="中文-电视剧", 都市剧场
+http://45.192.97.170:8880/play/3799.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/都市剧场.png" group-title="中文-电视剧", 都市剧场
+http://45.192.97.170:8880/play/3925.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="中文-电视剧", 都市剧场
 http://61.178.227.57:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="中文-电视剧", 都市剧场
@@ -375,28 +681,40 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8$上海移动
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://tb.zbds.top/logo/都市剧场.png" group-title="中文-电视剧", 都市剧场
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="http://10.1.0.25:5180/logo/都市剧场.png" group-title="中文-电视剧", 都市剧场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="E12" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="中文-电视剧", 都市剧场
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="中文-电视剧", 都市剧场
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/都市剧场.png" group-title="中文-电视剧", 都市剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8$LR•5•IPV4『线路4』
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/06/01/large/20220601000521385063_11.jpg" group-title="中文-电视剧", 都市剧场
+https://epg.pm/stream/a56f8a996e5ebbb2160aaebdc071f225bda317e9db79f8f95cbf1833e3cc9e43.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="中文-电视剧", 都市剧场
 https://hls-gateway.vpstv.net/streams/708845.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/都市剧场.png" group-title="中文-电视剧", 都市剧场
+https://hls-gateway.vpstv.net/streams/708845.m3u8$LR•5•IPV4『线路5』
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="中文-电视剧", 都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/都市剧场.png" group-title="中文-电视剧", 都市剧场
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•5•IPV4『线路1』
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="中文-电视剧", 都市剧场
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="中文-电视剧", 都市剧场
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/都市剧场.png" group-title="中文-电视剧", 都市剧场
+https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5$LR•5•IPV4『线路2』
 #EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="中文-电视剧", 都市剧场
 https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="http://10.1.0.25:5180/logo/都市剧场.png" group-title="中文-电视剧", 都市剧场
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/都市剧场.png" group-title="中文-电视剧", 都市剧场
+https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8$LR•5•IPV4『线路3』
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="中文-电视剧", 都市剧场
 https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-id="E12" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="中文-电视剧", 都市剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场高清" group-title="中文-电视剧", 都市剧场高清
-http://120.238.84.45:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV风云剧场.png" group-title="中文-电视剧", 风云剧场
-http://1.83.163.63:8888/rtp/239.111.205.66:5140
+#EXTINF:-1 tvg-name="都市剧场@@24" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/06/01/large/20220601000521385063_11.jpg" group-title="中文-电视剧", 都市剧场@@24
+https://epg.pm/stream/c79d1f31795ebc919386c0d0d844fffd168845ce32d59bbb1d954c3a118947a0.m3u8
+#EXTINF:-1 tvg-name="都市剧场@@26" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/06/01/large/20220601000521385063_11.jpg" group-title="中文-电视剧", 都市剧场@@26
+https://epg.pm/stream/20acc33af7e948acd5e3c4acb49ed69944801ee1ce564553c13472c4fba09e7f.m3u8
+#EXTINF:-1 tvg-name="都市剧场频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/都市剧场频道.png" group-title="中文-电视剧", 都市剧场频道
+http://45.192.97.170:8880/play/3158.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://106.116.126.74:4022/rtp/239.254.201.219:7257
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
@@ -425,33 +743,41 @@ http://121.29.215.105:2083/rtp/239.253.93.251:6429
 http://124.112.189.64:4022/rtp/238.1.79.62:4632
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://171.119.206.142:6000/rtp/226.0.2.227:9728
-#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 风云剧场
-http://173.208.212.130:8181/720p/fyjc.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://183.162.120.197:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://183.236.43.98:4111/udp/239.253.43.16:5146
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://183.57.251.128:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 风云剧场
-http://192.151.150.154/live/fyjc.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云剧场.png" group-title="中文-电视剧" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 风云剧场
-http://207.56.13.146:81/cdnlive/fyjc.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://220.176.218.254:9000/udp/239.252.219.89:5140
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://logo.catvod.com/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://36.135.118.195:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/风云剧场.png" group-title="中文-电视剧", 风云剧场
+http://45.192.97.170:8880/play/1729.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/风云剧场.png" group-title="中文-电视剧", 风云剧场
+http://45.192.97.170:8880/play/3038.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/风云剧场.png" group-title="中文-电视剧", 风云剧场
+http://45.192.97.170:8880/play/574.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://60.4.30.177:8077/rtp/239.253.93.251:6429
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
+#EXTINF:-1 tvg-name="风云剧场" tvg-id="C15" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="中文-电视剧", 风云剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
-#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
+#EXTINF:-1 tvg-name="风云剧场" tvg-id="2737" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/10/large/20220510005553168659_67.jpg" group-title="中文-电视剧", 风云剧场
+https://epg.pm/stream/80a70bf9091008438dc03998ebec9621ae41f5f9acfca8981a1af287c0bd9dfa.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-id="2737" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/10/large/20220510005553168659_67.jpg" group-title="中文-电视剧", 风云剧场
+https://epg.pm/stream/eee094a9394ac5619e46b893a0fc1eb1863b80eeeb8a154e2d217738b3044a9c.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="中文-电视剧", 风云剧场
 https://hls-gateway.vpstv.net/streams/708861.m3u8
+#EXTINF:-1 tvg-name="风云剧场频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/风云剧场频道.png" group-title="中文-电视剧", 风云剧场频道
+http://45.192.97.170:8880/play/3192.m3u8
+#EXTINF:-1 tvg-name="黄大妮-电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/黄大妮-电视剧.png" group-title="中文-电视剧", 黄大妮-电视剧
+http://45.192.97.170:8880/play/1264.m3u8
