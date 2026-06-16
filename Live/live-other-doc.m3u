@@ -3,16 +3,18 @@
 http://101.200.122.188:1234/923287154
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
 http://106.111.244.12:58099/rtp/239.49.8.115:8000
-#EXTINF:-1 tvg-name="CETV1" tvg-id="cetv1" tvg-logo="cetv1.png" group-title="CETV教育", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="CETV教育", CETV1
+http://110.40.170.5:8889/fu16/live_xl1.php?id=19
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="CETV教育", CETV1
+http://110.40.170.5:8889/fu16/live_ywzh.php?id=96
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="http://49.233.180.193:5678/data/icon/CETV1.png" group-title="CETV教育", CETV1
 http://111.12.102.68:6610/PLTV/77777777/224/3221225776/index.m3u8?
-#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="CETV1.png" group-title="CETV教育", CETV1
-http://111.29.9.33:6610/200000001898/460000089800010103/1.m3u8?IAS=&IASHttpSessionId=
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="CETV教育", CETV1
 http://114.254.185.98:8099/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="http://49.233.180.193:5678/data/icon/CETV1.png" group-title="CETV教育", CETV1
+http://115.190.124.74/php/as.php?/PLTV/&id=10240302&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
 http://116.233.67.80:8899/rtp/233.18.204.98:5140
-#EXTINF:-1 tvg-name="CETV1" tvg-id="cetv1" tvg-logo="cetv1.png" group-title="CETV教育", CETV1
-http://117.114.153.26:8182/hls/TV00000000000000000007@HHZT.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1.cn@SD" tvg-logo="https://i.imgur.com/6sOHLq8.png" group-title="CETV教育", CETV1
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
@@ -21,6 +23,8 @@ http://120.76.248.139/live/bfgd/4200000135.m3u8
 http://120.76.248.139/live/bfgd/4200000135.m3u8$LR•5•IPV4『线路3』
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://im5k.fun/logo/CETV1.png" group-title="CETV教育", CETV1
 http://124.112.189.64:4022/rtp/238.1.78.158:7136
+#EXTINF:-1 tvg-name="CETV1" group-title="CETV教育", CETV1
+http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/cetv-1SD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
 http://183.162.120.197:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
@@ -41,51 +45,135 @@ http://223.86.170.98:4500/rtp/239.11.0.139:5140
 http://36.135.118.195:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
 http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="CETV教育", CETV1
+http://45.192.97.170:8880/play/2239.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="CETV教育", CETV1
+http://45.192.97.170:8880/play/2584.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="CETV教育", CETV1
+http://45.192.97.170:8880/play/3172.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="CETV教育", CETV1
+http://45.192.97.170:8880/play/3451.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="CETV教育", CETV1
+http://45.192.97.170:8880/play/3694.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="CETV教育", CETV1
+http://45.192.97.170:8880/play/3822.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
 http://58.37.29.210:9001/rtp/233.18.204.98:5140
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
 http://59.35.185.47:8188/udp/239.77.1.222:5146
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV-1高清.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="http://10.1.0.25:5180/logo/CETV-1.png" group-title="CETV教育", CETV1
-http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="CETV教育", CETV1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$LR•5•IPV6『线路5』
-#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="http://10.1.0.25:5180/logo/CETV-1.png" group-title="CETV教育", CETV1
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-id="cetv1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="CETV教育", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://logo.catvod.com/CETV1.png" group-title="CETV教育", CETV1
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="http://10.1.0.25:5180/logo/CETV-1.png" group-title="CETV教育", CETV1
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="CETV教育", CETV1
 http://fnos.sunny2017.xyz:7788/udp/239.21.2.7:5002
-#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="cetv1.png" group-title="CETV教育", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV1
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000027253&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="cetv1.png" group-title="CETV教育", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV1
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000002000002652&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="cetv1.png" group-title="CETV教育", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV1
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288015&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="http://10.1.0.25:5180/logo/CETV-1.png" group-title="CETV教育", CETV1
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260616080223&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=171.8.79.254&SecurityKey=20260616080223&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2659ad8e11ec809cdc8a77a02100004f&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://logo.catvod.com/CETV01.png" group-title="CETV教育", CETV1
 http://m.061899.xyz/mg/cetv1
-#EXTINF:-1 tvg-name="CETV1" tvg-id="cetv1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV1
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227339/index.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-id="cetv1" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/150/202407181432_1721283643483_H169_1080.jpg" group-title="CETV教育", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/150/202407181432_1721283643483_H169_1080.jpg" group-title="CETV教育", CETV1
 http://sport.pendy.dpdns.org/migu/923287154?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="CETV教育", CETV1
 http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/0016b69ea63dade40cf1161f5070a878554f93039a7bbbd9ad5167fb2d7baf4c.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/08d3ca3dac6234151bd64152a8b54120a84939c9af9f5712fc3229632e9000bf.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/1014e50147c1aeeb821ec4b0d620bdb071a10ffc9ffb3ae09455fe6279efc25c.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/188440139f0fa0aeee731df723bc0e2a47276c67cba9976c4356bc3d7149df0d.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/2041d14c155f37fd7cb5c6f2104d1393ee66e855fe26d0cc8e048764832c56e3.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/21a779e17402d3ef7182cec23a378810cc9239fb24dd14b8495faf455e377454.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/31c6f87e7b2b53179f446c8e82bd961b21bfe28af9e8a3d36988becabd0aaa36.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/32423f606f3ec184997c9883f299fff3ed5dd63be1cb49f5df5d6096e268f3c4.php
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/3305689c01b11360233fcffd8b1674cd5f85b7f14c1f6e1706cf30ddb1507620.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/335b04f0f64800fa6b4138089230f8939c82e2a82cc294ef84b0cd2f785f66de.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/359aec762c5265e52db89186faeada0ea228961ac7663bd6f1be9c753547a653.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/36db552ad8b1f02b9a1c574b020a864e613251b5e87cddd6328a1b059b3a2ce4.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/42e6f59ef9163731ac70a65571388656b08c9b599a1239aea16149143b1714f9.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/433f20d791607c5bbd9bf7b972affdba1b4c2b55be8c6c05b5e04e5b0a4e954b.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/4364333feb24e938c593b5ee1d53f38469bcc74123ee9a85e19374eeddc5d138.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/479217e42aa9621235d394c0d1530845664cab3fe787bda5620b734d4b56bd62.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/4a99811ea030ce8df3c19f2662d04e32a332c8c6fa010ef3958ad845cada6b15.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/5751c84fe95d5cf11b7255c461f3a2b9fb1425f2c4763272721e545409555d90.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/5c41dd7cd3909ac5fbfe98983aa521811b3924d3ca608defc9232c8698b8de8a.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/6eb31e499c5af38ce988d6a582bea444414e2c6e2b4228cac9569cf9d3883e3c.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/7736ec39e5e7f272c3f076802fd74f005db1f7cf50dca482df39ee9f89bad36f.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/89a44ae24d8071ae356366a29c2fb266e84b42d406718444bb49d7a365a6bdcf.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/8df45a0ed501f1a9946fc760b5380d0e1431a946a1866dc71895ed15557ce1f0.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/907fd09993187d14881fff5a2961d1b2f427e9a93d056bfa775d7034d695c481.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/9b13f256aaebc9c81e1d56b71142a441ac49d9172ffb475691fc92fa96f29731.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/9d9d90ab6735474463478eba39a2bd7e5a2c861e597bf39aca476d992a9ea1e3.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/a218a49a1719223a7b5c72cd6529fbe210f929d45b03e6cbf7bc847b7277498f.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/a57668f74658f5235ead44a5e5098c405cbf6d7b717359505d58c629541c7bcb.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/ab9343a4ffbfc2495f3cd0e6e469c309160ee9bd333a52013b13d108c4f4c1d8.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/afb8c0022294ecbd6f2a6ad2e3f2c89170381eabe6b5db3ed46fdea93611d623.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/bffa688dd8c099c5f573a499775aa13184cbbf721c649bcb29f300b292e0b361.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/c14cf53ae85fe1427dbcc5110c7305b6a6642f122003f99e88d1998639579964.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/c4b9f286fbea8cf2c37712abe2a8e11f9b404e009704377bb8714ff0328b07fa.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/d77b533aadf72de89e944e1c52fba8c850e214ddca779a8b4955b98c7d8b308e.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/db26a653c840a46dab0d1bcce6834d1301e2ed3e3640a120e7d9bbb906692b29.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/e8c5236de0e7db4d7964089282a2f0b60b521c36ff4ceb2fc2197256ca9b2691.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/f835683a93b85ce78a2aed8261b39c9b1031f9e7b7bb702a2b5586211f221018.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/f8687558387bb4d54eaf269e43be2e8d9e7d69a580423b6b62c3d401d92ddf60.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV1
+https://epg.pm/stream/fcd27497d86aa0ec5d271d271c51cd38fdedb6475fd5e54fa5c17ea9ed877891.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-id="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="CETV教育", CETV1
 https://migu.188766.xyz/?migutoken=36ef7f6bca62cec9abdcde133fce0012&id=CETV1&type=yy
 #EXTINF:-1 tvg-name="CETV1" tvg-id="4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="CETV教育", CETV1
 https://migu.188766.xyz/?migutoken=36ef7f6bca62cec9abdcde133fce0012&id=CETV1&type=yy$LR•5•IPV4『线路4』
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV1.png" group-title="CETV教育", CETV1
 https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-id="76" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-1.png" group-title="CETV教育" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226065/10000100000000060000000000384776_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="76" zz-definition="HD", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/150/202407181432_1721283631491_H32_1080.webp" group-title="CETV教育" http-user-agent="MGPlayer4Android/v9.49.0.3.28", CETV1
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="76" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-1.png" group-title="CETV教育" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226065/10000100000000060000000000384776_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" channel-number="76" zz-definition="HD", CETV1
 rtp://239.3.1.57:8152
-#EXTINF:-1 tvg-name="CETV1" tvg-id="cetv1" tvg-logo="cetv1.png" group-title="CETV教育", CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="http://49.233.180.193:5678/data/icon/CETV1.png" group-title="CETV教育", CETV1
 rtsp://10.11.43.21/PLTV/88888912/224/3221226772/455625684.smil
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="CETV教育", CETV2
 http://101.200.122.188:1234/923287211
@@ -93,8 +181,10 @@ http://101.200.122.188:1234/923287211
 http://106.116.126.74:4022/rtp/239.254.200.226:6260
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="CETV教育", CETV2
 http://106.59.2.85:55555/rtp/239.200.201.121:8780
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="CETV2.png" group-title="CETV教育", CETV2
-http://111.29.9.33:6610/200000001898/460000089800010104/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="CETV教育", CETV2
+http://110.40.170.5:8889/fu16/live_ywzh.php?id=97
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="http://49.233.180.193:5678/data/icon/CETV2.png" group-title="CETV教育", CETV2
+http://115.190.124.74/php/as.php?/PLTV/&id=10245251&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2.cn@SD" tvg-logo="https://i.imgur.com/ZD8XPmw.png" group-title="CETV教育", CETV2
 http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="CETV教育", CETV2
@@ -121,43 +211,53 @@ http://223.86.170.98:4500/rtp/239.11.0.246:5140
 http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="CETV教育", CETV2
 http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="http://10.1.0.25:5180/logo/CETV-2.png" group-title="CETV教育", CETV2
-http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="CETV教育", CETV2
+http://45.192.97.170:8880/play/3015.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="CETV教育", CETV2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-id="4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="CETV教育", CETV2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$LR•5•IPV6『线路4』
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="http://10.1.0.25:5180/logo/CETV-2.png" group-title="CETV教育", CETV2
-http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="CETV教育", CETV2
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 #EXTINF:-1 tvg-name="CETV2" tvg-id="5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="CETV教育", CETV2
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND$LR•5•IPV6『线路5』
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="CETV教育", CETV2
 http://fnos.sunny2017.xyz:7788/udp/239.21.2.8:5002
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="http://cc.118138.xyz/tvlogo/CETV2.png" group-title="CETV教育", CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV2
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266004&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="http://cc.118138.xyz/tvlogo/CETV2.png" group-title="CETV教育", CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV2
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031201&livemode=1&stbId=yu&mode=1&$3M
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="http://cc.118138.xyz/tvlogo/CETV2.png" group-title="CETV教育", CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV2
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288017&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="http://10.1.0.25:5180/logo/CETV-2.png" group-title="CETV教育", CETV2
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260616080223&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=171.8.79.254&SecurityKey=20260616080223&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=980f69d74ff4e1c4a639ffd8d47d6b96&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://logo.catvod.com/CETV02.png" group-title="CETV教育", CETV2
 http://m.061899.xyz/mg/cetv2
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="http://10.1.0.25:5180/logo/CETV-2.png" group-title="CETV教育", CETV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV2
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227940/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/152/202407181432_1721283773509_H169_1080.jpg" group-title="CETV教育", CETV2
 http://sport.pendy.dpdns.org/migu/923287211?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="CETV教育", CETV2
 http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
+#EXTINF:-1 tvg-name="CETV2" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV2
+https://epg.pm/stream/268494982c9a74c4fbf979bc9f17933c2039139da514fd1523af500c5e1cdcf4.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV2
+https://epg.pm/stream/542c5663fe189c7f854061c138b5bc5dc38a99e0b35b852b4df83e7be76368ce.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV2
+https://epg.pm/stream/8e8ecccdaa88ba49b24fa9bdab646a24371829a2cc13cf5c91a927c9c4754c99.php
+#EXTINF:-1 tvg-name="CETV2" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV2
+https://epg.pm/stream/965e7b9224ee04e53f2637915ea6bb75a084014b1eb8315708fb6a40b843eca0.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV2
+https://epg.pm/stream/bba5dd58a916d588b5609cf6edfc666ebeb9e2a06f01c673fb445cc45ac5989e.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV2
+https://epg.pm/stream/de9af454bea09caed05c50da4b457f4c4995e6d35585f72ad62cad7b16f302ac.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV2
+https://epg.pm/stream/e35c3db492b906d5df988871152cd378a54c5eea00336ff522da093c75d5aa31.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-id="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="CETV教育", CETV2
 https://migu.188766.xyz/?migutoken=933375f10f59db6fe40d9315edf498e2&id=CETV2&type=yy
 #EXTINF:-1 tvg-name="CETV2" tvg-id="3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="CETV教育", CETV2
 https://migu.188766.xyz/?migutoken=933375f10f59db6fe40d9315edf498e2&id=CETV2&type=yy$LR•5•IPV4『线路3』
-#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="http://cc.118138.xyz/tvlogo/CETV2.png" group-title="CETV教育", CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/152/202407181432_1721283782530_H32_1080.webp" group-title="CETV教育" http-user-agent="MGPlayer4Android/v9.49.0.3.28", CETV2
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="http://49.233.180.193:5678/data/icon/CETV2.png" group-title="CETV教育", CETV2
 rtsp://10.11.43.21/PLTV/88888912/224/3221226050/10000100000000060000000000660100_0.smil
 #EXTINF:-1 tvg-name="CETV3" tvg-id="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="CETV教育", CETV3
 http://183.220.107.138:4022/rtp/239.11.0.247:5140
@@ -177,18 +277,24 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-id="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="CETV教育", CETV3
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
+#EXTINF:-1 tvg-name="CETV3" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV3
+https://epg.pm/stream/4ee5e46a9f8142ca218477e01fe03e704a32388e1232293971ea7bcc2de02cc2.m3u8
+#EXTINF:-1 tvg-name="CETV3" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV3
+https://epg.pm/stream/be32936090973bea7266f22ddc149236e4ba7000236c907985156a42a9295a44.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://101.200.122.188:1234/923287339
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://106.111.244.12:58099/rtp/239.49.0.125:8000
-#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="CETV4.png" group-title="CETV教育", CETV4
-http://111.29.9.33:6610/200000001898/460000089800010105/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="CETV教育", CETV4
+http://110.40.170.5:8889/fu16/live_ywzh.php?id=98
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="http://49.233.180.193:5678/data/icon/CETV4.png" group-title="CETV教育", CETV4
+http://115.190.124.74/php/as.php?/PLTV/&id=10245252&token=TNpaxGTsdp
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://116.233.67.80:8899/rtp/233.18.204.111:5140
-#EXTINF:-1 tvg-name="CETV4" tvg-id="cetv4" tvg-logo="cetv4.png" group-title="CETV教育", CETV4
-http://117.114.153.26:8182/hls/TV00000000000000000012@HHZT.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://im5k.fun/logo/CETV4.png" group-title="CETV教育", CETV4
 http://124.112.189.64:4022/rtp/238.1.78.107:6728
+#EXTINF:-1 tvg-name="CETV4" group-title="CETV教育", CETV4
+http://182.242.147.214/tencent.live.cbncdn.cn/__cl/cg:live/__c/cetv-4SD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://183.220.107.138:4022/rtp/239.11.0.248:5140
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
@@ -207,21 +313,23 @@ http://223.86.170.98:4500/rtp/239.11.0.248:5140
 http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="CETV教育", CETV4
+http://45.192.97.170:8880/play/2585.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="CETV教育", CETV4
+http://45.192.97.170:8880/play/3016.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="CETV教育", CETV4
+http://45.192.97.170:8880/play/3173.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4.cn@SD" tvg-logo="https://i.imgur.com/a1N6wB7.png" group-title="CETV教育", CETV4
 http://49.113.179.174:4022/udp/238.125.3.92:5140
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://58.37.29.210:9001/rtp/233.18.204.111:5140
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://59.35.185.47:8188/udp/239.253.43.40:5146
-#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="http://10.1.0.25:5180/logo/CETV-4.png" group-title="CETV教育", CETV4
-http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="CETV教育", CETV4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$LR•5•IPV6『线路4』
-#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="http://10.1.0.25:5180/logo/CETV-4.png" group-title="CETV教育", CETV4
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-id="cetv4" tvg-logo="https://logo.catvod.com/CETV4.png" group-title="CETV教育", CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://logo.catvod.com/CETV4.png" group-title="CETV教育", CETV4
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -229,24 +337,36 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•5•IPV6『线路5』
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="CETV教育", CETV4
 http://fnos.sunny2017.xyz:7788/udp/239.21.1.222:5002
-#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="cetv4.png" group-title="CETV教育", CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV4
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000025333&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="cetv4.png" group-title="CETV教育", CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV4
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000012123&livemode=1&stbId=yu&mode=1&$3M
-#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="cetv4.png" group-title="CETV教育", CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV4
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031126&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://logo.catvod.com/CETV04.png" group-title="CETV教育", CETV4
 http://m.061899.xyz/mg/cetv4
-#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="http://10.1.0.25:5180/logo/CETV-4.png" group-title="CETV教育", CETV4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="CETV教育", CETV4
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$LR•5•IPV4『线路2』
-#EXTINF:-1 tvg-name="CETV4" tvg-id="cetv4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="CETV教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CETV4
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221228104/index.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-id="cetv4" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="CETV教育", CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="CETV教育", CETV4
 http://sport.pendy.dpdns.org/migu/923287339?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-name="CETV4" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV4
+https://epg.pm/stream/1d2884742fef6759889c15a8472f4833cfb31beeb264657a4e8a3b0ed960207c.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV4
+https://epg.pm/stream/55468307768b1763f21ee4fbd92b0b80b21be3ba169f61fd5e91ed7654c463e2.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV4
+https://epg.pm/stream/8e28ff7f8d57b1891a2e5c9933737ca75efafd389ebb7ebc81e21c3075ecaf28.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV4
+https://epg.pm/stream/b8382f41eca4dff81b7297349752d4a84dffdb6dd87f066e0fa1fd71c2665c61.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV4
+https://epg.pm/stream/c7a9fed2bc794dbe6eef826953c0ee493da10b9d4e030c940fcd42761f66c631.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV4
+https://epg.pm/stream/eb7e94922c9f2c87c14f5f90ba420aed469821dbf066a4147bc61e497ba3b1b4.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="2660" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="CETV教育", CETV4
+https://epg.pm/stream/efac74d4b91f8716cc2a0d9fb0213188d8164a593d8f3e4f0845d53cd2d00120.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="CETV教育", CETV4
 https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CETV4&type=yy
 #EXTINF:-1 tvg-name="CETV4" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="CETV教育", CETV4
@@ -255,26 +375,130 @@ https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CETV4&typ
 https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
 #EXTINF:-1 tvg-name="CETV4" tvg-id="3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="CETV教育", CETV4
 https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy$LR•5•IPV4『线路3』
-#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV-4" tvg-logo="http://10.1.0.25:5180/logo/CETV-4.png" group-title="CETV教育", CETV4
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001348/index.m3u8?streamid=37d60172a2bbb0d41f072d29213e6264&streamkey=06Au6xOXDlDEaapIVa7cpJhfzHs3AaqeIMjrUSQi1ZhQNbtlQYu45U2p26oN78H5M54F7fWWjiWa5JbgizqfzftqDt06P5Nj3CWuFMU3yFOgiX5n&token=1776221467-8fa99b3b879bacd8-0-b09602326b577119089417591328a91d
-#EXTINF:-1 tvg-name="CETV4" tvg-id="cetv4" tvg-logo="https://logo.catvod.com/CETV4.png" group-title="CETV教育", CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://logo.catvod.com/CETV4.png" group-title="CETV教育", CETV4
 https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV4.png" group-title="CETV教育", CETV4
 https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-id="cetv4" tvg-logo="cetv4.png" group-title="CETV教育", CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/154/202407181433_1721283870297_H32_1080.webp" group-title="CETV教育" http-user-agent="MGPlayer4Android/v9.49.0.3.28", CETV4
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/mgd_gitee.js?channel=CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="http://49.233.180.193:5678/data/icon/CETV4.png" group-title="CETV教育", CETV4
 rtsp://10.11.43.21/PLTV/88888912/224/3221226437/10000100000000060000000000834035_0.smil
+#EXTINF:-1 tvg-name="9台纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2017/04/13/large/20170413134158671417_73.jpg" group-title="中文-纪录教育", 9台纪录
+https://epg.pm/stream/21230a96331cb61c197dc8165d80d4127e7f497a4b47b1287fa785dfa6a3e91b.m3u8
 #EXTINF:-1 tvg-name="ASMR行車紀錄" tvg-id="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="中文-纪录教育", ASMR行車紀錄
 http://220.135.64.124:5050/ofiii94/index.m3u8
 #EXTINF:-1 tvg-name="ASMR行車紀錄" tvg-id="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="中文-纪录教育", ASMR行車紀錄
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii94
+#EXTINF:-1 tvg-name="Asia Travel" tvg-id="纪录|AsiaTravel" tvg-logo="https://tv-res.pages.dev/logo/纪录|Asia Travel.png" group-title="中文-纪录教育", Asia Travel
+http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="Ayaka Muto,在无法发声的高潮课堂上被弄湿10次的人妻教师" group-title="中文-纪录教育", Ayaka Muto,在无法发声的高潮课堂上被弄湿10次的人妻教师
+https://s3.aaaaa.io/1752ef3b4f81e8a4b36769e7456858bc/1752ef3b4f81e8a4b36769e7456858bc.m3u8
 #EXTINF:-1 tvg-name="BRTV Science & Education Channel" tvg-id="BRTVScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/q0qvOUe.png" group-title="中文-纪录教育", BRTV Science & Education Channel
 http://49.113.179.174:4022/udp/238.125.3.121:5140
-#EXTINF:-1 tvg-name="CEC国际教育" tvg-id="CEC国际教育" tvg-logo="https://epg.112114.xyz/logo/CEC国际教育.png" group-title="中文-纪录教育", CEC国际教育
+#EXTINF:-1 tvg-name="CEC国际教育" tvg-logo="https://epg.112114.xyz/logo/CEC国际教育.png" group-title="中文-纪录教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", CEC国际教育
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-name="RT Doc-Русский（俄语纪录）" tvg-id="RT07" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="中文-纪录教育", RT Doc-Русский（俄语纪录）
+#EXTINF:-1 tvg-name="DLDSS-433 美丽有礼的淫秽私语ASMR女人文教师进行性教育自慰支援补习课小泽奈穂 - 小泽菜穗" group-title="中文-纪录教育", DLDSS-433 美丽有礼的淫秽私语ASMR女人文教师进行性教育自慰支援补习课小泽奈穂 - 小泽菜穗
+https://s3.aaaaa.io/96792956832e27581b06636083c240f2/96792956832e27581b06636083c240f2.m3u8
+#EXTINF:-1 tvg-name="Echi Echi 美白牛奶 GAL Gangimari SEX! !!美乳美肌巨臀最强身材欲火中烧! !!这是粉红色的图案! !!去讨厌的性交! !!正在发出警报! !!用挤压活塞攻击我! !! / 爱情酒店 纪录片 休息 2 小时 / 94" group-title="中文-纪录教育", Echi Echi 美白牛奶 GAL Gangimari SEX! !!美乳美肌巨臀最强身材欲火中烧! !!这是粉红色的图案! !!去讨厌的性交! !!正在发出警报! !!用挤压活塞攻击我! !! / 爱情酒店 纪录片 休息 2 小时 / 94
+https://s3.aaaaa.io/f042f4dba3303f9b732976b7e36bdaa0/f042f4dba3303f9b732976b7e36bdaa0.m3u8
+#EXTINF:-1 tvg-name="GENU-007夫妻强暴:被戴绿帽的情侣中出纪录(GENU-007)" group-title="中文-纪录教育", GENU-007夫妻强暴:被戴绿帽的情侣中出纪录(GENU-007)
+https://s3.aaaaa.io/e49441edf4f05699eaee46cceb9385dc/e49441edf4f05699eaee46cceb9385dc.m3u8
+#EXTINF:-1 tvg-name="GVH-681我坚忍的教育妈妈知道我太饥渴而无法专心学习,所以她继续以女牛仔的姿势惩罚我,没有退出。光公主" group-title="中文-纪录教育", GVH-681我坚忍的教育妈妈知道我太饥渴而无法专心学习,所以她继续以女牛仔的姿势惩罚我,没有退出。光公主
+https://s3.aaaaa.io/d8f6e4a733f52518224a1a4000b87b3c/d8f6e4a733f52518224a1a4000b87b3c.m3u8
+#EXTINF:-1 tvg-name="GVH-746 拥有巨乳的姊姊旅行回来的那几天,用她那令人惊叹的身材给我上了一场光鲜亮丽的性教育,帮助我失去了童贞。 -Oneshi○ta剧集- 佐山唯 - 佐山由依" group-title="中文-纪录教育", GVH-746 拥有巨乳的姊姊旅行回来的那几天,用她那令人惊叹的身材给我上了一场光鲜亮丽的性教育,帮助我失去了童贞。 -Oneshi○ta剧集- 佐山唯 - 佐山由依
+https://s3.aaaaa.io/c421a4881c70cd1ff2b3bfc334e69b78/c421a4881c70cd1ff2b3bfc334e69b78.m3u8
+#EXTINF:-1 tvg-name="HND-092由爸爸ShioriTsukada教授的中出性教育" group-title="中文-纪录教育", HND-092由爸爸ShioriTsukada教授的中出性教育
+https://s3.aaaaa.io/948dec48017757e14966b08fd5593a2b/948dec48017757e14966b08fd5593a2b.m3u8
+#EXTINF:-1 tvg-name="HNTRS-005 巨乳人妻出轨纪录:温柔巨乳丰满人妻是邻家性奴真人版甘晴爱 - 天晴乃爱" group-title="中文-纪录教育", HNTRS-005 巨乳人妻出轨纪录:温柔巨乳丰满人妻是邻家性奴真人版甘晴爱 - 天晴乃爱
+https://s3.aaaaa.io/4cf9cdfbed8a8698da63d39d611de1f8/4cf9cdfbed8a8698da63d39d611de1f8.m3u8
+#EXTINF:-1 tvg-name="HUBLK-050 “哥哥,发生这种事我很抱歉...”在学校被欺负的兄妹发生乱伦关系-疯狂课堂版" group-title="中文-纪录教育", HUBLK-050 “哥哥,发生这种事我很抱歉...”在学校被欺负的兄妹发生乱伦关系-疯狂课堂版
+https://s3.aaaaa.io/9ed3e493856026935dc596bf3fb758fe/9ed3e493856026935dc596bf3fb758fe.m3u8
+#EXTINF:-1 tvg-name="IBW-847z ● 背后不断侵犯学生的魔鬼纪录影像 4小时" group-title="中文-纪录教育", IBW-847z ● 背后不断侵犯学生的魔鬼纪录影像 4小时
+https://s3.aaaaa.io/56b8dee691f55f026f3eae5094ee353d/56b8dee691f55f026f3eae5094ee353d.m3u8
+#EXTINF:-1 tvg-name="IPX-850 出差处的破纪录暴雨 和处男部下突然处于共处一室的情况... 被雨打湿的身体 枫可怜" group-title="中文-纪录教育", IPX-850 出差处的破纪录暴雨 和处男部下突然处于共处一室的情况... 被雨打湿的身体 枫可怜
+https://s3.aaaaa.io/631154914e6e9c8b723af896ed1a554f/631154914e6e9c8b723af896ed1a554f.m3u8
+#EXTINF:-1 tvg-name="JRZE-259 五十多岁妻纪录片首次拍摄 长泽富美加 - 长泽史华" group-title="中文-纪录教育", JRZE-259 五十多岁妻纪录片首次拍摄 长泽富美加 - 长泽史华
+https://s3.aaaaa.io/febcf695e083464445d590e11e7d4fbf/febcf695e083464445d590e11e7d4fbf.m3u8
+#EXTINF:-1 tvg-name="JUFD-339 我的宠物是巨乳家庭教师~让敏感的乳房哭泣的课堂训练~一树美穗" group-title="中文-纪录教育", JUFD-339 我的宠物是巨乳家庭教师~让敏感的乳房哭泣的课堂训练~一树美穗
+https://s3.aaaaa.io/322ae65fe9a5847b6fbc0b79e960d509/322ae65fe9a5847b6fbc0b79e960d509.m3u8
+#EXTINF:-1 tvg-name="JUFE-380G罩杯制服美少女色情补偿约会教育新鲜成人性交伊织羽根" group-title="中文-纪录教育", JUFE-380G罩杯制服美少女色情补偿约会教育新鲜成人性交伊织羽根
+https://s3.aaaaa.io/1447269141000ffb60dd9c2a19dc6f6d/1447269141000ffb60dd9c2a19dc6f6d.m3u8
+#EXTINF:-1 tvg-name="JUL-002 成熟美丽的痴女姨母北条麻妃对处男外甥的内射性教育" group-title="中文-纪录教育", JUL-002 成熟美丽的痴女姨母北条麻妃对处男外甥的内射性教育
+https://s3.aaaaa.io/27465bfea8f729e7a40894ec1b9abff7/27465bfea8f729e7a40894ec1b9abff7.m3u8
+#EXTINF:-1 tvg-name="JUTA-178 最好! !三十多岁妻子的首部全裸AV纪录片 芦野果步 - 芦野香帆" group-title="中文-纪录教育", JUTA-178 最好! !三十多岁妻子的首部全裸AV纪录片 芦野果步 - 芦野香帆
+https://s3.aaaaa.io/021404e532bd0740a76e956b21664663/021404e532bd0740a76e956b21664663.m3u8
+#EXTINF:-1 tvg-name="JUX-046公公巨乳少妻教育星野雷梦" group-title="中文-纪录教育", JUX-046公公巨乳少妻教育星野雷梦
+https://s3.aaaaa.io/85eae7a890c5267a367a97098c60cd13/85eae7a890c5267a367a97098c60cd13.m3u8
+#EXTINF:-1 tvg-name="MIAA-542 性知识缺乏的离家出走少女用手淫带来的惊喜喷潮!误以为被尿了后反击圣水飞溅 工藤拉拉" group-title="中文-纪录教育", MIAA-542 性知识缺乏的离家出走少女用手淫带来的惊喜喷潮!误以为被尿了后反击圣水飞溅 工藤拉拉
+https://s3.aaaaa.io/5efd1f097c8e48757111cd425a18379a/5efd1f097c8e48757111cd425a18379a.m3u8
+#EXTINF:-1 tvg-name="MIAB-473 课堂参观日 性感妈妈 透视乳头 凸起!大胸部摇动!肉臀露底惹人欲望挑逗!根据中出次数提升儿子的成绩,我是有冈美羽" group-title="中文-纪录教育", MIAB-473 课堂参观日 性感妈妈 透视乳头 凸起!大胸部摇动!肉臀露底惹人欲望挑逗!根据中出次数提升儿子的成绩,我是有冈美羽
+https://s3.aaaaa.io/f9bc6bae912172b570b46ed0e668ed82/f9bc6bae912172b570b46ed0e668ed82.m3u8
+#EXTINF:-1 tvg-name="MIDA-204 女教师目标的丰乳教育实习生被用作乳便器进行性交 暴力绝伦的阳物进行集体轮奸 三木环奈" group-title="中文-纪录教育", MIDA-204 女教师目标的丰乳教育实习生被用作乳便器进行性交 暴力绝伦的阳物进行集体轮奸 三木环奈
+https://s3.aaaaa.io/f0f99c8957d5d07315fbd63b3e36f632/f0f99c8957d5d07315fbd63b3e36f632.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/0b5edaaad44e2d68baf5611b565f4565c847c8ea5ef7a1f11d3d3ab43bfa626a.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/0bf77260731f48ee7286e0ec94c7f78b794efb967e351d57596c86003c56f00c.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/1f7935f7814a4083bf9f6b181371abf86b12e03a0440f84c760278c229ce6403.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/2875ec2b324eaea5a8240f011ffcd8096159aeb9cb0c1fb4a0414d8ee2566ca2.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/3374e631df4cf5925c90abc6273be0668fc62286af62718fc291633166ff5698.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/3f1d84e2632e38a6cf12a7cdbb00c7044bd4e40003df6a687defe4e4a73bf3f7.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/57ab8b9b94c60f10d1f06b6e1e9bfdf8836f5abce214c296ef33d3436fc267c2.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/6abfd55dcf03f92982361bb5aaa26962de1d4af94d72be34c6e4e0e81f91d07c.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/7e0ade5f5e3079258df2612db1c2becaef09ac726191ea1ccde1cc9e1eccccab.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/8097798da3bbf189b850ee123b0b4f7f99ee78f8eea4375786a5abe56c0726e5.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/8f93f26f6249b04d75300f8210ead6724adfe52989033dbc9cf7dfedd9728733.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/a44ced6278187b467ee36ac61933e84ab6a75b4efff1a28474dbbaf9c839898f.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/abf6adc4de95553f8627ec5ce93936790a91395816be6183f5075ca7b4be1b36.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/bca14f956eedd89add47790da72d1e99534a0821879a1584687dd9a1d99ac111.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/c75b5e109aa20a198ad7dc3c836d37bd02b021cab94e3c3551175bca4ba7c16b.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录
+https://epg.pm/stream/ea1fe4896f7d017a7444f67c8080c18212f54e511e1af755584755c135f0070e.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@11" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@11
+https://epg.pm/stream/1f678f5d3e14621e635d7ba183f81c025fc9052066006c0236c15ebe176cf3b5.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@12" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@12
+https://epg.pm/stream/8d94acda62c6e8741b5ae3f8384b6118e3b6971753be1d6b7d5d2e2a324f7ac9.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@2" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@2
+https://epg.pm/stream/3a267b5031008acaea44119840500abb16491650a9217dc509281899e21d96af.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@26" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@26
+https://epg.pm/stream/9a4d555254d953ad29f89f9892bed301ed1aa4f4dcb3b271910a31ab6dd01d74.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@3
+https://epg.pm/stream/4f503837cd9d683efe846fe7240274e87e947988aa1254929d60894a3b1eff95.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@3" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@3
+https://epg.pm/stream/9f221a0665776874e44a259a4da6f6d5e469f07f9d115defaa737ce2e9f5e804.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@36" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@36
+https://epg.pm/stream/8c6b6cfec0e23476a183aa9cb0d88c11509d5a7f25e528d2564ac2e5ea736f09.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@4" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@4
+https://epg.pm/stream/fc3245ebc3e716fb1efddce0335f045cfeeeb07dde8fb08680ddc0ab76b9bbe5.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@5" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@5
+https://epg.pm/stream/af6138fdcf63a7a7c7c101c798484e9af6e4b917a067983f86ce45d42c2b2154.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录@@9" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", NewTV精品纪录@@9
+https://epg.pm/stream/6fe647e42f49830846167466574e1b49e77ea9950bca3bee685cb67b60de8422.m3u8
+#EXTINF:-1 tvg-name="PPPD-475 巨乳妈妈的性教育 水野朝阳" group-title="中文-纪录教育", PPPD-475 巨乳妈妈的性教育 水野朝阳
+https://s3.aaaaa.io/5198881b2dbe6b3d68bc8ab1bc3d9206/5198881b2dbe6b3d68bc8ab1bc3d9206.m3u8
+#EXTINF:-1 tvg-name="RT Doc-Русский(俄语纪录)" tvg-id="RT07" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="中文-纪录教育", RT Doc-Русский(俄语纪录)
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-name="RT Documentary（英语纪录）" tvg-id="RT06" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="中文-纪录教育", RT Documentary（英语纪录）
+#EXTINF:-1 tvg-name="RT Documentary(英语纪录)" tvg-id="RT06" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="中文-纪录教育", RT Documentary(英语纪录)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="SIMM-866[小阿美(18),皮肤白皙的天真J♪女朋友!在准备入学考试的同时,一段时间以来第一次与爱人沉浸在性爱中!我没有任何计画就生了孩子,以为我活着就好了! 】《J♪女友与叔叔男友的情欲纪录》3150" group-title="中文-纪录教育", SIMM-866[小阿美(18),皮肤白皙的天真J♪女朋友!在准备入学考试的同时,一段时间以来第一次与爱人沉浸在性爱中!我没有任何计画就生了孩子,以为我活着就好了! 】《J♪女友与叔叔男友的情欲纪录》3150
+https://s3.aaaaa.io/ce70ac3bab75a14d29a12028b2fa5cf2/ce70ac3bab75a14d29a12028b2fa5cf2.m3u8
+#EXTINF:-1 tvg-name="SSNI-865 黑丝巨乳OL三上悠亚与无与伦比的处男上司每周五晚上的性教育培训加班 三上悠亚" group-title="中文-纪录教育", SSNI-865 黑丝巨乳OL三上悠亚与无与伦比的处男上司每周五晚上的性教育培训加班 三上悠亚
+https://s3.aaaaa.io/9c38a9d6e8566ac30f87c67380124964/9c38a9d6e8566ac30f87c67380124964.m3u8
+#EXTINF:-1 tvg-name="STARS-590我是一个积极的女孩,但我没有性知识,我将与我的童年朋友(几乎是处女)进行性行为,他是色情和天真的。光青空" group-title="中文-纪录教育", STARS-590我是一个积极的女孩,但我没有性知识,我将与我的童年朋友(几乎是处女)进行性行为,他是色情和天真的。光青空
+https://s3.aaaaa.io/ae1899b6f93b4e0daa13fe4377582a2a/ae1899b6f93b4e0daa13fe4377582a2a.m3u8
 #EXTINF:-1 tvg-name="Shandong Education TV" tvg-id="ShandongEducationTV.cn@SD" tvg-logo="https://i.imgur.com/yb10kF0.png" group-title="中文-纪录教育", Shandong Education TV
 http://49.113.179.174:4022/udp/238.125.0.156:5140
 #EXTINF:-1 tvg-name="Shanghai Education Television Station" tvg-id="ShanghaiEducationTelevisionStation.cn@SD" group-title="中文-纪录教育", Shanghai Education Television Station
@@ -287,16 +511,54 @@ http://220.135.64.124:5050/li-litv-longturn19/index.m3u8
 http://220.135.64.124:5050/litv-longturn19/index.m3u8
 #EXTINF:-1 tvg-name="Smart知識台" tvg-id="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="中文-纪录教育", Smart知識台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn19
+#EXTINF:-1 tvg-name="ZEX-421 女仆教育。 - 堕落贵族琉璃川山茶花 - 凪沙美月 - 渚光希" group-title="中文-纪录教育", ZEX-421 女仆教育。 - 堕落贵族琉璃川山茶花 - 凪沙美月 - 渚光希
+https://s3.aaaaa.io/1929fb064d6e99277001c2155bed9315/1929fb064d6e99277001c2155bed9315.m3u8
+#EXTINF:-1 tvg-name="[出租她的壮阳药森森快乐森森 Kimeseku ! !! ] 艺术美臀和宝石级美白肌肤! !!黏糊糊的感觉简直就是全身的杰作! ??如果完全释放她一号选角美少女的本性,这样撩人的出租带春药...... !! / 爱情旅馆纪录片休息2小时 / 春药SP" group-title="中文-纪录教育", [出租她的壮阳药森森快乐森森 Kimeseku ! !! ] 艺术美臀和宝石级美白肌肤! !!黏糊糊的感觉简直就是全身的杰作! ??如果完全释放她一号选角美少女的本性,这样撩人的出租带春药...... !! / 爱情旅馆纪录片休息2小时 / 春药SP
+https://s3.aaaaa.io/6afd6e0637a1988e1b66202e7139d18b/6afd6e0637a1988e1b66202e7139d18b.m3u8
+#EXTINF:-1 tvg-name="中国教育" group-title="中文-纪录教育", 中国教育
+http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="中国教育-1" tvg-id="中国教育1台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育1.png" group-title="中文-纪录教育", 中国教育-1
+http://1.83.163.63:8888/rtp/239.109.205.47:8312
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21HD.png" group-title="中文-纪录教育", 中国教育-1
+http://110.40.170.5:8889/fu16/live_xl3.php?id=21
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21HD.png" group-title="中文-纪录教育", 中国教育-1
+http://110.40.170.5:8889/fu16/live_ywdl.php?id=88
 #EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="中文-纪录教育", 中国教育-1
 http://120.234.187.66:10086/rtp/239.10.0.223:1025
 #EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://live.fanmingming.com/tv/中国教育1.png" group-title="中文-纪录教育", 中国教育-1
 http://120.234.187.66:10086/rtp/239.20.0.213:2224
-#EXTINF:-1 tvg-name="中国教育-1" group-title="中文-纪录教育", 中国教育-1
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="中文-纪录教育", 中国教育-1
+http://45.192.97.170:8880/play/2020.m3u8
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="中文-纪录教育", 中国教育-1
+http://45.192.97.170:8880/play/3014.m3u8
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="中文-纪录教育", 中国教育-1
+http://45.192.97.170:8880/play/3252.m3u8
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="中文-纪录教育", 中国教育-1
+http://45.192.97.170:8880/play/3575.m3u8
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="中文-纪录教育", 中国教育-1
 rtsp://10.11.43.21/PLTV/88888912/224/3221226698/426212016.smil
+#EXTINF:-1 tvg-name="中国教育2" tvg-id="中国教育2台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育2.png" group-title="中文-纪录教育", 中国教育2
+http://1.83.163.63:8888/rtp/239.109.205.48:8320
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22.png" group-title="中文-纪录教育", 中国教育2
+http://110.40.170.5:8889/fu16/live_xl3.php?id=22
 #EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="中文-纪录教育", 中国教育2
 http://120.234.187.66:10086/rtp/239.11.0.35:1025
 #EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://live.fanmingming.com/tv/中国教育2.png" group-title="中文-纪录教育", 中国教育2
 http://120.234.187.66:10086/rtp/239.21.0.46:3524
+#EXTINF:-1 tvg-name="中国教育2套4M" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="中文-纪录教育", 中国教育2套4M
+http://45.192.97.170:8880/play/2021.m3u8
+#EXTINF:-1 tvg-name="中国教育3" tvg-id="中国教育3台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育3.png" group-title="中文-纪录教育", 中国教育3
+http://1.202.10.117:8888/udp/225.1.8.194:4120
+#EXTINF:-1 tvg-name="中国教育3" tvg-logo="https://epg.112114.xyz/logo/中国教育3.png" group-title="中文-纪录教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 中国教育3
+http://107.150.60.122/live/cetv3.m3u8
+#EXTINF:-1 tvg-name="中国教育3" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B23.png" group-title="中文-纪录教育", 中国教育3
+http://110.40.170.5:8889/fu16/live_xl3.php?id=23
+#EXTINF:-1 tvg-name="中国教育3" tvg-logo="https://epg.112114.xyz/logo/中国教育3.png" group-title="中文-纪录教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 中国教育3
+http://192.151.150.154/live/cetv3.m3u8
+#EXTINF:-1 tvg-name="中国教育4" tvg-id="中国教育4台" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中国教育4.png" group-title="中文-纪录教育", 中国教育4
+http://1.83.163.63:8888/rtp/239.109.205.49:8328
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24.png" group-title="中文-纪录教育", 中国教育4
+http://110.40.170.5:8889/fu16/live_xl3.php?id=24
 #EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="中文-纪录教育", 中国教育4
 http://120.234.187.66:10086/rtp/239.11.0.176:1025
 #EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="中文-纪录教育", 中国教育4
@@ -305,40 +567,78 @@ http://120.234.187.66:10086/rtp/239.11.0.36:1025
 http://120.234.187.66:10086/rtp/239.21.0.142:3912
 #EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://live.fanmingming.com/tv/中国教育4.png" group-title="中文-纪录教育", 中国教育4
 http://120.234.187.66:10086/rtp/239.21.0.47:3528
-#EXTINF:-1 tvg-name="中国教育高清" group-title="中文-纪录教育", 中国教育高清
-http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="中文-纪录教育", 中国教育4
+http://45.192.97.170:8880/play/3253.m3u8
+#EXTINF:-1 tvg-name="中国教育4套" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="中文-纪录教育", 中国教育4套
+http://45.192.97.170:8880/play/2022.m3u8
+#EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="中文-纪录教育", 之江纪录
+http://110.40.170.5:8889/fu16/live_jd.php?id=72
+#EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="中文-纪录教育", 之江纪录
+http://110.40.170.5:8889/fu16/live_jd.php?id=73
 #EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://tv-res.pages.dev/logo/之江纪录.png" group-title="中文-纪录教育", 之江纪录
 http://120.55.49.231:3095/rtp/233.50.202.25:5140
-#EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://tv-res.pages.dev/logo/之江纪录.png" group-title="中文-纪录教育", 之江纪录
+#EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/之江纪录.png" group-title="中文-纪录教育", 之江纪录
 http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://tv-res.pages.dev/logo/之江纪录.png" group-title="中文-纪录教育", 之江纪录
 http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037
-#EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="之江记录.png" group-title="中文-纪录教育", 之江纪录
+#EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/之江纪录.png" group-title="中文-纪录教育", 之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/之江纪录.png" group-title="中文-纪录教育", 之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•2•IPV4『线路2』
 #EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://logo.catvod.com/之江纪录.png" group-title="中文-纪录教育", 之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$浙江官方
 #EXTINF:-1 tvg-name="之江纪录" tvg-id="之江纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/之江纪录.png" group-title="中文-纪录教育", 之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/之江纪录.png" group-title="中文-纪录教育", 之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$LR•2•IPV4『线路1』
 #EXTINF:-1 tvg-name="乌拖邦WTB066忍无可忍的兄妹教育" group-title="中文-纪录教育", 乌拖邦WTB066忍无可忍的兄妹教育
 https://t21.cdn2020.com/video/m3u8/2023/03/05/28bc0cd1/index.m3u8
 #EXTINF:-1 tvg-name="云课堂" tvg-logo="https://epg.112114.xyz/logo/云课堂.png" group-title="中文-纪录教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 云课堂
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
+#EXTINF:-1 tvg-name="亚洲TLC" tvg-id="纪录|亚洲TLC" tvg-logo="https://tv-res.pages.dev/logo/纪录|亚洲TLC.png" group-title="中文-纪录教育", 亚洲TLC
+http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="党员教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/党员教育.png" group-title="中文-纪录教育", 党员教育
+http://45.192.97.170:8880/play/3089.m3u8
 #EXTINF:-1 tvg-name="全民星攻略 知識開箱" tvg-id="全民星攻略知識開箱" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3719_ofiii81_tv_20250506.png" group-title="中文-纪录教育", 全民星攻略 知識開箱
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii81
 #EXTINF:-1 tvg-name="南京文旅纪录" tvg-id="南京文旅纪录" group-title="中文-纪录教育", 南京文旅纪录
 http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#EXTINF:-1 tvg-name="合肥教育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/27/large/20220527164350668191_90.jpg" group-title="中文-纪录教育", 合肥教育
+https://epg.pm/stream/2a5bcecd81a572438972087f80f0589cdafc53406a400d789cbe255f65f77897.m3u8
+#EXTINF:-1 tvg-name="周口教育频道" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-纪录教育", 周口教育频道
+http://115.190.124.74/php/hndf.php?id=周口教育频道&token=TNpaxGTsdp
+#EXTINF:-1 tvg-name="妈妈的真实性教育 Arisa Hanyu" group-title="中文-纪录教育", 妈妈的真实性教育 Arisa Hanyu
+https://s3.aaaaa.io/c9bb189df95ea3c24c1797ecc160cedc/c9bb189df95ea3c24c1797ecc160cedc.m3u8
+#EXTINF:-1 tvg-name="妈妈的真实性教育 Ayano Kato" group-title="中文-纪录教育", 妈妈的真实性教育 Ayano Kato
+https://s3.aaaaa.io/815fa0af623e836bbece73cb410b2836/815fa0af623e836bbece73cb410b2836.m3u8
+#EXTINF:-1 tvg-name="宇宁《千里江山(大型纪录片《紫禁城》主题歌)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/宇宁《千里江山（大型纪录片《紫禁城》主题歌）.png" group-title="中文-纪录教育", 宇宁《千里江山(大型纪录片《紫禁城》主题歌)
+http://45.192.97.170:8880/play/5753.m3u8
+#EXTINF:-1 tvg-name="新余教育频道" tvg-logo="https://live.fanmingming.com/tv/%E6%96%B0%E4%BD%99%E6%95%99%E8%82%B2%E9%A2%91%E9%81%93.png" group-title="中文-纪录教育", 新余教育频道
+http://110.40.170.5:8889/fu16/live_qtpd.php?id=78
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" group-title="中文-纪录教育", 早期教育
+http://110.40.170.5:8889/fu16/live_xl3.php?id=25
+#EXTINF:-1 tvg-name="早期教育" tvg-id="早期教育" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/早期教育.png" group-title="中文-纪录教育", 早期教育
+http://120.11.62.207:4000/rtp/239.253.92.39:6107
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="中文-纪录教育", 早期教育
 http://120.234.187.66:10086/rtp/239.11.0.100:1025
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="中文-纪录教育", 早期教育
 http://120.234.187.66:10086/rtp/239.21.0.106:3764
+#EXTINF:-1 tvg-name="昆明教育@@2" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="中文-纪录教育", 昆明教育@@2
+https://epg.pm/stream/4a07b54e3e51c0ef4066d446b7ad7e09819b0482af4d813d33089f9fb7822d6c.m3u8
+#EXTINF:-1 tvg-name="昆明教育@@3" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="中文-纪录教育", 昆明教育@@3
+https://epg.pm/stream/2811427c16b242c37f92c17507a59ed87a57fba1d9040c5b4a0b19b75422a3c2.m3u8
 #EXTINF:-1 tvg-name="枣庄教育" tvg-id="枣庄教育" tvg-logo="https://tv-res.pages.dev/logo/枣庄教育.png" group-title="中文-纪录教育", 枣庄教育
 http://stream.zztvzd.com/2/sd/live.m3u8
 #EXTINF:-1 tvg-name="枣庄教育" tvg-id="枣庄教育" tvg-logo="https://tv-res.pages.dev/logo/枣庄教育.png" group-title="中文-纪录教育", 枣庄教育
 http://stream.zztvzd.com/2/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="枣庄教育" tvg-id="枣庄教育" tvg-logo="https://tv-res.pages.dev/logo/枣庄教育.png" group-title="中文-纪录教育", 枣庄教育
 http://stream.zztvzd.com/2/sd/live.m3u8?shandd
+#EXTINF:-1 tvg-name="档干教育" tvg-logo="https://live.fanmingming.com/tv/%E6%A1%A3%E5%B9%B2%E6%95%99%E8%82%B2.png" group-title="中文-纪录教育", 档干教育
+http://110.40.170.5:8889/fu16/live_qtpd.php?id=32
 #EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="https://tv-res.pages.dev/logo/武汉教育.png" group-title="中文-纪录教育", 武汉教育
 http://stream.appwuhan.com:80/jyzb/sd/live.m3u8
+#EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530222958982148_21.jpg" group-title="中文-纪录教育", 武汉教育
+https://epg.pm/stream/5ac37b04c9aeaa9476197b810717745ef6b4ba83ce01866edd0ae4e38ed7554d.m3u8
 #EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武汉教育.png" group-title="中文-纪录教育", 武汉教育
 https://stream1.freetv.fun/wu-yi-jiao-yu-1.m3u8
 #EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="https://tv-res.pages.dev/logo/武汉教育.png" group-title="中文-纪录教育", 武汉教育
@@ -365,8 +665,18 @@ https://stream1.freetv.fun/wu-yi-jiao-yu-8.m3u8
 rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000369
 #EXTINF:-1 tvg-name="武汉教育" tvg-id="武汉教育" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/武汉教育.png" group-title="中文-纪录教育", 武汉教育
 rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000369#
+#EXTINF:-1 tvg-name="武汉教育@@1" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/30/large/20220530222958982148_21.jpg" group-title="中文-纪录教育", 武汉教育@@1
+https://epg.pm/stream/12e84138554ae89e79e70ee7e9b46bafa92425bc42855efd09a7a97e84ccd012.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="中文-纪录教育", 求索纪录
 http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="C04" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png" group-title="中文-纪录教育", 求索纪录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="2674" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/03/22/large/20200322211711184602_31.png" group-title="中文-纪录教育", 求索纪录
+https://epg.pm/stream/277e49dd8a5ea3b7fd8e6408261d1333ef6b17fb4fdb927f560c03e3b7916388.m3u8
+#EXTINF:-1 tvg-name="济南教育" tvg-id="济南教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/济南教育.png" group-title="中文-纪录教育", 济南教育
+http://45.192.97.170:8880/play/3270.m3u8
+#EXTINF:-1 tvg-name="济南教育" tvg-id="济南教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/济南教育.png" group-title="中文-纪录教育", 济南教育
+http://45.192.97.170:8880/play/3524.m3u8
 #EXTINF:-1 tvg-name="济南教育" tvg-id="济南教育" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南教育.png" group-title="中文-纪录教育", 济南教育
 http://fnos.sunny2017.xyz:7788/udp/239.21.1.133:5002
 #EXTINF:-1 tvg-name="济南教育" tvg-id="济南教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/济南教育.png" group-title="中文-纪录教育", 济南教育
@@ -377,67 +687,43 @@ http://fnos.sunny2017.xyz:7788/udp/239.21.1.139:5002
 http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 #EXTINF:-1 tvg-name="济宁教育" tvg-id="济宁教育" tvg-logo="https://tv-res.pages.dev/logo/济宁教育.png" group-title="中文-纪录教育", 济宁教育
 http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8?shandd
-#EXTINF:-1 tvg-name="滁州科教 (450p)" tvg-id="ChuzhouScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="中文-纪录教育", 滁州科教 (450p)
-http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
+#EXTINF:-1 tvg-name="熟肉纪录片人妻解剖淫技悟空束缚狂乱Ver." group-title="中文-纪录教育", 熟肉纪录片人妻解剖淫技悟空束缚狂乱Ver.
+https://s3.aaaaa.io/2f5b7018e704139bcc0322372c57b90a/2f5b7018e704139bcc0322372c57b90a.m3u8
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="中文-纪录教育", 现代教育
 http://120.234.187.66:10086/rtp/239.10.0.138:1025
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="中文-纪录教育", 现代教育
 http://120.234.187.66:10086/rtp/239.20.0.128:2054
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="https://live.fanmingming.com/tv/现代教育.png" group-title="中文-纪录教育", 现代教育
 http://120.234.187.66:10086/rtp/239.21.0.148:3936
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/现代教育.png" group-title="中文-纪录教育", 现代教育
+http://45.192.97.170:8880/play/2190.m3u8
+#EXTINF:-1 tvg-name="百变课堂" tvg-logo="http://49.233.180.193:5678/data/icon/00.png" group-title="中文-纪录教育", 百变课堂
+http://58.49.230.124:80/bst.v.smtcdns.net/hljbuv52.live.bestvcdn.com.cn/0/live/program/live/bbkt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="石河子教育" tvg-logo="https://wget.ylyn.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/石河子教育.png" group-title="中文-纪录教育", 石河子教育
 rtmp://124.88.144.73:1935/live/jiaoyu
 #EXTINF:-1 tvg-name="空中课堂" tvg-logo="https://epg.112114.xyz/logo/空中课堂.png" group-title="中文-纪录教育" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 空中课堂
 http://120.76.248.139/live/bfgd/4200000492.m3u8
-#EXTINF:-1 tvg-name="精品纪录" tvg-id="精品纪录" tvg-logo="精品纪录.png" group-title="中文-纪录教育", 精品纪录
-http://111.29.9.33:6610/200000001898/460000089800010076/1.m3u8?IAS=&IASHttpSessionId=
-#EXTINF:-1 tvg-name="纪实人文 (1080p)" tvg-id="DocumentaryHumanitiesChannel.cn@SD" tvg-logo="https://i.imgur.com/CEcNWsE.png" group-title="中文-纪录教育", 纪实人文 (1080p)
-http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-name="纪录|Animal Planet (Eng)" tvg-id="纪录|AnimalPlanet(Eng)" tvg-logo="https://tv-res.pages.dev/logo/纪录|Animal Planet (Eng).png" group-title="中文-纪录教育", 纪录|Animal Planet (Eng)
-http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Animal_Planet" tvg-id="纪录|Animal_Planet" tvg-logo="https://tv-res.pages.dev/logo/纪录|Animal_Planet.png" group-title="中文-纪录教育", 纪录|Animal_Planet
-http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Asia Travel" tvg-id="纪录|AsiaTravel" tvg-logo="https://tv-res.pages.dev/logo/纪录|Asia Travel.png" group-title="中文-纪录教育", 纪录|Asia Travel
-http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|BBC Earth" tvg-id="纪录|BBCEarth" tvg-logo="https://tv-res.pages.dev/logo/纪录|BBC Earth .png" group-title="中文-纪录教育", 纪录|BBC Earth
-http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|CI" tvg-id="纪录|CI" tvg-logo="https://tv-res.pages.dev/logo/纪录|CI.png" group-title="中文-纪录教育", 纪录|CI
-http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Discovery" tvg-id="纪录|Discovery" tvg-logo="https://tv-res.pages.dev/logo/纪录|Discovery .png" group-title="中文-纪录教育", 纪录|Discovery
-http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Discovery Asia" tvg-id="纪录|DiscoveryAsia" tvg-logo="https://tv-res.pages.dev/logo/纪录|Discovery Asia.png" group-title="中文-纪录教育", 纪录|Discovery Asia
-http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Fashion TV" tvg-id="纪录|FashionTV" tvg-logo="https://tv-res.pages.dev/logo/纪录|Fashion TV.png" group-title="中文-纪录教育", 纪录|Fashion TV
-http://free.cnlive.club/channel/n7852a99f/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|HGTV" tvg-id="纪录|HGTV" tvg-logo="https://tv-res.pages.dev/logo/纪录|HGTV.png" group-title="中文-纪录教育", 纪录|HGTV
-http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|History" tvg-id="纪录|History" tvg-logo="https://tv-res.pages.dev/logo/纪录|History.png" group-title="中文-纪录教育", 纪录|History
-http://free.cnlive.club/channel/n20a85c83/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|NatGeo" tvg-id="纪录|NatGeo" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo .png" group-title="中文-纪录教育", 纪录|NatGeo
-http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|NatGeo Wild" tvg-id="纪录|NatGeoWild" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo Wild .png" group-title="中文-纪录教育", 纪录|NatGeo Wild
-http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|NatGeo_Wild" tvg-id="纪录|NatGeo_Wild" tvg-logo="https://tv-res.pages.dev/logo/纪录|NatGeo_Wild .png" group-title="中文-纪录教育", 纪录|NatGeo_Wild
-http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|Natgeo_" tvg-id="纪录|Natgeo_" tvg-logo="https://tv-res.pages.dev/logo/纪录|Natgeo_.png" group-title="中文-纪录教育", 纪录|Natgeo_
-http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|TLC" tvg-id="纪录|TLC" tvg-logo="https://tv-res.pages.dev/logo/纪录|TLC.png" group-title="中文-纪录教育", 纪录|TLC
-http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录|亚洲TLC" tvg-id="纪录|亚洲TLC" tvg-logo="https://tv-res.pages.dev/logo/纪录|亚洲TLC.png" group-title="中文-纪录教育", 纪录|亚洲TLC
-http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236
-#EXTINF:-1 tvg-name="纪录频道|Animal Planet (Eng)" tvg-id="纪录频道|AnimalPlanet(Eng)" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png" group-title="中文-纪录教育", 纪录频道|Animal Planet (Eng)
-https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
-#EXTINF:-1 tvg-name="纪录频道|HGTV" tvg-id="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="中文-纪录教育", 纪录频道|HGTV
-https://smart.pendy.dpdns.org/Smart.php?id=HGTV
-#EXTINF:-1 tvg-name="纪录频道|NatGeo HD" tvg-id="纪录频道|NatGeoHD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO.png" group-title="中文-纪录教育", 纪录频道|NatGeo HD
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
-#EXTINF:-1 tvg-name="纪录频道|NatGeo Wild HD" tvg-id="纪录频道|NatGeoWildHD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png" group-title="中文-纪录教育", 纪录频道|NatGeo Wild HD
-https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
-#EXTINF:-1 tvg-name="纪录频道|TLC" tvg-id="纪录频道|TLC" tvg-logo="https://epg.112114.xyz/logo/纪录频道|TLC.png" group-title="中文-纪录教育", 纪录频道|TLC
-https://smart.pendy.dpdns.org/Smart.php?id=Tlc
-#EXTINF:-1 tvg-name="萍鄉教育頻道 (480p)" group-title="中文-纪录教育", 萍鄉教育頻道 (480p)
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/精品纪录.png" group-title="中文-纪录教育", 精品纪录
+http://45.192.97.170:8880/play/2047.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", 精品纪录
+https://epg.pm/stream/7c74fd2a61cfac111eeffada276ac3488eb1f207275f61dd59dbb8642adf4309.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", 精品纪录
+https://epg.pm/stream/830b441e1c23ddebd4a2e3bf9ca9ffb3e79c07382a21bde9b80fa4ccb5921792.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", 精品纪录
+https://epg.pm/stream/d8975f4a7732d8392c91b4935289fc16837e61fb6b3c9aa37462fa4fa612b4c8.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", 精品纪录
+https://epg.pm/stream/eaff62856b1f77a8038bac9b30f196938fbaf6401e184e4768c4aa8458824a3b.m3u8
+#EXTINF:-1 tvg-name="精品纪录@@5" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="中文-纪录教育", 精品纪录@@5
+https://epg.pm/stream/5d49653b04fb871d551894715efd7fe668473833fed3c9ed62703f892051837c.m3u8
+#EXTINF:-1 tvg-name="纪录9台" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="中文-纪录教育", 纪录9台
+https://epg.pm/stream/1487b172e1033d95c9654f6e4a20d14877f44c440762dda6c8f2efa63c6763bf.m3u8
+#EXTINF:-1 tvg-name="纪录9台" tvg-logo="https://files.3y1.xyz/media//tmp/123.png" group-title="中文-纪录教育", 纪录9台
+https://epg.pm/stream/1eac4c3d6e230e57ba164eaf2f046efe64a42a0d6c403c5946c64ce6146a5937.m3u8
+#EXTINF:-1 tvg-name="纪录频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/纪录频道.png" group-title="中文-纪录教育", 纪录频道
+http://45.192.97.170:8880/play/1922.m3u8
+#EXTINF:-1 tvg-name="萍鄉教育頻道" group-title="中文-纪录教育", 萍鄉教育頻道
 http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8
-#EXTINF:-1 tvg-name="蕪湖教育頻道 (576p)" group-title="中文-纪录教育", 蕪湖教育頻道 (576p)
+#EXTINF:-1 tvg-name="蕪湖教育頻道" group-title="中文-纪录教育", 蕪湖教育頻道
 http://live1.wuhubtv.com/channel4/sd/live.m3u8
 #EXTINF:-1 tvg-name="赣州教育" tvg-logo="https://live.fanmingming.cn/tv/赣州教育.png" group-title="中文-纪录教育", 赣州教育
 https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
@@ -451,3 +737,5 @@ https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-2.m3u8
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="长治教育" group-title="中文-纪录教育", 长治教育
 http://streaming.czgd.cn:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
+#EXTINF:-1 tvg-name="高超! ! 40 多岁妻子的第一次脱衣 AV 纪录片小池美智子" group-title="中文-纪录教育", 高超! ! 40 多岁妻子的第一次脱衣 AV 纪录片小池美智子
+https://s3.aaaaa.io/544c5ffb40cc166f997a3e813639d791/544c5ffb40cc166f997a3e813639d791.m3u8
