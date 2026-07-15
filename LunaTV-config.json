@@ -24,11 +24,6 @@
       "api": "https://subocaiji.com/api.php/provide/vod/",
       "detail": "https://subocaiji.com"
     },
-    "api.wwzy.tv": {
-      "name": "旺旺点播",
-      "api": "https://api.wwzy.tv/api.php/provide/vod/",
-      "detail": "https://api.wwzy.tv"
-    },
     "aosikazy6.com": {
       "name": "奥斯卡备用",
       "api": "https://aosikazy6.com/api.php/provide/vod/",
@@ -178,11 +173,6 @@
       "name": "无尽",
       "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=detail",
       "detail": "https://api.wujinapi.me"
-    },
-    "caiji.maotaizy.cc": {
-      "name": "茅台",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
-      "detail": "https://caiji.maotaizy.cc"
     },
     "www.huyaapi.com": {
       "name": "虎牙采集",
@@ -414,6 +404,11 @@
       "api": "https://www.t5dy.com/api.php/provide/vod/",
       "detail": "https://www.t5dy.com"
     },
+    "www.zg5166.com": {
+      "name": "极速影院",
+      "api": "https://www.zg5166.com/api.php/provide/vod/",
+      "detail": "https://www.zg5166.com"
+    },
     "www.ketv.cc": {
       "name": "可视影院",
       "api": "https://www.ketv.cc/api.php/provide/vod/",
@@ -519,6 +514,11 @@
       "api": "http://ys04-dns.lwgzs.cn/api.php/provide/vod/",
       "detail": "http://ys04-dns.lwgzs.cn"
     },
+    "json.xgbbk8.com": {
+      "name": "杏吧资源",
+      "api": "https://json.xgbbk8.com/api.php/provide/vod/",
+      "detail": "https://json.xgbbk8.com"
+    },
     "www.jmvod.com": {
       "name": "江门影院",
       "api": "https://www.jmvod.com/api.php/provide/vod/",
@@ -578,6 +578,11 @@
       "name": "索尼索尼",
       "api": "https://suonizy.net/api.php/provide/vod/",
       "detail": "https://suonizy.net"
+    },
+    "aosikazy3.com": {
+      "name": "奥斯卡",
+      "api": "https://aosikazy3.com/api.php/provide/vod/",
+      "detail": "https://aosikazy3.com"
     },
     "caiji.diyizy.net": {
       "name": "第一资源",
@@ -674,11 +679,6 @@
       "api": "https://niuniuzy6.com/api.php/provide/vod",
       "detail": "https://niuniuzy6.com"
     },
-    "mtzy.tv": {
-      "name": "MX-茅台",
-      "api": "https://mtzy.tv/api.php/provide/vod",
-      "detail": "https://mtzy.tv"
-    },
     "cdn.dzzyapi.com": {
       "name": "大众",
       "api": "https://cdn.dzzyapi.com/api.php/provide/vod/?ac=list",
@@ -724,15 +724,15 @@
       "api": "https://caiji.xgzyapi.com/api.php/provide/vod/",
       "detail": "https://caiji.xgzyapi.com"
     },
-    "wwzy.tv": {
-      "name": "旺旺短剧",
-      "api": "https://wwzy.tv/api.php/provide/vod/",
-      "detail": "https://wwzy.tv"
-    },
     "www.btsjd.com": {
       "name": "南瓜影院",
       "api": "https://www.btsjd.com/api.php/provide/vod/",
       "detail": "https://www.btsjd.com"
+    },
+    "aosikazy4.com": {
+      "name": "奥斯卡1",
+      "api": "https://aosikazy4.com/api.php/provide/vod",
+      "detail": "https://aosikazy4.com"
     },
     "jipinvip1.com": {
       "name": "极品资源",
@@ -833,6 +833,11 @@
       "name": "暖TV",
       "api": "https://www.nuantv.net/api.php/provide/vod/",
       "detail": "https://www.nuantv.net"
+    },
+    "aosikazy1.com": {
+      "name": "奥斯",
+      "api": "https://aosikazy1.com/api.php/provide/vod/?ac=list",
+      "detail": "https://aosikazy1.com"
     },
     "api.wujinwszy.net": {
       "name": "无尽",
