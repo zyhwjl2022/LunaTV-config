@@ -159,6 +159,11 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "detail": "https://api.apibdzy.com"
     },
+    "zy.xiaomaomi.cc": {
+      "name": "小猫咪",
+      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod",
+      "detail": "https://zy.xiaomaomi.cc"
+    },
     "dyttzyw.com": {
       "name": "电影天堂",
       "api": "http://dyttzyw.com/api.php/provide/vod/?ac=list",
@@ -619,16 +624,6 @@
       "api": "https://upcoming.khex.cn/api.php/provide/vod/",
       "detail": "https://upcoming.khex.cn"
     },
-    "www.acfuns.net": {
-      "name": "acfun",
-      "api": "https://www.acfuns.net/api.php/provide/vod/",
-      "detail": "https://www.acfuns.net"
-    },
-    "zjuba.vip": {
-      "name": "追剧吧",
-      "api": "https://zjuba.vip/api.php/provide/vod/",
-      "detail": "https://zjuba.vip"
-    },
     "www.okdy88.com": {
       "name": "OK电影1",
       "api": "https://www.okdy88.com/api.php/provide/vod/",
@@ -653,6 +648,11 @@
       "name": "247",
       "api": "https://www.jiudianzhibo.com/api.php/provide/vod",
       "detail": "https://www.jiudianzhibo.com"
+    },
+    "38.76.202.248:8200": {
+      "name": "兑换资源",
+      "api": "http://38.76.202.248:8200/api.php/provide/vod/",
+      "detail": "http://38.76.202.248:8200"
     },
     "www.xckyy.com": {
       "name": "星辰影院3",
@@ -724,11 +724,6 @@
       "api": "https://caiji.xgzyapi.com/api.php/provide/vod/",
       "detail": "https://caiji.xgzyapi.com"
     },
-    "98zy.vip": {
-      "name": "98资源",
-      "api": "https://98zy.vip/api.php/provide/vod/",
-      "detail": "https://98zy.vip"
-    },
     "www.btsjd.com": {
       "name": "南瓜影院",
       "api": "https://www.btsjd.com/api.php/provide/vod/",
@@ -774,6 +769,11 @@
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod/",
       "detail": "https://www.iqiyizyapi.com"
     },
+    "www.97hanjuw.com": {
+      "name": "爱韩剧",
+      "api": "https://www.97hanjuw.com/api.php/provide/vod/",
+      "detail": "https://www.97hanjuw.com"
+    },
     "post.cfysoft.cc": {
       "name": "超快",
       "api": "https://post.cfysoft.cc/api.php/provide/vod",
@@ -803,6 +803,11 @@
       "name": "阿里影院",
       "api": "https://www.alivod.com/api.php/provide/vod/",
       "detail": "https://www.alivod.com"
+    },
+    "www.cupfox.lol": {
+      "name": "茶杯狐",
+      "api": "https://www.cupfox.lol/api.php/provide/vod/",
+      "detail": "https://www.cupfox.lol"
     },
     "www.660f.com": {
       "name": "660F影视",
