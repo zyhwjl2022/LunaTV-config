@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 tvg-name="KIX" tvg-id="3399" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="国际-其他", KIX
-https://epg.pm/stream/e4a2fd716a50af51c41e15274c67bae22baaeb93d5d78a4cbe2d02ef496f1440.m3u8
+#EXTINF:-1 tvg-name="NewsWorld" tvg-id="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NewsWorld.png" group-title="国际-新闻" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
