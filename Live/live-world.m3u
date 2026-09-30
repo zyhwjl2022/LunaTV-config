@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="国际-新闻", BBC Earth
 http://57.128.231.171:8080/307/index.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCearth" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="国际-新闻", BBC Earth
-https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCEarth" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20Earth.webp" group-title="国际-新闻", BBC Earth
-https://migu.yang-1989.xyz/comp/jxwgtt.m3u8?token=6e2e4238f3e435919b765dd268fe00070e9ae1a4ed99351c
 #EXTINF:-1 tvg-name="BBC Earth US" tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="国际-新闻", BBC Earth US
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-id="Thrill" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Thrill.png" group-title="国际-其他", Thrill
+https://rust.946985.filegear-sg.me/proxy/3199b157ac4b64d5?token=tgJerryfeng
