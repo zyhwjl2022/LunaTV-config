@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="国际-新闻", BBC Earth
+http://57.128.231.171:8080/307/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCearth" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="国际-新闻", BBC Earth
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCEarth" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20Earth.webp" group-title="国际-新闻", BBC Earth
+https://migu.yang-1989.xyz/comp/3vfvb3.m3u8?token=76ac16f47671ce18e933867f4495c76039756bbb90d8e458
 #EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-id="3399" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="国际-其他", KIX
+https://epg.pm/stream/90927778fb8fbf01c47a648867ade2e578e129a51fbc1288d21c2687f5aa2c6a.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-id="3399" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="国际-其他", KIX
+https://epg.pm/stream/e4a2fd716a50af51c41e15274c67bae22baaeb93d5d78a4cbe2d02ef496f1440.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-id="3941" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509050152790002_17.jpg" group-title="国际-其他", Thrill
+https://epg.pm/stream/ea930fcab8d9c2ea9ef7002c2b18185b1f00a7d0a792e21648c5b47f20db8117.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-id="Thrill" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Thrill.png" group-title="国际-其他", Thrill
+https://rust.946985.filegear-sg.me/proxy/3199b157ac4b64d5?token=tgJerryfeng
