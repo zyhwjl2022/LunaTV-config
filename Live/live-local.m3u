@@ -3,16 +3,6 @@
 http://gcw.bdcdn.shoujiduoduo.com/v/190318/114d1ca4f536bc0b172ceb9ddb07eb36.mp4
 #EXTINF:-1 tvg-name="BTV北京" tvg-logo="https://live.fanmingming.com/tv/BTV%E5%8C%97%E4%BA%AC.png" group-title="地方-北京", BTV北京
 http://110.40.170.5:8890/fd/live_iptv.php?id=666&token=sd6fff15fy
-#EXTINF:-1 tvg-name="FM103.2 经济广播" tvg-id="FM103.2经济广播" tvg-logo="https://live.lizanyang.top/radio/河南经济广播.png" group-title="地方-河南", FM103.2 经济广播
-https://stream.hndt.com/live/jingji/playlist.m3u8
-#EXTINF:-1 tvg-name="FM104.1 交通广播" tvg-id="FM104.1交通广播" tvg-logo="https://live.lizanyang.top/radio/河南经济广播.png" group-title="地方-河南", FM104.1 交通广播
-https://stream.hndt.com/live/jiaotong/playlist.m3u8
-#EXTINF:-1 tvg-name="FM95.5 新闻广播" tvg-id="FM95.5新闻广播" tvg-logo="https://live.lizanyang.top/radio/河南新闻广播.png" group-title="地方-河南", FM95.5 新闻广播
-https://stream.hndt.com/live/xinwen/playlist.m3u8
-#EXTINF:-1 tvg-name="FM97.6 戏曲广播" tvg-id="FM97.6戏曲广播" tvg-logo="https://live.lizanyang.top/radio/河南戏曲广播.png" group-title="地方-河南", FM97.6 戏曲广播
-https://stream.hndt.com/live/yule/playlist.m3u8
-#EXTINF:-1 tvg-name="FM99.9 旅游广播" tvg-id="FM99.9旅游广播" tvg-logo="https://live.lizanyang.top/radio/私家车999.png" group-title="地方-河南", FM99.9 旅游广播
-https://stream.hndt.com/live/sijiache/playlist.m3u8
 #EXTINF:-1 tvg-name="《秦香莲》方素珍、侯庆祥、李春景河南省团" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E3%80%8A%E7%A7%A6%E9%A6%99%E8%8E%B2%E3%80%8B%E6%96%B9%E7%B4%A0%E7%8F%8D%E3%80%81%E4%BE%AF%E5%BA%86%E7%A5%A5%E3%80%81%E6%9D%8E%E6%98%A5%E6%99%AF%E6%B2%B3%E5%8D%97%E7%9C%81%E5%9B%A2.png" group-title="地方-河南", 《秦香莲》方素珍、侯庆祥、李春景河南省团
 http://gcw.bdcdn.shoujiduoduo.com/v/190907/9de92127ec2567101234d761b31c1a66.mp4
 #EXTINF:-1 tvg-name="上海G1503东大道" tvg-id="上海G1503东大道" tvg-logo="https://epg.112114.xyz/logo/上海G1503东大道.png" group-title="地方-上海", 上海G1503东大道
@@ -35,12 +25,16 @@ https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e83
 https://live.264788.xyz/channel/shanghaijiaoyu?streamid=b02bea090da12acecb8361a581676210&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上海新四平公路入口" tvg-id="上海新四平公路入口" group-title="地方-吉林", 上海新四平公路入口
 https://rvsh.jtw.sh.gov.cn/live/310115a4-3d7c-4a7d-82dc-71fd4553e078_sub/index.m3u8?t=1900560585&k=218e880c2cf83875
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="上海新闻综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/325/202512311824_5100001716_H32_1080.webp" group-title="地方-上海", 上海新闻综合
-http://47.108.115.255:34010/651632657
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方-上海", 上海新闻综合
+http://110.40.170.5:8890/fd/live_iptv.php?id=50&token=sd6fff15fy
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="上海新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海新闻综合.png" group-title="地方-上海", 上海新闻综合
+http://121.4.119.13:80/651632657
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="上海新闻综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海新闻综合.png" group-title="地方-上海", 上海新闻综合
+http://222.213.105.65:7788/651632657
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-id="migu_651632657" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/325/202512311824_5100001716_H32_1080.webp" group-title="地方-上海", 上海新闻综合
 http://47.119.24.76:59093/stream/proxy/migu_651632657.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-id="上海新闻综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/325/202512311824_5100001716_H32_1080.webp" group-title="地方-上海" svg-id="上海新闻综合" svg-name="上海新闻综合", 上海新闻综合
-http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=20261006034800330dd5fc76f84be89a232438c666056e&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20261006034800&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034800&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5eeb8f369b872d4476ee8cf6e1a715d9&ddCalcu=95dee5e01b1780af13e669fbc887e2ed6474
+http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=202610070348021aadf14485864f78a8b8c19b7b90501c&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20261007034802&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034802&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=008c3c5b4b8fa82d1e8764935e7cc138&ddCalcu=8030e180cc1c307ce55b349b486f7a88e21d
 #EXTINF:-1 tvg-name="上海沪南公路1" tvg-id="上海沪南公路1" group-title="地方-上海", 上海沪南公路1
 https://rvsh.jtw.sh.gov.cn/live/310115a4-3d7c-4a7d-82dc-71fd4553e045_sub/index.m3u8?t=1900560684&k=62ec9977412e0d5a
 #EXTINF:-1 tvg-name="上海沪南公路2" tvg-id="上海沪南公路2" group-title="地方-上海", 上海沪南公路2
@@ -60,11 +54,13 @@ https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="上海第一财经" tvg-id="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png" group-title="地方-上海", 上海第一财经
 http://110.40.170.5:8890/fd/live_iptv.php?id=52&token=sd6fff15fy
 #EXTINF:-1 tvg-name="上海第一财经" tvg-id="上海第一财经" tvg-logo="https://tb.zbds.top/logo/上海第一财经.png" group-title="地方-上海", 上海第一财经
-http://222.213.105.65:7788/608780988
+http://121.4.119.13:80/608780988
+#EXTINF:-1 tvg-name="上海第一财经" tvg-id="上海第一财经" tvg-logo="https://tb.zbds.top/logo/上海第一财经.png" group-title="地方-上海", 上海第一财经
+http://219.140.6.156:1234/608780988
 #EXTINF:-1 tvg-name="上海第一财经" tvg-id="migu_608780988" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/008/312/202209271630_2201008312_H32_1080.webp" group-title="地方-上海", 上海第一财经
 http://47.119.24.76:59093/stream/proxy/migu_608780988.m3u8
 #EXTINF:-1 tvg-name="上海第一财经" tvg-id="上海第一财经" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/008/312/202209271630_2201008312_H32_1080.webp" group-title="地方-上海" svg-id="上海第一财经" svg-name="上海第一财经", 上海第一财经
-http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20261006034802c0e3b60f4af945a1999ba67549cc0e47&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261006034802&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034802&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1decff44f77c78eb06e88babbd6eef55&ddCalcu=515defe0ec8ef06fd4b4bfa7b78c87e86e0b
+http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20261007034803398b69d29631453ebbd58b4e7eb1788d&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261007034803&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034803&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a2827f4d1f9eecb77889b3ad44c94be9&ddCalcu=9ae2eb80428970cf444dd1af39be9e8c8b77
 #EXTINF:-1 tvg-name="上海第一财经" tvg-id="上海第一财经" tvg-logo="https://tb.zbds.top/logo/上海第一财经.png" group-title="地方-上海", 上海第一财经
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="上海红美丽" tvg-id="上海红美丽" tvg-logo="https://tv-res.pages.dev/logo/上海红美丽.png" group-title="地方-上海", 上海红美丽
@@ -81,60 +77,90 @@ https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f79
 https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="上海长三角之声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%8A%E6%B5%B7%E9%95%BF%E4%B8%89%E8%A7%92%E4%B9%8B%E5%A3%B0.png" group-title="地方-上海", 上海长三角之声
 https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
-#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 解说 15:20" tvg-id="中乙上海赛更达VS温州俱乐部解说15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 解说 15:20
+#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 全场回放 15:20" tvg-id="中乙上海赛更达VS温州俱乐部全场回放15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 全场回放 15:20
+http://47.108.115.255:34010/968156596
+#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 解说 15:20" tvg-id="上海赛更达VS温州俱乐部" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 解说 15:20
+http://110.40.170.5:5908/df6712266/968086117
+#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 解说 15:20" tvg-id="上海赛更达VS温州俱乐部" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 解说 15:20
+http://113.119.39.124:1234/968086117
+#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 解说 15:20" tvg-id="上海赛更达VS温州俱乐部" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 解说 15:20
 http://121.4.119.13:80/968086117
-#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 解说 15:20" tvg-id="中乙上海赛更达VS温州俱乐部解说15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 解说 15:20
+#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 解说 15:20" tvg-id="上海赛更达VS温州俱乐部" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 解说 15:20
 http://219.140.6.156:1234/968086117
-#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 解说 15:20" tvg-id="中乙上海赛更达VS温州俱乐部解说15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 解说 15:20
-http://220.176.53.157:7788/968086117
-#EXTINF:-1 tvg-name="中乙 北京理工VS成都蓉城希拉谷 解说 15:20" tvg-id="中乙北京理工VS成都蓉城希拉谷解说15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-北京", 中乙 北京理工VS成都蓉城希拉谷 解说 15:20
+#EXTINF:-1 tvg-name="中乙 上海赛更达VS温州俱乐部 解说 15:20" tvg-id="上海赛更达VS温州俱乐部" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 上海赛更达VS温州俱乐部 解说 15:20
+http://222.213.105.65:7788/968086117
+#EXTINF:-1 tvg-name="中乙 北京理工VS成都蓉城希拉谷 全场回放 15:20" tvg-id="中乙北京理工VS成都蓉城希拉谷全场回放15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-北京", 中乙 北京理工VS成都蓉城希拉谷 全场回放 15:20
+http://47.108.115.255:34010/968157518
+#EXTINF:-1 tvg-name="中乙 北京理工VS成都蓉城希拉谷 解说 15:20" tvg-id="北京理工VS成都蓉城希拉谷" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-北京", 中乙 北京理工VS成都蓉城希拉谷 解说 15:20
+http://110.40.170.5:5908/df6712266/968086120
+#EXTINF:-1 tvg-name="中乙 北京理工VS成都蓉城希拉谷 解说 15:20" tvg-id="北京理工VS成都蓉城希拉谷" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-北京", 中乙 北京理工VS成都蓉城希拉谷 解说 15:20
+http://113.119.39.124:1234/968086120
+#EXTINF:-1 tvg-name="中乙 北京理工VS成都蓉城希拉谷 解说 15:20" tvg-id="北京理工VS成都蓉城希拉谷" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-北京", 中乙 北京理工VS成都蓉城希拉谷 解说 15:20
 http://121.4.119.13:80/968086120
-#EXTINF:-1 tvg-name="中乙 北京理工VS成都蓉城希拉谷 解说 15:20" tvg-id="中乙北京理工VS成都蓉城希拉谷解说15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-北京", 中乙 北京理工VS成都蓉城希拉谷 解说 15:20
-http://219.140.6.156:1234/968086120
-#EXTINF:-1 tvg-name="中乙 北京理工VS成都蓉城希拉谷 解说 15:20" tvg-id="中乙北京理工VS成都蓉城希拉谷解说15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-北京", 中乙 北京理工VS成都蓉城希拉谷 解说 15:20
-http://220.176.53.157:7788/968086120
-#EXTINF:-1 tvg-name="中乙 北京理工VS成都蓉城希拉谷 解说 15:20" tvg-id="中乙北京理工VS成都蓉城希拉谷解说15:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-北京", 中乙 北京理工VS成都蓉城希拉谷 解说 15:20
-http://47.108.115.255:34010/968086120
+#EXTINF:-1 tvg-name="中乙 广东铭途VS大连英博B队 全场回放 19:20" tvg-id="中乙广东铭途VS大连英博B队全场回放19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 广东铭途VS大连英博B队 全场回放 19:20
+http://47.108.115.255:34010/968160830
 #EXTINF:-1 tvg-name="中乙 广东铭途VS大连英博B队 解说 19:20" tvg-id="广东铭途VS大连英博B队" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 广东铭途VS大连英博B队 解说 19:20
-http://110.40.170.5:5908/df6712266/968086139
-#EXTINF:-1 tvg-name="中乙 广东铭途VS大连英博B队 解说 19:20" tvg-id="中乙广东铭途VS大连英博B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 广东铭途VS大连英博B队 解说 19:20
-http://116.237.170.51:7788/968086139
-#EXTINF:-1 tvg-name="中乙 广东铭途VS大连英博B队 解说 19:20" tvg-id="中乙广东铭途VS大连英博B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 广东铭途VS大连英博B队 解说 19:20
+http://113.119.39.124:1234/968086139
+#EXTINF:-1 tvg-name="中乙 广东铭途VS大连英博B队 解说 19:20" tvg-id="广东铭途VS大连英博B队" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 广东铭途VS大连英博B队 解说 19:20
 http://121.4.119.13:80/968086139
-#EXTINF:-1 tvg-name="中乙 广东铭途VS大连英博B队 解说 19:20" tvg-id="中乙广东铭途VS大连英博B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 广东铭途VS大连英博B队 解说 19:20
-http://219.140.6.156:1234/968086139
-#EXTINF:-1 tvg-name="中乙 广东铭途VS大连英博B队 解说 19:20" tvg-id="中乙广东铭途VS大连英博B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 广东铭途VS大连英博B队 解说 19:20
-http://222.213.105.65:7788/968086139
-#EXTINF:-1 tvg-name="中乙 广东铭途VS大连英博B队 解说 19:20" tvg-id="中乙广东铭途VS大连英博B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 广东铭途VS大连英博B队 解说 19:20
-http://47.108.115.255:34010/968086139
 #EXTINF:-1 tvg-name="中乙 杭州临平吴越VS山西崇德荣海 解说 19:20" tvg-id="杭州临平吴越VS山西崇德荣海" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山西", 中乙 杭州临平吴越VS山西崇德荣海 解说 19:20
 http://110.40.170.5:5908/df6712266/968086134
-#EXTINF:-1 tvg-name="中乙 杭州临平吴越VS山西崇德荣海 解说 19:20" tvg-id="中乙杭州临平吴越VS山西崇德荣海解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山西", 中乙 杭州临平吴越VS山西崇德荣海 解说 19:20
-http://116.237.170.51:7788/968086134
-#EXTINF:-1 tvg-name="中乙 杭州临平吴越VS山西崇德荣海 解说 19:20" tvg-id="中乙杭州临平吴越VS山西崇德荣海解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山西", 中乙 杭州临平吴越VS山西崇德荣海 解说 19:20
+#EXTINF:-1 tvg-name="中乙 杭州临平吴越VS山西崇德荣海 解说 19:20" tvg-id="杭州临平吴越VS山西崇德荣海" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山西", 中乙 杭州临平吴越VS山西崇德荣海 解说 19:20
 http://121.4.119.13:80/968086134
-#EXTINF:-1 tvg-name="中乙 杭州临平吴越VS山西崇德荣海 解说 19:20" tvg-id="中乙杭州临平吴越VS山西崇德荣海解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山西", 中乙 杭州临平吴越VS山西崇德荣海 解说 19:20
-http://220.176.53.157:7788/968086134
-#EXTINF:-1 tvg-name="中乙 杭州临平吴越VS山西崇德荣海 解说 19:20" tvg-id="中乙杭州临平吴越VS山西崇德荣海解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山西", 中乙 杭州临平吴越VS山西崇德荣海 解说 19:20
-http://222.213.105.65:7788/968086134
-#EXTINF:-1 tvg-name="中乙 杭州临平吴越VS山西崇德荣海 解说 19:20" tvg-id="中乙杭州临平吴越VS山西崇德荣海解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山西", 中乙 杭州临平吴越VS山西崇德荣海 解说 19:20
-http://47.108.115.255:34010/968086134
-#EXTINF:-1 tvg-name="中乙 深圳二零二八VS山东泰山B队 解说 19:20" tvg-id="中乙深圳二零二八VS山东泰山B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山东", 中乙 深圳二零二八VS山东泰山B队 解说 19:20
-http://219.140.6.156:1234/968086142
-#EXTINF:-1 tvg-name="中乙 深圳二零二八VS山东泰山B队 解说 19:20" tvg-id="中乙深圳二零二八VS山东泰山B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山东", 中乙 深圳二零二八VS山东泰山B队 解说 19:20
-http://47.108.115.255:34010/968086142
+#EXTINF:-1 tvg-name="中乙 江西庐山VS大连可为 解说 19:20" tvg-id="中乙江西庐山VS大连可为解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 江西庐山VS大连可为 解说 19:20
+http://113.119.39.124:1234/968086154
+#EXTINF:-1 tvg-name="中乙 江西庐山VS大连可为 解说 19:20" tvg-id="中乙江西庐山VS大连可为解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 江西庐山VS大连可为 解说 19:20
+http://121.4.119.13:80/968086154
+#EXTINF:-1 tvg-name="中乙 江西庐山VS大连可为 解说 19:20" tvg-id="中乙江西庐山VS大连可为解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 江西庐山VS大连可为 解说 19:20
+http://222.213.105.65:7788/968086154
+#EXTINF:-1 tvg-name="中乙 江西庐山VS大连可为 解说 19:20" tvg-id="中乙江西庐山VS大连可为解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-辽宁", 中乙 江西庐山VS大连可为 解说 19:20
+http://47.108.115.255:34010/968086154
+#EXTINF:-1 tvg-name="中乙 深圳二零二八VS山东泰山B队 解说 19:20" tvg-id="深圳二零二八VS山东泰山B队" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山东", 中乙 深圳二零二八VS山东泰山B队 解说 19:20
+http://113.119.39.124:1234/968086142
+#EXTINF:-1 tvg-name="中乙 深圳二零二八VS山东泰山B队 解说 19:20" tvg-id="深圳二零二八VS山东泰山B队" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山东", 中乙 深圳二零二八VS山东泰山B队 解说 19:20
+http://121.4.119.13:80/968086142
+#EXTINF:-1 tvg-name="中乙 深圳二零二八VS山东泰山B队 解说 19:20" tvg-id="深圳二零二八VS山东泰山B队" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-山东", 中乙 深圳二零二八VS山东泰山B队 解说 19:20
+http://222.213.105.65:7788/968086142
 #EXTINF:-1 tvg-name="中乙 湖北青年星VS兰州陇原竞技 解说 16:50" tvg-id="湖北青年星VS兰州陇原竞技" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-湖北", 中乙 湖北青年星VS兰州陇原竞技 解说 16:50
-http://110.40.170.5:5908/df6712266/968086129
-#EXTINF:-1 tvg-name="中乙 湖北青年星VS兰州陇原竞技 解说 16:50" tvg-id="中乙湖北青年星VS兰州陇原竞技解说16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-湖北", 中乙 湖北青年星VS兰州陇原竞技 解说 16:50
 http://121.4.119.13:80/968086129
-#EXTINF:-1 tvg-name="中乙 湖北青年星VS兰州陇原竞技 解说 16:50" tvg-id="中乙湖北青年星VS兰州陇原竞技解说16:50" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-湖北", 中乙 湖北青年星VS兰州陇原竞技 解说 16:50
-http://220.176.53.157:7788/968086129
-#EXTINF:-1 tvg-name="中乙 贵州贵阳竞技VS上海海港B队 解说 19:20" tvg-id="中乙贵州贵阳竞技VS上海海港B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 贵州贵阳竞技VS上海海港B队 解说 19:20
+#EXTINF:-1 tvg-name="中乙 贵州贵阳竞技VS上海海港B队 解说 19:20" tvg-id="贵州贵阳竞技VS上海海港B队" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 贵州贵阳竞技VS上海海港B队 解说 19:20
+http://110.40.170.5:5908/df6712266/968086136
+#EXTINF:-1 tvg-name="中乙 贵州贵阳竞技VS上海海港B队 解说 19:20" tvg-id="贵州贵阳竞技VS上海海港B队" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 贵州贵阳竞技VS上海海港B队 解说 19:20
 http://121.4.119.13:80/968086136
-#EXTINF:-1 tvg-name="中乙 贵州贵阳竞技VS上海海港B队 解说 19:20" tvg-id="中乙贵州贵阳竞技VS上海海港B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 贵州贵阳竞技VS上海海港B队 解说 19:20
-http://220.176.53.157:7788/968086136
-#EXTINF:-1 tvg-name="中乙 贵州贵阳竞技VS上海海港B队 解说 19:20" tvg-id="中乙贵州贵阳竞技VS上海海港B队解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png" group-title="地方-上海", 中乙 贵州贵阳竞技VS上海海港B队 解说 19:20
-http://222.213.105.65:7788/968086136
+#EXTINF:-1 tvg-name="中甲 佛山南狮VS广西恒宸 解说 19:20" tvg-id="中甲佛山南狮VS广西恒宸解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-广东", 中甲 佛山南狮VS广西恒宸 解说 19:20
+http://121.4.119.13:80/968047630
+#EXTINF:-1 tvg-name="中甲 佛山南狮VS广西恒宸 解说 19:20" tvg-id="中甲佛山南狮VS广西恒宸解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-广东", 中甲 佛山南狮VS广西恒宸 解说 19:20
+http://219.140.6.156:1234/968047630
+#EXTINF:-1 tvg-name="中甲 佛山南狮VS广西恒宸 解说 19:20" tvg-id="中甲佛山南狮VS广西恒宸解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-广东", 中甲 佛山南狮VS广西恒宸 解说 19:20
+http://222.213.105.65:7788/968047630
+#EXTINF:-1 tvg-name="中甲 佛山南狮VS广西恒宸 赛场原声 19:20" tvg-id="佛山南狮VS广西恒宸" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-广东", 中甲 佛山南狮VS广西恒宸 赛场原声 19:20
+http://110.40.170.5:5908/df6712266/968047660
+#EXTINF:-1 tvg-name="中甲 佛山南狮VS广西恒宸 赛场原声 19:20" tvg-id="中甲佛山南狮VS广西恒宸赛场原声19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-广东", 中甲 佛山南狮VS广西恒宸 赛场原声 19:20
+http://113.119.39.124:1234/968047660
+#EXTINF:-1 tvg-name="中甲 佛山南狮VS广西恒宸 赛场原声 19:20" tvg-id="中甲佛山南狮VS广西恒宸赛场原声19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-广东", 中甲 佛山南狮VS广西恒宸 赛场原声 19:20
+http://121.4.119.13:80/968047660
+#EXTINF:-1 tvg-name="中甲 佛山南狮VS广西恒宸 赛场原声 19:20" tvg-id="中甲佛山南狮VS广西恒宸赛场原声19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-广东", 中甲 佛山南狮VS广西恒宸 赛场原声 19:20
+http://219.140.6.156:1234/968047660
+#EXTINF:-1 tvg-name="中甲 佛山南狮VS广西恒宸 赛场原声 19:20" tvg-id="中甲佛山南狮VS广西恒宸赛场原声19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-广东", 中甲 佛山南狮VS广西恒宸 赛场原声 19:20
+http://222.213.105.65:7788/968047660
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 解说 19:20" tvg-id="南京城市VS陕西联合" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 解说 19:20
+http://110.40.170.5:5908/df6712266/968047617
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 解说 19:20" tvg-id="中甲南京城市VS陕西联合解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 解说 19:20
+http://113.119.39.124:1234/968047617
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 解说 19:20" tvg-id="中甲南京城市VS陕西联合解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 解说 19:20
+http://121.4.119.13:80/968047617
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 解说 19:20" tvg-id="中甲南京城市VS陕西联合解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 解说 19:20
+http://219.140.6.156:1234/968047617
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 解说 19:20" tvg-id="中甲南京城市VS陕西联合解说19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 解说 19:20
+http://222.213.105.65:7788/968047617
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 赛场原声 19:20" tvg-id="南京城市VS陕西联合" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 赛场原声 19:20
+http://110.40.170.5:5908/df6712266/968047626
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 赛场原声 19:20" tvg-id="中甲南京城市VS陕西联合赛场原声19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 赛场原声 19:20
+http://121.4.119.13:80/968047626
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 赛场原声 19:20" tvg-id="中甲南京城市VS陕西联合赛场原声19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 赛场原声 19:20
+http://219.140.6.156:1234/968047626
+#EXTINF:-1 tvg-name="中甲 南京城市VS陕西联合 赛场原声 19:20" tvg-id="中甲南京城市VS陕西联合赛场原声19:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="地方-江苏", 中甲 南京城市VS陕西联合 赛场原声 19:20
+http://222.213.105.65:7788/968047626
 #EXTINF:-1 tvg-name="云南丽江冰川" tvg-id="云南丽江冰川" tvg-logo="https://tb.zbds.top/logo/云南丽江冰川.png" group-title="地方-云南", 云南丽江冰川
 https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
 #EXTINF:-1 tvg-name="云南丽江印象实景" tvg-id="云南丽江印象实景" tvg-logo="https://tb.zbds.top/logo/云南丽江印象实景.png" group-title="地方-云南", 云南丽江印象实景
@@ -183,8 +209,6 @@ http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="你好北京" tvg-id="你好北京" tvg-logo="https://tv-res.pages.dev/logo/你好北京.png" group-title="地方-北京", 你好北京
 https://vip.ffzy-play7.com/20230416/22452_5318e52a/index.m3u8
-#EXTINF:-1 tvg-name="信息广播" tvg-id="信息广播" tvg-logo="https://live.lizanyang.top/radio/乐龄105.6.png" group-title="地方-河南", 信息广播
-https://stream.hndt.com/live/leling/playlist.m3u8
 #EXTINF:-1 tvg-name="全本(宁夏秦腔剧院)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%A8%E6%9C%AC%EF%BC%88%E5%AE%81%E5%A4%8F%E7%A7%A6%E8%85%94%E5%89%A7%E9%99%A2%EF%BC%89.png" group-title="地方-宁夏", 全本(宁夏秦腔剧院)
 http://gcw.bdcdn.shoujiduoduo.com/v/190218/1f61dbee5ec4931e277ebd8fde51435b.mp4
 #EXTINF:-1 tvg-name="内蒙古二人台山曲/非物质文化遗产谢谢欣赏" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E4%BA%8C%E4%BA%BA%E5%8F%B0%E5%B1%B1%E6%9B%B2%2F%E9%9D%9E%E7%89%A9%E8%B4%A8%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E8%B0%A2%E8%B0%A2%E6%AC%A3%E8%B5%8F.png" group-title="地方-内蒙古", 内蒙古二人台山曲/非物质文化遗产谢谢欣赏
@@ -211,28 +235,24 @@ https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
 http://110.40.170.5:8890/fd/live_iptv.php?id=730&token=sd6fff15fy
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-id="北京卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/北京卡酷少儿.png" group-title="地方-北京" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 北京卡酷少儿
 http://120.76.248.139/live/bfgd/4200000106.m3u8
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-id="北京卡酷少儿" tvg-logo="https://logo.ifanr.dedyn.io/tv/北京卡酷少儿.png" group-title="地方-北京", 北京卡酷少儿
-http://204.12.221.218:8181/3m1080p/btvkk.m3u8
 #EXTINF:-1 tvg-name="北京城市广播" tvg-id="北京城市广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京城市广播.png" group-title="地方-北京" radio="true", 北京城市广播
 https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
 #EXTINF:-1 tvg-name="北京好音乐" tvg-id="北京好音乐" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京好音乐.png" group-title="地方-北京" radio="true", 北京好音乐
 http://live.xmcdn.com/live/964/64.m3u8
 #EXTINF:-1 tvg-name="北京影视" tvg-id="24" tvg-logo="https://logo.ifanr.dedyn.io/tv/北京影视.png" group-title="地方-北京", 北京影视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv4
+#EXTINF:-1 tvg-name="北京文艺" tvg-id="22" tvg-logo="https://logo.ifanr.dedyn.io/tv/北京文艺.png" group-title="地方-北京", 北京文艺
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv2
 #EXTINF:-1 tvg-name="北京文艺广播" tvg-id="北京文艺广播" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京文艺广播.png" group-title="地方-北京" radio="true", 北京文艺广播
 https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png" group-title="地方-北京", 北京新闻
 http://live.xmcdn.com/live/91/64.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" group-title="地方-北京", 北京新闻
-http://livebjsy.chinamcache.com/live/zb01.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png" group-title="地方-北京", 北京新闻
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png" group-title="地方-北京", 北京新闻
 https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png" group-title="地方-北京", 北京新闻
 https://ls.qingting.fm/live/339/64k.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" group-title="地方-北京", 北京新闻
-https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-id="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB.png" group-title="地方-北京", 北京新闻
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-name="北京生活" tvg-id="北京生活" tvg-logo="https://logo.ifanr.dedyn.io/tv/北京生活.png" group-title="地方-北京", 北京生活
@@ -241,8 +261,6 @@ https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=aud
 http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-name="北京科教" tvg-id="BRTV纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E7%A7%91%E6%95%99.png" group-title="地方-北京", 北京科教
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-id="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方-北京", 北京纪实科教
-http://110.40.170.5:8890/fd/live_iptv.php?id=729&token=sd6fff15fy
 #EXTINF:-1 tvg-name="北京经典969" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E7%BB%8F%E5%85%B8969.png" group-title="地方-北京", 北京经典969
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="北京财经" tvg-id="北京财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F.png" group-title="地方-北京", 北京财经
@@ -283,16 +301,30 @@ https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
 http://110.40.170.5:8890/fd/live_iptv.php?id=5973&token=sd6fff15fy
 #EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://tb.zbds.top/logo/四川科教.png" group-title="地方-四川", 四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99.png" group-title="地方-四川", 四川科教
-http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川综合广播四川之声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E7%BB%BC%E5%90%88%E5%B9%BF%E6%92%AD%E5%9B%9B%E5%B7%9D%E4%B9%8B%E5%A3%B0.png" group-title="地方-四川", 四川综合广播四川之声
 http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
 #EXTINF:-1 tvg-name="四川综合广播四川之声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E7%BB%BC%E5%90%88%E5%B9%BF%E6%92%AD%E5%9B%9B%E5%B7%9D%E4%B9%8B%E5%A3%B0.png" group-title="地方-四川", 四川综合广播四川之声
 https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
 #EXTINF:-1 tvg-name="大上海" tvg-id="大上海" tvg-logo="https://tv-res.pages.dev/logo/大上海.png" group-title="地方-上海", 大上海
 https://vip.ffzy-play6.com/20221126/8327_89044d87/index.m3u8
+#EXTINF:-1 tvg-name="天津公共" group-title="地方-天津", 天津公共
+http://ak.cj022.com:10080/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="天津影视" group-title="地方-天津", 天津影视
+http://ak.cj022.com:10080/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://logo.ifanr.dedyn.io/tv/天津文艺.png" group-title="地方-天津", 天津文艺
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv2
+#EXTINF:-1 tvg-name="天津文艺" group-title="地方-天津", 天津文艺
+http://ak.cj022.com:10080/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://logo.ifanr.dedyn.io/tv/天津新闻.png" group-title="地方-天津", 天津新闻
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv1
+#EXTINF:-1 tvg-name="天津新闻" group-title="地方-天津", 天津新闻
+http://ak.cj022.com:10080/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="天津科教" group-title="地方-天津", 天津科教
+http://ak.cj022.com:10080/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="天津都市" tvg-logo="https://logo.ifanr.dedyn.io/tv/天津都市.png" group-title="地方-天津", 天津都市
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv4
+#EXTINF:-1 tvg-name="天津都市" group-title="地方-天津", 天津都市
+http://ak.cj022.com:10080/hls/5/index.m3u8
 #EXTINF:-1 tvg-name="宁夏新闻广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png" group-title="地方-宁夏", 宁夏新闻广播
 https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="安徽固镇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%9B%BA%E9%95%87%E6%96%B0%E9%97%BB.png" group-title="地方-安徽", 安徽固镇新闻
@@ -311,8 +343,6 @@ http://gcw.bdcdn.shoujiduoduo.com/v/191211/9ed54cfd1c55624e227f28ca40c6a4ab.mp4
 http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="安徽经济广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png" group-title="地方-安徽", 安徽经济广播
 https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
-#EXTINF:-1 tvg-name="安徽黄山卧云峰" tvg-id="黄花城水长城02" group-title="地方-安徽", 安徽黄山卧云峰
-http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 #EXTINF:-1 tvg-name="安徽黟县宏村南湖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E9%BB%9F%E5%8E%BF%E5%AE%8F%E6%9D%91%E5%8D%97%E6%B9%96.png" group-title="地方-安徽", 安徽黟县宏村南湖
 https://gcalic.v.myalicdn.com/gc/wysyxdhp_1/index.m3u8
 #EXTINF:-1 tvg-name="安徽黟县芦村远眺" tvg-id="安徽黟县芦村远眺" tvg-logo="https://tb.zbds.top/logo/安徽黟县芦村远眺.png" group-title="地方-安徽", 安徽黟县芦村远眺
@@ -325,40 +355,32 @@ https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 http://58.57.40.22:9901/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E5%B0%91%E5%84%BF.png" group-title="地方-山东", 山东少儿
 http://110.40.170.5:8890/fd/live_iptv.php?id=233&token=sd6fff15fy
-#EXTINF:-1 tvg-name="山东张店图文" group-title="地方-山东", 山东张店图文
-https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv02.m3u8
-#EXTINF:-1 tvg-name="山东张店综合" group-title="地方-山东", 山东张店综合
-https://jsylivealone302.iqilu.com/zhangdian/zhangdian_tv01.m3u8
 #EXTINF:-1 tvg-name="山东收藏天下" tvg-logo="https://epg.112114.xyz/logo/山东收藏天下.png" group-title="地方-山东" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 山东收藏天下
 http://120.76.248.139/live/bfgd/4200000155.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="地方-山东", 山东教育
+http://110.40.170.5:8890/fd/live_iptv.php?id=293&token=sd6fff15fy
+#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="地方-山东", 山东教育
 http://110.40.170.5:8890/fd/live_iptv.php?id=6206&token=sd6fff15fy
+#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="地方-山东", 山东教育
+http://110.40.170.5:8890/fd/live_iptv.php?id=99&token=sd6fff15fy
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-山东", 山东教育
 http://112.99.195.122:65000/tsfile/live/1035_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="地方-山东", 山东教育
-http://116.237.170.51:7788/609154353
-#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="地方-山东", 山东教育
-http://121.4.119.13:80/609154353
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tv-res.pages.dev/logo/山东教育.png" group-title="地方-山东", 山东教育
 http://183.11.239.36:808/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="地方-山东", 山东教育
-http://220.176.53.157:7788/609154353
-#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="地方-山东", 山东教育
-http://222.213.105.65:7788/609154353
+http://219.140.6.156:1234/609154353
 #EXTINF:-1 tvg-name="山东教育" tvg-id="migu_609154353" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="地方-山东", 山东教育
 http://47.119.24.76:59093/stream/proxy/migu_609154353.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tv-res.pages.dev/logo/山东教育.png" group-title="地方-山东", 山东教育
 http://dassby.qqff.top:99/live/山东教育卫视/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="地方-山东" svg-id="山东教育" svg-name="山东教育", 山东教育
-http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/50/20250915/index.m3u8?msisdn=20261006034826a2bf952e72744ab383d5345dc21c0f78&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20261006034826&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034826&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c0a053ad262bfc8200b857e60e28d8b1&ddCalcu=1cb0e8a0d0985023ea0d62e6725b8fbc0802
+http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/50/20250915/index.m3u8?msisdn=202610070348292f8cbc306499412db6515761a916a463&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20261007034829&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034829&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d06e63eaf3341076663e7116ed4bf151&ddCalcu=1d50e160fe9b6043deea6f131374e1306766
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="地方-山东", 山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-name="山东文旅" tvg-id="山东文旅" tvg-logo="https://logo.ifanr.dedyn.io/tv/山东文旅.png" group-title="地方-山东", 山东文旅
 http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-id="山东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB.png" group-title="地方-山东", 山东新闻
 http://live.xmcdn.com/live/1440/64.m3u8
-#EXTINF:-1 tvg-name="山东曹县新闻" group-title="地方-山东", 山东曹县新闻
-https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
 #EXTINF:-1 tvg-name="山东烟台影视" tvg-logo="http://cc.118138.xyz/tvlogo/山东烟台影视.png" group-title="地方-山东", 山东烟台影视
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 #EXTINF:-1 tvg-name="山东生活" tvg-id="山东生活" tvg-logo="https://logo.ifanr.dedyn.io/tv/山东生活.png" group-title="地方-山东", 山东生活
@@ -368,29 +390,21 @@ http://live.xmcdn.com/live/802/64.m3u8
 #EXTINF:-1 tvg-name="山东生活" tvg-id="山东生活" tvg-logo="https://tb.zbds.top/logo/山东生活.png" group-title="地方-山东", 山东生活
 http://ls.qingting.fm/live/60260.m3u8
 #EXTINF:-1 tvg-name="山东生活" tvg-id="山东生活" tvg-logo="https://tb.zbds.top/logo/山东生活.png" group-title="地方-山东", 山东生活
-http://ls.qingting.fm/live/60260.m3u8$LR•IPV4•2『线路1』
+http://ls.qingting.fm/live/60260.m3u8$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png" group-title="地方-山东", 山东经济广播
 http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png" group-title="地方-山东", 山东经济广播
 https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="https://logo.ifanr.dedyn.io/tv/山东综艺.png" group-title="地方-山东", 山东综艺
 http://58.57.40.22:9901/tsfile/live/1021_1.m3u8
-#EXTINF:-1 tvg-name="山东茌平生活" group-title="地方-山东", 山东茌平生活
-https://jsylivealone302.iqilu.com/live/chiping_tv02.m3u8
-#EXTINF:-1 tvg-name="山东茌平综合" group-title="地方-山东", 山东茌平综合
-https://jsylivealone302.iqilu.com/live/chiping_tv01.m3u8
 #EXTINF:-1 tvg-name="山东青岛艾山天文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E9%9D%92%E5%B2%9B%E8%89%BE%E5%B1%B1%E5%A4%A9%E6%96%87%E5%8F%B0.png" group-title="地方-山东", 山东青岛艾山天文台
 https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-id="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81.png" group-title="地方-山东", 山东齐鲁
 http://110.40.170.5:8890/fd/live_iptv.php?id=232&token=sd6fff15fy
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-id="山东齐鲁" tvg-logo="https://logo.ifanr.dedyn.io/tv/山东齐鲁.png" group-title="地方-山东", 山东齐鲁
 http://123.130.84.106:8154/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-id="山东齐鲁" tvg-logo="https://tv-res.pages.dev/logo/山东齐鲁.png" group-title="地方-山东", 山东齐鲁
-http://123.130.84.106:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-id="山东齐鲁" tvg-logo="https://logo.ifanr.dedyn.io/tv/山东齐鲁.png" group-title="地方-山东", 山东齐鲁
 http://222.134.245.16:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-name="山西文体生活" tvg-id="SX05" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E8%A5%BF%E6%96%87%E4%BD%93%E7%94%9F%E6%B4%BB.png" group-title="地方-山西", 山西文体生活
-http://110.40.170.5:8890/fd/live_iptv.php?id=439&token=sd6fff15fy
 #EXTINF:-1 tvg-name="山西晋剧全本戏大全" tvg-logo="https://live.fanmingming.com/tv/%E5%B1%B1%E8%A5%BF%E6%99%8B%E5%89%A7%E5%85%A8%E6%9C%AC%E6%88%8F%E5%A4%A7%E5%85%A8.png" group-title="地方-山西", 山西晋剧全本戏大全
 http://110.40.170.5:8890/fd/live_iptv.php?id=6207&token=sd6fff15fy
 #EXTINF:-1 tvg-name="山西晋剧全本戏大全" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E6%99%8B%E5%89%A7%E5%85%A8%E6%9C%AC%E6%88%8F%E5%A4%A7%E5%85%A8.png" group-title="地方-山西", 山西晋剧全本戏大全
@@ -409,31 +423,21 @@ http://110.40.170.5:8890/fd/live_iptv.php?id=6210&token=sd6fff15fy
 http://gcw.bdcdn.shoujiduoduo.com/v/190522/10003160.mp4
 #EXTINF:-1 tvg-name="广东 I 韶关综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C+%E2%85%A0+%E9%9F%B6%E5%85%B3%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="地方-广东", 广东 I 韶关综合台
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-#EXTINF:-1 tvg-name="广东4K" tvg-id="广东4K超高清" group-title="地方-广东", 广东4K
-http://183.11.239.36:808/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="广东公共" tvg-id="广东公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-广东", 广东公共
-http://113.95.136.143:9901/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-id="广东嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方-广东", 广东嘉佳卡通
-http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-广东", 广东少儿
-http://113.95.136.143:9901/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E5%B0%91%E5%84%BF.png" group-title="地方-广东", 广东少儿
+http://110.40.170.5:8890/fd/live_iptv.php?id=288&token=sd6fff15fy
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="地方-广东", 广东少儿
 http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="地方-广东", 广东少儿
-http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png" group-title="地方-广东", 广东影视
+http://110.40.170.5:8890/fd/live_iptv.php?id=291&token=sd6fff15fy
 #EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png" group-title="地方-广东", 广东影视
 http://110.40.170.5:8890/fd/live_iptv.php?id=6117&token=sd6fff15fy
-#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-广东", 广东影视
-http://113.95.136.143:9901/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png" group-title="地方-广东", 广东影视
 http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="广东影视" tvg-id="广东影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86.png" group-title="地方-广东", 广东影视
-http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://tv-res.pages.dev/logo/广东新闻.png" group-title="地方-广东", 广东新闻
 http://107.150.60.122/live/gdxwa.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-广东", 广东新闻
-http://113.95.136.143:9901/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东新闻.png" group-title="地方-广东", 广东新闻
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png" group-title="地方-广东", 广东新闻
+http://110.40.170.5:8890/fd/live_iptv.php?id=290&token=sd6fff15fy
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻.png" group-title="地方-广东", 广东新闻
 http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://logo.ifanr.dedyn.io/tv/广东新闻.png" group-title="地方-广东", 广东新闻
 http://173.208.234.146/live/gdxw.m3u8
@@ -457,6 +461,8 @@ http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 https://live.ximalaya.com/radio-first-page-app/live/245/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png" group-title="地方-广东", 广东新闻
 https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" group-title="地方-广东", 广东民生
+http://110.40.170.5:8890/fd/live_iptv.php?id=287&token=sd6fff15fy
 #EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" group-title="地方-广东", 广东民生
 http://120.238.94.82:9901/tsfile/live/1011_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="地方-广东", 广东民生
@@ -471,6 +477,8 @@ http://192.151.150.154/live/gdgg.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东民生" tvg-id="3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东民生.png" group-title="地方-广东", 广东民生
 http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub$LR•3•IPV4『线路3』
+#EXTINF:-1 tvg-name="广东民生" tvg-id="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="地方-广东", 广东民生
+http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东民生" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东民生.png" group-title="地方-广东", 广东民生
 http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub$LR•3•IPV4『线路2』
 #EXTINF:-1 tvg-name="广东汕头小公园中山纪念亭" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E5%B0%8F%E5%85%AC%E5%9B%AD%E4%B8%AD%E5%B1%B1%E7%BA%AA%E5%BF%B5%E4%BA%AD.png" group-title="地方-广东", 广东汕头小公园中山纪念亭
@@ -479,10 +487,8 @@ https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 http://107.150.60.122/live/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-广东", 广东珠江
 http://107.150.60.122/live/gdzja.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-广东", 广东珠江
-http://113.95.136.143:9901/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/410/202607031111_1782985700437_H32_1080.webp" group-title="地方-广东", 广东珠江
-http://121.4.119.13:80/639731952
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png" group-title="地方-广东", 广东珠江
+http://110.40.170.5:8890/fd/live_iptv.php?id=292&token=sd6fff15fy
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://logo.ifanr.dedyn.io/tv/广东珠江.png" group-title="地方-广东", 广东珠江
 http://173.208.234.146/live/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-广东", 广东珠江
@@ -496,7 +502,7 @@ http://192.151.150.154/live/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-广东", 广东珠江
 http://198.204.228.26/live/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/410/202607031111_1782985700437_H32_1080.webp" group-title="地方-广东", 广东珠江
-http://222.213.105.65:7788/639731952
+http://219.140.6.156:1234/639731952
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-广东", 广东珠江
 http://38.75.136.137:98/gslb/dsdqbv/gdzj.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-广东", 广东珠江
@@ -508,7 +514,7 @@ http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东珠江.png" group-title="地方-广东", 广东珠江
 http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$LR•5•IPV4『线路2』
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="地方-广东", 广东珠江
-http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$LR•IPV4•5『线路2』
+http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$LR•IPV4•6『线路1』
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/410/202607031111_1782985700437_H32_1080.webp" group-title="地方-广东", 广东珠江
 http://47.108.115.255:34010/639731952
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="migu_639731952" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/410/202607031111_1782985700437_H32_1080.webp" group-title="地方-广东", 广东珠江
@@ -522,21 +528,15 @@ http://74.91.26.218:82/live/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-广东", 广东珠江
 http://gmxw.7766.org:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/410/202607031111_1782985700437_H32_1080.webp" group-title="地方-广东" svg-id="广东珠江频道" svg-name="广东珠江频道", 广东珠江
-http://gslbmgsplive.miguvideo.com/migu/kailu/szxwzh/50/20250604/index.m3u8?msisdn=20261006034821ff44df2f62574f72a5159ffa2f2aa3b4&mdspid=&spid=600697&netType=0&sid=5910022410&pid=2028597139&timestamp=20261006034821&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731952&ParentNodeID=-99&assertID=5910022410&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034821&promotionId=&mvid=5102012610&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e1fd0b63f8d94845e5727d12995b7164&ddCalcu=4e61e1f07d9b005b96932f18dd79247854e5
+http://gslbmgsplive.miguvideo.com/migu/kailu/szxwzh/50/20250604/index.m3u8?msisdn=2026100703482450fdd65af8ba492e80b767f71b4a5c7b&mdspid=&spid=600697&netType=0&sid=5910022410&pid=2028597139&timestamp=20261007034824&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731952&ParentNodeID=-99&assertID=5910022410&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034824&promotionId=&mvid=5102012610&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8a069dbc61303af812c97749524a9c96&ddCalcu=689aec00969a904d2b5c9641737093ca2f18
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-广东", 广东珠江
 http://live.xmcdn.com/live/252/64.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tv-res.pages.dev/logo/广东珠江.png" group-title="地方-广东", 广东珠江
 https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png" group-title="地方-广东", 广东珠江
-https://rust.946985.filegear-sg.me/proxy/e9accd0be14f1bd7?token=tgJerryfeng
-#EXTINF:-1 tvg-name="广东移动" tvg-id="广东移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-广东", 广东移动
-http://113.95.136.143:9901/tsfile/live/1014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="广东移动" tvg-id="广东移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-广东", 广东移动
 http://183.11.239.36:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="广东移动" tvg-id="广东移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-广东", 广东移动
-http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="广东经济科教" tvg-id="广东经济科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%95%99.png" group-title="地方-广东", 广东经济科教
-http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东经济科教" tvg-id="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/%E5%B9%BF%E4%B8%9C%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%95%99.png" group-title="地方-广东", 广东经济科教
+http://110.40.170.5:8890/fd/live_iptv.php?id=286&token=sd6fff15fy
 #EXTINF:-1 tvg-name="广东音乐之声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0.png" group-title="地方-广东", 广东音乐之声
 https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 #EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西国际.png" group-title="地方-广西", 广西国际
@@ -564,8 +564,6 @@ http://192.151.150.154/live/gxxw.m3u8
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-广西", 广西新闻
 http://198.204.228.26/live/gxxw.m3u8
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-广西", 广西新闻
-http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-广西", 广西新闻
 http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="广西新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西新闻.png" group-title="地方-广西", 广西新闻
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxxw
@@ -585,8 +583,6 @@ https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=7
 #EXTINF:-1 tvg-name="战上海影视老片" tvg-logo="https://live.fanmingming.com/tv/%E6%88%98%E4%B8%8A%E6%B5%B7%E5%BD%B1%E8%A7%86%E8%80%81%E7%89%87.png" group-title="地方-上海", 战上海影视老片
 http://110.40.170.5:8890/fd/live_iptv.php?id=6033&token=sd6fff15fy
-#EXTINF:-1 tvg-name="教育广播" tvg-id="教育广播" tvg-logo="https://live.lizanyang.top/radio/河南教育广播.jpg" group-title="地方-河南", 教育广播
-https://stream.hndt.com/live/jiaoyu/playlist.m3u8
 #EXTINF:-1 tvg-name="新上海滩" tvg-id="新上海滩" tvg-logo="https://tv-res.pages.dev/logo/新上海滩.png" group-title="地方-上海", 新上海滩
 https://vip.ffzy-play.com/20221015/880_937cdc1a/index.m3u8
 #EXTINF:-1 tvg-name="新疆兵团四师可克达拉综合" tvg-logo="https://live.fanmingming.com/tv/%E6%96%B0%E7%96%86%E5%85%B5%E5%9B%A2%E5%9B%9B%E5%B8%88%E5%8F%AF%E5%85%8B%E8%BE%BE%E6%8B%89%E7%BB%BC%E5%90%88.png" group-title="地方-新疆", 新疆兵团四师可克达拉综合
@@ -617,68 +613,50 @@ https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
 https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
 #EXTINF:-1 tvg-name="江苏南京牛首山" tvg-id="江苏南京牛首山" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%97%E4%BA%AC%E7%89%9B%E9%A6%96%E5%B1%B1.png" group-title="地方-江苏", 江苏南京牛首山
 https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="江苏国际" tvg-id="江苏国际" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85.png" group-title="地方-江苏", 江苏国际
+http://110.40.170.5:8890/fd/live_iptv.php?id=58&token=sd6fff15fy
 #EXTINF:-1 tvg-name="江苏国际" tvg-id="江苏国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方-江苏", 江苏国际
 http://121.4.119.13:80/626064674
 #EXTINF:-1 tvg-name="江苏国际" tvg-id="江苏国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方-江苏", 江苏国际
-http://220.176.53.157:7788/626064674
-#EXTINF:-1 tvg-name="江苏国际" tvg-id="江苏国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方-江苏", 江苏国际
-http://47.108.115.255:34010/626064674
+http://222.213.105.65:7788/626064674
 #EXTINF:-1 tvg-name="江苏国际" tvg-id="migu_626064674" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方-江苏", 江苏国际
 http://47.119.24.76:59093/stream/proxy/migu_626064674.m3u8
-#EXTINF:-1 tvg-name="江苏国际" tvg-id="js_jsgj" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方-江苏", 江苏国际
-http://8.136.45.254:3000/js_jsgj/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏国际" tvg-id="江苏国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方-江苏" svg-id="江苏国际" svg-name="江苏国际", 江苏国际
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=202610060348050f8dfcaaa65948129d9ba8ec21bbb918&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20261006034805&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034805&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a8d49621021c057e5bef6291ed750b6c&ddCalcu=ca68ebd004659076d2e11092216cf0e5b75e
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=20261007034807f39efe042ee243b7b7cdf81e3363e8b4&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20261007034807&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034807&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=180e4d77b39a29ffde25ae1b8979a4f4&ddCalcu=41f8e400ae69407d9787bb13e9aa5229efdf
+#EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市频道" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93.png" group-title="地方-江苏", 江苏城市
+http://110.40.170.5:8890/fd/live_iptv.php?id=57&token=sd6fff15fy
 #EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方-江苏", 江苏城市
 http://121.4.119.13:80/626064714
-#EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方-江苏", 江苏城市
-http://219.140.6.156:1234/626064714
-#EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方-江苏", 江苏城市
-http://220.176.53.157:7788/626064714
-#EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方-江苏", 江苏城市
-http://222.213.105.65:7788/626064714
-#EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方-江苏", 江苏城市
-http://47.108.115.255:34010/626064714
 #EXTINF:-1 tvg-name="江苏城市" tvg-id="migu_626064714" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方-江苏", 江苏城市
 http://47.119.24.76:59093/stream/proxy/migu_626064714.m3u8
 #EXTINF:-1 tvg-name="江苏城市" tvg-id="js_jscs" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu2.png" group-title="地方-江苏", 江苏城市
 http://8.136.45.254:3000/js_jscs/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方-江苏" svg-id="江苏城市频道" svg-name="江苏城市频道", 江苏城市
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202610060348048b2574bd240e433983b3f52c09eece50&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20261006034804&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034804&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1ee21d7352858e46794f3b61dd0b6608&ddCalcu=810ee6e0626b100dd7d31562b835f84e9476
-#EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏城市.png" group-title="地方-江苏", 江苏城市
-https://epg.pw/stream/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.m3u8
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202610070348068bc38cbed8984aa6ab9fc55df56399d7&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20261007034806&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034806&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9a2f2129510ce408a3a71697e5719f19&ddCalcu=991aef209f61207152e97591601c7ea430a8
 #EXTINF:-1 tvg-name="江苏张家港民生" group-title="地方-江苏", 江苏张家港民生
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏影视" tvg-id="江苏影视频道" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png" group-title="地方-江苏", 江苏影视
 http://110.40.170.5:8890/fd/live_iptv.php?id=60&token=sd6fff15fy
 #EXTINF:-1 tvg-name="江苏影视" tvg-id="江苏影视频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="地方-江苏", 江苏影视
-http://116.237.170.51:7788/626064697
+http://219.140.6.156:1234/626064697
 #EXTINF:-1 tvg-name="江苏影视" tvg-id="江苏影视频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="地方-江苏", 江苏影视
-http://121.4.119.13:80/626064697
-#EXTINF:-1 tvg-name="江苏影视" tvg-id="江苏影视频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="地方-江苏", 江苏影视
-http://47.108.115.255:34010/626064697
+http://222.213.105.65:7788/626064697
 #EXTINF:-1 tvg-name="江苏影视" tvg-id="migu_626064697" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="地方-江苏", 江苏影视
 http://47.119.24.76:59093/stream/proxy/migu_626064697.m3u8
-#EXTINF:-1 tvg-name="江苏影视" tvg-id="js_jsys" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu4.png" group-title="地方-江苏", 江苏影视
-http://8.136.45.254:3000/js_jsys/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏影视" tvg-id="江苏影视频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="地方-江苏" svg-id="江苏影视频道" svg-name="江苏影视频道", 江苏影视
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=2026100603480688b9790efa774efbbabeaffed86ef8a5&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20261006034806&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034806&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=73a99e8b9352dfc96fa29552437f19ba&ddCalcu=a7b3e9a0196f907e384b295355922daffc69
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=202610070348087463a3771bcb4eadaa3b95522773822f&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20261007034808&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034808&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8d9ffc73309c757cb19da3a6a93a9eb8&ddCalcu=88bdee909f6af03c97a363a039acd79517bc
 #EXTINF:-1 tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-id="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="https://tb.zbds.top/logo/江苏徐州云龙湖风景区云龙山观景台西.png" group-title="地方-江苏", 江苏徐州云龙湖风景区云龙山观景台西
 https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 #EXTINF:-1 tvg-name="江苏教育" tvg-id="江苏教育" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2.png" group-title="地方-江苏", 江苏教育
 http://110.40.170.5:8890/fd/live_iptv.php?id=59&token=sd6fff15fy
 #EXTINF:-1 tvg-name="江苏教育" tvg-id="江苏教育" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu7.png" group-title="地方-江苏", 江苏教育
-http://121.4.119.13:80/628008321
-#EXTINF:-1 tvg-name="江苏教育" tvg-id="江苏教育" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu7.png" group-title="地方-江苏", 江苏教育
-http://222.213.105.65:7788/628008321
+http://219.140.6.156:1234/628008321
 #EXTINF:-1 tvg-name="江苏教育" tvg-id="江苏教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/287/493/202104022139_5101012819_H32_1080.webp" group-title="地方-江苏", 江苏教育
 http://47.108.115.255:34010/628008321
 #EXTINF:-1 tvg-name="江苏教育" tvg-id="migu_628008321" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/287/493/202104022139_5101012819_H32_1080.webp" group-title="地方-江苏", 江苏教育
 http://47.119.24.76:59093/stream/proxy/migu_628008321.m3u8
-#EXTINF:-1 tvg-name="江苏教育" tvg-id="js_jsjy" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu7.png" group-title="地方-江苏", 江苏教育
-http://8.136.45.254:3000/js_jsjy/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏教育" tvg-id="江苏教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/287/493/202104022139_5101012819_H32_1080.webp" group-title="地方-江苏" svg-id="江苏教育" svg-name="江苏教育", 江苏教育
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=202610060348058d89dd92ebdf4734bc25e3970771acce&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20261006034805&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034805&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7cf1ba8c4a6de68705855398b8e1770f&ddCalcu=f70ce7f07181b0ea88bc849a365d5e865807
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=20261007034807a559b6c60ad647208d90ed0f35f86579&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20261007034807&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034807&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c124247a5efb84ec5851f05b2045bc05&ddCalcu=5c01ec20b4852044072ab55e0ffb18548e5c
 #EXTINF:-1 tvg-name="江苏新闻" tvg-id="js_jsxw" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu1.png" group-title="地方-江苏", 江苏新闻
 http://8.136.45.254:3000/js_jsxw/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png" group-title="地方-江苏", 江苏新闻广播
@@ -690,17 +668,11 @@ https://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏综艺" tvg-id="江苏综艺频道" tvg-logo="https://live.fanmingming.com/tv/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93.png" group-title="地方-江苏", 江苏综艺
 http://110.40.170.5:8890/fd/live_iptv.php?id=61&token=sd6fff15fy
 #EXTINF:-1 tvg-name="江苏综艺" tvg-id="江苏综艺频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/513/202104022039_5100186420_H32_1080.webp" group-title="地方-江苏", 江苏综艺
-http://121.4.119.13:80/626065193
-#EXTINF:-1 tvg-name="江苏综艺" tvg-id="江苏综艺频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/513/202104022039_5100186420_H32_1080.webp" group-title="地方-江苏", 江苏综艺
-http://220.176.53.157:7788/626065193
-#EXTINF:-1 tvg-name="江苏综艺" tvg-id="江苏综艺频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/513/202104022039_5100186420_H32_1080.webp" group-title="地方-江苏", 江苏综艺
 http://47.108.115.255:34010/626065193
 #EXTINF:-1 tvg-name="江苏综艺" tvg-id="migu_626065193" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/513/202104022039_5100186420_H32_1080.webp" group-title="地方-江苏", 江苏综艺
 http://47.119.24.76:59093/stream/proxy/migu_626065193.m3u8
-#EXTINF:-1 tvg-name="江苏综艺" tvg-id="js_jszy" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu3.png" group-title="地方-江苏", 江苏综艺
-http://8.136.45.254:3000/js_jszy/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏综艺" tvg-id="江苏综艺频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/513/202104022039_5100186420_H32_1080.webp" group-title="地方-江苏" svg-id="江苏综艺频道" svg-name="江苏综艺频道", 江苏综艺
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=20261006034807dd98793f8b65478198e7e7dda151b4f3&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261006034807&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034807&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ca9c0a9feaadc3bc0178366b8d528e97&ddCalcu=7c9aee908c62005ad98fbe6a6a3d8c731b0c
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=2026100703480907d8115fce3a4ef8b4f22b5f13ab79ea&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261007034809&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034809&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5e001c9cf7dc49bdbfde33f98c9948db&ddCalcu=b5dee8004069109cc98c9ff73d3ce4d9fbbd
 #EXTINF:-1 tvg-name="江苏财富天下" tvg-logo="https://epg.112114.xyz/logo/江苏财富天下.png" group-title="地方-江苏" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 江苏财富天下
 http://120.76.248.139/live/bfgd/4200000231.m3u8
 #EXTINF:-1 tvg-name="江苏财经广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E8%B4%A2%E7%BB%8F%E5%B9%BF%E6%92%AD.png" group-title="地方-江苏", 江苏财经广播
@@ -720,7 +692,7 @@ http://1.94.31.214/php/hebei.php?id=hbgg$LR•IPV4
 #EXTINF:-1 tvg-name="河北农民" tvg-id="河北农民" tvg-logo="https://live.fanmingming.cn/tv/河北农民.png" group-title="地方-河北", 河北农民
 http://1.94.31.214/php/hebei.php?id=nmpd
 #EXTINF:-1 tvg-name="河北农民" tvg-id="河北农民" tvg-logo="https://tb.zbds.top/logo/河北农民.png" group-title="地方-河北", 河北农民
-http://1.94.31.214/php/hebei.php?id=nmpd$LR•IPV4•2『线路2』
+http://1.94.31.214/php/hebei.php?id=nmpd$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="河北农民" tvg-id="河北农民" tvg-logo="https://live.fanmingming.com/tv/%E6%B2%B3%E5%8C%97%E5%86%9C%E6%B0%91.png" group-title="地方-河北", 河北农民
 http://110.40.170.5:8890/fd/live_iptv.php?id=152&token=sd6fff15fy
 #EXTINF:-1 tvg-name="河北农民" tvg-id="河北农民" tvg-logo="https://live.fanmingming.com/tv/%E6%B2%B3%E5%8C%97%E5%86%9C%E6%B0%91.png" group-title="地方-河北", 河北农民
@@ -732,7 +704,7 @@ http://ls.qingting.fm/live/1650.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-id="河北农民" tvg-logo="https://tb.zbds.top/logo/河北农民.png" group-title="地方-河北", 河北农民
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 tvg-name="河北农民" tvg-id="河北农民" tvg-logo="https://tb.zbds.top/logo/河北农民.png" group-title="地方-河北", 河北农民
-https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$LR•IPV4•2『线路1』
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="河北农民" tvg-id="河北农民" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北农民.png" group-title="地方-河北", 河北农民
 https://ls.qingting.fm/live/1650/64k.m3u8
 #EXTINF:-1 tvg-name="河北少儿" tvg-id="河北少儿" tvg-logo="https://live.fanmingming.cn/tv/河北少儿.png" group-title="地方-河北", 河北少儿
@@ -767,30 +739,22 @@ https://radio.pull.hebtv.com/live/hebnczx.m3u8
 http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4
 #EXTINF:-1 tvg-name="河南信阳鸡公山报晓峰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E4%BF%A1%E9%98%B3%E9%B8%A1%E5%85%AC%E5%B1%B1%E6%8A%A5%E6%99%93%E5%B3%B0.png" group-title="地方-河南", 河南信阳鸡公山报晓峰
 https://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
-#EXTINF:-1 tvg-name="河南公共" tvg-id="河南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南公共.png" group-title="地方-河南", 河南公共
-https://tv1288.xyz/hntv.php?id=hngg
 #EXTINF:-1 tvg-name="河南农村广播大象资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%86%9C%E6%9D%91%E5%B9%BF%E6%92%AD%E5%A4%A7%E8%B1%A1%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="地方-河南", 河南农村广播大象资讯台
 http://satellitepull.cnr.cn/live/wxhnncgb/playlist.m3u8
 #EXTINF:-1 tvg-name="河南国学" tvg-logo="https://epg.112114.xyz/logo/河南国学频道.png" group-title="地方-河南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 河南国学
 http://120.76.248.139/live/bfgd/4200000169.m3u8
 #EXTINF:-1 tvg-name="河南戏曲广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E6%88%8F%E6%9B%B2%E5%B9%BF%E6%92%AD.png" group-title="地方-河南", 河南戏曲广播
 http://satellitepull.cnr.cn/live/wxhnxqgb/playlist.m3u8
-#EXTINF:-1 tvg-name="河南新闻" tvg-id="河南新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南新闻.png" group-title="地方-河南", 河南新闻
-https://tv1288.xyz/hntv.php?id=hnxw
 #EXTINF:-1 tvg-name="河南新闻广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png" group-title="地方-河南", 河南新闻广播
 http://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="河南洛阳龙门石窟" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E6%B4%9B%E9%98%B3%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F.png" group-title="地方-河南", 河南洛阳龙门石窟
 https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
-#EXTINF:-1 tvg-name="河南电视剧" tvg-id="河南电视剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南电视剧.png" group-title="地方-河南", 河南电视剧
-https://tv1288.xyz/hntv.php?id=hndsj
 #EXTINF:-1 tvg-name="河南省团" tvg-logo="https://live.fanmingming.com/tv/%E6%B2%B3%E5%8D%97%E7%9C%81%E5%9B%A2.png" group-title="地方-河南", 河南省团
 http://110.40.170.5:8890/fd/live_iptv.php?id=6136&token=sd6fff15fy
 #EXTINF:-1 tvg-name="河南省团" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E7%9C%81%E5%9B%A2.png" group-title="地方-河南", 河南省团
 http://gcw.bdcdn.shoujiduoduo.com/v/190130/f825d70cb7e1820a4e75a050793dc241.mp4
 #EXTINF:-1 tvg-name="河南经济广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png" group-title="地方-河南", 河南经济广播
 http://satellitepull.cnr.cn/live/wxhnjjgb/playlist.m3u8
-#EXTINF:-1 tvg-name="河南都市" tvg-id="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="地方-河南", 河南都市
-https://tv1288.xyz/hntv.php?id=hnds
 #EXTINF:-1 tvg-name="河南鲁山县尧山风景区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E9%B2%81%E5%B1%B1%E5%8E%BF%E5%B0%A7%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA.png" group-title="地方-河南", 河南鲁山县尧山风景区
 https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
 #EXTINF:-1 tvg-name="浙江-乌镇全景" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F-%E4%B9%8C%E9%95%87%E5%85%A8%E6%99%AF.png" group-title="地方-浙江", 浙江-乌镇全景
@@ -829,9 +793,9 @@ http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$LR•8•IPV4『线
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png" group-title="地方-浙江", 浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&d=83b26bacf5397c013aff782b2c4287d0&k=c99bdac76cff6ddc27e750ba689b7d5b&t=1704368408
-#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" group-title="地方-浙江", 浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="地方-浙江", 浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" group-title="地方-浙江", 浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://tb.zbds.top/logo/浙江少儿.png" group-title="地方-浙江", 浙江少儿
 http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://tb.zbds.top/logo/浙江少儿.png" group-title="地方-浙江", 浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -847,8 +811,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江少儿.png" group-title="地方-浙江", 浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$LR•8•IPV4『线路2』
-#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" group-title="地方-浙江", 浙江少儿
-https://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江影视" tvg-id="浙江影视" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png" group-title="地方-浙江", 浙江影视
 http://110.40.170.5:8890/fd/live_iptv.php?id=6001&token=sd6fff15fy
 #EXTINF:-1 tvg-name="浙江影视" tvg-id="浙江影视" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png" group-title="地方-浙江", 浙江影视
@@ -859,10 +821,10 @@ http://110.40.170.5:8890/fd/live_iptv.php?id=6282&token=sd6fff15fy
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江影视" tvg-id="浙江影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png" group-title="地方-浙江", 浙江影视
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江影视台" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506234650163134_13.jpg" group-title="地方-浙江", 浙江影视台
+https://epg.pm/stream/9bad7d05959e018c75815135ce68c97be954ea2c76af7bc182e0a442e1c67da7.m3u8
 #EXTINF:-1 tvg-name="浙江影视娱乐" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90.png" group-title="地方-浙江", 浙江影视娱乐
 http://110.40.170.5:8890/fd/live_iptv.php?id=6283&token=sd6fff15fy
-#EXTINF:-1 tvg-name="浙江影视娱乐" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/06/large/20220506234650163134_13.jpg" group-title="地方-浙江", 浙江影视娱乐
-https://epg.pm/stream/80f4f9b8a9474a2bca52286d03dfbc35ea8adf0c1d1abb269dae4b18cd012ba4.m3u8
 #EXTINF:-1 tvg-name="浙江教科" tvg-id="浙江教科" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E6%95%99%E7%A7%91.png" group-title="地方-浙江", 浙江教科
 http://110.40.170.5:8890/fd/live_iptv.php?id=5979&token=sd6fff15fy
 #EXTINF:-1 tvg-name="浙江教科" tvg-id="浙江教科" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E6%95%99%E7%A7%91.png" group-title="地方-浙江", 浙江教科
@@ -883,9 +845,9 @@ http://110.40.170.5:8890/fd/live_iptv.php?id=5980&token=sd6fff15fy
 http://110.40.170.5:8890/fd/live_iptv.php?id=6285&token=sd6fff15fy
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江教科影视.png" group-title="地方-浙江", 浙江教科影视
 http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江教科影视.png" group-title="地方-浙江", 浙江教科影视
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科影视" tvg-logo="https://tv-res.pages.dev/logo/浙江教科影视.png" group-title="地方-浙江", 浙江教科影视
 http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科" tvg-logo="https://logo.ifanr.dedyn.io/tv/浙江教科影视.png" group-title="地方-浙江", 浙江教科影视
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科影视" tvg-logo="https://tv-res.pages.dev/logo/浙江教科影视.png" group-title="地方-浙江", 浙江教科影视
 http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-id="浙江教科" tvg-logo="https://tb.zbds.top/logo/浙江教科影视.png" group-title="地方-浙江", 浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -959,8 +921,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$LR•4•IPV4『线路1』
 #EXTINF:-1 tvg-name="浙江民生" tvg-id="浙江民生" tvg-logo="https://tb.zbds.top/logo/浙江民生.png" group-title="地方-浙江", 浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$LR•IPV4•3『线路2』
-#EXTINF:-1 tvg-name="浙江民生" tvg-id="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="地方-浙江", 浙江民生
-https://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="浙江民生" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2.png" group-title="地方-浙江", 浙江民生休闲
 http://110.40.170.5:8890/fd/live_iptv.php?id=5989&token=sd6fff15fy
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="浙江民生" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2.png" group-title="地方-浙江", 浙江民生休闲
@@ -973,7 +933,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="浙江民生" tvg-logo="https://logo.ifanr.dedyn.io/tv/浙江民生休闲.png" group-title="地方-浙江", 浙江民生休闲
 http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="浙江民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生休闲.png" group-title="地方-浙江", 浙江民生休闲
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="浙江民生休闲" tvg-logo="https://tv-res.pages.dev/logo/浙江民生休闲.png" group-title="地方-浙江", 浙江民生休闲
 http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="浙江民生" tvg-logo="https://tb.zbds.top/logo/浙江民生休闲.png" group-title="地方-浙江", 浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -991,6 +951,8 @@ http://110.40.170.5:8890/fd/live_iptv.php?id=6307&token=sd6fff15fy
 http://110.40.170.5:8890/fd/live_iptv.php?id=6308&token=sd6fff15fy
 #EXTINF:-1 tvg-name="浙江生活" tvg-id="浙江生活" tvg-logo="https://logo.ifanr.dedyn.io/tv/浙江生活.png" group-title="地方-浙江", 浙江生活
 http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+#EXTINF:-1 tvg-name="浙江生活" tvg-id="浙江生活" tvg-logo="https://tv-res.pages.dev/logo/浙江生活.png" group-title="地方-浙江", 浙江生活
+http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-id="浙江生活" tvg-logo="https://tb.zbds.top/logo/浙江生活.png" group-title="地方-浙江", 浙江生活
 http://ls.qingting.fm/live/1099.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-id="浙江生活" tvg-logo="https://tb.zbds.top/logo/浙江生活.png" group-title="地方-浙江", 浙江生活
@@ -1026,15 +988,13 @@ http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 #EXTINF:-1 tvg-name="浙江经济" tvg-id="1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江经济.png" group-title="地方-浙江", 浙江经济
 http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8$LR•3•IPV4『线路1』
 #EXTINF:-1 tvg-name="浙江经济" tvg-id="浙江经济" tvg-logo="https://tb.zbds.top/logo/浙江经济.png" group-title="地方-浙江", 浙江经济
-http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8$LR•IPV4•6『线路2』
+http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8$LR•IPV4•6『线路5』
 #EXTINF:-1 tvg-name="浙江经济" tvg-id="浙江经济" tvg-logo="https://tb.zbds.top/logo/浙江经济.png" group-title="地方-浙江", 浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$LR•IPV4•6『线路1』
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$LR•IPV4•6『线路4』
 #EXTINF:-1 tvg-name="浙江经济" tvg-id="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" group-title="地方-浙江", 浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江经济" tvg-id="3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江经济.png" group-title="地方-浙江", 浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?$LR•3•IPV4『线路3』
-#EXTINF:-1 tvg-name="浙江经济" tvg-id="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" group-title="地方-浙江", 浙江经济
-https://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江经济广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png" group-title="地方-浙江", 浙江经济广播
 http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="浙江经济广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png" group-title="地方-浙江", 浙江经济广播
@@ -1049,8 +1009,6 @@ http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cz
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8$LR•IPV4
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-id="浙江经济生活" tvg-logo="https://logo.ifanr.dedyn.io/tv/浙江经济生活.png" group-title="地方-浙江", 浙江经济生活
 http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江经济生活" tvg-id="浙江经济生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济生活.png" group-title="地方-浙江", 浙江经济生活
-http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-id="浙江经济生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济生活.png" group-title="地方-浙江", 浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经视" tvg-id="浙江经视" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E7%BB%8F%E8%A7%86.png" group-title="地方-浙江", 浙江经视
@@ -1079,8 +1037,6 @@ http://110.40.170.5:8890/fd/live_iptv.php?id=6315&token=sd6fff15fy
 http://110.40.170.5:8890/fd/live_iptv.php?id=6316&token=sd6fff15fy
 #EXTINF:-1 tvg-name="浙江钱江" tvg-id="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E9%92%B1%E6%B1%9F.png" group-title="地方-浙江", 浙江钱江
 http://110.40.170.5:8890/fd/live_iptv.php?id=6317&token=sd6fff15fy
-#EXTINF:-1 tvg-name="浙江钱江" tvg-id="浙江钱江" tvg-logo="https://tb.zbds.top/logo/浙江钱江.png" group-title="地方-浙江", 浙江钱江
-http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$LR•IPV4•5『线路4』
 #EXTINF:-1 tvg-name="浙江钱江" tvg-id="浙江钱江都市" tvg-logo="https://live.fanmingming.cn/tv/浙江钱江.png" group-title="地方-浙江", 浙江钱江
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=
 #EXTINF:-1 tvg-name="浙江钱江" tvg-id="浙江钱江都市" tvg-logo="https://logo.ifanr.dedyn.io/tv/浙江钱江.png" group-title="地方-浙江", 浙江钱江
@@ -1105,8 +1061,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?$LR•2•IPV4�
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?$LR•IPV4•5『线路2』
 #EXTINF:-1 tvg-name="浙江钱江" tvg-id="浙江钱江都市" tvg-logo="https://logo.ifanr.dedyn.io/tv/浙江钱江.png" group-title="地方-浙江", 浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
-#EXTINF:-1 tvg-name="浙江钱江" tvg-id="浙江钱江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江钱江.png" group-title="地方-浙江", 浙江钱江
-https://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-id="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E9%92%B1%E6%B1%9F%E9%83%BD%E5%B8%82.png" group-title="地方-浙江", 浙江钱江都市
 http://110.40.170.5:8890/fd/live_iptv.php?id=5993&token=sd6fff15fy
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-id="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E9%92%B1%E6%B1%9F%E9%83%BD%E5%B8%82.png" group-title="地方-浙江", 浙江钱江都市
@@ -1129,52 +1083,48 @@ https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
 http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 #EXTINF:-1 tvg-name="海南少儿" tvg-id="海南少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF.png" group-title="地方-海南", 海南少儿
 http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
-#EXTINF:-1 tvg-name="海南广播电视总台少儿" tvg-id="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="地方-海南", 海南广播电视总台少儿
-http://121.4.119.13:80/962067523
-#EXTINF:-1 tvg-name="海南广播电视总台少儿" tvg-id="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="地方-海南", 海南广播电视总台少儿
-http://220.176.53.157:7788/962067523
-#EXTINF:-1 tvg-name="海南广播电视总台少儿" tvg-id="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="地方-海南", 海南广播电视总台少儿
-http://47.108.115.255:34010/962067523
 #EXTINF:-1 tvg-name="海南广播电视总台少儿" tvg-id="migu_962067523" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="地方-海南", 海南广播电视总台少儿
 http://47.119.24.76:59093/stream/proxy/migu_962067523.m3u8
 #EXTINF:-1 tvg-name="海南广播电视总台少儿" tvg-id="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="地方-海南" svg-id="海南广播电视总台少儿频道" svg-name="海南广播电视总台少儿频道", 海南广播电视总台少儿
-http://gslbmgsplive.miguvideo.com/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=20261006034821e5c6b48652a1482f8fa19d6fb7d96afd&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261006034821&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034821&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=55491e97dae7440b8266ec8cd96a6f32&ddCalcu=2535ef40692a106e99d7cd8acee76464208b
-#EXTINF:-1 tvg-name="海南广播电视总台文旅" tvg-id="migu_962067526" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202605111613_1778233282865_H32_1080.webp" group-title="地方-海南", 海南广播电视总台文旅
-http://121.4.119.13:80/962067526
-#EXTINF:-1 tvg-name="海南广播电视总台文旅" tvg-id="migu_962067526" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202605111613_1778233282865_H32_1080.webp" group-title="地方-海南", 海南广播电视总台文旅
-http://220.176.53.157:7788/962067526
+http://gslbmgsplive.miguvideo.com/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=202610070348230462f4b3847742b29dedc6452fe18fc6&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261007034823&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034823&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=30ad159379a6dcaf37047ae05b4bc051&ddCalcu=1350e0a0cd2b1045b95307e9aa764d0c7a3f
+#EXTINF:-1 tvg-name="海南广播电视总台文旅" tvg-id="海南广播电视总台文旅频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202605111613_1778233282865_H32_1080.webp" group-title="地方-海南", 海南广播电视总台文旅
+http://219.140.6.156:1234/962067526
+#EXTINF:-1 tvg-name="海南广播电视总台文旅" tvg-id="海南广播电视总台文旅频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202605111613_1778233282865_H32_1080.webp" group-title="地方-海南", 海南广播电视总台文旅
+http://47.108.115.255:34010/962067526
 #EXTINF:-1 tvg-name="海南广播电视总台文旅" tvg-id="migu_962067526" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202605111613_1778233282865_H32_1080.webp" group-title="地方-海南", 海南广播电视总台文旅
 http://47.119.24.76:59093/stream/proxy/migu_962067526.m3u8
-#EXTINF:-1 tvg-name="海南广播电视总台文旅" tvg-id="migu_962067526" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202605111613_1778233282865_H32_1080.webp" group-title="地方-海南" svg-id="海南广播电视总台文旅频道" svg-name="海南广播电视总台文旅频道", 海南广播电视总台文旅
-http://gslbmgsplive.miguvideo.com/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=202610060348206aa87cb0314e4a9a88cf57001854e3c8&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261006034820&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034820&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a334e0a86cef523f2f82f006e257fa2d&ddCalcu=da23ea30f427e0502ae8660c0eff2582f32f
+#EXTINF:-1 tvg-name="海南广播电视总台文旅" tvg-id="海南广播电视总台文旅频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202605111613_1778233282865_H32_1080.webp" group-title="地方-海南" svg-id="海南广播电视总台文旅频道" svg-name="海南广播电视总台文旅频道", 海南广播电视总台文旅
+http://gslbmgsplive.miguvideo.com/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=202610070348222ae8ba2af90345f3b6684017ddbfa1c7&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20261007034822&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034822&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4d2975ef6549b0898c49b6fdfc8438a0&ddCalcu=04ade82039247085ceffd6f564b99b40c889
 #EXTINF:-1 tvg-name="海南广播电视总台新闻" tvg-id="海南广播电视总台新闻频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202605111901_1778497030792_H32_1080.webp" group-title="地方-海南", 海南广播电视总台新闻
-http://116.237.170.51:7788/962067517
-#EXTINF:-1 tvg-name="海南广播电视总台新闻" tvg-id="海南广播电视总台新闻频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202605111901_1778497030792_H32_1080.webp" group-title="地方-海南", 海南广播电视总台新闻
-http://121.4.119.13:80/962067517
-#EXTINF:-1 tvg-name="海南广播电视总台新闻" tvg-id="海南广播电视总台新闻频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202605111901_1778497030792_H32_1080.webp" group-title="地方-海南", 海南广播电视总台新闻
-http://220.176.53.157:7788/962067517
-#EXTINF:-1 tvg-name="海南广播电视总台新闻" tvg-id="海南广播电视总台新闻频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202605111901_1778497030792_H32_1080.webp" group-title="地方-海南", 海南广播电视总台新闻
-http://222.213.105.65:7788/962067517
+http://47.108.115.255:34010/962067517
 #EXTINF:-1 tvg-name="海南广播电视总台新闻" tvg-id="migu_962067517" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202605111901_1778497030792_H32_1080.webp" group-title="地方-海南", 海南广播电视总台新闻
 http://47.119.24.76:59093/stream/proxy/migu_962067517.m3u8
 #EXTINF:-1 tvg-name="海南广播电视总台新闻" tvg-id="海南广播电视总台新闻频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202605111901_1778497030792_H32_1080.webp" group-title="地方-海南" svg-id="海南广播电视总台新闻频道" svg-name="海南广播电视总台新闻频道", 海南广播电视总台新闻
-http://gslbmgsplive.miguvideo.com/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=2026100603481848b825615ca247c38c714b5909e58449&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261006034818&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034818&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7f9e37aaad23ce4d2b8029a5af82fba0&ddCalcu=07afeb90fe223087faaa5aad92230c8eb42d
+http://gslbmgsplive.miguvideo.com/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=20261007034821796ab72fb14c4fdb95fe27ae872a0d4d&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20261007034821&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034821&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=58db6d157a274339df579959a2ad2f87&ddCalcu=7588efd02b2d60ad21a5975a92977453f3d9
+#EXTINF:-1 tvg-name="海南广播电视总台社会与法" tvg-id="海南广播电视总台社会与法频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202605111613_1778233391251_H32_1080.webp" group-title="地方-海南", 海南广播电视总台社会与法
+http://113.119.39.124:1234/962045223
 #EXTINF:-1 tvg-name="海南广播电视总台社会与法" tvg-id="海南广播电视总台社会与法频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202605111613_1778233391251_H32_1080.webp" group-title="地方-海南", 海南广播电视总台社会与法
 http://121.4.119.13:80/962045223
 #EXTINF:-1 tvg-name="海南广播电视总台社会与法" tvg-id="海南广播电视总台社会与法频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202605111613_1778233391251_H32_1080.webp" group-title="地方-海南", 海南广播电视总台社会与法
-http://220.176.53.157:7788/962045223
-#EXTINF:-1 tvg-name="海南广播电视总台社会与法" tvg-id="海南广播电视总台社会与法频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202605111613_1778233391251_H32_1080.webp" group-title="地方-海南", 海南广播电视总台社会与法
-http://47.108.115.255:34010/962045223
+http://222.213.105.65:7788/962045223
 #EXTINF:-1 tvg-name="海南广播电视总台社会与法" tvg-id="migu_962045223" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202605111613_1778233391251_H32_1080.webp" group-title="地方-海南", 海南广播电视总台社会与法
 http://47.119.24.76:59093/stream/proxy/migu_962045223.m3u8
 #EXTINF:-1 tvg-name="海南广播电视总台社会与法" tvg-id="海南广播电视总台社会与法频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202605111613_1778233391251_H32_1080.webp" group-title="地方-海南" svg-id="海南广播电视总台社会与法频道" svg-name="海南广播电视总台社会与法频道", 海南广播电视总台社会与法
-http://gslbmgsplive.miguvideo.com/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=202610060348200467fc64e08b4a78bbfaece4b1f84bc0&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261006034820&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034820&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a47bfebcc725c7ce4cc73246712843c7&ddCalcu=7ac4e3704b28f02e1b7c6c4722357cc7cc4e
+http://gslbmgsplive.miguvideo.com/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=20261007034822eb7f537741d84040a9aa484b3aee8e96&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20261007034822&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034822&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cb49230de64f503965f670d9d3d01a05&ddCalcu=5c0bea40192020d330dd9ed6047f65f05369
+#EXTINF:-1 tvg-name="海南广播电视总台自贸" tvg-id="海南广播电视总台自贸频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202605111850_1778496560868_H32_1080.webp" group-title="地方-海南", 海南广播电视总台自贸
+http://113.119.39.124:1234/962045226
+#EXTINF:-1 tvg-name="海南广播电视总台自贸" tvg-id="海南广播电视总台自贸频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202605111850_1778496560868_H32_1080.webp" group-title="地方-海南", 海南广播电视总台自贸
+http://121.4.119.13:80/962045226
+#EXTINF:-1 tvg-name="海南广播电视总台自贸" tvg-id="海南广播电视总台自贸频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202605111850_1778496560868_H32_1080.webp" group-title="地方-海南", 海南广播电视总台自贸
+http://219.140.6.156:1234/962045226
+#EXTINF:-1 tvg-name="海南广播电视总台自贸" tvg-id="海南广播电视总台自贸频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202605111850_1778496560868_H32_1080.webp" group-title="地方-海南", 海南广播电视总台自贸
+http://222.213.105.65:7788/962045226
 #EXTINF:-1 tvg-name="海南广播电视总台自贸" tvg-id="海南广播电视总台自贸频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202605111850_1778496560868_H32_1080.webp" group-title="地方-海南", 海南广播电视总台自贸
 http://47.108.115.255:34010/962045226
 #EXTINF:-1 tvg-name="海南广播电视总台自贸" tvg-id="migu_962045226" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202605111850_1778496560868_H32_1080.webp" group-title="地方-海南", 海南广播电视总台自贸
 http://47.119.24.76:59093/stream/proxy/migu_962045226.m3u8
 #EXTINF:-1 tvg-name="海南广播电视总台自贸" tvg-id="海南广播电视总台自贸频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202605111850_1778496560868_H32_1080.webp" group-title="地方-海南" svg-id="海南广播电视总台自贸频道" svg-name="海南广播电视总台自贸频道", 海南广播电视总台自贸
-http://gslbmgsplive.miguvideo.com/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=2026100603481986163bb495e646c7b9e7883f4040b6f2&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261006034819&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034819&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a259272989c15f655389e8508d871ea8&ddCalcu=8aa2ee5019272087d28908598ce1958f3655
+http://gslbmgsplive.miguvideo.com/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=202610070348210da2a1ed6300404e8aaf6aa02249ee22&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20261007034821&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034821&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=651c3dc8fb16a88a548dcda7341d4c2e&ddCalcu=e625ec104c2d301d4c387fabd1c6da88485a
 #EXTINF:-1 tvg-name="海南文旅" tvg-id="海南文旅频道" tvg-logo="https://gitee.com/qttv/tv/raw/master/logo/海南文旅.png" group-title="地方-海南", 海南文旅
 http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 #EXTINF:-1 tvg-name="海南新闻" tvg-id="海南新闻" tvg-logo="https://tb.zbds.top/logo/海南新闻.png" group-title="地方-海南", 海南新闻
@@ -1237,12 +1187,8 @@ https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
 https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLGMPP360.m3u8
 #EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="地方-湖南", 湖南教育
 http://110.40.170.5:8890/fd/live_iptv.php?id=634&token=sd6fff15fy
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A%E9%AB%98%E6%B8%85.png" group-title="地方-湖南", 湖南爱晚
-http://110.40.170.5:8890/fd/live_iptv.php?id=629&token=sd6fff15fy
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-id="湖南爱晚" tvg-logo="https://epg.112114.xyz/logo/湖南爱晚.png" group-title="地方-湖南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 湖南爱晚
 https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNGGMPP360.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1%E9%AB%98%E6%B8%85.png" group-title="地方-湖南", 湖南电影
-http://110.40.170.5:8890/fd/live_iptv.php?id=628&token=sd6fff15fy
 #EXTINF:-1 tvg-name="湖南电影" tvg-id="湖南电影" tvg-logo="https://epg.112114.xyz/logo/湖南电影.png" group-title="地方-湖南" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 湖南电影
 https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7%E9%AB%98%E6%B8%85.png" group-title="地方-湖南", 湖南电视剧
@@ -1287,8 +1233,6 @@ http://play.kankanlive.com/live/1714096320293954.m3u8
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 #EXTINF:-1 tvg-name="甘肃都市" tvg-id="甘肃都市" tvg-logo="https://tb.zbds.top/logo/甘肃都市.png" group-title="地方-甘肃", 甘肃都市
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-#EXTINF:-1 tvg-name="福建公共" tvg-id="福建公共" tvg-logo="https://tb.zbds.top/logo/福建公共.png" group-title="地方-福建", 福建公共
-https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="福建公共" tvg-id="福建公共" tvg-logo="https://logo.ifanr.dedyn.io/tv/福建公共.png" group-title="地方-福建", 福建公共
 https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://live.fanmingming.com/tv/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png" group-title="地方-福建", 福建少儿
@@ -1307,8 +1251,6 @@ https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe
 https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="福建旅游" tvg-id="福建旅游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建旅游.png" group-title="地方-福建", 福建旅游
 https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="福建旅游" tvg-id="福建旅游" tvg-logo="https://tb.zbds.top/logo/福建旅游.png" group-title="地方-福建", 福建旅游
-https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="福建武夷山玉女峰" tvg-id="福建武夷山玉女峰" tvg-logo="https://tb.zbds.top/logo/福建武夷山玉女峰.png" group-title="地方-福建", 福建武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 #EXTINF:-1 tvg-name="福建武夷山玉女峰" tvg-id="福建武夷山玉女峰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E7%8E%89%E5%A5%B3%E5%B3%B0.png" group-title="地方-福建", 福建武夷山玉女峰
@@ -1325,16 +1267,36 @@ http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
 #EXTINF:-1 tvg-name="西藏都市生活广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB%E5%B9%BF%E6%92%AD.png" group-title="地方-西藏", 西藏都市生活广播
 http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8
-#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00" tvg-id="村BA球王争霸赛全国总决赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00
-http://110.40.170.5:5908/df6712266/968037671
-#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00" tvg-id="村BA球王争霸赛全国总决赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00
-http://116.237.170.51:7788/968037671
-#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00" tvg-id="村BA球王争霸赛全国总决赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00
-http://121.4.119.13:80/968037671
-#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00" tvg-id="村BA球王争霸赛全国总决赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00
-http://219.140.6.156:1234/968037671
-#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00" tvg-id="村BA球王争霸赛全国总决赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 赛场原声 18:00
-http://222.213.105.65:7788/968037671
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛全国总决赛赛全场回放（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00
+http://113.119.39.124:1234/968145922
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛全国总决赛赛全场回放（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00
+http://121.4.119.13:80/968145922
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛全国总决赛赛全场回放（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00
+http://219.140.6.156:1234/968145922
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛全国总决赛赛全场回放（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00
+http://222.213.105.65:7788/968145922
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛全国总决赛赛全场回放（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-贵州", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛全国总决赛赛全场回放(赛场原声) 18:00
+http://47.108.115.255:34010/968145922
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛冠军争夺赛回放：广西柳州鹿寨91:75新疆喀什叶城（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-广西", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00
+http://113.119.39.124:1234/968144995
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛冠军争夺赛回放：广西柳州鹿寨91:75新疆喀什叶城（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-广西", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00
+http://121.4.119.13:80/968144995
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛冠军争夺赛回放：广西柳州鹿寨91:75新疆喀什叶城（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-广西", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00
+http://219.140.6.156:1234/968144995
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛冠军争夺赛回放：广西柳州鹿寨91:75新疆喀什叶城（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-广西", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00
+http://222.213.105.65:7788/968144995
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛冠军争夺赛回放：广西柳州鹿寨91:75新疆喀什叶城（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-广西", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛冠军争夺赛回放:广西柳州鹿寨91:75新疆喀什叶城(赛场原声) 18:00
+http://47.108.115.255:34010/968144995
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛季军争夺赛回放：新疆吐鲁番高昌区91:79辽宁大连波涛（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-辽宁", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00
+http://113.119.39.124:1234/968144999
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛季军争夺赛回放：新疆吐鲁番高昌区91:79辽宁大连波涛（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-辽宁", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00
+http://121.4.119.13:80/968144999
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛季军争夺赛回放：新疆吐鲁番高昌区91:79辽宁大连波涛（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-辽宁", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00
+http://219.140.6.156:1234/968144999
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛季军争夺赛回放：新疆吐鲁番高昌区91:79辽宁大连波涛（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-辽宁", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00
+http://222.213.105.65:7788/968144999
+#EXTINF:-1 tvg-name="贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00" tvg-id="贵州“村BA”联赛村BA球王争霸赛全国总决赛2026年村BA球王争霸赛季军争夺赛回放：新疆吐鲁番高昌区91:79辽宁大连波涛（赛场原声）18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png" group-title="地方-辽宁", 贵州“村BA”联赛 村BA球王争霸赛全国总决赛 2026年村BA球王争霸赛季军争夺赛回放:新疆吐鲁番高昌区91:79辽宁大连波涛(赛场原声) 18:00
+http://47.108.115.255:34010/968144999
 #EXTINF:-1 tvg-name="贵州天元围棋" tvg-logo="https://epg.112114.xyz/logo/贵州天元围棋.png" group-title="地方-贵州" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 贵州天元围棋
 http://120.76.248.139/live/bfgd/4200000144.m3u8
 #EXTINF:-1 tvg-name="贵州摄影" tvg-logo="https://epg.112114.xyz/logo/贵州摄影频道.png" group-title="地方-贵州" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", 贵州摄影
@@ -1351,140 +1313,14 @@ http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
 #EXTINF:-1 tvg-name="贵州都市广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E9%83%BD%E5%B8%82%E5%B9%BF%E6%92%AD.png" group-title="地方-贵州", 贵州都市广播
 https://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海久事22:12宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55
-http://116.237.170.51:7788/968125748
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海久事22:12宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55
-http://121.4.119.13:80/968125748
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海久事22:12宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55
-http://219.140.6.156:1234/968125748
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海久事22:12宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55
-http://220.176.53.157:7788/968125748
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海久事22:12宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55
-http://222.213.105.65:7788/968125748
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海久事22:12宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55
-http://47.108.115.255:34010/968125748
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民18:16浙江普徕18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55
-http://116.237.170.51:7788/968125181
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民18:16浙江普徕18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55
-http://121.4.119.13:80/968125181
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民18:16浙江普徕18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55
-http://220.176.53.157:7788/968125181
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民18:16浙江普徕18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55
-http://222.213.105.65:7788/968125181
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民18:16浙江普徕18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55
-http://47.108.115.255:34010/968125181
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民19:21上海久事18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55
-http://116.237.170.51:7788/968126885
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民19:21上海久事18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55
-http://121.4.119.13:80/968126885
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民19:21上海久事18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55
-http://219.140.6.156:1234/968126885
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民19:21上海久事18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55
-http://220.176.53.157:7788/968126885
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民19:21上海久事18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55
-http://222.213.105.65:7788/968126885
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】上海横沙誉民19:21上海久事18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55
-http://47.108.115.255:34010/968126885
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】浙江普徕22:17宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55
-http://116.237.170.51:7788/968126437
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】浙江普徕22:17宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55
-http://121.4.119.13:80/968126437
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】浙江普徕22:17宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55
-http://219.140.6.156:1234/968126437
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】浙江普徕22:17宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55
-http://220.176.53.157:7788/968126437
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛【回放】浙江普徕22:17宁波海曙捷英18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55
-http://222.213.105.65:7788/968126437
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55" tvg-id="超三联赛北京密云争霸赛半决赛及决赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55
-http://110.40.170.5:5908/df6712266/968126944
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（王冠证）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55
-http://116.237.170.51:7788/968126944
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（王冠证）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55
-http://121.4.119.13:80/968126944
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（王冠证）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55
-http://219.140.6.156:1234/968126944
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（王冠证）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55
-http://220.176.53.157:7788/968126944
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（王冠证）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55
-http://222.213.105.65:7788/968126944
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（王冠证）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(王冠证) 18:55
-http://47.108.115.255:34010/968126944
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（赛场原声）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55
-http://116.237.170.51:7788/968127791
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（赛场原声）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55
-http://121.4.119.13:80/968127791
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（赛场原声）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55
-http://219.140.6.156:1234/968127791
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（赛场原声）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55
-http://220.176.53.157:7788/968127791
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55" tvg-id="超三联赛超三联赛北京密云争霸赛半决赛及决赛全场回放（赛场原声）18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放(赛场原声) 18:55
-http://47.108.115.255:34010/968127791
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海久事21:16成都和众13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55
-http://116.237.170.51:7788/968121706
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海久事21:16成都和众13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55
-http://219.140.6.156:1234/968121706
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海久事21:16成都和众13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55
-http://220.176.53.157:7788/968121706
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海久事21:16成都和众13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55
-http://222.213.105.65:7788/968121706
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海久事21:16成都和众13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55
-http://47.108.115.255:34010/968121706
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海横沙誉民18:17北京控股13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55
-http://116.237.170.51:7788/968120850
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海横沙誉民18:17北京控股13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55
-http://121.4.119.13:80/968120850
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海横沙誉民18:17北京控股13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55
-http://219.140.6.156:1234/968120850
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海横沙誉民18:17北京控股13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55
-http://220.176.53.157:7788/968120850
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海横沙誉民18:17北京控股13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55
-http://222.213.105.65:7788/968120850
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】上海横沙誉民18:17北京控股13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55
-http://47.108.115.255:34010/968120850
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】贵州贵阳丝恋14:18浙江普徕13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55
-http://116.237.170.51:7788/968121512
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】贵州贵阳丝恋14:18浙江普徕13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55
-http://121.4.119.13:80/968121512
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】贵州贵阳丝恋14:18浙江普徕13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55
-http://219.140.6.156:1234/968121512
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】贵州贵阳丝恋14:18浙江普徕13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55
-http://220.176.53.157:7788/968121512
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】贵州贵阳丝恋14:18浙江普徕13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55
-http://222.213.105.65:7788/968121512
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛【回放】贵州贵阳丝恋14:18浙江普徕13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55
-http://47.108.115.255:34010/968121512
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（李嘉伟）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55
-http://116.237.170.51:7788/968122197
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（李嘉伟）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55
-http://121.4.119.13:80/968122197
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（李嘉伟）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55
-http://219.140.6.156:1234/968122197
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（李嘉伟）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55
-http://220.176.53.157:7788/968122197
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（李嘉伟）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55
-http://222.213.105.65:7788/968122197
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（李嘉伟）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(李嘉伟) 13:55
-http://47.108.115.255:34010/968122197
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（赛场原声）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55
-http://116.237.170.51:7788/968123420
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（赛场原声）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55
-http://121.4.119.13:80/968123420
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（赛场原声）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55
-http://219.140.6.156:1234/968123420
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（赛场原声）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55
-http://220.176.53.157:7788/968123420
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（赛场原声）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55
-http://222.213.105.65:7788/968123420
-#EXTINF:-1 tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55" tvg-id="超三联赛超三联赛北京密云争霸赛四分之一决赛全场回放（赛场原声）13:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="地方-北京", 超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放(赛场原声) 13:55
-http://47.108.115.255:34010/968123420
 #EXTINF:-1 tvg-name="辽宁公共" tvg-id="辽宁公共" tvg-logo="https://live.fanmingming.com/tv/%E8%BE%BD%E5%AE%81%E5%85%AC%E5%85%B1.png" group-title="地方-辽宁", 辽宁公共
 http://110.40.170.5:8890/fd/live_iptv.php?id=5968&token=sd6fff15fy
 #EXTINF:-1 tvg-name="辽宁公共" tvg-id="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="地方-辽宁", 辽宁公共
 http://120.76.248.139/live/bfgd/4200000077.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" tvg-id="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="地方-辽宁", 辽宁公共
-http://120.76.248.139/live/bfgd/4200000077.m3u8$LR•IPV4•2『线路1』
-#EXTINF:-1 tvg-name="辽宁公共" tvg-id="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="地方-辽宁", 辽宁公共
 http://120.76.248.139/live/bfgd/4200000481.m3u8
+#EXTINF:-1 tvg-name="辽宁公共" tvg-id="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="地方-辽宁", 辽宁公共
+http://120.76.248.139/live/bfgd/4200000481.m3u8$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="辽宁公共" tvg-id="辽宁公共" tvg-logo="https://live.fanmingming.cn/tv/辽宁公共.png" group-title="地方-辽宁", 辽宁公共
 http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-id="辽宁北方频道" tvg-logo="https://live.fanmingming.cn/tv/辽宁北方.png" group-title="地方-辽宁", 辽宁北方
@@ -1513,8 +1349,6 @@ http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
 http://110.40.170.5:8890/fd/live_iptv.php?id=5970&token=sd6fff15fy
 #EXTINF:-1 tvg-name="辽宁经济" tvg-id="辽宁经济" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济.png" group-title="地方-辽宁", 辽宁经济
 http://120.76.248.139/live/bfgd/4200000076.m3u8
-#EXTINF:-1 tvg-name="辽宁经济" tvg-id="辽宁经济" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济.png" group-title="地方-辽宁", 辽宁经济
-http://120.76.248.139/live/bfgd/4200000076.m3u8$LR•IPV4•2『线路1』
 #EXTINF:-1 tvg-name="辽宁经济" tvg-id="辽宁经济" tvg-logo="https://live.fanmingming.cn/tv/辽宁经济.png" group-title="地方-辽宁", 辽宁经济
 http://120.76.248.139/live/bfgd/4200000480.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-id="辽宁经济" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/liaoning/Liaoning7.png" group-title="地方-辽宁", 辽宁经济
@@ -1570,6 +1404,10 @@ https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯频道" tvg-logo="https://live.fanmingming.com/tv/%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93.png" group-title="地方-陕西", 陕西新闻资讯
 http://110.40.170.5:8890/fd/live_iptv.php?id=77&token=sd6fff15fy
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/187/202512011439_1764571160925_H32_1080.webp" group-title="地方-陕西", 陕西新闻资讯
+http://113.119.39.124:1234/956909289
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/187/202512011439_1764571160925_H32_1080.webp" group-title="地方-陕西", 陕西新闻资讯
+http://121.4.119.13:80/956909289
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/187/202512011439_1764571160925_H32_1080.webp" group-title="地方-陕西", 陕西新闻资讯
 http://219.140.6.156:1234/956909289
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/187/202512011439_1764571160925_H32_1080.webp" group-title="地方-陕西", 陕西新闻资讯
 http://222.213.105.65:7788/956909289
@@ -1578,7 +1416,7 @@ http://47.108.115.255:34010/956909289
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="migu_956909289" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/187/202512011439_1764571160925_H32_1080.webp" group-title="地方-陕西", 陕西新闻资讯
 http://47.119.24.76:59093/stream/proxy/migu_956909289.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/187/202512011439_1764571160925_H32_1080.webp" group-title="地方-陕西" svg-id="陕西新闻资讯频道" svg-name="陕西新闻资讯频道", 陕西新闻资讯
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/50/20250804/index.m3u8?msisdn=2026100603481733d4a4bd38704540b4c66c48a1441583&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20261006034817&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034817&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6fa4c1a40ee9e2f4b8a7cbea3484aa17&ddCalcu=761feaa0a464c0814a34a0eebec97ea28fb4
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/50/20250804/index.m3u8?msisdn=20261007034819621b7234623e436fbf237c6ec2fd4627&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20261007034819&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034819&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3dc74bd755c714f52d42e69069a60d9a&ddCalcu=a39dedc0076640ab9d6705956ce72144df25
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-id="陕西新闻资讯" tvg-logo="https://logo.ifanr.dedyn.io/tv/陕西新闻资讯.png" group-title="地方-陕西", 陕西新闻资讯
 http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1 tvg-name="陕西洋县国宝朱鹮02" tvg-id="陕西洋县国宝朱鹮02" tvg-logo="https://tb.zbds.top/logo/陕西洋县国宝朱鹮02.png" group-title="地方-陕西", 陕西洋县国宝朱鹮02
@@ -1589,24 +1427,20 @@ https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
 http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1 tvg-name="陕西省戏曲研究院演出" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E7%9C%81%E6%88%8F%E6%9B%B2%E7%A0%94%E7%A9%B6%E9%99%A2%E6%BC%94%E5%87%BA.png" group-title="地方-陕西", 陕西省戏曲研究院演出
 http://gcw.bdcdn.shoujiduoduo.com/v/201030/536f534a25ebab5eb8d10ff75e31dc9c.mp4
-#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="migu_956909303" tvg-logo="https://live.fanmingming.com/tv/%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93.png" group-title="地方-陕西", 陕西秦腔
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="陕西秦腔频道" tvg-logo="https://live.fanmingming.com/tv/%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93.png" group-title="地方-陕西", 陕西秦腔
 http://110.40.170.5:8890/fd/live_iptv.php?id=76&token=sd6fff15fy
-#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="migu_956909303" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
-http://116.237.170.51:7788/956909303
-#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="migu_956909303" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="陕西秦腔频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
+http://113.119.39.124:1234/956909303
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="陕西秦腔频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
 http://121.4.119.13:80/956909303
-#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="migu_956909303" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="陕西秦腔频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
 http://219.140.6.156:1234/956909303
-#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="migu_956909303" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
-http://220.176.53.157:7788/956909303
-#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="migu_956909303" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="陕西秦腔频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
 http://222.213.105.65:7788/956909303
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-id="陕西秦腔频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
 http://47.108.115.255:34010/956909303
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-id="migu_956909303" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西", 陕西秦腔
 http://47.119.24.76:59093/stream/proxy/migu_956909303.m3u8
-#EXTINF:-1 tvg-name="陕西秦腔" tvg-id="migu_956909303" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="地方-陕西" svg-id="陕西秦腔频道" svg-name="陕西秦腔频道", 陕西秦腔
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxqqpd/50/20250804/index.m3u8?msisdn=20261006034816a14a64e468ee4806b267ba5c38ab04ed&mdspid=&spid=600572&netType=0&sid=5910022188&pid=2028597139&timestamp=20261006034816&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909303&ParentNodeID=-99&assertID=5910022188&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034816&promotionId=&mvid=5900006711&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b8db2f29df0bab9a1fdc6db411eaeb8c&ddCalcu=cb88ebd0eb6a20ef12194dbfd06bcadbf91a
 #EXTINF:-1 tvg-name="陕西秦腔——丑角戏(烘窑)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E2%80%94%E2%80%94%E4%B8%91%E8%A7%92%E6%88%8F%EF%BC%88%E7%83%98%E7%AA%91%EF%BC%89.png" group-title="地方-陕西", 陕西秦腔——丑角戏(烘窑)
 http://gcw.bdcdn.shoujiduoduo.com/v/200722/c8d90e93efef0566c219d9fc1ef7b06c.mp4
 #EXTINF:-1 tvg-name="陕西经济广播·896汽车调频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD%C2%B7896%E6%B1%BD%E8%BD%A6%E8%B0%83%E9%A2%91.png" group-title="地方-陕西", 陕西经济广播·896汽车调频
@@ -1615,44 +1449,38 @@ http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-id="陕西西部电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E8%A5%BF%E9%83%A8%E7%94%B5%E5%BD%B1.png" group-title="地方-陕西", 陕西西部电影
 http://gxlive.snrtv.com/sx8-SD.m3u8
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="migu_956909358" tvg-logo="https://live.fanmingming.com/tv/%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93.png" group-title="地方-陕西", 陕西都市青春
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春频道" tvg-logo="https://live.fanmingming.com/tv/%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93.png" group-title="地方-陕西", 陕西都市青春
 http://110.40.170.5:8890/fd/live_iptv.php?id=75&token=sd6fff15fy
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="migu_956909358" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
-http://116.237.170.51:7788/956909358
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="migu_956909358" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
+http://113.119.39.124:1234/956909358
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
 http://121.4.119.13:80/956909358
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="migu_956909358" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
 http://219.140.6.156:1234/956909358
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="migu_956909358" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
-http://220.176.53.157:7788/956909358
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="migu_956909358" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
 http://222.213.105.65:7788/956909358
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
 http://47.108.115.255:34010/956909358
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-id="migu_956909358" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西", 陕西都市青春
 http://47.119.24.76:59093/stream/proxy/migu_956909358.m3u8
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="migu_956909358" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西" svg-id="陕西都市青春频道" svg-name="陕西都市青春频道", 陕西都市青春
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/50/20250804/index.m3u8?msisdn=20261006034815e501b67b1bb84364b6713992c63688a3&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20261006034815&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034815&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=98b6f9212db173d339675ebd53afa285&ddCalcu=5988e2b0a66ff0a93251d2bdeb5177639d33
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="地方-陕西" svg-id="陕西都市青春频道" svg-name="陕西都市青春频道", 陕西都市青春
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/50/20250804/index.m3u8?msisdn=2026100703481848f050706f6449ee9d1ddd1b4d6cfe89&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20261007034818&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=2409:8a00:6030:3091:faf0:fce2:c98c:3cc7&SecurityKey=20261007034818&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e752182197de9634623572964cbfd40a&ddCalcu=ae07e450d26f10b8c24169972d7e59362364
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-id="陕西都市青春" tvg-logo="https://logo.ifanr.dedyn.io/tv/陕西都市青春.png" group-title="地方-陕西", 陕西都市青春
 http://gxlive.snrtv.com/sx2-SD.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄频道" tvg-logo="https://live.fanmingming.com/tv/%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93.png" group-title="地方-陕西", 陕西银龄
 http://110.40.170.5:8890/fd/live_iptv.php?id=74&token=sd6fff15fy
 #EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方-陕西", 陕西银龄
-http://116.237.170.51:7788/956909362
+http://113.119.39.124:1234/956909362
 #EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方-陕西", 陕西银龄
 http://121.4.119.13:80/956909362
 #EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方-陕西", 陕西银龄
 http://219.140.6.156:1234/956909362
-#EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方-陕西", 陕西银龄
-http://220.176.53.157:7788/956909362
 #EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方-陕西", 陕西银龄
 http://222.213.105.65:7788/956909362
 #EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方-陕西", 陕西银龄
 http://47.108.115.255:34010/956909362
 #EXTINF:-1 tvg-name="陕西银龄" tvg-id="migu_956909362" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方-陕西", 陕西银龄
 http://47.119.24.76:59093/stream/proxy/migu_956909362.m3u8
-#EXTINF:-1 tvg-name="陕西银龄" tvg-id="陕西银龄频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="地方-陕西" svg-id="陕西银龄频道" svg-name="陕西银龄频道", 陕西银龄
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxylpd/50/20250804/index.m3u8?msisdn=202610060348151cf2e7c074a5481b8d384c23e9ccdd51&mdspid=&spid=600572&netType=0&sid=5910022191&pid=2028597139&timestamp=20261006034815&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909362&ParentNodeID=-99&assertID=5910022191&client_ip=2409:8a00:6030:3091:c942:ee94:49f:5330&SecurityKey=20261006034815&promotionId=&mvid=5900006714&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a36ec89244ccc80302fea0dae426fc2a&ddCalcu=aa23ec60fe66c02849e2a4d40cacecf82003
 #EXTINF:-1 tvg-name="青海|西宁综合" tvg-logo="https://live.fanmingming.com/tv/%E9%9D%92%E6%B5%B7%7C%E8%A5%BF%E5%AE%81%E7%BB%BC%E5%90%88.png" group-title="地方-青海", 青海|西宁综合
 http://110.40.170.5:8890/fd/live_iptv.php?id=5971&token=sd6fff15fy
 #EXTINF:-1 tvg-name="青海新闻综合广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E5%B9%BF%E6%92%AD.png" group-title="地方-青海", 青海新闻综合广播
@@ -1671,8 +1499,6 @@ http://110.40.170.5:8890/fd/live_iptv.php?id=6183&token=sd6fff15fy
 http://gcw.bdcdn.shoujiduoduo.com/v/200919/906b70f4cd6f3ad139a2d4986cc48a78.mp4
 #EXTINF:-1 tvg-name="黑龙江公共" tvg-id="黑龙江公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-黑龙江", 黑龙江公共
 http://112.99.195.122:65000/tsfile/live/1029_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-id="黑龙江农业科教" group-title="地方-黑龙江", 黑龙江农业科教
-https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫" tvg-logo="https://live.fanmingming.com/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB.png" group-title="地方-黑龙江", 黑龙江卫
 http://110.40.170.5:8890/fd/live_iptv.php?id=222&token=sd6fff15fy
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%B0%91%E5%84%BF.png" group-title="地方-黑龙江", 黑龙江少儿
@@ -1680,19 +1506,13 @@ http://110.40.170.5:8890/fd/live_iptv.php?id=5964&token=sd6fff15fy
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-黑龙江", 黑龙江少儿
 http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://tb.zbds.top/logo/黑龙江少儿.png" group-title="地方-黑龙江", 黑龙江少儿
-https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://tb.zbds.top/logo/黑龙江少儿.png" group-title="地方-黑龙江", 黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-id="黑龙江影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-黑龙江", 黑龙江影视
 http://112.99.195.122:65000/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-id="黑龙江影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江影视.png" group-title="地方-黑龙江", 黑龙江影视
-https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-id="黑龙江文体" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="地方-黑龙江", 黑龙江文体
 http://112.99.195.122:65000/tsfile/live/1026_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-id="黑龙江文体" tvg-logo="https://tb.zbds.top/logo/黑龙江文体.png" group-title="地方-黑龙江", 黑龙江文体
 https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻" tvg-id="黑龙江新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江新闻.png" group-title="地方-黑龙江", 黑龙江新闻
-https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻" tvg-id="龙视新闻" tvg-logo="https://tb.zbds.top/logo/黑龙江新闻.png" group-title="地方-黑龙江", 黑龙江新闻
 https://ls.qingting.fm/live/4974/64k.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-id="黑龙江新闻法治" tvg-logo="https://live.fanmingming.com/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E9%97%BB%E6%B3%95%E6%B2%BB.png" group-title="地方-黑龙江", 黑龙江新闻法治
@@ -1709,3 +1529,7 @@ http://110.40.170.5:8890/fd/live_iptv.php?id=5957&token=sd6fff15fy
 http://112.99.195.122:65000/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-id="黑龙江都市" tvg-logo="https://tb.zbds.top/logo/黑龙江都市.png" group-title="地方-黑龙江", 黑龙江都市
 https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市女性广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E9%83%BD%E5%B8%82%E5%A5%B3%E6%80%A7%E5%B9%BF%E6%92%AD.png" group-title="地方-黑龙江", 黑龙江都市女性广播
+http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市女性广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E9%83%BD%E5%B8%82%E5%A5%B3%E6%80%A7%E5%B9%BF%E6%92%AD.png" group-title="地方-黑龙江", 黑龙江都市女性广播
+https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
