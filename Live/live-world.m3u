@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="JoeCreator" tvg-logo="https://i2.hdslb.com/bfs/face/25c86b61256d729eb61a397a904f8bb2a396577b.jpg" group-title="国际-其他", JoeCreator
-http://107.173.156.246:81/live/bilibili/25789342?line=first
+#EXTINF:-1 tvg-name="BBC Earth US" tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="国际-新闻", BBC Earth US
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony BBC Earth" tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="国际-新闻", Sony BBC Earth
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-name="Thrill" tvg-id="3941" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509050152790002_17.jpg" group-title="国际-其他", Thrill
-https://epg.pm/stream/ea930fcab8d9c2ea9ef7002c2b18185b1f00a7d0a792e21648c5b47f20db8117.m3u8
