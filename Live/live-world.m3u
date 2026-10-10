@@ -1,29 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="国际-新闻", BBC Earth
-http://57.128.231.171:8080/307/index.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCearth" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20Earth.webp" group-title="国际-新闻", BBC Earth
-http://myds.momo.xx.kg/stream.php?id=eadf6f2c260067329c6a2322483b590d&token=b9cbf83d134f79a6
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCearth" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="国际-新闻", BBC Earth
-https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Earth US" tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="国际-新闻", BBC Earth US
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://38.65.175.84:8000/play/a0an/index.m3u8$LR•IPV4•12『线路6』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://38.65.175.84:8000/play/a0ch/index.m3u8$LR•IPV4•12『线路10』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://45.171.64.30:6060/play/a032/index.m3u8$LR•IPV4•12『线路2』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://iptv.yang-1989.xyz/logo/Discovery.webp" group-title="国际-其他", Discovery
-http://myds.momo.xx.kg/stream.php?id=c76492435ef2c1406dc129fa47b119bd&token=b9cbf83d134f79a6
-#EXTINF:-1 tvg-name="Discovery" tvg-id="3825" tvg-logo="https://files.3y1.xyz/media/images/channel/2020/02/11/large/20200211195553446746_55.png" group-title="国际-其他", Discovery
-https://epg.pm/stream/ca148fc91e38fe91bc3d34667e999579f8142a90da74f036370c319a8f9c1a65.m3u8
-#EXTINF:-1 tvg-name="Food Network" tvg-id="FoodNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="国际-其他", Food Network
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-#EXTINF:-1 tvg-name="KIX" tvg-id="3399" tvg-logo="https://files.3y1.xyz/media/img/logo/kix_1.jpg" group-title="国际-其他", KIX
-https://epg.pm/stream/90927778fb8fbf01c47a648867ade2e578e129a51fbc1288d21c2687f5aa2c6a.m3u8
 #EXTINF:-1 tvg-name="Sony BBC Earth" tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="国际-新闻", Sony BBC Earth
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-id="3941" tvg-logo="https://files.3y1.xyz/media/images/channel/2022/05/09/large/20220509050152790002_17.jpg" group-title="国际-其他", Thrill
+https://epg.pm/stream/ea1d457f6b599862a88f7024a062c43c45e2d4472d0a0d476b2cde1b7bbbdd0d.m3u8
 #EXTINF:-1 tvg-name="Thrill" tvg-id="Thrill" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Thrill.png" group-title="国际-其他", Thrill
 https://rust.946985.filegear-sg.me/proxy/3199b157ac4b64d5?token=tgJerryfeng
