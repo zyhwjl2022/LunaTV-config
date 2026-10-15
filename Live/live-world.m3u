@@ -1,30 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BBC Earth" tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="国际-新闻", BBC Earth
-http://57.128.231.171:8080/307/index.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://168.196.127.137:6001/play/a097/index.m3u8$LR•IPV4•31『线路5』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://181.224.200.5:2277/play/a00o/index.m3u8$LR•IPV4•31『线路10』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://38.134.250.110:8000/play/a01y/index.m3u8$LR•IPV4•31『线路16』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://38.224.231.176:8000/play/a01j/index.m3u8$LR•IPV4•31『线路12』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://38.65.175.84:8000/play/a0an/index.m3u8$LR•IPV4•31『线路14』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://38.65.175.84:8000/play/a0ch/index.m3u8$LR•IPV4•31『线路22』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://45.171.64.30:6060/play/a007/index.m3u8$LR•IPV4•31『线路24』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://45.171.64.30:6060/play/a032/index.m3u8$LR•IPV4•31『线路4』
-#EXTINF:-1 tvg-name="Discovery" tvg-id="DISCOVERY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
-http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
-#EXTINF:-1 tvg-name="Food Network" tvg-id="FoodNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/500px-Food_Network_logo.svg.png" group-title="国际-其他", Food Network
-http://168.196.127.137:6001/play/a09v/index.m3u8$LR•IPV4•8『线路5』
-#EXTINF:-1 tvg-name="HBO" tvg-id="HBO" tvg-logo="https://tv-res.pages.dev/logo/HBO.png" group-title="国际-其他", HBO
-http://45.171.64.30:6060/play/a00i/index.m3u8$LR•IPV4•16『线路6』
-#EXTINF:-1 tvg-name="HBO" tvg-id="HBO" tvg-logo="https://tv-res.pages.dev/logo/HBO.png" group-title="国际-其他", HBO
-http://45.171.64.30:6060/play/a00k/index.m3u8$LR•IPV4•16『线路5』
+#EXTINF:-1 tvg-name="BBC Earth US" tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="国际-新闻", BBC Earth US
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-name="JoeCreator" tvg-logo="https://i2.hdslb.com/bfs/face/25c86b61256d729eb61a397a904f8bb2a396577b.jpg" group-title="国际-其他", JoeCreator
+http://107.173.156.246:81/live/bilibili/25789342?line=first
+#EXTINF:-1 tvg-name="NewsWorld" tvg-id="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NewsWorld.png" group-title="国际-新闻" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-name="NewsWorld" tvg-id="NewsWorld" tvg-logo="https://iptv.yang-1989.xyz/logo/NewsWorld.webp" group-title="国际-新闻", NewsWorld
+https://iptv.yang-1989.xyz/myTV/xrazae.mpd?token=15d21b5633540ce289d9c81e3d11228c676bab32650046b9
 #EXTINF:-1 tvg-name="Sony BBC Earth" tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="国际-新闻", Sony BBC Earth
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-name="Thrill" tvg-id="Thrill" tvg-logo="https://iptv.yang-1989.xyz/logo/Thrill.webp" group-title="国际-其他", Thrill
