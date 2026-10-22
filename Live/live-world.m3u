@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="HOYTV" tvg-id="HOYTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY TV.png" group-title="国际-其他", HOYTV
+https://iptv.yang-1989.xyz/hkgf/dr7xga.m3u8$LR•IPV4•5『线路2』
 #EXTINF:-1 tvg-name="HOYTV" tvg-id="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="国际-其他", HOYTV
 https://rust.946985.filegear-sg.me/proxy/1c0bd666c2018798?token=tgJerryfeng
-#EXTINF:-1 tvg-name="NewsWorld" tvg-id="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NewsWorld.png" group-title="国际-新闻" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz", NewsWorld
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-name="NewsWorld" tvg-id="NewsWorld" tvg-logo="https://iptv.yang-1989.xyz/logo/NewsWorld.webp" group-title="国际-新闻", NewsWorld
-https://iptv.yang-1989.xyz/myTV/xrazae.mpd?token=15d21b5633540ce289d9c81e3d11228c676bab32650046b9
+#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@SD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@HD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
+https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-name="Thrill" tvg-id="Thrill" tvg-logo="https://iptv.yang-1989.xyz/logo/Thrill.webp" group-title="国际-其他", Thrill
 https://iptv.yang-1989.xyz/myTV/6ggve8.mpd?token=15d21b5633540ce289d9c81e3d11228c676bab32650046b9
 #EXTINF:-1 tvg-name="Thrill" tvg-id="Thrill" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Thrill.png" group-title="国际-其他", Thrill
