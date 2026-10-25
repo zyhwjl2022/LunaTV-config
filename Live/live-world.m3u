@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NewsWorld" tvg-id="NewsWorld" tvg-logo="https://iptv.yang-1989.xyz/logo/NewsWorld.webp" group-title="国际-新闻", NewsWorld
-https://iptv.yang-1989.xyz/myTV/xrazae.mpd?token=15d21b5633540ce289d9c81e3d11228c676bab32650046b9
-#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@SD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
-https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-name="HOY TV" tvg-id="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOY%20TV.png" group-title="国际-其他", HOY TV
+http://cdn.123.rr.kg/163189/hoy
+#EXTINF:-1 tvg-name="HOY TV" tvg-id="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOY%20TV.png" group-title="国际-其他", HOY TV
+http://cdn6.123.rr.kg/163189/hoy
 #EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@HD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
-#EXTINF:-1 tvg-name="Thrill" tvg-id="Thrill" tvg-logo="https://iptv.yang-1989.xyz/logo/Thrill.webp" group-title="国际-其他", Thrill
-https://iptv.yang-1989.xyz/myTV/6ggve8.mpd?token=15d21b5633540ce289d9c81e3d11228c676bab32650046b9
