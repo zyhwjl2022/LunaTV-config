@@ -1,7 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="HOY TV" tvg-id="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOY%20TV.png" group-title="国际-其他", HOY TV
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://168.196.127.137:6001/play/a097/index.m3u8$LR•IPV4•34『线路5』
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://181.224.200.5:2277/play/a00o/index.m3u8$LR•IPV4•34『线路10』
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://181.224.200.5:2277/play/a0bj/index.m3u8$LR•IPV4•34『线路8』
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://38.134.250.110:8000/play/a003/index.m3u8$LR•IPV4•34『线路13』
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://38.134.250.110:8000/play/a01y/index.m3u8$LR•IPV4•34『线路16』
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://38.224.231.176:8000/play/a01j/index.m3u8$LR•IPV4•34『线路12』
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://45.171.64.30:6060/play/a007/index.m3u8$LR•IPV4•34『线路21』
+#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://45.171.64.30:6060/play/a032/index.m3u8$LR•IPV4•34『线路4』
+#EXTINF:-1 tvg-name="Discovery" tvg-id="DISCOVERY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-id="DISCOVERY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="国际-其他", Discovery
+http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-id="FoodNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/500px-Food_Network_logo.svg.png" group-title="国际-其他", Food Network
+http://168.196.127.137:6001/play/a09v/index.m3u8$LR•IPV4•7『线路4』
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://epg.112114.xyz/logo/FOOD_NETWORK.png" group-title="国际-其他", Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-id="HBO" tvg-logo="https://tv-res.pages.dev/logo/HBO.png" group-title="国际-其他", HBO
+http://45.171.64.30:6060/play/a00i/index.m3u8$LR•IPV4•17『线路6』
+#EXTINF:-1 tvg-name="HBO" tvg-id="HBO" tvg-logo="https://tv-res.pages.dev/logo/HBO.png" group-title="国际-其他", HBO
+http://45.171.64.30:6060/play/a00k/index.m3u8$LR•IPV4•17『线路5』
+#EXTINF:-1 tvg-name="HOYTV" tvg-id="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOY%20TV.png" group-title="国际-其他", HOYTV
 http://cdn.123.rr.kg/163189/hoy
-#EXTINF:-1 tvg-name="HOY TV" tvg-id="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOY%20TV.png" group-title="国际-其他", HOY TV
+#EXTINF:-1 tvg-name="HOYTV" tvg-id="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOY%20TV.png" group-title="国际-其他", HOYTV
 http://cdn6.123.rr.kg/163189/hoy
+#EXTINF:-1 tvg-name="HOYTV" tvg-id="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="国际-其他", HOYTV
+https://rust.946985.filegear-sg.me/proxy/1c0bd666c2018798?token=tgJerryfeng
+#EXTINF:-1 tvg-name="Pet Club TV" tvg-id="PetClubTV" tvg-logo="https://epg.112114.xyz/logo/Pet%20Club%20TV.png" group-title="国际-其他", Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@SD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@HD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
