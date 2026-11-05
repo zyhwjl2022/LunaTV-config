@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Food Network" tvg-id="FoodNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/500px-Food_Network_logo.svg.png" group-title="国际-其他", Food Network
-http://168.196.127.137:6001/play/a09v/index.m3u8$LR•IPV4•7『线路4』
-#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-#EXTINF:-1 tvg-name="HOY TV" tvg-id="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY77.png" group-title="国际-其他", HOY TV
-https://rust.946985.filegear-sg.me/proxy/beb01cf9d2670198?token=tgJerryfeng
-#EXTINF:-1 tvg-name="HOY TV" tvg-id="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY77.png" group-title="国际-其他", HOY TV
-https://rust.946985.filegear-sg.me/proxy/e3a7818bcc2a58f1?token=tgJerryfeng
-#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@SD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
-https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
-#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@HD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
-https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-name="HOY TV" tvg-id="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOY%20TV.png" group-title="国际-其他", HOY TV
+http://cdn6.123.rr.kg/163189/hoy
