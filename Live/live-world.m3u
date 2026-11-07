@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="HOY TV" tvg-id="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY77.png" group-title="国际-其他", HOY TV
-https://rust.946985.filegear-sg.me/proxy/b03ea8ae33dce136?token=tgJerryfeng
-#EXTINF:-1 tvg-name="Thrill" tvg-id="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Thrill.png" group-title="国际-其他", Thrill
-https://rust.946985.filegear-sg.me/proxy/3199b157ac4b64d5?token=tgJerryfeng
+#EXTINF:-1 tvg-name="GOOD2" tvg-id="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" group-title="国际-其他", GOOD2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-name="Lifetime" tvg-id="2802" tvg-logo="https://files.3y1.xyz/media/images/channel/2015/05/20/large/20150520014423841535_64.png" group-title="国际-其他", Lifetime
+https://epg.pm/stream/df7e7dd42c4799383ec4fb9da85ffe138192bc82ac6c1adc467e745b32f23bbb.m3u8
+#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@SD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@HD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
+https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
