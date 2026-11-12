@@ -33,25 +33,30 @@
       "api": "http://cj.lziapi.com/api.php/provide/vod",
       "detail": "http://cj.lziapi.com"
     },
-    "33e10a": {
-      "name": "桃花",
-      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
-      "detail": "https://thzy1.me"
-    },
     "27a511": {
       "name": "非凡资源",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/ikun",
       "detail": "http://cj.ffzyapi.com"
+    },
+    "513239": {
+      "name": "无尽",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "detail": "https://api.wujinapi.com"
     },
     "yyyyy": {
       "name": "yyyyy",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "detail": "https://m3u8.apiyhzy.com"
     },
-    "5ed5db": {
-      "name": "光速资源",
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
-      "detail": "https://api.guangsuapi.com"
+    "d9be98": {
+      "name": "阿里影视",
+      "api": "https://alivod.com/api.php/provide/vod/",
+      "detail": "https://alivod.com"
+    },
+    "a18c84": {
+      "name": "js",
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+      "detail": "https://jszyapi.com"
     },
     "61c0d1": {
       "name": "🦜索尼┃采集",
@@ -63,10 +68,20 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod/",
       "detail": "https://iqiyizyapi.com"
     },
+    "98cc33": {
+      "name": "电影天堂",
+      "api": "http://dyttzyw.com/api.php/provide/vod/?ac=list",
+      "detail": "http://dyttzyw.com"
+    },
     "e3ca90": {
       "name": "360资源",
       "api": "https://360zy.com/api.php/provide/vod/at/json",
       "detail": "https://360zy.com"
+    },
+    "6ff48e": {
+      "name": "zm",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xmlsea/",
+      "detail": "https://caiji.maotaizy.cc"
     },
     "87b974": {
       "name": "U酷",
@@ -108,6 +123,21 @@
       "api": "https://www.youknow.tv/api.php/provide/vod/",
       "detail": "https://www.youknow.tv"
     },
+    "8b0b74": {
+      "name": "天天影院",
+      "api": "https://www.t5dy.com/api.php/provide/vod/",
+      "detail": "https://www.t5dy.com"
+    },
+    "a102e2": {
+      "name": "奇优影院",
+      "api": "https://www.qy110.com/api.php/provide/vod/",
+      "detail": "https://www.qy110.com"
+    },
+    "1fd6bb": {
+      "name": "星辰影院2",
+      "api": "https://www.xhvod.com/api.php/provide/vod/",
+      "detail": "https://www.xhvod.com"
+    },
     "f0b8ea": {
       "name": "开心电影",
       "api": "https://www.kxdyba.com/api.php/provide/vod/",
@@ -128,10 +158,10 @@
       "api": "https://caiji.diyizy.net/api.php/provide/vod",
       "detail": "https://caiji.diyizy.net"
     },
-    "69b2ff": {
-      "name": "绿三",
-      "api": "https://www.ysxq.cc/api.php/provide/vod",
-      "detail": "https://www.ysxq.cc"
+    "505526": {
+      "name": "飘零影院2",
+      "api": "https://www.p2100.net/api.php/provide/vod/",
+      "detail": "https://www.p2100.net"
     },
     "822ab0": {
       "name": "飞快TV",
@@ -158,9 +188,9 @@
       "api": "https://ww88.taiee.xyz/api.php/provide/vod/",
       "detail": "https://ww88.taiee.xyz"
     },
-    "c06b67": {
-      "name": "16",
-      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/",
+    "77ec3e": {
+      "name": "西瓜",
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
       "detail": "https://caiji.xgzyapi.com"
     },
     "22f258": {
@@ -173,25 +203,15 @@
       "api": "https://www.97hanjuw.com/api.php/provide/vod/",
       "detail": "https://www.97hanjuw.com"
     },
-    "ea1227": {
-      "name": "b",
-      "api": "http://23.224.101.30/api.php/provide/vod/from/lzm3u8/",
-      "detail": "http://23.224.101.30"
+    "3814b2": {
+      "name": "西瓜电影",
+      "api": "https://www.lgsrdy.com/api.php/provide/vod/",
+      "detail": "https://www.lgsrdy.com"
     },
     "7afdba": {
       "name": "天天动漫",
       "api": "https://www.ttdm7.me/api.php/provide/vod/",
       "detail": "https://www.ttdm7.me"
-    },
-    "e4ad2a": {
-      "name": "无尽",
-      "api": "http://api.wujinwszy.net/api.php/provide/vod/?ac=list",
-      "detail": "http://api.wujinwszy.net"
-    },
-    "6240b8": {
-      "name": "囧次元",
-      "api": "https://www.jciyuan.com/api.php/provide/vod/",
-      "detail": "https://www.jciyuan.com"
     },
     "0b8a1c": {
       "name": "人人美剧",
@@ -208,40 +228,20 @@
       "api": "https://www.qlys.cc/api.php/provide/vod/",
       "detail": "https://www.qlys.cc"
     },
-    "3f683b": {
-      "name": "嘿嘿资源",
-      "api": "https://api.heiapi.cc/api.php/provide/vod/",
-      "detail": "https://api.heiapi.cc"
-    },
     "b4db02": {
       "name": "🌻全民视界🌻",
       "api": "http://www.cmov.cn/api.php/provide/vod/",
       "detail": "http://www.cmov.cn"
     },
-    "63618e": {
-      "name": "69",
-      "api": "https://api69zxzy.com/api.php/provide/vod/?ac=list",
-      "detail": "https://api69zxzy.com"
+    "e29d94": {
+      "name": "暮色影院",
+      "api": "https://www.msyy.top/api.php/provide/vod/",
+      "detail": "https://www.msyy.top"
     },
     "ee8c79": {
       "name": "风车动漫",
       "api": "https://www.bixud.com/api.php/provide/vod/",
       "detail": "https://www.bixud.com"
-    },
-    "07de15": {
-      "name": "远程┃搜剧",
-      "api": "http://yucecj.jiaheyy.top/api.php/provide/vod/?ac=list",
-      "detail": "http://yucecj.jiaheyy.top"
-    },
-    "76aea1": {
-      "name": "鹮乡|资源",
-      "api": "http://66pingguolongma.jiaheyy.top/api.php/provide/vod/?ac=list",
-      "detail": "http://66pingguolongma.jiaheyy.top"
-    },
-    "f32b9d": {
-      "name": "母鸡资源",
-      "api": "https://mujiziyuan.com/api.php/provide/vod/",
-      "detail": "https://mujiziyuan.com"
     },
     "55be36": {
       "name": "鹦鹉台1",
@@ -273,10 +273,10 @@
       "api": "https://www.yytvs.com/api.php/provide/vod/",
       "detail": "https://www.yytvs.com"
     },
-    "iptv": {
-      "name": "中国电信IPTV",
-      "api": "https://iptv.lchen.ac.cn:444/api.php/provide/vod/",
-      "detail": "https://iptv.lchen.ac.cn:444"
+    "c15c43": {
+      "name": "短剧大全",
+      "api": "https://www.bufufei.com/api.php/provide/vod/",
+      "detail": "https://www.bufufei.com"
     },
     "ce6475": {
       "name": "吉吉资源",
@@ -298,11 +298,6 @@
       "api": "https://imxvod.com/api.php/provide/vod/",
       "detail": "https://imxvod.com"
     },
-    "39fd2d": {
-      "name": "芒果资源",
-      "api": "https://caiji.mgzyapi.com/api.php/provide/vod/",
-      "detail": "https://caiji.mgzyapi.com"
-    },
     "d31d84": {
       "name": "厂长",
       "api": "https://api.changzhang.tv/api.php/provide/vod",
@@ -312,6 +307,11 @@
       "name": "樱花动漫云端",
       "api": "https://yh-cms.pages.dev/yh/api.php/provide/vod/",
       "detail": "https://yh-cms.pages.dev"
+    },
+    "687bcf": {
+      "name": "新芒果资源",
+      "api": "https://caiji.mgzyapi.com/api.php/provide/vod/?ac=list",
+      "detail": "https://caiji.mgzyapi.com"
     },
     "5ac1f5": {
       "name": "西瓜影院3",
