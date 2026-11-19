@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://epg.112114.xyz/logo/FOOD_NETWORK.png" group-title="国际-其他", FOOD NETWORK
-http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@SD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-name="TV Puls" tvg-id="TVPuls.pl@HD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国际-其他", TV Puls
+https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
