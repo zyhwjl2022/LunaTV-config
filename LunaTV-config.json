@@ -23,10 +23,20 @@
     }
   },
   "api_site": {
-    "dcbc1c": {
-      "name": "魔都|点播",
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
-      "detail": "https://caiji.moduapi.cc"
+    "33e10a": {
+      "name": "桃花",
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "detail": "https://thzy1.me"
+    },
+    "faa89b": {
+      "name": "牛牛|CJ",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "detail": "https://api.niuniuzy.me"
+    },
+    "513239": {
+      "name": "无尽",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "detail": "https://api.wujinapi.com"
     },
     "b51560": {
       "name": "非凡|CJ",
@@ -38,30 +48,25 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
       "detail": "https://www.hongniuzy2.com"
     },
-    "f272e1": {
-      "name": "爱奇艺",
-      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
-      "detail": "https://iqiyizyapi.com"
-    },
-    "6ff48e": {
-      "name": "zm",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xmlsea/",
-      "detail": "https://caiji.maotaizy.cc"
+    "e3ca90": {
+      "name": "360资源",
+      "api": "https://360zy.com/api.php/provide/vod/at/json",
+      "detail": "https://360zy.com"
     },
     "87b974": {
       "name": "U酷",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "detail": "https://api.ukuapi88.com"
     },
-    "5d82bf": {
-      "name": "爱蛋0",
-      "api": "https://lovedan.net/api.php/provide/vod",
-      "detail": "https://lovedan.net"
+    "49607c": {
+      "name": "7",
+      "api": "https://tyyszyapi.com/api.php/provide/vod/",
+      "detail": "https://tyyszyapi.com"
     },
-    "b21144": {
-      "name": "360",
-      "api": "https://360zyzz.com/api.php/provide/vod/",
-      "detail": "https://360zyzz.com"
+    "6bec12": {
+      "name": "艾蛋影视",
+      "api": "https://www.lovedan.net/api.php/provide/vod",
+      "detail": "https://www.lovedan.net"
     },
     "b605aa": {
       "name": "樱花资源",
@@ -72,6 +77,11 @@
       "name": "猫眼",
       "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
       "detail": "https://api.maoyanapi.top"
+    },
+    "efe4c0": {
+      "name": "百度资源",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=detail",
+      "detail": "https://api.apibdzy.com"
     },
     "379990": {
       "name": "蘑菇影视",
@@ -88,30 +98,25 @@
       "api": "https://www.kxdyba.com/api.php/provide/vod/",
       "detail": "https://www.kxdyba.com"
     },
-    "2463e3": {
-      "name": "电影先生",
-      "api": "https://silidm.com/api.php/provide/vod/",
-      "detail": "https://silidm.com"
-    },
     "d7e4dc": {
       "name": "暴风资源2",
       "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod",
       "detail": "http://bf.xoxowin86cisyap.com"
-    },
-    "217738": {
-      "name": "17",
-      "api": "https://api.wsyzy.net/api.php/provide/vod/",
-      "detail": "https://api.wsyzy.net"
     },
     "062be5": {
       "name": "自建",
       "api": "http://8.137.145.26:40030/maccms10/api.php/provide/vod/",
       "detail": "http://8.137.145.26:40030"
     },
-    "43f5e0": {
-      "name": "影视 | 天涯",
-      "api": "http://tyyszy.com/api.php/provide/vod",
-      "detail": "http://tyyszy.com"
+    "a549d9": {
+      "name": "第一资源",
+      "api": "https://caiji.diyizy.net/api.php/provide/vod",
+      "detail": "https://caiji.diyizy.net"
+    },
+    "822ab0": {
+      "name": "飞快TV",
+      "api": "https://feikuai.in/api.php/provide/vod/",
+      "detail": "https://feikuai.in"
     },
     "27fe3a": {
       "name": "金蝉",
@@ -268,10 +273,10 @@
       "api": "https://cj.rytvapi.com/api.php/provide/vod/",
       "detail": "https://cj.rytvapi.com"
     },
-    "a5ce36": {
-      "name": "樱花动漫2",
-      "api": "https://www.yinhuadm.xyz/api.php/provide/vod/",
-      "detail": "https://www.yinhuadm.xyz"
+    "60e38a": {
+      "name": "剧屋网",
+      "api": "https://www.juwu.app/api.php/provide/vod/",
+      "detail": "https://www.juwu.app"
     }
   }
 }
